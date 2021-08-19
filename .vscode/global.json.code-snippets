@@ -15,4 +15,10 @@
 	// 	],
 	// 	"description": "Log output to console"
 	// }
+	{"div": {"prefix": "cct","body": ["div#main"],"description": "div"},
+		"Align": {"prefix": "Aln","body": ["<div style>$1</div>"],"description": "description"},
+		"background color": {"prefix": "bco","body": ["<div style='background-color:$1'>$2</div>"],"description": "background color"},
+		"link1":{"prefix": "lk1", "body":["<a id='$1' href='#$2'>$3</a>"]},
+		"link2":{"prefix": "lk2", "body": ["<a href='#$1' id='$2'>$3</a>"]},"dstyle":{"prefix":"dstyle", "body": "<div style='text-align:justify'>"}, "ulli":{"prefix": "ulli", "body": "<ul><li>$1</li></ul>$2"},
+		"li":{"prefix": "li", "body":["<li>$1</li>$2"]}}
 }
