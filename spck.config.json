@@ -5,5 +5,8 @@
     "ignoreCurrent": true,
     "task": "global/<div>"
   },
-  "div": {"prefix":"div", "body":"<div style>"}
+  "div": {
+    "prefix": "div",
+    "body": "<div style>"
+  }
 }
