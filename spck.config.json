@@ -1,0 +1,8 @@
+{
+  "run": {
+    "type": "file",
+    "file": "2020-07-31bac2020-1-38terminat1_tmp.html",
+    "ignoreCurrent": true,
+    "task": "global/<div>"
+  }
+}
