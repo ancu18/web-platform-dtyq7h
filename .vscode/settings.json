@@ -27,7 +27,7 @@
    * Defaults to true.
    */
    "editor.selectOnWords": true,
-  // "editor.selectOnLineNumbers": false,
+   "editor.selectOnLineNumbers": false,
   /**
    * Control the width of line numbers, by reserving horizontal space for rendering at least an amount of digits.
    * Defaults to 5.
@@ -55,7 +55,7 @@
    * Render the editor selection with rounded borders.
    * Defaults to true.
    */
-  // "editor.roundedSelection": true,
+  "editor.roundedSelection": true,
   /**
    * Control the behavior and rendering of the minimap.
    */
@@ -131,7 +131,7 @@
    * Enable that the editor animates scrolling to a position.
    * Defaults to false.
    */
-  // "editor.smoothScrolling": false,
+  "editor.smoothScrolling": true,
   /**
    * Enable that the editor will install an interval to check if its container dom node size has changed.
    * Enabling this might have a severe performance impact.
@@ -190,28 +190,27 @@
   /**
    * Configure the editor's hover.
    */
-  // "editor.hover": {
+ "editor.hover": {
   /**
    * Enable the hover.
    * Defaults to true.
    */
-  // "enabled": true,
+ "enabled": true,
   /**
    * Delay for showing the hover.
    * Defaults to 300.
    */
-  // "delay": 300,
+ "delay": 300,
   /**
    * Is the hover sticky such that it can be clicked and its contents selected?
    * Defaults to true.
    */
-  // "sticky": true
-  // },
+ "sticky": true,
   /**
    * Enable detecting links and making them clickable.
    * Defaults to true.
    */
-  // "editor.links": true,
+"editor.links": true,
   /**
    * Enable inline color decorators and color picker rendering.
    */
@@ -225,12 +224,12 @@
    * A multiplier to be used on the `deltaX` and `deltaY` of mouse wheel scroll events.
    * Defaults to 1.
    */
-  // "editor.mouseWheelScrollSensitivity": 1,
+ "editor.mouseWheelScrollSensitivity": 1,
   /**
    * The modifier to be used to add multiple cursors with the mouse.
    * Defaults to 'alt'
    */
-  // "editor.multiCursorModifier": "alt",
+ "editor.multiCursorModifier": "alt",
   /**
    * Merge overlapping selections.
    * Defaults to true
@@ -244,7 +243,7 @@
   /**
    * Suggest options.
    */
-  //"editor.suggest": {
+   "editor.suggest": {
   /**
    * Enable graceful matching. Defaults to true.
    */
