@@ -26,7 +26,7 @@
    * Should the corresponding line be selected when clicking on the line number?
    * Defaults to true.
    */
-   "editor.selectOnWords": true,
+   "editor.wordSelectOnCursor": true,
    "editor.selectOnLineNumbers": false,
   /**
    * Control the width of line numbers, by reserving horizontal space for rendering at least an amount of digits.
