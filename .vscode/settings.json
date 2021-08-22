@@ -297,12 +297,12 @@
    * Enable format on save.
    * Defaults to true.
    */
-  // "editor.formatOnSave": true,
+  "editor.formatOnSave": true,
   /**
    * Controls if the editor should allow to move selections via drag and drop.
    * Defaults to false.
    */
-  // "editor.dragAndDrop": false,
+  "editor.dragAndDrop": true,
   /**
    * Enable the suggestion box to pop-up on trigger characters.
    * Defaults to true.
@@ -343,7 +343,7 @@
    * Enable semantic occurrences highlight.
    * Defaults to true.
    */
-  // "editor.occurrencesHighlight": true,
+  //"editor.occurrencesHighlight": true,
   /**
    * Show code lens
    * Defaults to true.
