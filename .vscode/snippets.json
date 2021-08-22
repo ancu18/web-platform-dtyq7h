@@ -15,5 +15,5 @@
   // 	],
   // 	"description": "Log output to console"
   // }
-  "lk1":{"prefix":["lk1"], "body": "<div>$1</d"}
+  "lk1":{"prefix":["lk1"], "body": "<div>$1</div>"}
 }

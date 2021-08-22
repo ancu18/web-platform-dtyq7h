@@ -219,7 +219,7 @@
    * Enable custom contextmenu.
    * Defaults to true.
    */
-  // "editor.contextmenu": true,
+  "editor.contextmenu": true,
   /**
    * A multiplier to be used on the `deltaX` and `deltaY` of mouse wheel scroll events.
    * Defaults to 1.
@@ -234,7 +234,7 @@
    * Merge overlapping selections.
    * Defaults to true
    */
-  // "editor.multiCursorMergeOverlapping": true,
+  "editor.multiCursorMergeOverlapping": false,
   /**
    * Configure the editor's accessibility support.
    * Defaults to 'auto'. It is best to leave this to 'auto'.
@@ -243,7 +243,7 @@
   /**
    * Suggest options.
    */
-  // "editor.suggest": {
+  //"editor.suggest": {
   /**
    * Enable graceful matching. Defaults to true.
    */
@@ -251,48 +251,48 @@
   /**
    * Prevent quick suggestions when a snippet is active. Defaults to true.
    */
-  // "snippetsPreventQuickSuggestions": true
+  "snippetsPreventQuickSuggestions": true,
   // },
   /**
    * Enable quick suggestions (shadow suggestions)
    * Defaults to true.
    */
-  // "editor.quickSuggestions": true,
+  "editor.quickSuggestions": true,
   /**
    * Quick suggestions show delay (in ms)
    * Defaults to 500 (ms)
    */
-  // "editor.quickSuggestionsDelay": 10,
+  "editor.quickSuggestionsDelay": 10,
   /**
    * Parameter hint options.
    */
-  // "editor.parameterHints": true,
+  "editor.parameterHints": true,
   /**
    * Render icons in suggestions box.
    * Defaults to true.
    */
-  // "editor.iconsInSuggestions": true,
+  "editor.iconsInSuggestions": true,
   /**
    * Options for auto closing brackets.
    * Defaults to language defined behavior.
    */
-  // "editor.autoClosingBrackets": true,
+  "editor.autoClosingBrackets": true,
   /**
    * Controls whether the editor should automatically adjust the indentation
    * when users type, paste, move or indent lines.
    * Defaults to advanced.
    */
-  // "editor.autoIndent": "full",
+  "editor.autoIndent": "full",
   /**
    * Enable format on type.
    * Defaults to false.
    */
-  // "editor.formatOnType": false,
+  "editor.formatOnType": false,
   /**
    * Enable format on paste.
    * Defaults to false.
    */
-  // "editor.formatOnPaste": false,
+  "editor.formatOnPaste": false,
   /**
    * Enable format on save.
    * Defaults to true.
@@ -312,16 +312,16 @@
    * Accept suggestions on ENTER.
    * Defaults to 'on'.
    */
-  // "editor.acceptSuggestionOnEnter": "on",
+  "editor.acceptSuggestionOnEnter": "on",
   /**
    * Accept suggestions on provider defined characters.
    * Defaults to true.
    */
-  // "editor.acceptSuggestionOnCommitCharacter": true,
+  "editor.acceptSuggestionOnCommitCharacter": true,
   /**
    * Enable snippet suggestions. Default to 'true'.
    */
-  // "editor.snippetSuggestions": "top",
+  "editor.snippetSuggestions": "top",
   /**
    * Copying without a selection copies the current line.
    */
@@ -329,7 +329,7 @@
   /**
    * Enable word based suggestions. Defaults to 'true'
    */
-  // "editor.wordBasedSuggestions": false,
+  "editor.wordBasedSuggestions": false,
   /**
    * The history mode for suggestions.
    */
@@ -338,7 +338,7 @@
    * Enable selection highlight.
    * Defaults to true.
    */
-  // "editor.selectionHighlight": true,
+  "editor.selectionHighlight": true,
   /**
    * Enable semantic occurrences highlight.
    * Defaults to true.
@@ -348,7 +348,7 @@
    * Show code lens
    * Defaults to true.
    */
-  // "editor.codeLens": true,
+  "editor.codeLens": true,
   /**
    * Control the behavior and rendering of the code action lightbulb.
    */
@@ -359,63 +359,63 @@
    * Enable code folding
    * Defaults to true.
    */
-  // "editor.folding": true,
+  "editor.folding": true,
   /**
    * Selects the folding strategy. 'auto' uses the strategies contributed for the current document, 'indentation' uses the indentation based folding strategy.
    * Defaults to 'auto'.
    */
-  // "editor.foldingStrategy": "auto",
+  "editor.foldingStrategy": "auto",
   /**
    * Controls whether the fold actions in the gutter stay always visible or hide unless the mouse is over the gutter.
    * Defaults to 'mouseover'.
    */
-  // "editor.showFoldingControls": "mouseover",
+  "editor.showFoldingControls": "mouseover",
   /**
    * Enable highlighting of matching brackets.
    * Defaults to true.
    */
-  // "editor.matchBrackets": true,
+  "editor.matchBrackets": true,
   /**
    * Enable rendering of whitespace.
    * Defaults to none.
    */
-  // "editor.renderWhitespace": "none",
+  "editor.renderWhitespace": "none",
   /**
    * Enable rendering of control characters.
    * Defaults to false.
    */
-  // "editor.renderControlCharacters": false,
+  "editor.renderControlCharacters": false,
   /**
    * Enable rendering of indent guides.
    * Defaults to true.
    */
-  // "editor.renderIndentGuides": true,
+  "editor.renderIndentGuides": true,
   /**
    * Enable highlighting of the active indent guide.
    * Defaults to true.
    */
-  // "editor.highlightActiveIndentGuide": true,
+  "editor.highlightActiveIndentGuide": true,
   /**
    * Enable rendering of current line highlight.
    * Defaults to all.
    */
-  // "editor.renderLineHighlight": "all",
+  "editor.renderLineHighlight": "all",
   /**
    * Inserting and deleting whitespace follows tab stops.
    */
-  // "editor.useTabStops": true,
+  "editor.useTabStops": true,
   /**
    * The font family
    */
-  // "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
   /**
    * The font weight
    */
-  // "editor.fontWeight": "normal",
+  "editor.fontWeight": "normal",
   /**
    * The font size
    */
-  // "editor.fontSize": 12,
+  "editor.fontSize": 12,
   /**
    * The line height
    */
@@ -423,9 +423,9 @@
   /**
    * The letter spacing
    */
-  // "editor.letterSpacing": 0,
+  "editor.letterSpacing": 0,
   /**
    * Controls fading out of unused variables.
    */
-  // "editor.showUnused": true
+  //"editor.showUnused": true
 }
