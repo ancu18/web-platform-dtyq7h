@@ -1,1 +1,1 @@
-{"key": "Ctrl+Alt+ArrowRight", "command": "editor.action.copyLinesDownAction"}
+{"key": "Ctrl+Alt+[ArrowRight]", "command": "editor.action.copyLinesDownAction"}
