@@ -15,5 +15,5 @@
   // 	],
   // 	"description": "Log output to console"
   // }
-  "lk1":{"prefix":["lk1"], "body": "<div>$1</div>"}
+  "lk1":{"prefix":["lk1"], "body": "<a id='bac$1' href='#$2'>$3</a>$4"}, "lk2":{"prefix": "lk2", "body": "<a href='#bac$1' id='$2'>$3</a>$4"}
 }
