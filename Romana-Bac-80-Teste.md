@@ -1,11 +1,234 @@
-﻿
-**Limba și literatura română**
+﻿<style type="text/css">
+  <!-- @page { margin-top: 0.30cm; margin-bottom: 0.30cm; margin-left: 0.20cm; margin-right: 0.20cm; } 
+  -->
+</style>
+<style>div.b {padding-left:2em; 
+  text-indent: -2em; 
+}</style> 
+<style>
+  h1 {
+    text-align: center;
+  }
 
-GHID COMPLET PENTRU BACALAUREAT
 
-MIMI GRAMNEA
+  h2 {
+    text-align: center;
+  }
+  
+  h3 {
+    text-align: center;
+    font-weight: bold;
+  } 
+  h4 {
+    text-align: center;
+  }
+  pre,
+  code {
+    white-space: pre-wrap;
+    background-color: lightblue;
+    text-align:justify;
+  }
 
-DORICA BOLTAȘU NICOLAE
+  pre.border {
+    border-radius: 25px;
+    background-color: lightblue;
+  }
+
+  code {
+    border-radius: 25px
+  }
+
+  ul {
+    list-style-type: none;
+  }
+
+  ul>li:before {
+    content: "–";
+    /* en dash */
+    position: absolute;
+    margin-left: -1.1em;
+  }
+</style>
+<style>
+  .bf_toc_container {
+    border: 5px solid green; 
+    page-break-after:always;
+    padding: 5px;
+    font-size: 12px;
+    overflow: hidden;
+    border-radius: 25px;
+    margin-bottom: 20px;
+    color: red; 
+  }
+  .bf_toc_container_1 {
+    border: 5px solid green; 
+    page-break-after:always;
+    padding: 5px;
+    font-size: 12px;
+    overflow: hidden;
+    border-radius: 25px;
+    margin-bottom: 20px;
+    color: red; 
+  }
+  .bf_toc_container a {
+    text-decoration: none;
+  }
+
+  .bf_toc_container a:hover {
+    opacity: 0.9;
+  }
+  
+  .bf_toc_container ol {
+    counter-reset: item ;
+  }
+
+  .bf_toc_container ol>li {
+    counter-increment: item}
+
+  .bf_toc_container ol ol>li {
+    display: block;
+  }
+  
+  .bf_toc_container ol ol>li:before {
+    content: counters(item, ".") ".";
+    margin-left: -20px;
+  }
+
+  .bf_toc_container ul>li:before {
+    content: "\26AC";
+    /* circle */
+    color: green;
+    position: absolute;
+    margin-left: -1.1em;
+  }
+  
+  .bf_toc_container_1 a {
+    text-decoration: none;
+  }
+
+  .bf_toc_container_1 a:hover {
+    opacity: 0.9;
+  }
+  
+  .bf_toc_container_1 ol{
+    list-style-type: none;
+    counter-reset: sitem 6;
+  }
+  .bf_toc_container_1 ol>li {
+    counter-reset: item 2;
+    counter-increment: sitem;
+  }
+
+  .bf_toc_container_1 ol ol>li {
+    display: block;
+  }
+  
+  .bf_toc_container_1 ol ol>li:before {
+    content: counter(item) "." counter(sitem, decimal) ". ";
+    margin-left: -20px;
+  }
+  .bf_toc_container_1 ul>li:before {
+    content: "\26AC";
+    /* circle */
+    color: green;
+    position: absolute;
+    margin-left: -1.1em;
+  }
+  .bf_toc_container_2 {
+    border: 5px solid green; 
+    page-break-after:always;
+    padding: 5px;
+    font-size: 12px;
+    overflow: hidden;
+    border-radius: 25px;
+    margin-bottom: 20px;
+    color: red; 
+  }
+  .bf_toc_container_2 a {
+    text-decoration: none;
+  }
+
+  .bf_toc_container_2 a:hover {
+    opacity: 0.9;
+  }
+  
+  .bf_toc_container_2 ol{
+    list-style-type: none;
+    counter-reset: sitem 14;
+  }
+  .bf_toc_container_2 ol>li {
+    counter-reset: item 2;
+    counter-increment: sitem;
+  }
+
+  .bf_toc_container_2 ol ol>li {
+    display: block;
+  }
+  
+  .bf_toc_container_2 ol ol>li:before {
+    content: counter(item) "." counter(sitem, decimal) ". ";
+    margin-left: -20px;
+  }
+  .bf_toc_container_2 ul>li:before {
+    content: "\26AC";
+    /* circle */
+    color: green;
+    position: absolute;
+    margin-left: -1.1em;
+  }
+  .bf_toc_container .bf_toc_title{
+    font-weight: bold;
+    font-size:18pt;
+  }
+  .bf_toc_container_3 {
+    border: 5px solid green; 
+    page-break-after:always;
+    padding: 5px;
+    font-size: 12px;
+    overflow: hidden;
+    border-radius: 25px;
+    margin-bottom: 20px;
+    color: red; 
+  }
+  .bf_toc_container_3 a {
+    text-decoration: none;
+  }
+  .bf_toc_container_3 a:hover {
+    opacity: 0.9;
+  }
+  .bf_toc_container_3 ul>li:before {
+    content: "\26AC";
+    /* circle */
+    color: green;
+    position: absolute;
+    margin-left: -1.1em;
+  }
+  .bf_toc_container_3 ol{
+   counter-reset:item;
+  }
+  .bf_toc_container_3 ol>li {
+    display: block;
+  }
+  .bf_toc_container_3 ol>li:before {
+    content: counters(item, ". ") ". ";
+    counter-increment:item; 
+    margin-left: -20px;
+  }
+</style>
+<div class="bf_toc_container">
+  <div class="bf_toc_title">
+    <center>Cuprins</center>
+  </div>
+  <nav>
+    <ol><li><a id='bac1' href='#limba_si_literatura_romana'>Limba și literatura română</a><ul><li><a id='bac2' href='#ghid_complet_pentru_bacalaureat'>GHID COMPLET PENTRU BACALAUREAT</a><ol><li><a href='#bac3' id='curente_literare_romanesti_in_context_european'>CURENTE LITERARE ROMÂNEȘTI ÎN CONTEXT EUROPEAN</a><ol><li><a href='#bac4' id='umanismul_european'>UMANISMUL EUROPEAN</a></li></ol></nav></div>
+
+<a href='#bac1' id='limba_si_literatura_romana'><h1 id='limba_si_literatura_romana'>Limba și literatura română</h1></a>
+
+<a href='#bac2' id='ghid_complet_pentru_bacalaureat'><h2 id='ghid_complet_pentru_bacalaureat'>GHID COMPLET PENTRU BACALAUREAT</h2></a>
+
+<center>MIMI GRAMNEA
+
+DORICA BOLTAȘU NICOLAE</center>
 
 *EBACalaureat*
 
@@ -15,7 +238,7 @@ Limba si literatura română
 
 \- ghid complet pentru Bacalaureat -
 
-` `**Booklet**
+**Booklet**
 
 **București, 2019**
 
@@ -52,44 +275,6 @@ Tehnoredactor: Carmen Dumitrescu
 **©Editura Booklet** 2019
 
 Toate drepturile asupra lucrării aparțin editurii
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CUPRINS
 
 NOȚIUNI TEORETICE
 
@@ -970,7 +1155,7 @@ TESTUL 15	36
 |TESTUL 40|37|
 
 
-` `TOC \o "1-5" \h \z **TESTUL 1** Sil lirică simbolistă; SUI Ideologia promovată de *Dacia literară* 	38
+**TESTUL 1** Sil lirică simbolistă; SUI Ideologia promovată de *Dacia literară* 	38
 
 **TESTUL 2** Sil text liric; SUI Caracterizarea unui personaj dintr-un basm studiat (Harap-Alb)	**40**
 
@@ -1130,7 +1315,7 @@ TESTUL 15	36
 
 **Testele pot fi lucrate atât de elevii de la profilul real, cât și de cei de la profilul umanist, excepție făcând subiectul al lll-lea al testelor notate cu asterisc, care se adresează exclusiv elevilor de la profilul umanist.**
 
-` `TOC \o "1-5" \h \z **RĂSPUNSURI**	198
+**RĂSPUNSURI**	198
 
 **TESTUL 1** Sil	lirică simbolistă; SUI Ideologia promovată de *Dacia literară* 	198
 
@@ -1208,21 +1393,23 @@ TESTUL 15	36
 
 **TESTUL 40** Sil text epic; SUI Prezentarea unei arte poetice moderniste *(Joc secund,* de Ion Barbu)	282
 
-**CURENTE LITERARE ROMÂNEȘTI ÎN CONTEXT EUROPEAN**
+<a href='#bac3' id='curente_literare_romanesti_in_context_european'><h3 id='curente_literare_romanesti_in_context_european'>CURENTE LITERARE ROMÂNEȘTI ÎN CONTEXT EUROPEAN</h3></a>
 
-**UMANISMUL EUROPEAN**
+<a href='#bac4' id='umanismul_european'><h4 id='umanismul_european'>UMANISMUL EUROPEAN</h4></a>
 
-|Etapa culturală denumită umanism este strâns legată de întreaga mișcare a Renașterii europene.|
-| :- |
+|Etapa culturală denumită umanism este strâns legată de întreaga mișcare a Renașterii europene.||
+|---------------------------------------------------------------------------------------------------------------|---------------------------------------|
 |**Caracteristici**|**Reprezentanți**|
-|<p>- pune în centrul preocupărilor omul și valorile sale;</p><p>- datorată dezvoltării burgheziei și orașelor, această nouă concepție se desprinde de cenzura puternică a bisericii, iar cărturarul nu mai este, ca în Evul Mediu, doar clericul, ci laicul;</p><p>- crede în libertatea, perfectibilitatea și demnitatea omului, capabil de a descoperi adevărurile despre sine și despre lume;</p><p>- accentul cade pe rațiune;</p><p>- idealul umanist este *Uomo Universale,* personalitatea creatoare capabilă să se afirme în mai multe domenii, să fie simultan savant, muzician, poet, matematician, pictor (una dintre aceste personalități fiind Leonardo da Vinci).</p>|<p>**Italia:** Dante Alighieri, Francesco Petrarca, Giovanni Boccaccio, Ludovico Ariosto, Michelangelo Buonarroti, Niccolo Machiavelli; **Franța:** Frangois Rabelais, Michel de Montaigne, Pierre de Ronsard;</p><p>**Anglia:** Francis Bacon, Thomas Morus, William Shakespeare;</p><p>**Țările de Jos:** Erasmus din Rotterdam;</p><p>**Spania:** Miguel de Cervantes, Luis de Gongora y Argote, Lope de Vega, Pedro Calderon de la Barca; **La noi:** Nicolaus Olahus, Nicolae Milescu Spătarul, Grigore Ureche, Miron Costin, Ion Neculce, Dimitrie Cantemir.</p>|
+|<p>- pune în centrul preocupărilor omul și valorile sale;</p><p>- datorată dezvoltării burgheziei și orașelor, această nouă concepție se desprinde de cenzura puternică a bisericii, iar cărturarul nu mai este, ca în Evul Mediu, doar clericul, ci laicul;</p><p>- crede în libertatea, perfectibilitatea și demnitatea omului, capabil de a descoperi adevărurile despre sine și despre lume;</p><p>- accentul cade pe rațiune;</p><p>- idealul umanist este *Uomo Universale,* personalitatea creatoare capabilă să se afirme în mai multe domenii, să fie simultan savant, muzician, poet, matematician, pictor (una dintre aceste personalități fiind Leonardo da Vinci).</p>||
+||<p>**Italia:** Dante Alighieri, Francesco Petrarca, Giovanni Boccaccio, Ludovico Ariosto, Michelangelo Buonarroti, Niccolo Machiavelli; **Franța:** Frangois Rabelais, Michel de Montaigne, Pierre de Ronsard;</p><p>**Anglia:** Francis Bacon, Thomas Morus, William Shakespeare;</p><p>**Țările de Jos:** Erasmus din Rotterdam;</p><p>**Spania:** Miguel de Cervantes, Luis de Gongora y Argote, Lope de Vega, Pedro Calderon de la Barca; **La noi:** Nicolaus Olahus, Nicolae Milescu Spătarul, Grigore Ureche, Miron Costin, Ion Neculce, Dimitrie Cantemir.</p>|
 
 **ILUMINISMUL**
 
 |Iluminismul este un curent ideologic și cultural care se manifestă în secolul al XVIII-lea, prefigurat de *Declarația drepturilor omului și cetățeanului* (1789); prin iluminism se prelungesc ideile renascentiste, cu accent pe importanța rațiunii în cunoaștere și pe emanciparea oamenilor prin cultură.|
 | - |
-|**Caracteristici**|**Reprezentanți**|
-|<p>- are un pronunțat caracter laic și anticlerical;</p><p>- accentul cade pe valorile rațiunii;</p><p>- militează pentru eliberarea spiritului de orice prejudecată;</p><p>- pledează pentru iluminarea maselor populare, pentru emanciparea poporului prin cultură;</p><p>- acordă interes libertăților spirituale și naționale;</p><p>- are caracter antifeudal și antidespotic;</p><p>- apelează adesea la ironie, satiră;</p><p>- condamnă orice formă de violență, fiind acceptată doar dezbaterea de idei.</p>|<p>**Franța:** Denis Diderot, Jean le Rond D’Alembert, Jean-Jacques Rousseau, Voltaire, Montesquieu;</p><p>**Anglia:** Jonathan Swift, Daniel Defoe;</p><p>**Germania:** G. E. Lessing, Johann</p><p>Wolfgang Goethe, Immanuel Kant;</p><p>**La noi:** Samuil Micu, Petru Maior, Dinicu Golescu, loan Budai-Deleanu, Gheorghe Șincai.</p>|
+|**Caracteristici** |  **Reprezentanți**|
+|<p>- are un pronunțat caracter laic și anticlerical;</p><p>- accentul cade pe valorile rațiunii;</p><p>- militează pentru eliberarea spiritului de orice prejudecată;</p><p>- pledează pentru iluminarea maselor populare, pentru emanciparea poporului prin cultură;</p><p>- acordă interes libertăților spirituale și naționale;</p><p>- are caracter antifeudal și antidespotic;</p><p>- apelează adesea la ironie, satiră;</p><p>- condamnă orice formă de violență, fiind acceptată doar dezbaterea de idei.</p>|
+|<p>**Franța:** Denis Diderot, Jean le Rond D’Alembert, Jean-Jacques Rousseau, Voltaire, Montesquieu;</p><p>**Anglia:** Jonathan Swift, Daniel Defoe;</p><p>**Germania:** G. E. Lessing, Johann</p><p>Wolfgang Goethe, Immanuel Kant;</p><p>**La noi:** Samuil Micu, Petru Maior, Dinicu Golescu, loan Budai-Deleanu, Gheorghe Șincai.</p>|
 
 
 
@@ -1272,7 +1459,7 @@ La noi, romantismul s-a manifestat și în perioada pașoptistă, sub forma unui
 **REALISMUL**
 
 |A fost un curent literar și artistic care a început să se manifeste spre sfârșitul primei jumătăți a secolului al XlX-lea, ca o reacție împotriva romantismului.|
-| :- |
+| :- | - |
 |**Caracteristici**|**Reprezentanți**|
 |<p>- reconstruiește la nivel ficțional o lume în toată complexitatea ei, înfățișează un tablou cât mai cuprinzător al vieții sociale, cu toate clasele sale;</p><p>- este o literatură bazată pe *mimesis,* adică pe reprezentarea verosimilă a realității;</p><p>- teme specifice: goana după înavuțire, căsătoria, familia;</p><p>- personajele sunt oameni obișnuiți, aparținând tuturor mediilor sociale;</p><p>- personajele sunt reprezentative pentru o tipologie morală (avarul, arivistul, fata bătrână, tânărul în formare etc.), dar mai cu seamă pentru o categorie socială (țărănimea, burghezia);</p><p>- în caracterizarea acestor personaje se folosește tehnica detaliului, a amănuntului semnificativ;</p><p>- se remarcă interesul pentru psihologia personajelor (se întrebuințează analiza psihologică);</p><p>- apare principiul obiectivități! (autorul realist are pretenția de a înfățișa realitatea așa cum este, fără s-o idealizeze, dar și fără s-o caricaturizeze);</p><p>- naratorul este neimplicat, impersonal, omniscient și omniprezent, adesea obiectiv.</p>|<p>**Franța:** Stendhal, Honore de Balzac, Gustave Flaubert, Guy de Maupassant</p><p>**Rusia:** N. V. Gogol, 1. S. Turgheniev,</p><p>L. N. Tolstoi, F. M. Dostoievski, A. P. Cehov **Anglia:** Charles Dickens, W. M. Thackeray</p>|
 Realismul românesc
