@@ -43,11 +43,13 @@
   }
 
   ul>li:before {
-    content: "–";
+    content: "\26AC";
     /* en dash */
     position: absolute;
     margin-left: -1.1em;
   }
+  th, tr {text-align:center}
+  td {text-align:justify}
 </style>
 <style>
   .bf_toc_container {
@@ -1397,21 +1399,11 @@ TESTUL 15	36
 
 <a href='#bac4' id='umanismul_european'><h4 id='umanismul_european'>UMANISMUL EUROPEAN</h4></a>
 
-|Etapa culturală denumită umanism este strâns legată de întreaga mișcare a Renașterii europene.||
-|---------------------------------------------------------------------------------------------------------------|---------------------------------------|
-|**Caracteristici**|**Reprezentanți**|
-|<p>- pune în centrul preocupărilor omul și valorile sale;</p><p>- datorată dezvoltării burgheziei și orașelor, această nouă concepție se desprinde de cenzura puternică a bisericii, iar cărturarul nu mai este, ca în Evul Mediu, doar clericul, ci laicul;</p><p>- crede în libertatea, perfectibilitatea și demnitatea omului, capabil de a descoperi adevărurile despre sine și despre lume;</p><p>- accentul cade pe rațiune;</p><p>- idealul umanist este *Uomo Universale,* personalitatea creatoare capabilă să se afirme în mai multe domenii, să fie simultan savant, muzician, poet, matematician, pictor (una dintre aceste personalități fiind Leonardo da Vinci).</p>||
-||<p>**Italia:** Dante Alighieri, Francesco Petrarca, Giovanni Boccaccio, Ludovico Ariosto, Michelangelo Buonarroti, Niccolo Machiavelli; **Franța:** Frangois Rabelais, Michel de Montaigne, Pierre de Ronsard;</p><p>**Anglia:** Francis Bacon, Thomas Morus, William Shakespeare;</p><p>**Țările de Jos:** Erasmus din Rotterdam;</p><p>**Spania:** Miguel de Cervantes, Luis de Gongora y Argote, Lope de Vega, Pedro Calderon de la Barca; **La noi:** Nicolaus Olahus, Nicolae Milescu Spătarul, Grigore Ureche, Miron Costin, Ion Neculce, Dimitrie Cantemir.</p>|
+<table style='width:100%'><tr><td colspan='2'; style='width:50%'>Etapa culturală denumită umanism este strâns legată de întreaga mișcare a Renașterii europene.</td></tr><tr><th>Caracteristici</th><th>Reprezentanți</th></tr><tr><td><ul><li>pune în centrul preocupărilor omul și valorile sale;</li><li>datorată dezvoltării burgheziei și orașelor, această nouă concepție se desprinde de cenzura puternică a bisericii, iar cărturarul nu mai este, ca în Evul Mediu, doar clericul, ci laicul;</li><li>crede în libertatea, perfectibilitatea și demnitatea omului, capabil de a descoperi adevărurile despre sine și despre lume;</li><li> accentul cade pe rațiune;</li><li> idealul umanist este <i>Uomo Universale,</i> personalitatea creatoare capabilă să se afirme în mai multe domenii, să fie simultan savant, muzician, poet, matematician, pictor (una dintre aceste personalități fiind Leonardo da Vinci).</li></ul></td><td style='width:50%'><p><b>Italia:</b> Dante Alighieri, Francesco Petrarca, Giovanni Boccaccio, Ludovico Ariosto, Michelangelo Buonarroti, Niccolo Machiavelli;</p><p><b>Franța:</b> Frangois Rabelais, Michel de Montaigne, Pierre de Ronsard;</p><p><b>Anglia:</b> Francis Bacon, Thomas Morus, William Shakespeare;</p><p><b>Țările de Jos:</b> Erasmus din Rotterdam;</p><p><b>Spania:</b> Miguel de Cervantes, Luis de Gongora y Argote, Lope de Vega, Pedro Calderon de la Barca;</p><p><b>La noi:</b> Nicolaus Olahus, Nicolae Milescu Spătarul, Grigore Ureche, Miron Costin, Ion Neculce, Dimitrie Cantemir.</p></td></tr></table>
 
-**ILUMINISMUL**
+<h4 id='iluminismul'><b>ILUMINISMUL</b></h4><br>
 
-|Iluminismul este un curent ideologic și cultural care se manifestă în secolul al XVIII-lea, prefigurat de *Declarația drepturilor omului și cetățeanului* (1789); prin iluminism se prelungesc ideile renascentiste, cu accent pe importanța rațiunii în cunoaștere și pe emanciparea oamenilor prin cultură.|
-| - |
-|**Caracteristici** |  **Reprezentanți**|
-|<p>- are un pronunțat caracter laic și anticlerical;</p><p>- accentul cade pe valorile rațiunii;</p><p>- militează pentru eliberarea spiritului de orice prejudecată;</p><p>- pledează pentru iluminarea maselor populare, pentru emanciparea poporului prin cultură;</p><p>- acordă interes libertăților spirituale și naționale;</p><p>- are caracter antifeudal și antidespotic;</p><p>- apelează adesea la ironie, satiră;</p><p>- condamnă orice formă de violență, fiind acceptată doar dezbaterea de idei.</p>|
-|<p>**Franța:** Denis Diderot, Jean le Rond D’Alembert, Jean-Jacques Rousseau, Voltaire, Montesquieu;</p><p>**Anglia:** Jonathan Swift, Daniel Defoe;</p><p>**Germania:** G. E. Lessing, Johann</p><p>Wolfgang Goethe, Immanuel Kant;</p><p>**La noi:** Samuil Micu, Petru Maior, Dinicu Golescu, loan Budai-Deleanu, Gheorghe Șincai.</p>|
-
-
+<table><tr><td colspan='2'>Iluminismul este un curent ideologic și cultural care se manifestă în secolul al XVIII-lea, prefigurat de <i>Declarația drepturilor omului și cetățeanului</i> (1789); prin iluminism se prelungesc ideile renascentiste, cu accent pe importanța rațiunii în cunoaștere și pe emanciparea oamenilor prin cultură.</td></tr><tr><th>Caracteristici</th><th>Reprezentanți</th></tr><tr><td><ul><li>are un pronunțat caracter laic și anticlerical;</li><li> accentul cade pe valorile rațiunii;</li><p>- militează pentru eliberarea spiritului de orice prejudecată;</p><p>- pledează pentru iluminarea maselor populare, pentru emanciparea poporului prin cultură;</p><p>- acordă interes libertăților spirituale și naționale;</p><p>- are caracter antifeudal și antidespotic;</p><p>- apelează adesea la ironie, satiră;</p><p>- condamnă orice formă de violență, fiind acceptată doar dezbaterea de idei.</p></td><td><p>**Franța:** Denis Diderot, Jean le Rond D’Alembert, Jean-Jacques Rousseau, Voltaire, Montesquieu;</p><p>**Anglia:** Jonathan Swift, Daniel Defoe;</p><p>**Germania:** G. E. Lessing, Johann</p><p>Wolfgang Goethe, Immanuel Kant;</p><p>**La noi:** Samuil Micu, Petru Maior, Dinicu Golescu, loan Budai-Deleanu, Gheorghe Șincai.</p></td></tr></table>
 
 Romantismul european
 
