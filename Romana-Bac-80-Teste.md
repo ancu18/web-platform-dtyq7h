@@ -2,9 +2,7 @@
   <!-- @page { margin-top: 0.30cm; margin-bottom: 0.30cm; margin-left: 0.20cm; margin-right: 0.20cm; } 
   -->
 </style>
-<style>div.b, span.b{padding-left:2em; 
-  text-indent: -2em; 
-}</style> 
+<style>div.b {padding-left:2em;} div.a{text-indent:-2em; padding-left:2em;}</style> 
 <style>
   h1 {
     text-align: center;
@@ -1466,53 +1464,29 @@ TESTUL 15	36
 <li>Adverbe și locuțiuni adverbiale: grozav de, minunat de, din cale afară de, nespus de;</li>
 &emsp;&emsp;- <i>„Era un vis misterios/ și blând din cale-afară/ și prea era de tot frumos/ De-a trebuit să piară.”</i>
 <div style='text-align:right'>(M. Eminescu);</div>
-<li>Mijloace fonetice: lungirea unei vocale, repetarea unor sunete: <i>frumoooos!</i></li></ul></td></tr><tr><th>Pronumele</th></tr><tr><td>Valoarea expresivă a pronumelui rezidă în manifestarea accentuată a interesului vorbitorilor față de o anumită situație sau stare:
+<li>Mijloace fonetice: lungirea unei vocale, repetarea unor sunete: <i>frumoooos!</i></li></ul></td></tr><tr><th>Pronumele</th></tr><tr><td>Valoarea expresivă a pronumelui rezidă în manifestarea accentuată a interesului vorbitorilor față de o anumită situație sau stare:<ul><li>dativul etic (frecvent în literatura populară):</li>&emsp;&emsp;<i>„Cine mi-au văzut/și mi-au cunoscut”</i> (Miorița);
+<li>dativul posesiv:</li>
+&emsp;&emsp;<i>„Inima-mi tresărea când îl vedeam.”;</i>
+<li>întrebuințarea cu valoare neutră:</li>
 
-- dativul etic (frecvent în literatura populară):
+&emsp;&emsp;<i>„Dă-i cu bere, dă-i cu vin!”</i> sau general: <i>„Ce ție nu-ți place, altuia nu-i face!”;</i>
+<li>folosirea unor locuțiuni pronominale cu intenție parodică sau ironică:</li>
+&emsp;&emsp;<i>„S-ar putea să fie Cine-știe-Cine.../ care n-a mai fost și care vine/și se uită prin întuneric la mine/ și-mi vede cugetele toate.”</i>(T. Arghezi);
+<li>utilizat la plural, pronumele semnifică implicarea vorbitorului într-o anumită comunitate, exprimând solidaritatea, condiția umană în general, apartenența la un grup anume etc.</li>
+&emsp;&emsp;&emsp;&emsp;În operele lirice, pronumele de persoana I este esențial în construirea discursului, reprezentând instanța denumită „eu liric”. Pot fi considerate mărci implicite ale eului liric și formele verbale și pronominale de persoana a II-a.</ul></td></tr><tr><th>Verbul</th></tr><tr><td>Este considerat centrul enunțului, așadar importanța lui în structurarea și dinamica discursului este fundamentală. Cu cât frecvența verbelor este mai mare, cu atât ritmul textului este mai alert, impresia de succesiune rapidă crește, precum în fragmentul de mai jos, o parabolă a relativității competiției:</td></tr>
 
-*„Cine mi-au văzut/și mi-au cunoscut”* (Miorița);
+<div class='b'><i>Mă ajunge săgeata, mă străpunge,<br>
+Aleargă mai departe,<br>
+Fug după ea, o prind,<br>
+Alerg un timp cu ea în mână,<br>
+Îi dau drumul, o întrec,<br>
+Mă ajunge din urmă,<br>
+Mă străpunge...<br>
+Și iar o arunc...<br>
+Sunt arcul și totodată ținta.</i><br></div>
+<div style='text-align:right'>(Marin Sorescu, <i>Calul alb fără splină</i>)</div>
 
-- dativul posesiv:
-
-*„Inima-mi tresărea când îl vedeam.”;*
-
-- întrebuințarea cu valoare neutră:
-
-*„Dă-i cu bere, dă-i cu vin!” sau* general: *„Ce ție nu-ți place, altuia nu-i face!”;*
-
-- folosirea unor locuțiuni pronominale cu intenție parodică sau ironică:
-
-*„S-ar putea să fie Cine-știe-Cine.../ care n-a mai fost și care vine/și se uită prin întuneric la mine/ și-mi vede cugetele toate.”*(T. Arghezi);
-
-- utilizat la plural, pronumele semnifică implicarea vorbitorului într-o anumită comunitate, exprimând solidaritatea, condiția umană în general, apartenența la un grup anume etc.
-
-în operele lirice, pronumele de persoana I este esențial în construirea discursului, reprezentând instanța denumită „eu liric”. Pot fi considerate mărci implicite ale eului liric și formele verbale și pronominale de persoana a ll-a.
-
-**Verbul**
-
-Este considerat centrul enunțului, așadar importanța lui în structurarea și dinamica discursului este fundamentală. Cu cât frecvența verbelor este mai mare, cu atât ritmul textului este mai alert, impresia de succesiune rapidă crește, precum în fragmentul de mai jos, o parabolă a relativității competiției:
-
-*Mă ajunge săgeata, mă străpunge,*
-
-*Aleargă mai departe,*
-
-*Fug după ea, o prind,*
-
-*Alerg un timp cu ea în mână,*
-
-*îi dau drumul, o întrec,*
-
-*Mă ajunge din urmă,*
-
-*Mă străpunge...*
-
-*Și iar o arunc...*
-
-*Sunt arcul și totodată ținta.*
-
-(Marin Sorescu, *Calul alb fără splină)*
-
-în funcție de conținutul semantic, verbele și locuțiunile verbale se pot grupa în mai multe categorii:
+În funcție de conținutul semantic, verbele și locuțiunile verbale se pot grupa în mai multe categorii:
 
 - verbe și locuțiuni verbale *incoative* (> fr. *inchoatif,* care exprimă începutul unei acțiuni): a începe, a debuta, a se înfirirpa, a răsări, a ieși la iveală etc.:
 
