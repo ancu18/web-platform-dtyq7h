@@ -1422,15 +1422,11 @@ TESTUL 15	36
 
 <table><tr><td>În cultura română, viziunea realistă se regăsește:</td></tr><tr><td><ul><li>la prozatorii secolului al XlX-lea - Ioan Slavici (romanul „Mara”, nuvela realist-psihologică „Moara cu noroc”), I.L. Caragiale (nuvelele, schițele, dar și comediile)</li><li>în prima jumătate a secolului al XX-lea (Liviu Rebreanu - realismul de inspirație rurală în „lon”și „Răscoala”, realismul psihologic în „Pădurea spânzuraților”, G. Călinescu - realismul balzacian, de inspirație citadină - „Enigma Otiliei”) și în a doua jumătate, în perioada postbelică (Marin Preda - „Moromeții”)</li></ul></td></tr></table>
 
-**SIMBOLISMUL**
+<a href='#bac11' id='simbolismul'><h4 id='simbolismul'>SIMBOLISMUL</h4></a>
 
-A luat naștere în Franța, în a doua jumătate a secolului al XlX-lea, ca reacție împotriva naturalismului și a cultului exagerat pentru formă al parnasianismului. Odată cu simbolismul începe, în plan european, poezia modernă.
+<table><tr><td>A luat naștere în Franța, în a doua jumătate a secolului al XlX-lea, ca reacție împotriva naturalismului și a cultului exagerat pentru formă al parnasianismului. Odată cu simbolismul începe, în plan european, poezia modernă.</td></tr><tr><th>Caracteristici</th></tr><tr><td><ul><li>preferința pentru simboluri</li>
 
-**Caracteristici** 	
-
-- preferința pentru simboluri
-
-*Atenție! Nu simbolismul descoperă virtuțile expresive ele simbolului. Acesta este o modalitate de cunoaștere și de expresie a poeților dintotdeauna. Romanticii, de exemplu, sunt, la rândul lor, mari iubitori de simboluri.*
+<i>Atenție! Nu simbolismul descoperă virtuțile expresive ele simbolului. Acesta este o modalitate de cunoaștere și de expresie a poeților dintotdeauna. Romanticii, de exemplu, sunt, la rândul lor, mari iubitori de simboluri.</i>
 
 - corespondențele: acestea sunt, de fapt, o exprimare a unor echivalențe care se stabilesc între stări interioare (trăiri, senzații, sentimente) și anumite elemente exterioare, din natură, din realitatea înconjurătoare;
 - simboliștii au cultivat programatic un gen de corespondențe între tipuri diferite de senzații numite sinestezii: unui anumit sunet îi corespunde un parfum sau o culoare, iar asocierea aceasta se face spontan în conștiința poetului;
