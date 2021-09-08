@@ -1453,67 +1453,20 @@ TESTUL 15	36
 &emsp;&emsp;&emsp;&emsp;Expresivitatea poate fi spontană, în limbajul colocvial, sau deliberată, în limbajul artistic. între aceste două paliere ale limbii există transferuri, de regulă dinspre cel familiar spre cel beletristic. De exemplu, în lirica lui Nichita Stănescu sunt fructificate valorile expresive ale unor termeni din argou, limbajul popular și cel familiar. (<i>Zicea că i-am vrăjit nasol,/că fac mișto la parastase</i>).
 
 <table><tr><th>VALORI EXPRESIVE</th></tr><tr><th>Substantivul</th></tr><tr><td>&emsp;&emsp;&emsp;&emsp;Intră frecvent în alcătuirea unor figuri de stil ca:<ul><li>metafora</li>
-&emsp;&emsp;<i>„Luna, o cloșcă rotundă și grasă”</i> (Mihai Eminescu)<li>personificarea</li>&emsp;&emsp;<i>„Cu grele răsuflete apele dorm”</i> (O. Goga)
-
-- comparația:
-
-*„Mi-e limba aspră ca de cenușă”* (T. Arghezi)
-
-- epitetul:
-
-*„veniți să-l lovim cu săgeată de* foc/...”(Șt. A. Doinaș)
-
-- simbolul:
-
-*„Dormea întors amorul meu de plumb”* (G. Bacovia);
-
-- enumerația:
-
-*„... căci eu iubesc/și flori și ochi și buze și morminte”* (Lucian Blaga);
-
-- repetiția:
-
-*„în juru-mi ceața crește rânduri-rânduri”* (M. Eminescu);
-
-- hiperbola:
-
-*„Și vodă-i un* munte” (G.Coșbuc);
-
-- mijloace fonetice:
-
-*„dar lăsați-o baltă, copii:/ erau steluțe în genele ei./ CORUL: Erau steluțe, erau steluțe, erau stelu-u-uțe/ în ge...eeneee...leeeee... nele eeeeeeeeei!”* (Mircea Cărtărescu).
-
-**Adjectivul**
-
-Folosit cu sens figurat, adjectivul are, de obicei, valoarea stilistică de *epitet* al substantivului: *„Ce noapte groasă, ce noapte grea!”* (T. Arghezi).
-
-Uneori, un adjectiv poate fi simultan epitet al substantivului și al verbului: *„... biruitoare, apa se așază între maluri, potolită, netedă, ca o oglindă.”* (Al. Vlahuță)
-
-întrucât substantivul denumește obiecte, ființe, lucruri, fenomene ale naturii, iar adjectivul, însușiri ale acestora (forme, dimensiuni, calități), acestea sunt mijloace foarte importante în reprezentarea artistică a realității prin cuvinte. De aceea, ele sunt folosite cu precădere în descrieri, portrete, tablouri. Frecvența acestora, într-un text literar, are rolul de a crea imagini artistice, cu precădere vizuale, adesea statice. Valoarea afectivă a adjectivului apare și în realizarea sa la gradele de comparație, mai ales la superlativ.
-
-- Construcțiile exclamative:
-
-*„Nu îi fie de deochi,/ Ce frumoasă-i fără ochi!”* (T. Arghezi);
-
-- Folosirea unor substantive cu valoare superlativă:
-
-*„supărată foc”;*
-
-- Repetiția adjectivului:
-- *„se făcea că era într-o grădină frumoasă, frumoasă...”*
-
-*(Țugulea, fiul unchiașului și al mătușii);*
-
-- Adverbe și locuțiuni adverbiale: grozav de, minunat de, din cale afară de, nespus de;
-- *„Era un vis misterios/și blând din cale-afară/și prea era de tot frumos/De-a trebuit să piară.”*
-
-(M. Eminescu);
-
-- Mijloace fonetice: lungirea unei vocale, repetarea unor sunete: *frumoooos\*
-
-**Pronumele**
-
-Valoarea expresivă a pronumelui rezidă în manifestarea accentuată a interesului vorbitorilor față de o anumită situație sau stare:
+&emsp;&emsp;<i>„Luna, o cloșcă rotundă și grasă”</i> (Mihai Eminescu)<li>personificarea</li>&emsp;&emsp;<i>„Cu grele răsuflete apele dorm”</i> (O. Goga)<li>comparația:</li>&emsp;&emsp;<i>„Mi-e limba aspră ca de cenușă”</i> (T. Arghezi)<li>epitetul:</li>&emsp;&emsp;<i>„veniți să-l lovim cu săgeată de foc!...”</i>(Șt. A. Doinaș)<li>simbolul:</li>&emsp;&emsp;<i>„Dormea întors amorul meu de plumb”</i> (G. Bacovia);<li>enumerația:</li>&emsp;&emsp;<i>„... căci eu iubesc/și flori și ochi și buze și morminte”</i> (Lucian Blaga);<li>repetiția:</li>&emsp;&emsp;<i>„în juru-mi ceața crește rânduri-rânduri”</i> (M. Eminescu);<li>hiperbola:</li>&emsp;&emsp;<i>„Și vodă-i un* munte”</i> (G.Coșbuc);
+<li>mijloace fonetice:</li>&emsp;&emsp;<i>„dar lăsați-o baltă, copii:/ erau steluțe în genele ei./ CORUL: Erau steluțe, erau steluțe, erau stelu-u-uțe/ în ge...eeneee...leeeee... nele eeeeeeeeei!”</i> (Mircea Cărtărescu).</ul></td></tr><tr><th>Adjectivul</th></tr><tr><td>&emsp;&emsp;&emsp;&emsp;Folosit cu sens figurat, adjectivul are, de obicei, valoarea stilistică de <i>epitet</i> al substantivului: <i>„Ce noapte groasă, ce noapte grea!”</i> (T. Arghezi).
+&emsp;&emsp;&emsp;&emsp;Uneori, un adjectiv poate fi simultan epitet al substantivului și al verbului: <i>„... biruitoare, apa se așază între maluri, potolită, netedă, ca o oglindă.”</i>(Al. Vlahuță)<br>
+&emsp;&emsp;&emsp;&emsp;Întrucât substantivul denumește obiecte, ființe, lucruri, fenomene ale naturii, iar adjectivul, însușiri ale acestora (forme, dimensiuni, calități), acestea sunt mijloace foarte importante în reprezentarea artistică a realității prin cuvinte. De aceea, ele sunt folosite cu precădere în descrieri, portrete, tablouri. Frecvența acestora, într-un text literar, are rolul de a crea imagini artistice, cu precădere vizuale, adesea statice. Valoarea afectivă a adjectivului apare și în realizarea sa la gradele de comparație, mai ales la superlativ.
+<ul><li>Construcțiile exclamative:</li>
+&emsp;&emsp;<i>„Nu îi fie de deochi,/ Ce frumoasă-i fără ochi!”</i> (T. Arghezi);<li>Folosirea unor substantive cu valoare superlativă:</li>
+&emsp;&emsp;<i>„supărată foc”;</i>
+<li>Repetiția adjectivului:</li>
+&emsp;&emsp;- <i>„se făcea că era într-o grădină frumoasă, frumoasă...”</i>
+<div style='text-align:right'><i>(Țugulea, fiul unchiașului și al mătușii);</i></div>
+<li>Adverbe și locuțiuni adverbiale: grozav de, minunat de, din cale afară de, nespus de;</li>
+&emsp;&emsp;- <i>„Era un vis misterios/ și blând din cale-afară/ și prea era de tot frumos/ De-a trebuit să piară.”</i>
+<div style='text-align:right'>(M. Eminescu);</div>
+<li>Mijloace fonetice: lungirea unei vocale, repetarea unor sunete: <i>frumoooos!</i></li></ul></td></tr><tr><th>Pronumele</th></tr><tr><td>Valoarea expresivă a pronumelui rezidă în manifestarea accentuată a interesului vorbitorilor față de o anumită situație sau stare:
 
 - dativul etic (frecvent în literatura populară):
 
