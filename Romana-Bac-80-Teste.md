@@ -1417,154 +1417,43 @@ TESTUL 15	36
 
 <a href='#bac9' id='realismul'><h4 id='realismul'><b>REALISMUL</b></h4></a>
 
-<table><tr><td colspan='2'>A fost un curent literar și artistic care a început să se manifeste spre sfârșitul primei jumătăți a secolului al XlX-lea, ca o reacție împotriva romantismului.</td></tr><tr><th>Caracteristici</th><th>Reprezentanți</th></tr><tr><td><ul><li>reconstruiește la nivel ficțional o lume în toată complexitatea ei, înfățișează un tablou cât mai cuprinzător al vieții sociale, cu toate clasele sale;</li><li>este o literatură bazată pe <i>mimesis</i>, adică pe reprezentarea verosimilă a realității;</li><li>teme specifice: goana după înavuțire, căsătoria, familia;</li><li>personajele sunt oameni obișnuiți, aparținând tuturor mediilor sociale;</li><li>personajele sunt reprezentative pentru o tipologie morală (avarul, arivistul, fata bătrână, tânărul în formare etc.), dar mai cu seamă pentru o categorie socială (țărănimea, burghezia);</li><li>- în caracterizarea acestor personaje se folosește tehnica detaliului, a amănuntului semnificativ;</li><li>- se remarcă interesul pentru psihologia personajelor (se întrebuințează analiza psihologică);</li><li>apare principiul obiectivității! (autorul realist are pretenția de a înfățișa realitatea așa cum este, fără s-o idealizeze, dar și fără s-o caricaturizeze);</li><li>naratorul este neimplicat, impersonal, omniscient și omniprezent, adesea obiectiv.</li></td><td><b>Franța:</b> Stendhal, Honore de Balzac, Gustave Flaubert, Guy de Maupassant</p><p><b>Rusia:</b> N. V. Gogol, 1. S. Turgheniev,</p><p>L. N. Tolstoi, F. M. Dostoievski, A. P. Cehov <b>Anglia:</b>Charles Dickens, W. M. Thackeray</p></td></tr></table>
-<a href='#bac10' id='realismul_romanesc'><h4 id='realismul_romanesc'><b>Realismul românesc</b></h4></a>
+<table><tr><td colspan='2'>A fost un curent literar și artistic care a început să se manifeste spre sfârșitul primei jumătăți a secolului al XlX-lea, ca o reacție împotriva romantismului.</td></tr><tr><th>Caracteristici</th><th>Reprezentanți</th></tr><tr><td><ul><li>reconstruiește la nivel ficțional o lume în toată complexitatea ei, înfățișează un tablou cât mai cuprinzător al vieții sociale, cu toate clasele sale;</li><li>este o literatură bazată pe <i>mimesis</i>, adică pe reprezentarea verosimilă a realității;</li><li>teme specifice: goana după înavuțire, căsătoria, familia;</li><li>personajele sunt oameni obișnuiți, aparținând tuturor mediilor sociale;</li><li>personajele sunt reprezentative pentru o tipologie morală (avarul, arivistul, fata bătrână, tânărul în formare etc.), dar mai cu seamă pentru o categorie socială (țărănimea, burghezia);</li><li>- în caracterizarea acestor personaje se folosește tehnica detaliului, a amănuntului semnificativ;</li><li>- se remarcă interesul pentru psihologia personajelor (se întrebuințează analiza psihologică);</li><li>apare principiul obiectivității! (autorul realist are pretenția de a înfățișa realitatea așa cum este, fără s-o idealizeze, dar și fără s-o caricaturizeze);</li><li>naratorul este neimplicat, impersonal, omniscient și omniprezent, adesea obiectiv.</li></td><td><b>Franța:</b> Stendhal, Honore de Balzac, Gustave Flaubert, Guy de Maupassant</p><p><b>Rusia:</b> N. V. Gogol, 1. S. Turgheniev,</p><p>L. N. Tolstoi, F. M. Dostoievski, A. P. Cehov <b>Anglia:</b>Charles Dickens, W. M. Thackeray</p></td></tr><tr><td colspan='2'><h4 id='realismul_romanesc'><b>REALISMUL ROMÂNESC</b></h4></td></tr>
+<tr><td colspan='2'>În cultura română, viziunea realistă se regăsește:<ul><li>la prozatorii secolului al XlX-lea - Ioan Slavici (romanul „Mara”, nuvela realist-psihologică „Moara cu noroc”), I.L. Caragiale (nuvelele, schițele, dar și comediile)</li><li>în prima jumătate a secolului al XX-lea (Liviu Rebreanu - realismul de inspirație rurală în „lon”și „Răscoala”, realismul psihologic în „Pădurea spânzuraților”, G. Călinescu - realismul balzacian, de inspirație citadină - „Enigma Otiliei”) și în a doua jumătate, în perioada postbelică (Marin Preda - „Moromeții”)</li></ul></td></tr></table>
 
-<table><tr><td>În cultura română, viziunea realistă se regăsește:</td></tr><tr><td><ul><li>la prozatorii secolului al XlX-lea - Ioan Slavici (romanul „Mara”, nuvela realist-psihologică „Moara cu noroc”), I.L. Caragiale (nuvelele, schițele, dar și comediile)</li><li>în prima jumătate a secolului al XX-lea (Liviu Rebreanu - realismul de inspirație rurală în „lon”și „Răscoala”, realismul psihologic în „Pădurea spânzuraților”, G. Călinescu - realismul balzacian, de inspirație citadină - „Enigma Otiliei”) și în a doua jumătate, în perioada postbelică (Marin Preda - „Moromeții”)</li></ul></td></tr></table>
-
-<a href='#bac11' id='simbolismul'><h4 id='simbolismul'>SIMBOLISMUL</h4></a>
+<a href='#bac10' id='simbolismul'><h4 id='simbolismul'><b>SIMBOLISMUL</b></h4></a>
 
 <table><tr><td>A luat naștere în Franța, în a doua jumătate a secolului al XlX-lea, ca reacție împotriva naturalismului și a cultului exagerat pentru formă al parnasianismului. Odată cu simbolismul începe, în plan european, poezia modernă.</td></tr><tr><th>Caracteristici</th></tr><tr><td><ul><li>preferința pentru simboluri</li>
+&emsp;&emsp;&emsp;&emsp;<i>Atenție! Nu simbolismul descoperă virtuțile expresive ele simbolului. Acesta este o modalitate de cunoaștere și de expresie a poeților dintotdeauna. Romanticii, de exemplu, sunt, la rândul lor, mari iubitori de simboluri.</i><li>corespondențele: acestea sunt, de fapt, o exprimare a unor echivalențe care se stabilesc între stări interioare (trăiri, senzații, sentimente) și anumite elemente exterioare, din natură, din realitatea înconjurătoare;</li><li>simboliștii au cultivat programatic un gen de corespondențe între tipuri diferite de senzații numite sinestezii: unui anumit sunet îi corespunde un parfum sau o culoare, iar asocierea aceasta se face spontan în conștiința poetului;</li><li>pentru simboliști, poezia este o artă a sugestiei. A numi un lucru, spuneau acești primi poeți moderni, înseamnă a-i răpi misterul: „a-l sugera, iată visul!” (Stephane Mallarme). De aceea, folosesc asociații insolite, suprimă unul dintre termeni când folosesc comparația, preferă exprimările eliptice, incantațiile etc.</li><li>muzicalitatea versurilor;</li><li>simbolismul creează poezie în vers liber, renunțând la rigorile versificației;</li><li>temele favorite ale poeziei simboliste: nevrozele, descompunerea universului, decadența, disoluția materiei, bolile, parfumul, florile legate întotdeauna de mister și moarte, muzica viorilor și a clavecinului, obsesia morții, stările de angoasă, depresia, spleen-ul (stare nemotivată de melancolie, manifestată prin plictiseală și dezgust față de orice), disoluția sentimentelor, orașul neurastenizant și noroios, culorile cenușii, terne.</li></td></tr><th>Reprezentanți</th></tr><tr><td><b>Franța:</b>
 
-<i>Atenție! Nu simbolismul descoperă virtuțile expresive ele simbolului. Acesta este o modalitate de cunoaștere și de expresie a poeților dintotdeauna. Romanticii, de exemplu, sunt, la rândul lor, mari iubitori de simboluri.</i>
+• Paul Verlaine • Arthur Rimbaud • Stephane Mallarme • Jean Moreas
 
-- corespondențele: acestea sunt, de fapt, o exprimare a unor echivalențe care se stabilesc între stări interioare (trăiri, senzații, sentimente) și anumite elemente exterioare, din natură, din realitatea înconjurătoare;
-- simboliștii au cultivat programatic un gen de corespondențe între tipuri diferite de senzații numite sinestezii: unui anumit sunet îi corespunde un parfum sau o culoare, iar asocierea aceasta se face spontan în conștiința poetului;
-- pentru simboliști, poezia este o artă a sugestiei. A numi un lucru, spuneau acești primi poeți moderni, înseamnă a-i răpi misterul: „a-l sugera, iată visul!” (Stephane Mallarme). De aceea, folosesc asociații insolite, suprimă unul dintre termeni când folosesc comparația, preferă exprimările eliptice, incantațiile etc.
-- muzicalitatea versurilor;
-- simbolismul creează poezie în vers liber, renunțând la rigorile versificației;
-- temele favorite ale poeziei simboliste: nevrozele, descompunerea universului, decadența, disoluția materiei, bolile, parfumul, florile legate întotdeauna de mister și moarte, muzica viorilor și a clavecinului, obsesia morții, stările de angoasă, depresia, spleen-ul (stare nemotivată de melancolie, manifestată prin plictiseală și dezgust față de orice), disoluția sentimentelor, orașul neurastenizant și noroios, culorile cenușii, terne.
+<b>La noi:</b>
 
-**Reprezentanți**
+• Alexandru Macedonski • George Bacovia • Ion Minulescu • Ștefan Petică • Dimitrie Anghel</td></tr><tr><th>Simbolismul românesc</th></tr><tr><td>&emsp;&emsp;&emsp;&emsp;În literatura română, cel dintâi teoretician al simbolismului a fost poetul Alexandru Macedonski. Ideile sale estetice sunt expuse în câteva articole, în care se teoretizează poetica simbolistă: *Despre logica poeziei* (1880) - cultivarea muzicalității: „arta versurilor nu este nici mai mult nici mai puțin decât arta muzicii”; sugestia, inefabilul: „poezia convinge pentru că tot ce este frumos ni se impune fără ca nimeni să-și dea seama în ce mod și pentru ce”; *Poezia viitorului* (1892) - veritabil manifest simbolist. Poezia lui Macedonski este, însă, la confluența a două mari curente: romantism și simbolism.<br>
+&emsp;&emsp;&emsp;&emsp;Poet, prozator și dramaturg, Ion Minulescu a jucat un rol însemnat în impunerea și popularizarea literaturii simboliste. Opera sa cuprinde mai multe volume de versuri, de o muzicalitate deosebită.<br>
+&emsp;&emsp;&emsp;&emsp;Un alt nume important al simbolismului românesc este George Bacovia, care scrie în primele decenii ale secolului al XX-lea.</td></tr></table>
 
-**Franța:**
+<a href='#bac11' id='modernismul'><h4 id='modernismul'><b>MODERNISMUL</b></h4></a>
+<table><tr><td>Este o tendință generală care se manifestă în literatura și arta universală, începând din a doua jumătate a secolului al XlX-lea și până după al Doilea Război Mondial, când va fi continuată de postmodernism. în poezie, se consideră că anul de naștere al liricii moderne este 1857, când Charles Baudelaire publică <i>Florile răului.</i></td></tr><tr><th>Caracteristici</th></tr><tr><td><ul><li>se definește în opoziție cu tradiția care apără un anume ideal de frumusețe neschimbător și transcendent, modernismul însemnând <i>noul, schimbarea, diferența</i>;</li><li>ruptura de tradiție și, adesea, revolta împotriva moștenirii creștine;</li><li>artistul modern caută „caracterul frumosului actual", tocmai de aceea accentul cade pe <i>originalitate</i>;</li><li>instaurarea *artificialului* și eliminarea naturalului: referințele noilor artiști sunt la lumea marilor orașe, la epoca tehnicii;</li><li>arta este un construct al <i>imaginației;</i></li><li>inaderența la real, respingerea disprețuitoare a lumii reale, de-realizarea realului (Hugo Friedrich): arta are capacitatea de a crea o lume nouă care nu mai urmează legile lumii obișnuite;</li><li>indiferența față de gustul publicului comun (numită de Hugo Friedrich „plăcerea aristocratică de a displăcea”: autorul modernist se adresează unei elite, unor „inițiați”.</li></ul></td></tr><tr><th>Poezia modernă</th></tr><tr><td><ul><li>transformarea negativului, a <i>urâtului</i> într-o categorie estetică - <i>estetica urâtului</i>;</li><li>estetica modernă "dă un sentiment de <i>înstrăinare</i>, de <i>mister</i> și, în cele din urmă, de nefericire” (Baudelaire), cultivând un frumos în același timp infernal și divin;</li><li>se descoperă analogii și legături noi, cum ar fi cea între poezie și matematică (vezi poezia lui Ion Barbu), ceea ce duce la ermetizarea poeziei;</li><li>predilecția pentru poezia de cunoaștere și preferința pentru artele poetice;</li><li>există o disonanță între formă și conținut, ceea ce generează ambiguitate, aparentă incoerență, tensiuni nerezolvate etc.;</li><li>teoria magiei limbajului și a fanteziei, cultivată mai ales de către adepții „poeziei pure", printre care se numără Mallarme și, la noi, Ion Barbu;</li><li><i>principiul fanteziei dictatoriale</i> - poetul modernist nu mai „redă"/ „exprimă”, ci își propune să creeze universuri posibile;</li><li>poezia modernă se bazează pe metaforă, de aceea a fost numită „poezia metaforei"; metafora este constituită din alăturări șocante, aparent incompatibile;</li><li>transfigurarea realului;</li><li>„noul limbaj” caracterizat prin: ambiguitate, limbaj metaforic, sintaxă eliptică sau contorsionată, dislocare topică, preferință pentru versul alb.</li></ul></td></tr><tr><th>Modernismul poetic românesc</th></tr><tr><td><ul><li><b>perioada interbelică</b>: poeții Tudor Arghezi, Ion Barbu, Lucian Blaga, criticul literar Eugen Lovinescu</li><li><b>perioada postbelică</b>: neomodernismul generației ‘60 (Nichita Stănescu)</li></ul></td></tr><tr><th>Romanul modernist (de analiză): Mircea Eliade, Camil Petrescu</th></tr><tr><td>Romanul de analiză s-a impus în literatura secolului al XX-lea ca o reacție împotriva romanului de tip obiectiv. Prozatorii acestui secol (influențați de psihologia și filosofia epocii) s-au arătat preocupați de analiza stărilor de conștiință și au respins convențiile prozei realiste (mai ales prezența naratorului omniscient), afirmând că acestea generează o evidentă lipsă de autenticitate.</td></tr><tr><th>Particularități</th></tr><tr><td><ul><li>prezența naratorului-personaj, care relatează la persoana I și nu mai deține atributele omniscienței și omnipotenței (narațiune cu focalizare internă);</li><li>ordinea evenimentelor nu mai este cronologică;</li><li>nu mai contează lumea și faptele, ci individul și interioritatea, memoria lui; deplasarea de accent de la acțiunea propriu-zisă la viața interioară a personajelor și de la creație la analiză (în accepția dată acestor termeni de G. Ibrăileanu);</li><li>conflictul este, de obicei, psihologic; conflictul exterior are o importanță secundară sau poate lipsi;</li><li>personajele (de regulă intelectuali) au o viață sufletească de o mare bogăție și complexitate, se confruntă cu probleme de ordin moral sau existențial și își analizează permanent reacțiile; acestea acționează adesea într-un mod imprevizibil;</li><li>timpul se subiectivizează, devine „timp interior” și funcționează principiul memoriei involuntare, care face ca evenimentele să nu mai fie relatate în ordinea lor cronologică, ci într-o ordine subiectivă, așa cum sunt percepute de conștiința naratorului-personaj;</li><li>întrebuințarea unor tehnici și modalități specifice: analiza psihologică, monologul interior, fluxul conștiinței</li><li>apare imperativul autenticității care se concretizează în estomparea limitelor dintre ficțional și nonficțional, prin abordarea unor formule cum ar fi jurnalul, memorialul, romanul epistolar sau „dosarul de existențe”;</li><li>influența noilor orientări din filosofie (Bergson, Husserl) și psihologie (Freud);</li><li>creațiile au caracterul unor „opere deschise".</li></ul></td></tr></table>
 
-- Paul Verlaine • Arthur Rimbaud • Stephane Mallarme • Jean Moreas
+<a href='#bac12' id='traditionalismul'><h4 id='traditionalismul'><b>TRADIȚIONALISMUL</b></h4></a>
 
-**La noi:**
+<table><tr><td colspan='2'>Constituie, alături de modernism, una dintre direcțiile importante care s-au manifestat în literatura română dintre cele două Războaie Mondiale.</td></tr><tr><th>Particularități</th><th>Reprezentanți</th></tr><tr><td><ul><li>preocuparea pentru aspectele naționale, pentru folclor, mit și istorie;</li><li>caracter rural (cultul satului; satul este privit ca o vatră de spiritualitate);</li><li>cultivarea poeziei cu subiect religios (Vasile Voiculescu, <i>Poeme cu îngeri</i>, Ion Pillat, <i>Biserica de altădată)</i>;</li><li>poezia pământului și a roadelor;</li><li>cultul străbunilor;</li><li>paseismul (valorizarea trecutului);</li><li>peisajul rural, campestru;</li><li>teme specifice: legătura omului cu pământul, legătura dintre generații, nostalgia trecutului;</li><li>asimilarea modalităților de expresie ale poeziei moderne.</li></ul></td><td><p>Ion Pillat</p><p>Adrian Maniu</p><p>Vasile Voiculescu</p><p>Aron Cotruș</p><p>Radu Gyr</p></td></tr></table>
 
-- Alexandru Macedonski • George Bacovia • Ion Minulescu • Ștefan Petică • Dimitrie Anghel
+<a href='#bac13' id='postmodernismul'><h4 id='postmodernismul'><b>POSTMODERNISMUL</b></h4></a>
+<table><tr><td>Constituie, alături de neomodernism, una dintre direcțiile importante care s-au manifestat în literatura română postbelică.</td></tr><tr><th>Caracteristici</th></tr><tr><td><ul><li>estetica postmodernistă e strâns legată de contextul extra-literar (social, economic, politic etc.);</li><li>recuperarea ironică și parodică a trecutului, a faptelor de cultură datorate predecesorilor;</li><li>literatura postmodernistă utilizează citatul, aluzia, colajul, pastișa, reciclarea formelor literare vechi;</li><li>cultivă imprecizia și indeterminarea sensului;</li><li>pentru postmoderni, literatura este un labirint textual de posibilități, de timpuri paralele, ei făcând apel la epoci trecute și la viitoare alternative;</li><li>ironia, ludicul, experimentul;</li><li>poezia „coboară în stradă";</li><li>se estompează granițele tradiționale dintre genuri și specii literare;</li><li>printre tehnicile de creație preferate de postmoderni se află <i>intertextualitatea</i>, procedeul prin care textul trimite mereu la alte texte, citând fără ghilimele, preluând personaje, simboluri, fragmente, sintagme celebre sau rescriind pur și simplu alte texte;</li><li>valorificarea cotidianului și a banalului.</li></ul></td></tr><tr><th>Postmodernismul românesc</th></tr><tr><td>Postmodernismul este revendicat de <i>generația '80</i>:<ul><li>Mircea Cărtărescu (romanul <i>Orbitor</i>,poezie: <i>Levantul, Poeme de amor</i>)</li><li>Mircea Nedelciu (proză: <i>Zmeura de câmpie</i>)</li><li>prozatorii Cristian Teodorescu, Răzvan Petrescu și Gheorghe Crăciun, Ioan Groșan</li><li>Simona Popescu (romanul <i>Exuvii</i>, poezie: <i>Xilofonul și alte poeme</i>)</li><li>Ion Bogdan Lefter (critică literară)</li><li>poetul Florin Iaru</li></ul>
+&emsp;&emsp;&emsp;&emsp;Printre primele romane postmoderniste se află romanul colectiv <i>Femeia în roșu</i>, scris de Adriana Babeți, Mircea Mihăieș și Mircea Nedelciu.
+&emsp;&emsp;&emsp;&emsp;Scriitorii au debutat în anii ‘80 și au încercat să impună un alt mod de a face literatură. S-a remarcat, pe bună dreptate, că în România anilor ‘80 nu exista o societate de consum care să ofere fundalul postmodernității (societate industrială, noile tehnologii etc.), fiind vorba, prin urmare, de un „postmodernism fără postmodernitate”.</td></tr></table>
 
-**Simbolismul românesc**	
+<a href='#bac14' id='sursele_expresivitatii_poetice'><h3 id='sursele_expresivitatii_poetice'>SURSELE EXPRESIVITĂȚII POETICE</h3></a>
 
-în literatura română, cel dintâi teoretician al simbolismului a fost poetul Alexandru Macedonski. Ideile sale estetice sunt expuse în câteva articole, în care se teoretizează poetica simbolistă: *Despre logica poeziei* (1880) - cultivarea muzicalității: „arta versurilor nu este nici mai mult nici mai puțin decât arta muzicii”; sugestia, inefabilul: „poezia convinge pentru că tot ce este frumos ni se impune fără ca nimeni să-și dea seama în ce mod și pentru ce”; *Poezia viitorului* (1892) - veritabil manifest simbolist. Poezia lui Macedonski este, însă, la confluența a două mari curente: romantism și simbolism.
+<a href='#bac15' id='valorile_stilistice_ale_partilor_de_vorbire'><h4 id='valorile_stilistice_ale_partilor_de_vorbire'><b>A. VALORILE STILISTICE ALE PĂRȚILOR DE VORBIRE</b></h4></a>
 
-Poet, prozator și dramaturg, Ion Minulescu a jucat un rol însemnat în impunerea și popularizarea literaturii simboliste. Opera sa cuprinde mai multe volume de versuri, de o muzicalitate deosebită.
+&emsp;&emsp;&emsp;&emsp;<b>Expresivitatea</b> este o valoare pe care o dobândesc în context anumite cuvinte sau construcții. Printre efectele pe care le produce, enumerăm: eufonia, valoarea afectivă, sublinierea unor idei și sentimente, concizia, evitarea repetițiilor, dinamizarea enunțului, implicarea cititorului, obținerea unor efecte de persuasiune, crearea unor imagini artistice, evidențierea, prin contrast, a unor termeni etc.
+&emsp;&emsp;&emsp;&emsp;Expresivitatea poate fi spontană, în limbajul colocvial, sau deliberată, în limbajul artistic. între aceste două paliere ale limbii există transferuri, de regulă dinspre cel familiar spre cel beletristic. De exemplu, în lirica lui Nichita Stănescu sunt fructificate valorile expresive ale unor termeni din argou, limbajul popular și cel familiar. (<i>Zicea că i-am vrăjit nasol,/că fac mișto la parastase</i>).
 
-Un alt nume important al simbolismului românesc este George Bacovia, care scrie în primele decenii ale secolului al XX-lea.
-
-**MODERNISMUL**
-
-Este o tendință generală care se manifestă în literatura și arta universală, începând din a doua jumătate a secolului al XlX-lea și până după al Doilea Război Mondial, când va fi continuată de postmodernism. în poezie, se consideră că anul de naștere al liricii moderne este 1857, când Charles Baudelaire publică *Florile răului.*
-
-**Caracteristici**
-
-- se definește în opoziție cu tradiția care apără un anume ideal de frumusețe neschimbător și transcendent, modernismul însemnând *noul, schimbarea, diferența-,*
-- ruptura de tradiție și, adesea, revolta împotriva moștenirii creștine;
-- artistul modern caută „caracterul frumosului actual", tocmai de aceea accentul cade pe *originalitate-,*
-- instaurarea *artificialului* și eliminarea naturalului: referințele noilor artiști sunt la lumea marilor orașe, la epoca tehnicii;
-- arta este un construct al *imaginației;*
-- inaderența la real, respingerea disprețuitoare a lumii reale, de-realizarea realului (Hugo Friedrich): arta are capacitatea de a crea o lume nouă care nu mai urmează legile lumii obișnuite;
-- indiferența față de gustul publicului comun (numită de Hugo Friedrich „plăcerea aristocratică de a displăcea”: autorul modernist se adresează unei elite, unor „inițiați”.
-
-**Poezia modernă**
-
-- transformarea negativului, a *urâtului* într-o categorie estetică - *estetica urâtului;*
-- estetica modernă „dă un sentiment de *înstrăinare,* de *mister* și, în cele din urmă, de nefericire” (Baudelaire), cultivând un frumos în același timp infernal și divin;
-- se descoperă analogii și legături noi, cum ar fi cea între poezie și matematică (vezi poezia lui Ion Barbu), ceea ce duce la ermetizarea poeziei;
-- predilecția pentru poezia de cunoaștere și preferința pentru artele poetice;
-- există o disonanță între formă și conținut, ceea ce generează ambiguitate, aparentă incoerență, tensiuni nerezolvate etc.;
-- teoria magiei limbajului și a fanteziei, cultivată mai ales de către adepții „poeziei pure", printre care se numără Mallarme și, la noi, Ion Barbu;
-- *principiul fanteziei dictatoriale -* poetul modernist nu mai „redă’7 „exprimă”, ci își propune să creeze universuri posibile;
-- poezia modernă se bazează pe metaforă, de aceea a fost numită „poezia metaforei"; metafora este constituită din alăturări șocante, aparent incompatibile;
-- transfigurarea realului;
-- „noul limbaj” caracterizat prin: ambiguitate, limbaj metaforic, sintaxă eliptică sau contorsionată, dislocare topică, preferință pentru versul alb.
-
-**Modernismul poetic românesc**
-
-- **perioada interbelică:** poeții Tudor Arghezi, Ion Barbu, Lucian Blaga, criticul literar Eugen Lovinescu
-- **perioada postbelică:** neomodernismul generației ‘60 (Nichita Stănescu)
-
-**Romanul modernist (de analiză):** Mircea Eliade, Camil Petrescu
-
-Romanul de analiză s-a impus în literatura secolului al XX-lea ca o reacție împotriva romanului de tip obiectiv. Prozatorii acestui secol (influențați de psihologia și filosofia epocii) s-au arătat preocupați de analiza stărilor de conștiință și au respins convențiile prozei realiste (mai ales prezența naratorului omniscient), afirmând că acestea generează o evidentă lipsă de autenticitate.
-
-**Particularități**	
-
-- prezența naratorului-personaj, care relatează la persoana I și nu mai deține atributele omniscienței și omnipotenței (narațiune cu focalizare internă);
-- ordinea evenimentelor nu mai este cronologică;
-- nu mai contează lumea și faptele, ci individul și interioritatea, memoria lui; deplasarea de accent de la acțiunea propriu-zisă la viața interioară a personajelor și de la creație la analiză (în accepția dată acestor termeni de G. Ibrăileanu);
-- conflictul este, de obicei, psihologic; conflictul exterior are o importanță secundară sau poate lipsi;
-- personajele (de regulă intelectuali) au o viață sufletească de o mare bogăție și complexitate, se confruntă cu probleme de ordin moral sau existențial și își analizează permanent reacțiile; acestea acționează adesea într-un mod imprevizibil;
-- timpul se subiectivizează, devine „timp interior” și funcționează principiul memoriei involuntare, care face ca evenimentele să nu mai fie relatate în ordinea lor cronologică, ci într-o ordine subiectivă, așa cum sunt percepute de conștiința naratorului-personaj;
-- întrebuințarea unor tehnici și modalități specifice: analiza psihologică, monologul interior, fluxul conștiinței;
-- apare imperativul autenticității care se concretizează în estomparea limitelor dintre ficțional și nonficțional, prin abordarea unor formule cum ar fi jurnalul, memorialul, romanul epistolar sau „dosarul de existențe”;
-- influența noilor orientări din filosofie (Bergson, Husserl) și psihologie (Freud);
-- creațiile au caracterul unor „opere deschise".
-
-**TRADIȚIONALISMUL**
-
-*9*
-
-|Constituie, alături de modernism, una dintre direcțiile importante care s-au manifestat în literatura română dintre cele două Războaie Mondiale.|
-| :- |
-|**Particularități**|**Reprezentanți**|
-|<p>- preocuparea pentru aspectele naționale, pentru folclor, mit și istorie;</p><p>- caracter rural (cultul satului; satul este privit ca o vatră de spiritualitate);</p><p>- cultivarea poeziei cu subiect religios (Vasile Voiculescu, *Poeme cu îngeri,* Ion Pillat, *Biserica de altădată);*</p><p>- poezia pământului și a roadelor;</p><p>- cultul străbunilor;</p><p>- paseismul (valorizarea trecutului);</p><p>- peisajul rural, campestru;</p><p>- teme specifice: legătura omului cu pământul, legătura dintre generații, nostalgia trecutului;</p><p>- asimilarea modalităților de expresie ale poeziei moderne.</p>|<p>Ion Pillat</p><p>Adrian Maniu</p><p>Vasile Voiculescu</p><p>Aron Cotruș</p><p>Radu Gyr</p>|
-
-
-**POSTMODERNISMUL**
-
-Constituie, alături de neomodernism, una dintre direcțiile importante care s-au manifestat în literatura română postbelică.
-
-**Caracteristici**
-
-- estetica postmodernistă e strâns legată de contextul extra-literar (social, economic, politic etc.);
-- recuperarea ironică și parodică a trecutului, a faptelor de cultură datorate predecesorilor;
-- literatura postmodernistă utilizează citatul, aluzia, colajul, pastișa, reciclarea formelor literare vechi;
-- cultivă imprecizia și indeterminarea sensului;
-- pentru postmodemi, literatura este un labirint textual de posibilități, de timpuri paralele, ei făcând apel la epoci trecute și la viitoare alternative;
-- ironia, ludicul, experimentul;
-- poezia „coboară în stradă";
-- se estompează granițele tradiționale dintre genuri și specii literare;
-- printre tehnicile de creație preferate de postmoderni se află *intertextualitatea,* procedeul prin care textul trimite mereu la alte texte, citând fără ghilimele, preluând personaje, simboluri, fragmente, sintagme celebre sau rescriind pur și simplu alte texte;
-- valorificarea cotidianului și a banalului.
-
-**Postmodernismul românesc**
-
-Postmodernismul este revendicat de *generația '80:*
-
-- Mircea Cărtărescu (romanul *Orbitor,* poezie: *Levantul, Poeme de amor)*
-- Mircea Nedelciu (proză: *Zmeura de câmpie)*
-- prozatorii Cristian Teodorescu, Răzvan Petrescu și Gheorghe Crăciun, loan Groșan
-- Simona Popescu (romanul *Exuvii,* poezie: *Xilofonul și alte poeme)*
-- Ion Bogdan Lefter (critică literară)
-- poetul Florin laru
-
-Printre primele romane postmoderniste se află romanul colectiv *Femeia în roșu,* scris de Adriana Babeți, Mircea Mihăieș și Mircea Nedelciu.
-
-Scriitorii au debutat în anii ‘80 și au încercat să impună un alt mod de a face literatură. S-a remarcat, pe bună dreptate, că în România anilor ‘80 nu exista o societate de consum care să ofere fundalul postmodernității (societate industrială, noile tehnologii etc.), fiind vorba, prin urmare, de un „postmodernism fără postmodernitate”.
-
-**SURSELE EXPRESIVITĂȚII POETICE**
-
-**A. VALORILE STILISTICE ALE PĂRȚILOR DE VORBIRE**
-
-**Expresivitatea** este o valoare pe care o dobândesc în context anumite cuvinte sau construcții. Printre efectele pe care le produce, enumerăm: eufonia, valoarea afectivă, sublinierea unor idei și sentimente, concizia, evitarea repetițiilor, dinamizarea enunțului, implicarea cititorului, obținerea unor efecte de persuasiune, crearea unor imagini artistice, evidențierea, prin contrast, a unor termeni etc.
-
-Expresivitatea poate fi spontană, în limbajul colocvial, sau deliberată, în limbajul artistic. între aceste două paliere ale limbii există transferuri, de regulă dinspre cel familiar spre cel beletristic. De exemplu, în lirica lui Nichita Stănescu sunt fructificate valorile expresive ale unor termeni din argou, limbajul popular și cel familiar. *(Zicea că i-am vrăjit nasol,/că fac mișto la parastase).*
-
-**VALORI EXPRESIVE**	
-
-**Substantivul**
-
-Intră frecvent în alcătuirea unor figuri de stil ca:
-
-- metafora
-
-*„Luna, o cloșcă rotundă și grasă”* (Mihai Eminescu)
-
-- personificarea
-
-*„Cu grele răsuflete apele dorm”* (O. Goga)
+<table><tr><th>VALORI EXPRESIVE</th></tr><tr><th>Substantivul</th></tr><tr><td>&emsp;&emsp;&emsp;&emsp;Intră frecvent în alcătuirea unor figuri de stil ca:<ul><li>metafora</li>
+&emsp;&emsp;<i>„Luna, o cloșcă rotundă și grasă”</i> (Mihai Eminescu)<li>personificarea</li>&emsp;&emsp;<i>„Cu grele răsuflete apele dorm”</i> (O. Goga)
 
 - comparația:
 
