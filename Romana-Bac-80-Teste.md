@@ -1488,42 +1488,34 @@ Sunt arcul și totodată ținta.</i><br></div>
 &emsp;&emsp;&emsp;&emsp;În funcție de conținutul semantic, verbele și locuțiunile verbale se pot grupa în mai multe categorii:
 <ul><li>verbe și locuțiuni verbale <i>incoative</i> (> fr. <i>inchoatif</i>, care exprimă începutul unei acțiuni): a începe, a debuta, a se înfirirpa, a răsări, a ieși la iveală etc.:</li>
 
-&emsp;&emsp;i>„Iar ceru-ncepe a roti/în locul unde piere.”</i> (M. Eminescu);
+&emsp;&emsp;<i>„Iar ceru-ncepe a roti/în locul unde piere.”</i> (M. Eminescu);
 
 <li>verbe și locuțiuni verbale <i>durative și iterative</i> (care exprimă ideea de durată a acțiunii și de repetiție, frecvență): a cutreiera, a dormita, a repeta, a lectura, a răzbate etc.:</li>
 
-<i>„Fiind băiet păduri cutreieram..."</i> (M. Eminescu)
+&emsp;&emsp;<i>„Fiind băiet păduri cutreieram..."</i> (M. Eminescu)
 
 <li>verbe și locuțiuni verbale <i>intensive</i> (exprimă intensitatea unei acțiuni, care se face în ritm viu, uneori încordat): a izbândi, a reuși, a se împlini etc.:</li>
 
-<i>„O, vreau să joc, cum niciodată n-am jucat!/Să nu se simtă Dumnezeu/în mine/un rob în temniță - încătușat.”</i>
-
+&emsp;&emsp;<i>„O, vreau să joc, cum niciodată n-am jucat!/Să nu se simtă Dumnezeu/în mine/un rob în temniță - încătușat.”</i>
 (L. Blaga)
 
 <li>verbe și locuțiuni verbale <i>eventive</i> (fr. <i>eventif</i>, verbe reflexive care marchează transformarea, trecerea de la o stare la alta, o schimbare în condiția subiectului): a se îmbogăți, a se ofili, a se înroși, a se îngrășa etc.:</li>
 
-<i>„Dintr-un bolovan coboară/Pasul tău de domnișoară”</i> (N. Stănescu)
+&emsp;&emsp;<i>„Dintr-un bolovan coboară/Pasul tău de domnișoară”</i> (N. Stănescu)<br>
 &emsp;&emsp;&emsp;&emsp;Ca și celelalte categorii gramaticale, verbul intră în componența unor figuri de stil:
 
 <li>personificarea:</li>
 
-<i>„Umbra ta, lovindu-se de ziduri”</i> (Nichita Stănescu)
+&emsp;&emsp;<i>„Umbra ta, lovindu-se de ziduri”</i> (Nichita Stănescu)
 
 <li>enumerația:</li>
 
-*„Să stăm de vorbă, să vorbim, să spunem cuvinte/ lungi, sticloase, ca niște dălți ce despart/ fluviul ret delta fierbinte,/ziua de noapte, bazaltul de bazalt.”*
+&emsp;&emsp;<i>„Să stăm de vorbă, să vorbim, să spunem cuvinte/ lungi, sticloase, ca niște dălți ce despart/ fluviul ret delta fierbinte,/ziua de noapte, bazaltul de bazalt.”</i>
 
-- metafora:
+<li>metafora:</li>
 
-*„Prea mi-a nins și mi-a plouat, demult,/ în copilăria mea cu nopți grozave”* (N. Stănescu)
-
-**Valori expresive ale modurilor și timpurilor verbale**
-
-1. **Indicativul** exprimă o acțiune sigură, reală, conferind impresia de certitudine.
-
-Diferitele forme temporale ale indicativului dezvoltă, la rândul lor, alte nuanțe și valori expresive:
-
-- **Prezentul:** poate sugera, în funcție de context:
+&emsp;&emsp;<i>„Prea mi-a nins și mi-a plouat, demult,/ în copilăria mea cu nopți grozave”</i> (N. Stănescu)</td></tr><tr><th>Valori expresive ale modurilor și timpurilor verbale</th></tr><tr><td><ol><li><b>Indicativul</b> exprimă o acțiune sigură, reală, conferind impresia de certitudine.</li>
+&emsp;&emsp;&emsp;&emsp;Diferitele forme temporale ale indicativului dezvoltă, la rândul lor, alte nuanțe și valori expresive:<ul><li><b>Prezentul:</b> poate sugera, în funcție de context:
 - un adevăr general valabil (prezentul etern sau gnomic):
 
 *„Ce e val ca valul trece”* (Mihai Eminescu);
