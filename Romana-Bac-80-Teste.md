@@ -1514,36 +1514,27 @@ Sunt arcul și totodată ținta.</i><br></div>
 
 <li>metafora:</li>
 
-&emsp;&emsp;<i>„Prea mi-a nins și mi-a plouat, demult,/ în copilăria mea cu nopți grozave”</i> (N. Stănescu)</td></tr><tr><th>Valori expresive ale modurilor și timpurilor verbale</th></tr><tr><td><ol><li><b>Indicativul</b> exprimă o acțiune sigură, reală, conferind impresia de certitudine.</li>
-&emsp;&emsp;&emsp;&emsp;Diferitele forme temporale ale indicativului dezvoltă, la rândul lor, alte nuanțe și valori expresive:<ul><li><b>Prezentul:</b> poate sugera, în funcție de context:
-- un adevăr general valabil (prezentul etern sau gnomic):
+&emsp;&emsp;<i>„Prea mi-a nins și mi-a plouat, demult,/ în copilăria mea cu nopți grozave”</i> (N. Stănescu)</td></tr><tr><th>Valori expresive ale modurilor și timpurilor verbale</th></tr><tr><td><ol><li><b>Indicativul</b> exprimă o acțiune sigură, reală, conferind impresia de certitudine.
+&emsp;&emsp;&emsp;&emsp;Diferitele forme temporale ale indicativului dezvoltă, la rândul lor, alte nuanțe și valori expresive:<ul><li><b>Prezentul:</b> poate sugera, în funcție de context:</li><li>un adevăr general valabil (prezentul etern sau gnomic):</li>
 
-*„Ce e val ca valul trece”* (Mihai Eminescu);
+<i>„Ce e val ca valul trece”</i>(Mihai Eminescu);
 
-- prezentul istoric, folosit în locul trecutului pentru a crea o imagine dinamică, plină de viață:
+<li>prezentul istoric, folosit în locul trecutului pentru a crea o imagine dinamică, plină de viață:</li>
 
-*„Călăreții împlu câmpul și roiesc după un semn/și în caii lor sălbatici bat cu scările de lemn,/Pe copite ic fugă fața negrului pământ/Lănci scânteie lungi în soare, arcuri se întind în* vânt..” (Mihai Eminescu);
+<i>„Călăreții împlu câmpul și roiesc după un semn/și în caii lor sălbatici bat cu scările de lemn,/Pe copite ic fugă fața negrului pământ/Lănci scânteie lungi în soare, arcuri se întind în* vânt..”</i> (Mihai Eminescu);
 
-- prezentul narativ sau dramatic, utilizat de un narator pentru a crea iluzia de prezent în ceea ce privește u fapte din trecut:
+<li>prezentul narativ sau dramatic, utilizat de un narator pentru a crea iluzia de prezent în ceea ce privește u fapte din trecut:</li>
 
-*„și eu fuga și ea fuga, și eu fuga și ea fuga, până ce dăm cânepa toată palancă la pământ."* (Ion Creangă
+<i>„și eu fuga și ea fuga, și eu fuga și ea fuga, până ce dăm cânepa toată palancă la pământ."</i> (Ion Creangă)
 
-- prezentul instantaneu - care marchează o acțiune începută și terminată într-un interval foarte scurt: „Marche pentru oaspeți jucătorul cu numărul 9.“
-- **Imperfectul:** exprimă o acțiune trecută, cu aspect durativ, al cărei final nu este clar marcat.
+<li>prezentul instantaneu - care marchează o acțiune începută și terminată într-un interval foarte scurt: „Marchează pentru oaspeți jucătorul cu numărul 9.“</li></ul><ul><li><b>Imperfectul:</b> exprimă o acțiune trecută, cu aspect durativ, al cărei final nu este clar marcat.</li>
 
-*„Porni luceafărul. Creșteau/în cer a lui aripe,/Și căi de mii de ani treceau/în tot atâtea clipe. “* (Mihai Emine Imperfectul îndeplinește mai multe valori:
+<i>„Porni luceafărul. Creșteau/în cer a lui aripe,/Și căi de mii de ani treceau/în tot atâtea clipe. “</i> (Mihai Emine Imperfectul îndeplinește mai multe valori:</li></ol><ol><li>Imperfectul narativ/ evocativ are o <i>funcție dinamic - evocativă,</i> proiectând un eveniment, o trăire sau o s într-o durată nedeterminată și instituie o perspectivă subiectivă a naratorului/ eului liric <i>Pe atunci colini mult prin păduri și pe dealuri.</i></li><li>
+Imperfectul descriptiv actualizează în imagini plastice o realitate trecută, situând-o într-o durată indetermin Are o funcție descriptiv - evocativă, imprimând rememorării o dimensiune subiectivă, melancolică "Ea frumoasă ca umbra unei idei";</li><li>Imperfectul iterativ - exprimă fluxul temporal, duratele ciclice, situațiile repetabile <i>Vorbeau zilnic la telefon</i></li><li>Imperfectul oniric - creează un plan al imaginarului oniric și creează impresia de ireal a succesiuni evenimente sau de stări și trăiri lirice. (<i>Se făcea că eram într-o altă țară...</i>)</li></ol><ul><li><b>Perfectul compus:</b> indică o acțiune trecută, încheiată, sigură, trimițând la un prezent al actului comunicării.
 
-1. Imperfectul narativ/ evocativ are. o *funcție dinamic - evocativă,* proiectând un eveniment, o trăire sau o s într-o durată nedeterminată și instituie o perspectivă subiectivă a naratorului/ eului liric *{Pe atunci colini mult prin păduri și pe dealuri)-,*
-1. Imperfectul descriptiv actualizează în imagini plastice o realitate trecută, situând-o într-o durată indetermin Are o funcție descriptiv - evocativă, imprimând rememorării o dimensiune subiectivă, melancolică *{Ea frumoasă ca umbra unei idei);*
-1. Imperfectul iterativ - exprimă fluxul temporal, duratele ciclice, situațiile repetabile *{Vorbeau zilnic la telefo*
-1. Imperfectul oniric - creează un plan al imaginarului oniric și creează impresia de ireal a succesiuni evenimente sau de stări și trăiri lirice. (Se *făcea că eram într-o altă țară...)*
-- **Perfectul compus:** indică o acțiune trecută, încheiată, sigură, trimițând la un prezent al actului comunicării.
+<i>Și dac-a fost pețită des/ E lucru tare cu-nțeles,/ Dar dintr-al prinților șirag, / Câți au trecut al casei prag,/ bună seamă cel mai drag/A fost ales.</i>	(G. Coșbuc)
 
-*Și dac-a fost pețită des/ E lucru tare cu-nțeles,/ Dar dintr-al prinților șirag, / Câți au trecut al casei prag,/ bună seamă cel mai drag/A fost ales.*	(G. Coșbuc)
-
-- perfectul compus înscrie evenimentele narate, procesele, stările sau experiențele lirice într-o durată trec închisă, exprimând ideea finalizării unei acțiuni;
-- poate avea rol în delimitarea planului naratorului (a cărui obiectivitate poate fi exprimată prin perfectul sim de planul personajelor, marcat subiectiv prin perfectul compus;
-- în relație cu timpul narativ principal, perfectul compus poate avea un rol rezumativ sau conclusiv, relief caracterul ireversibil al evenimentelor;
+<li>perfectul compus înscrie evenimentele narate, procesele, stările sau experiențele lirice într-o durată trec închisă, exprimând ideea finalizării unei acțiuni;</li><li>poate avea rol în delimitarea planului naratorului (a cărui obiectivitate poate fi exprimată prin perfectul sim de planul personajelor, marcat subiectiv prin perfectul compus;</li><li>în relație cu timpul narativ principal, perfectul compus poate avea un rol rezumativ sau conclusiv, relief caracterul ireversibil al evenimentelor;
 - **Perfectul simplu:** este considerat prin excelență timpul povestirii; el desemnează evenimente recente. Este fol regional în Oltenia, unde indică fapte petrecute în ultimele 24 de ore.
 
 *Vătavul a dat semn din steag / Și atunci porniră toți șireag / încetinel.* (G. Coșbuc)
