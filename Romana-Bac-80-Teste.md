@@ -1534,22 +1534,20 @@ Imperfectul descriptiv actualizează în imagini plastice o realitate trecută, 
 
 <i>Și dac-a fost pețită des/ E lucru tare cu-nțeles,/ Dar dintr-al prinților șirag, / Câți au trecut al casei prag,/ bună seamă cel mai drag/A fost ales.</i>	(G. Coșbuc)
 
-<li>perfectul compus înscrie evenimentele narate, procesele, stările sau experiențele lirice într-o durată trec închisă, exprimând ideea finalizării unei acțiuni;</li><li>poate avea rol în delimitarea planului naratorului (a cărui obiectivitate poate fi exprimată prin perfectul sim de planul personajelor, marcat subiectiv prin perfectul compus;</li><li>în relație cu timpul narativ principal, perfectul compus poate avea un rol rezumativ sau conclusiv, relief caracterul ireversibil al evenimentelor;
-- **Perfectul simplu:** este considerat prin excelență timpul povestirii; el desemnează evenimente recente. Este fol regional în Oltenia, unde indică fapte petrecute în ultimele 24 de ore.
+<li>perfectul compus înscrie evenimentele narate, procesele, stările sau experiențele lirice într-o durată trec închisă, exprimând ideea finalizării unei acțiuni;</li><li>poate avea rol în delimitarea planului naratorului (a cărui obiectivitate poate fi exprimată prin perfectul sim de planul personajelor, marcat subiectiv prin perfectul compus;</li><li>în relație cu timpul narativ principal, perfectul compus poate avea un rol rezumativ sau conclusiv, relief caracterul ireversibil al evenimentelor;</li></ul><ul><li>Perfectul simplu: este considerat prin excelență timpul povestirii; el desemnează evenimente recente. Este fol regional în Oltenia, unde indică fapte petrecute în ultimele 24 de ore.
 
-*Vătavul a dat semn din steag / Și atunci porniră toți șireag / încetinel.* (G. Coșbuc)
+<i>Vătavul a dat semn din steag / Și atunci porniră toți șireag / încetinel.</i> (G. Coșbuc)
 
-Perfectul simplu are două valori:
+&emsp;&emsp;&emsp;&emsp; Perfectul simplu are două valori:
 
-1. Narativă - situează prim-planul evenimentelor/ al momentelor relatate, al stărilor enunțate într-un trecut rea apropiat de timpul narării;
-- oferă impresia de acțiune momentană sau reliefează derularea rapidă a evenimentelor; în unele contexte ep oferă impresia de accelerare bruscă a relatării.
+<ul><li>Narativă - situează prim-planul evenimentelor/ al momentelor relatate, al stărilor enunțate într-un trecut rea apropiat de timpul narării;</li><li>oferă impresia de acțiune momentană sau reliefează derularea rapidă a evenimentelor; în unele contexte ep oferă impresia de accelerare bruscă a relatării.
 
-Se *aplecă, luă în mâini un bulgăre și-l sfărâmă între degete cu o plăcere înfricoșată.* (L. Rebreanu)
+<i>Se aplecă, luă în mâini un bulgăre și-l sfărâmă între degete cu o plăcere înfricoșată.</i> (L. Rebreanu)</li></ul>
 
 
-1. Descriptivă - conferă vivacitate imaginilor descriptive, creând impresia de succesiune alertă.
+<ol><li>Descriptivă - conferă vivacitate imaginilor descriptive, creând impresia de succesiune alertă.
 
-*Ploaia începu să cadă în stropi mari, tunetele începură să răsune de-a lungul văii cu niște zguduituri mai puternice și mai puternice.* (I. Slavici)
+<i>Ploaia începu să cadă în stropi mari, tunetele începură să răsune de-a lungul văii cu niște zguduituri mai puternice și mai puternice.</i> (I. Slavici)
 
 - **Mai-mult-ca-perfectul** arată că o acțiune s-a desfășurat în trecut și s-a încheiat înaintea alteia din trecut. Rolul stilistic este acela de a diferenția trecutul îndepărtat al întâmplărilor de timpul istorisirii, creând o tensiune narativă.
 
