@@ -1,4 +1,4 @@
-﻿<style type="text/css">
+<style type="text/css">
   <!-- @page { margin-top: 0.30cm; margin-bottom: 0.30cm; margin-left: 0.20cm; margin-right: 0.20cm; } 
   -->
 </style>
@@ -1473,7 +1473,7 @@ TESTUL 15	36
 <li>folosirea unor locuțiuni pronominale cu intenție parodică sau ironică:</li>
 &emsp;&emsp;<i>„S-ar putea să fie Cine-știe-Cine.../ care n-a mai fost și care vine/și se uită prin întuneric la mine/ și-mi vede cugetele toate.”</i>(T. Arghezi);
 <li>utilizat la plural, pronumele semnifică implicarea vorbitorului într-o anumită comunitate, exprimând solidaritatea, condiția umană în general, apartenența la un grup anume etc.</li>
-&emsp;&emsp;&emsp;&emsp;În operele lirice, pronumele de persoana I este esențial în construirea discursului, reprezentând instanța denumită „eu liric”. Pot fi considerate mărci implicite ale eului liric și formele verbale și pronominale de persoana a II-a.</ul></td></tr><tr><th>Verbul</th></tr><tr><td>Este considerat centrul enunțului, așadar importanța lui în structurarea și dinamica discursului este fundamentală. Cu cât frecvența verbelor este mai mare, cu atât ritmul textului este mai alert, impresia de succesiune rapidă crește, precum în fragmentul de mai jos, o parabolă a relativității competiției:</td></tr>
+&emsp;&emsp;&emsp;&emsp;În operele lirice, pronumele de persoana I este esențial în construirea discursului, reprezentând instanța denumită „eu liric”. Pot fi considerate mărci implicite ale eului liric și formele verbale și pronominale de persoana a II-a.</ul></td></tr><tr><th>Verbul</th></tr><tr><td>Este considerat centrul enunțului, așadar importanța lui în structurarea și dinamica discursului este fundamentală. Cu cât frecvența verbelor este mai mare, cu atât ritmul textului este mai alert, impresia de succesiune rapidă crește, precum în fragmentul de mai jos, o parabolă a relativității competiției:
 
 <div class='b'><i>Mă ajunge săgeata, mă străpunge,<br>
 Aleargă mai departe,<br>
