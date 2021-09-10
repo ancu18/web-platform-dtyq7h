@@ -1485,34 +1485,31 @@ Mă străpunge...<br>
 Și iar o arunc...<br>
 Sunt arcul și totodată ținta.</i><br></div>
 <div style='text-align:right'>(Marin Sorescu, <i>Calul alb fără splină</i>)</div>
+&emsp;&emsp;&emsp;&emsp;În funcție de conținutul semantic, verbele și locuțiunile verbale se pot grupa în mai multe categorii:
+<ul><li>verbe și locuțiuni verbale <i>incoative</i> (> fr. <i>inchoatif</i>, care exprimă începutul unei acțiuni): a începe, a debuta, a se înfirirpa, a răsări, a ieși la iveală etc.:</li>
 
-În funcție de conținutul semantic, verbele și locuțiunile verbale se pot grupa în mai multe categorii:
+&emsp;&emsp;i>„Iar ceru-ncepe a roti/în locul unde piere.”</i> (M. Eminescu);
 
-- verbe și locuțiuni verbale *incoative* (> fr. *inchoatif,* care exprimă începutul unei acțiuni): a începe, a debuta, a se înfirirpa, a răsări, a ieși la iveală etc.:
+<li>verbe și locuțiuni verbale <i>durative și iterative</i> (care exprimă ideea de durată a acțiunii și de repetiție, frecvență): a cutreiera, a dormita, a repeta, a lectura, a răzbate etc.:</li>
 
-*„Iar ceru-ncepe a roti/în locul unde piere.”* (M. Eminescu);
+<i>„Fiind băiet păduri cutreieram..."</i> (M. Eminescu)
 
-- verbe și locuțiuni verbale *durative și iterative* (care exprimă ideea de durată a acțiunii și de repetiție, frecvență): a cutreiera, a dormita, a repeta, a lectura, a răzbate etc.:
+<li>verbe și locuțiuni verbale <i>intensive</i> (exprimă intensitatea unei acțiuni, care se face în ritm viu, uneori încordat): a izbândi, a reuși, a se împlini etc.:</li>
 
-*„Fiind băiet păduri cutreieram...* (M. Eminescu)
-
-- verbe și locuțiuni verbale *intensive* (exprimă intensitatea unei acțiuni, care se face în ritm viu, uneori încordat): a izbândi, a reuși, a se împlini etc.:
-
-„O, *vreau să joc, cum niciodată n-am jucat!/Să nu se simtă Dumnezeu/în mine/un rob în temniță - încătușat.”*
+<i>„O, vreau să joc, cum niciodată n-am jucat!/Să nu se simtă Dumnezeu/în mine/un rob în temniță - încătușat.”</i>
 
 (L. Blaga)
 
-- verbe și locuțiuni verbale *eventive* (fr. *eventif,* verbe reflexive care marchează transformarea, trecerea de la o stare la alta, o schimbare în condiția subiectului): a se îmbogăți, a se ofili, a se înroși, a se îngrășa etc.:
+<li>verbe și locuțiuni verbale <i>eventive</i> (fr. <i>eventif</i>, verbe reflexive care marchează transformarea, trecerea de la o stare la alta, o schimbare în condiția subiectului): a se îmbogăți, a se ofili, a se înroși, a se îngrășa etc.:</li>
 
-*„Dintr-un bolovan coboară/Pasul tău de domnișoară”* (N. Stănescu)
+<i>„Dintr-un bolovan coboară/Pasul tău de domnișoară”</i> (N. Stănescu)
+&emsp;&emsp;&emsp;&emsp;Ca și celelalte categorii gramaticale, verbul intră în componența unor figuri de stil:
 
-Ca și celelalte categorii gramaticale, verbul intră în componența unor figuri de stil:
+<li>personificarea:</li>
 
-- personificarea:
+<i>„Umbra ta, lovindu-se de ziduri”</i> (Nichita Stănescu)
 
-*„Umbra ta, lovindu-se de ziduri”* (Nichita Stănescu)
-
-- enumerația:
+<li>enumerația:</li>
 
 *„Să stăm de vorbă, să vorbim, să spunem cuvinte/ lungi, sticloase, ca niște dălți ce despart/ fluviul ret delta fierbinte,/ziua de noapte, bazaltul de bazalt.”*
 
