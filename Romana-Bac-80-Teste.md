@@ -1540,36 +1540,34 @@ Imperfectul descriptiv actualizează în imagini plastice o realitate trecută, 
 
 &emsp;&emsp;&emsp;&emsp; Perfectul simplu are două valori:
 
-<ul><li>Narativă - situează prim-planul evenimentelor/ al momentelor relatate, al stărilor enunțate într-un trecut rea apropiat de timpul narării;</li><li>oferă impresia de acțiune momentană sau reliefează derularea rapidă a evenimentelor; în unele contexte ep oferă impresia de accelerare bruscă a relatării.
+<ol><li>Narativă - situează prim-planul evenimentelor/ al momentelor relatate, al stărilor enunțate într-un trecut rea apropiat de timpul narării;</li><li>oferă impresia de acțiune momentană sau reliefează derularea rapidă a evenimentelor; în unele contexte ep oferă impresia de accelerare bruscă a relatării.
 
-<i>Se aplecă, luă în mâini un bulgăre și-l sfărâmă între degete cu o plăcere înfricoșată.</i> (L. Rebreanu)</li></ul>
+<i>Se aplecă, luă în mâini un bulgăre și-l sfărâmă între degete cu o plăcere înfricoșată.</i> (L. Rebreanu)</li>
 
 
-<ol><li>Descriptivă - conferă vivacitate imaginilor descriptive, creând impresia de succesiune alertă.
+<li>Descriptivă - conferă vivacitate imaginilor descriptive, creând impresia de succesiune alertă.
 
-<i>Ploaia începu să cadă în stropi mari, tunetele începură să răsune de-a lungul văii cu niște zguduituri mai puternice și mai puternice.</i> (I. Slavici)
+<i>Ploaia începu să cadă în stropi mari, tunetele începură să răsune de-a lungul văii cu niște zguduituri mai puternice și mai puternice.</i> (I. Slavici)</li></ol>
 
-- **Mai-mult-ca-perfectul** arată că o acțiune s-a desfășurat în trecut și s-a încheiat înaintea alteia din trecut. Rolul stilistic este acela de a diferenția trecutul îndepărtat al întâmplărilor de timpul istorisirii, creând o tensiune narativă.
+<ul><li><b>Mai-mult-ca-perfectul</b> arată că o acțiune s-a desfășurat în trecut și s-a încheiat înaintea alteia din trecut. Rolul stilistic este acela de a diferenția trecutul îndepărtat al întâmplărilor de timpul istorisirii, creând o tensiune narativă.
 
-*în primăvara anului 1916, ca sublocotenent proaspăt, întâia dată concentrat, luasem parte, cu un regiment de infanterie din capitală, la fortificarea văii Prahova, între Bușteni și Predeal.* (Camil Petrescu)
+<i>În primăvara anului 1916, ca sublocotenent proaspăt, întâia dată concentrat, luasem parte, cu un regiment de infanterie din capitală, la fortificarea văii Prahova, între Bușteni și Predeal.</i> (Camil Petrescu)
 
-„în unele contexte, are rolul de a insera o secvență retrospectivă". (T. Vianu) Valoarea sa expresivă este conferită de întreruperea fluxului temporal, de o dislocare semnificativă în ordinea cronologică, creând acronia narativă.
+„În unele contexte, are rolul de a insera o secvență retrospectivă". (T. Vianu) Valoarea sa expresivă este conferită de întreruperea fluxului temporal, de o dislocare semnificativă în ordinea cronologică, creând acronia narativă.
 
-*Niciodată femeia aceasta nu mă iubise. Reluam tot ce a fost la Odobești, la țară, și acum simțeam că acolo am avut dreptate...*(Camil Petrescu)
+<i>Niciodată femeia aceasta nu mă iubise. Reluam tot ce a fost la Odobești, la țară, și acum simțeam că acolo am avut dreptate...</i>(Camil Petrescu)</li></ul>
 
-- **Viitorul -** poate avea două forme: una literară *{voi scrie)* și alta populară, analitică *{am să plec, o să plec).*
+<ul><li><b>Viitorul</b> - poate avea două forme: una literară (<i>voi scrie</i>) și alta populară, analitică (<i>am să plec, o să plec</i>).
 
-**Viitorul** indică o acțiune care se va petrece după momentul vorbirii. El prelungește, astfel, prezentul enunțării într-o durată imaginară.
+<b>Viitorul</b> indică o acțiune care se va petrece după momentul vorbirii. El prelungește, astfel, prezentul enunțării într-o durată imaginară.
 
 Rolul stilistic principal este acela de a crea o perspectivă anticipativă, reprezentarea unui plan interior al reveriei sau al dorinței;
 
 Valoarea sa expresivă rezidă în marea încărcătură afectivă și subiectivă, fiind apropiat de conjunctiv;
 
-*Eu am să scriu „Romanul adolescentului miop”.* (M. Eliade)
+<i>Eu am să scriu „Romanul adolescentului miop”.</i> (M. Eliade)
 
-*Viitorul anterior* construiește o succesiune de secvențe anticipative, situând starea sau evenimentul exprimat înaintea altei acțiuni proiectate în viitor. Valoarea sa stilistică este cea de exprimare a incertitudinii locutorului sau a unei posibilități.
-
-**Valori expresive ale modurilor și timpurilor verbale**
+<i>Viitorul anterior</i> construiește o succesiune de secvențe anticipative, situând starea sau evenimentul exprimat înaintea altei acțiuni proiectate în viitor. Valoarea sa stilistică este cea de exprimare a incertitudinii locutorului sau a unei posibilități.</li></ul></td></tr><tr><th>Valori expresive ale modurilor și timpurilor verbale</th></tr>
 
 1. **Conjunctivul** indică o acțiune posibilă, probabilă, sub semnul ipotezei:
 
