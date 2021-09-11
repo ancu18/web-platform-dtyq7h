@@ -1569,7 +1569,7 @@ Valoarea sa expresivă rezidă în marea încărcătură afectivă și subiectiv
 
 <i>Viitorul anterior</i> construiește o succesiune de secvențe anticipative, situând starea sau evenimentul exprimat înaintea altei acțiuni proiectate în viitor. Valoarea sa stilistică este cea de exprimare a incertitudinii locutorului sau a unei posibilități.</li></ul></td></tr><tr><th>Valori expresive ale modurilor și timpurilor verbale</th></tr>
 
-1. **Conjunctivul** indică o acțiune posibilă, probabilă, sub semnul ipotezei:
+<tr><td><ol start='2'><li><b>Conjunctivul</b> indică o acțiune posibilă, probabilă, sub semnul ipotezei:
 
 *întâi, însă, viața, bolind de durată,/ Să nu înceteze deodată,/ Și chinul să-nceapă cu-ncetul./ Să usture aerul greu, ca oțelul.* (Tudor Arghezi)
 
