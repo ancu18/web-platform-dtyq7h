@@ -1571,15 +1571,15 @@ Valoarea sa expresivă rezidă în marea încărcătură afectivă și subiectiv
 
 <tr><td><ol start='2'><li><b>Conjunctivul</b> indică o acțiune posibilă, probabilă, sub semnul ipotezei:
 
-*întâi, însă, viața, bolind de durată,/ Să nu înceteze deodată,/ Și chinul să-nceapă cu-ncetul./ Să usture aerul greu, ca oțelul.* (Tudor Arghezi)
+<i>Întâi, însă, viața, bolind de durată,/ Să nu înceteze deodată,/ Și chinul să-nceapă cu-ncetul./ Să usture aerul greu, ca oțelul.</i> (Tudor Arghezi)</li>
 
-1. **Condițional-optativul -** indică o acțiune dorită, în împlinirea căreia intervine un element perturbator, un obstacol:
+<li><b>Condițional-optativul</b> - indică o acțiune dorită, în împlinirea căreia intervine un element perturbator, un obstacol:
 
-Aș *putea vecia cu tovărășie/ Să o iau părtașă gândurilor mele.* (Tudor Arghezi)
+<i>Aș putea vecia cu tovărășie/ Să o iau părtașă gândurilor mele.</i> (Tudor Arghezi)</li>
 
-1. **Imperativul -** se folosește pentru a exprima un îndemn, o poruncă, o rugăminte etc.:
+<li><b>Imperativul</b> - se folosește pentru a exprima un îndemn, o poruncă, o rugăminte etc.:
 
-*Vino iar la sânu-mi, nepăsare tristă!* (Mihai Eminescu)
+<i>Vino iar la sânu-mi, nepăsare tristă!</i> (Mihai Eminescu)
 
 1. **Gerunziul -** imprimă acțiunii un sens durativ, raportând-o la alta; poate dobândi în contexte un efect de muzicalitate lentă, cu ritm apăsat:
 
