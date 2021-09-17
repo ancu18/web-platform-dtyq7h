@@ -1579,26 +1579,26 @@ Valoarea sa expresivă rezidă în marea încărcătură afectivă și subiectiv
 
 <li><b>Imperativul</b> - se folosește pentru a exprima un îndemn, o poruncă, o rugăminte etc.:
 
-<i>Vino iar la sânu-mi, nepăsare tristă!</i> (Mihai Eminescu)
+<i>Vino iar la sânu-mi, nepăsare tristă!</i> (Mihai Eminescu)</li>
 
-1. **Gerunziul -** imprimă acțiunii un sens durativ, raportând-o la alta; poate dobândi în contexte un efect de muzicalitate lentă, cu ritm apăsat:
+<li>Gerunziul - imprimă acțiunii un sens durativ, raportând-o la alta; poate dobândi în contexte un efect de muzicalitate lentă, cu ritm apăsat:
 
-*Iubind în taină am păstrat tăcere,/ Gândind că astfel o să-ți placă ție.* (Mihai Eminescu)
+<i>Iubind în taină am păstrat tăcere,/ Gândind că astfel o să-ți placă ție.* (Mihai Eminescu)</i></li>
 
-**Adverbul**
+<li>Adverbul
 
-Are, de obicei, valoare stilistică de epitet al verbului, cu rolul de a reda mai expresiv modul de desfășurare a acțiunii: *Te stingi încet din mine, iară/sub piept lovește-n căldărim o minge/și ziua pe trotuare se prelinge,/ lăsând în urmă-i iz de primăvară.* (Nichita Stănescu)
+Are, de obicei, valoare stilistică de epitet al verbului, cu rolul de a reda mai expresiv modul de desfășurare a acțiunii: <i>Te stingi încet din mine, iară/sub piept lovește-n căldărim o minge/și ziua pe trotuare se prelinge,/ lăsând în urmă-i iz de primăvară.</i> (Nichita Stănescu)</li>
 
-**Interjecția**
+<li>Interjecția
 
 Are ca principale efecte expresive crearea de imagini auditive, dinamizarea, aspectul ludic, imitarea unor sunete din natură pentru crearea unei atmosfere, imprimând discursului diferite nuanțe afective: mirarea, furia, îndoiala, insistența, aprobarea, chemarea, nemulțumirea etc.
 
-*Alături de mocirlele uscate/ies pomii toți cu trunchiurile-n floare/Hei... zi cu soare-n zare, spune-mi oare/cam câte fete-s astăzi deflorate?* (Nichita Stănescu)
+<i>Alături de mocirlele uscate/ies pomii toți cu trunchiurile-n floare/Hei... zi cu soare-n zare, spune-mi oare/cam câte fete-s astăzi deflorate?</i> (Nichita Stănescu)</li></td></tr>
 
-**B. FIGURILE DE STIL**
+<tr><th>B. FIGURILE DE STIL</th></tr>
 
-|**Aliterația** [fr. *alliteration,* „repetarea aceleiași litere"] - figură de sunet care constă în repetarea consoanelor sau a silabelor pentru obținerea unei efect auditiv, eufonic.|„Eu altfel respir aerul ca soda/ Și caut suflul lucrului în sine/ Pot să vă spun sonetul ce e, oda/ Secrete ce le știe orișicine”	(Marin Sorescu, *Declarație)*|
-| - | - |
+<tr><td><i>Aliterația</i> [fr. <i>alliteration</i>, „repetarea aceleiași litere"] - figură de sunet care constă în repetarea consoanelor sau a silabelor pentru obținerea unei efect auditiv, eufonic.„Eu altfel respir aerul ca soda/ Și caut suflul lucrului în sine/ Pot să vă spun sonetul ce e, oda/ Secrete ce le știe orișicine”	(Marin Sorescu, *Declarație)*|
+
 |**Asonanța** *[fr. assonance] -* repetiția vocalei accentuate în două sau mai multe cuvinte plasate în succesiune.|<p>„Cu ceața groasă oblojind copacii/ Coboară jos cerul ca o prelată”</p><p>(Marin Sorescu - *Sonet tomnatic)*</p>|
 |**Anafora** [gr. *Anaphoră* din *ana* și *phorein,* „a transporta”] - figură care constă în reluarea printr-un substitut a unui termen exprimat anterior numit antecedent. Relația antecedent-substitut este numită „relație anaforică” și are rolul de a oferi referința substitutului. Ea are mai multe funcții: emfatică, de intensificare, retorică, favorizează acumularea enumerativă etc.|<p>întotdeauna tu ești alta/ Și întotdeauna eu sunt același”</p><p>(Marin Sorescu, *întotdeauna tu ești alta)*</p>|
 |**Hiperbola** (fr. *hyperbole) -* figură de stil, constând în folosirea unor expresii și imagini exagerate, pentru a reda mai plastic ideea și a impresiona mai puternic.|<p>„Fiecare din noi se consideră Dragoș mândru ca un soare/ Și cu un roi întreg după el, chiuind, fuge în zig-zag”</p><p>*(Marin Sorescu, Lupta cu gărgăunii)*</p>|
