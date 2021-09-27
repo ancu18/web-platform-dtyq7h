@@ -1,4 +1,4 @@
-<style type="text/css">
+﻿<style type="text/css">
   <!-- @page { margin-top: 0.30cm; margin-bottom: 0.30cm; margin-left: 0.20cm; margin-right: 0.20cm; } 
   -->
 </style>
@@ -47,7 +47,7 @@
     margin-left: -1.1em;
   }
   th, tr {text-align:center}
-  td {text-align:justify; width:50%}
+  td {text-align:justify}
 </style>
 <style>
   .bf_toc_container {
@@ -1397,7 +1397,7 @@ TESTUL 15	36
 
 <a href='#bac4' id='umanismul_european'><h4 id='umanismul_european'>UMANISMUL EUROPEAN</h4></a>
 
-<table style='width:100%'><tr><td colspan='2'>Etapa culturală denumită umanism este strâns legată de întreaga mișcare a Renașterii europene.</td></tr><tr><th>Caracteristici</th><th>Reprezentanți</th></tr><tr><td><ul><li>pune în centrul preocupărilor omul și valorile sale;</li><li>datorată dezvoltării burgheziei și orașelor, această nouă concepție se desprinde de cenzura puternică a bisericii, iar cărturarul nu mai este, ca în Evul Mediu, doar clericul, ci laicul;</li><li>crede în libertatea, perfectibilitatea și demnitatea omului, capabil de a descoperi adevărurile despre sine și despre lume;</li><li> accentul cade pe rațiune;</li><li> idealul umanist este <i>Uomo Universale,</i> personalitatea creatoare capabilă să se afirme în mai multe domenii, să fie simultan savant, muzician, poet, matematician, pictor (una dintre aceste personalități fiind Leonardo da Vinci).</li></ul></td><td><p><b>Italia:</b> Dante Alighieri, Francesco Petrarca, Giovanni Boccaccio, Ludovico Ariosto, Michelangelo Buonarroti, Niccolo Machiavelli;</p><p><b>Franța:</b> Frangois Rabelais, Michel de Montaigne, Pierre de Ronsard;</p><p><b>Anglia:</b> Francis Bacon, Thomas Morus, William Shakespeare;</p><p><b>Țările de Jos:</b> Erasmus din Rotterdam;</p><p><b>Spania:</b> Miguel de Cervantes, Luis de Gongora y Argote, Lope de Vega, Pedro Calderon de la Barca;</p><p><b>La noi:</b> Nicolaus Olahus, Nicolae Milescu Spătarul, Grigore Ureche, Miron Costin, Ion Neculce, Dimitrie Cantemir.</p></td></tr></table>
+<table><tr><td colspan='2'>Etapa culturală denumită umanism este strâns legată de întreaga mișcare a Renașterii europene.</td></tr><tr><th>Caracteristici</th><th>Reprezentanți</th></tr><tr><td><ul><li>pune în centrul preocupărilor omul și valorile sale;</li><li>datorată dezvoltării burgheziei și orașelor, această nouă concepție se desprinde de cenzura puternică a bisericii, iar cărturarul nu mai este, ca în Evul Mediu, doar clericul, ci laicul;</li><li>crede în libertatea, perfectibilitatea și demnitatea omului, capabil de a descoperi adevărurile despre sine și despre lume;</li><li> accentul cade pe rațiune;</li><li> idealul umanist este <i>Uomo Universale,</i> personalitatea creatoare capabilă să se afirme în mai multe domenii, să fie simultan savant, muzician, poet, matematician, pictor (una dintre aceste personalități fiind Leonardo da Vinci).</li></ul></td><td><p><b>Italia:</b> Dante Alighieri, Francesco Petrarca, Giovanni Boccaccio, Ludovico Ariosto, Michelangelo Buonarroti, Niccolo Machiavelli;</p><p><b>Franța:</b> Frangois Rabelais, Michel de Montaigne, Pierre de Ronsard;</p><p><b>Anglia:</b> Francis Bacon, Thomas Morus, William Shakespeare;</p><p><b>Țările de Jos:</b> Erasmus din Rotterdam;</p><p><b>Spania:</b> Miguel de Cervantes, Luis de Gongora y Argote, Lope de Vega, Pedro Calderon de la Barca;</p><p><b>La noi:</b> Nicolaus Olahus, Nicolae Milescu Spătarul, Grigore Ureche, Miron Costin, Ion Neculce, Dimitrie Cantemir.</p></td></tr></table>
 
 <a href='#bac5' id='iluminismul'><h4 id='iluminismul'><b>ILUMINISMUL</b></h4></a><br>
 
