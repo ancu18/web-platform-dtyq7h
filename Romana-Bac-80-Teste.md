@@ -1625,14 +1625,12 @@ Are ca principale efecte expresive crearea de imagini auditive, dinamizarea, asp
 
 <b>I. SEMNELE DE ORTOGRAFIE</b>
 
-1. **APOSTROFUL [’]**
+1. <b>APOSTROFUL [’]</b>
 
-|A. **La nivel grafic,** apostroful marchează:|Exemple|
-| :- | :- |
-|1. căderea accidentală a unor sunete|<p>*’Neața!*</p><p>*„Cine oar’să fie omul care te-a îngrozit?"*</p><p>(Grigore Alexandrescu, *Umbra lui Mircea. La Cozi a)*</p>|
-|2. absența cifrei sau a cifrelor de început ale anilor calendaristici|*Anii '80, anul '48*|
-|3. grafia unor cuvinte împrumutate din alte limbi, neadaptate limbii române|*McDonald’s*|
-
+<tr><td>A. <b>La nivel grafic</b>, apostroful marchează:</td><td>Exemple</td></tr>
+<tr><td>1. căderea accidentală a unor sunete</td><td><p><i>’Neața!</i></p><p><i>„Cine oar’să fie omul care te-a îngrozit?"</i></p><p>(Grigore Alexandrescu, <i>Umbra lui Mircea. La Cozia)</i></p></td></tr>
+<tr><td>2. absența cifrei sau a cifrelor de început ale anilor calendaristici</td><td><i>Anii '80, anul '48</i></td></tr>
+<tr><td>3. grafia unor cuvinte împrumutate din alte limbi, neadaptate limbii române</td><td><i>McDonald’s</i></td></tr>
 
 
 |B. La **nivel stilistic,** apostroful contribuie la:|Exemple|
