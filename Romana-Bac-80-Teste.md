@@ -1632,10 +1632,8 @@ Are ca principale efecte expresive crearea de imagini auditive, dinamizarea, asp
 <tr><td>2. absența cifrei sau a cifrelor de început ale anilor calendaristici</td><td><i>Anii '80, anul '48</i></td></tr>
 <tr><td>3. grafia unor cuvinte împrumutate din alte limbi, neadaptate limbii române</td><td><i>McDonald’s</i></td></tr>
 
-<tr>B. La **nivel stilistic,** apostroful contribuie la:|Exemple|
-| :- | - |
-|1. evidențierea felului de a vorbi al unui personaj|<p>*Las’că știu eu că te prefaci! Zice Goe.*</p><p>(I. L. Caragiale, *D-l Goe...)*</p>|
-|2. păstrarea ritmului și a măsurii prin reducerea numărului de silabe|<p>*Gerul dă aripi de vultur cailor în spumegare/ Ce se-ntrec pe câmpul luciu, scoțând aburi lungi pe nare./ O! tu, gerule năprasnic, vin’, îndeamnă calul meu/ Să mă poarte ca săgeata unde el știe, și eu!*</p><p>(Vasile Alecsandri, *Gerul)*</p>|
+<tr><td>B. La <b>nivel stilistic</b>, apostroful contribuie la:</td><td>Exemple</td>
+<tr><td>1. evidențierea felului de a vorbi al unui personaj</td><td><p><i>Las’că știu eu că te prefaci! Zice Goe.</i></p><p>(I. L. Caragiale, <i>D-l Goe...</i>)</p></td></tr><tr><td>2. păstrarea ritmului și a măsurii prin reducerea numărului de silabe</td><td><p><i>Gerul dă aripi de vultur cailor în spumegare/ Ce se-ntrec pe câmpul luciu, scoțând aburi lungi pe nare./ O! tu, gerule năprasnic, vin’, îndeamnă calul meu/ Să mă poarte ca săgeata unde el știe, și eu!</i></p><p>(Vasile Alecsandri, <i>Gerul</i>)</p></td>
 |3. impresia de oralitate în textele literare|<p>*Vrei ceva, băiatu’?*</p><p>(Radu Paraschivescu, *Salvarea)*</p>|
 |4. atitudinea ironică|*Sigur vreți să vină și dom nu’?*|
 
