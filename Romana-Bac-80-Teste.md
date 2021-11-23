@@ -1633,23 +1633,22 @@ Are ca principale efecte expresive crearea de imagini auditive, dinamizarea, asp
 <tr><td>3. grafia unor cuvinte împrumutate din alte limbi, neadaptate limbii române</td><td><i>McDonald’s</i></td></tr>
 
 <tr><td>B. La <b>nivel stilistic</b>, apostroful contribuie la:</td><td>Exemple</td>
-<tr><td>1. evidențierea felului de a vorbi al unui personaj</td><td><p><i>Las’că știu eu că te prefaci! Zice Goe.</i></p><p>(I. L. Caragiale, <i>D-l Goe...</i>)</p></td></tr><tr><td>2. păstrarea ritmului și a măsurii prin reducerea numărului de silabe</td><td><p><i>Gerul dă aripi de vultur cailor în spumegare/ Ce se-ntrec pe câmpul luciu, scoțând aburi lungi pe nare./ O! tu, gerule năprasnic, vin’, îndeamnă calul meu/ Să mă poarte ca săgeata unde el știe, și eu!</i></p><p>(Vasile Alecsandri, <i>Gerul</i>)</p></td>
-|3. impresia de oralitate în textele literare|<p>*Vrei ceva, băiatu’?*</p><p>(Radu Paraschivescu, *Salvarea)*</p>|
-|4. atitudinea ironică|*Sigur vreți să vină și dom nu’?*|
+<tr><td>1. evidențierea felului de a vorbi al unui personaj</td><td><p><i>Las’că știu eu că te prefaci! Zice Goe.</i></p><p>(I. L. Caragiale, <i>D-l Goe...</i>)</p></td></tr><tr><td>2. păstrarea ritmului și a măsurii prin reducerea numărului de silabe</td><td><p><i>Gerul dă aripi de vultur cailor în spumegare/ Ce se-ntrec pe câmpul luciu, scoțând aburi lungi pe nare./ O! tu, gerule năprasnic, vin’, îndeamnă calul meu/ Să mă poarte ca săgeata unde el știe, și eu!</i></p><p>(Vasile Alecsandri, <i>Gerul</i>)</p></td></tr>
+<tr><td>3. impresia de oralitate în textele literare</td><td><p><i>Vrei ceva, băiatu’?</i></p><p>(Radu Paraschivescu, <i>Salvarea</i>)</p></td></tr>
+<tr><td>4. atitudinea ironică</td><td><i>Sigur vreți să vină și domnu’?</i></td></tr>
 
-**ATENȚIE!**
+<b>ATENȚIE!</b>
 
-**Apostroful este singurul semn exclusiv ortografic.**
+<b>Apostroful este singurul semn exclusiv ortografic.</b>
 
-1. **CRATIMA [-]**
+1. <b>CRATIMA [-]</b>
 
-**A.** La nivel grafic
+<b>A.</b> La nivel grafic
 
-|I. Cratima leagă:|*Exemple*|
-| :- | :- |
-|<p>1. cuvinte pronunțate împreună:</p><p>a) permanent</p><p>b) accidental</p>|<p>a) *dă-l, de-a dreptul, las-o*</p><p>b) *de-abia* sau *de abia, n-am* sau *nu am etc.*</p>|
-|2. cuvinte compuse|*Roșu-împărat, Albă-ca-Zăpada, drept-credincios, Piatra-Neamț*|
-|3. componentele unor locuțiuni|*treacă-meargă, tura-vura, hodoronc-tronc*|
+<tr><td>I. Cratima leagă:</td><td><i>Exemple</i></td></tr>
+<tr><td><p>1. cuvinte pronunțate împreună:</p><p>a) permanent</p><p>b) accidental</p></td><td><p>a) <i>dă-l, de-a dreptul, las-o</i></p><p>b) <i>de-abia</i> sau <i>de abia, n-am</i> sau <i>nu am etc.</i></p></td></tr>
+<tr><td>2. cuvinte compuse</td><td><i>Roșu-împărat, Albă-ca-Zăpada, drept-credincios, Piatra-Neamț</i></td></tr>
+<tr><td>3. componentele unor locuțiuni</td><td><i>treacă-meargă, tura-vura, hodoronc-tronc</i></td></tr>
 
 
 |4. articolul hotărât enclitic de unele cuvinte împrumutate, a căror finală prezintă deosebiri între scriere și pronunțare|*Acquis-ul, show-uri*|
