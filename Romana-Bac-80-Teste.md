@@ -1649,12 +1649,9 @@ Are ca principale efecte expresive crearea de imagini auditive, dinamizarea, asp
 <tr><td><p>1. cuvinte pronunțate împreună:</p><p>a) permanent</p><p>b) accidental</p></td><td><p>a) <i>dă-l, de-a dreptul, las-o</i></p><p>b) <i>de-abia</i> sau <i>de abia, n-am</i> sau <i>nu am etc.</i></p></td></tr>
 <tr><td>2. cuvinte compuse</td><td><i>Roșu-împărat, Albă-ca-Zăpada, drept-credincios, Piatra-Neamț</i></td></tr>
 <tr><td>3. componentele unor locuțiuni</td><td><i>treacă-meargă, tura-vura, hodoronc-tronc</i></td></tr>
-
-
-|4. articolul hotărât enclitic de unele cuvinte împrumutate, a căror finală prezintă deosebiri între scriere și pronunțare|*Acquis-ul, show-uri*|
-| :- | :- |
-|5. elementul *-lea, -a* de la numeralul ordinal și *-ime* de la numeralele cardinale scrise cu cifre romane sau arabe|*a VII l-a, al XXI-lea, 17-imi*|
-|6. cuvinte care se repetă identic sau ușor modificate|*ușor-ușor, singur-singurel, cioc-cioc*|
+<tr><td>4. articolul hotărât enclitic de unele cuvinte împrumutate, a căror finală prezintă deosebiri între scriere și pronunțare</td><td><i>Acquis-ul, show-uri</i></td></tr>
+<tr><td>5. elementul <i>-lea, -a</i> de la numeralul ordinal și <i>-ime</i> de la numeralele cardinale scrise cu cifre romane sau arabe</td><td><i>a VIII-a, al XXI-lea, 17-imi</i></td></tr>
+<tr><td>6. cuvinte care se repetă identic sau ușor modificate</td><td><i>ușor-ușor, singur-singurel, cioc-cioc</i></td></tr>
 |7. sufixe și prefixe de cuvântul de bază|*ex-ministru, pro-Nato, ante-‘9O*|
 |8. substantive care denumesc grade de rudenie de adjective pronominale posesive|*Maică-mea, cumnatu-său, soacrâ-sa*|
 |9. forme abreviate ale unor cuvinte|*Lt-major, S-V*|
