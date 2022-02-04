@@ -1652,23 +1652,19 @@ Are ca principale efecte expresive crearea de imagini auditive, dinamizarea, asp
 <tr><td>4. articolul hotărât enclitic de unele cuvinte împrumutate, a căror finală prezintă deosebiri între scriere și pronunțare</td><td><i>Acquis-ul, show-uri</i></td></tr>
 <tr><td>5. elementul <i>-lea, -a</i> de la numeralul ordinal și <i>-ime</i> de la numeralele cardinale scrise cu cifre romane sau arabe</td><td><i>a VIII-a, al XXI-lea, 17-imi</i></td></tr>
 <tr><td>6. cuvinte care se repetă identic sau ușor modificate</td><td><i>ușor-ușor, singur-singurel, cioc-cioc</i></td></tr>
-|7. sufixe și prefixe de cuvântul de bază|*ex-ministru, pro-Nato, ante-‘9O*|
-|8. substantive care denumesc grade de rudenie de adjective pronominale posesive|*Maică-mea, cumnatu-său, soacrâ-sa*|
-|9. forme abreviate ale unor cuvinte|*Lt-major, S-V*|
-|10. derivatele cu prefixele *ne-* și *re-* de la teme care încep cu *îm-, în-*|*ne-ncetat, re-mpărți*|
-|11. forme verbale inversate|*venit-au*|
-|12. pronumele neaccentuat /- de un verb care începe cu vocală|*l-am ascultat*|
-|13. forma scurtă a verbului *a fi (-S-)* de cuvinte care se termină în vocală|*Câțiva-s atleți*|
+<tr><td>7. sufixe și prefixe de cuvântul de bază</td><td>ex-ministru, pro-Nato, ante-‘9O</td></tr>
+<tr><td>8. substantive care denumesc grade de rudenie de adjective pronominale posesive</td><td>Maică-mea, cumnatu-său, soacrâ-sa</td></tr>
+<tr><td>9. forme abreviate ale unor cuvinte</td><td>Lt-major, S-V</td></tr>
+<tr><td>10. derivatele cu prefixele <i>ne-</i> și <i>re-</i> de la teme care încep cu <i>îm-, în-</i></td><td>ne-ncetat, re-mpărți</td></tr>
+<tr><td>11. forme verbale inversate</td><td><i>venit-au</i></td></tr>
+<tr><td>12. pronumele neaccentuat /- de un verb care începe cu vocală</td><td><i>l-am ascultat</i></td></tr>
+<tr><td>13. forma scurtă a verbului <i>a fi (-S-)</i> de cuvinte care se termină în vocală</td><td><i>Câțiva-s atleți</i></td></tr>
 
+<tr><td>II. Cratima desparte</td><td>Exemple</td></tr>
+<tr><td>1. cuvintele în silabe la capăt de rând</td><td><i>li-te-ra-tu-ră</i></td></tr>
+<tr><td>2. silabele unui cuvânt redat sacadat</td><td><i>O-braz-ni-cu-le!</i></td></tr>
 
-
-|II. Cratima desparte:|Exemple|
-| :- | :- |
-|1. cuvintele în silabe la capăt de rând|*li-te-ra-tu-ră*|
-|2. silabele unui cuvânt redat sacadat|*O-braz-ni-cu-le!*|
-
-
-**B.** La nivel stilistic
+<b>B.</b>La nivel stilistic
 
 |Cratima marchează:|Exemple|
 | :- | :- |
