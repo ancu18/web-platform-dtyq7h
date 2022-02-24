@@ -9,7 +9,7 @@
   }
 
 
-  h2 {
+  h2 {p
     text-align: center;
   }
   
@@ -1666,9 +1666,8 @@ Are ca principale efecte expresive crearea de imagini auditive, dinamizarea, asp
 
 <b>B.</b>La nivel stilistic
 
-|Cratima marchează:|Exemple|
-| :- | :- |
-|1. tempoul rapid al vorbirii|*De-abia a ajuns și s-a și apucat de teme.*|
+<tr><td>Cratima marchează:</td><td>Exemple</td></tr>
+<tr><td>1. tempoul rapid al vorbirii</td>*De-abia a ajuns și s-a și apucat de teme.*|
 |2. menține ritmul și măsura versurilor (prin căderea unei vocale, dispariția unei silabe, eliminarea hiatului, apariția unui diftong etc.)|<p>*Ne-am așezat alături și brațu-i m-a cuprins./ Un luminiș în mine părea că s-ar fi stins.*</p><p>(Tudor Arghezi, *Toamna)*</p>|
 |3. intensifică sentimentele (de bucurie, admirație, dispreț, ură, revoltă ș.a.)|<p>*No-ta ze-ce pentru acest proiect!*</p><p>*Pe unde ai umblat, ne-no-ro-ci-tu-le?*</p>|
 
