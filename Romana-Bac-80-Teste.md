@@ -1667,16 +1667,13 @@ Are ca principale efecte expresive crearea de imagini auditive, dinamizarea, asp
 <b>B.</b>La nivel stilistic
 
 <tr><td>Cratima marchează:</td><td>Exemple</td></tr>
-<tr><td>1. tempoul rapid al vorbirii</td>*De-abia a ajuns și s-a și apucat de teme.*|
-|2. menține ritmul și măsura versurilor (prin căderea unei vocale, dispariția unei silabe, eliminarea hiatului, apariția unui diftong etc.)|<p>*Ne-am așezat alături și brațu-i m-a cuprins./ Un luminiș în mine părea că s-ar fi stins.*</p><p>(Tudor Arghezi, *Toamna)*</p>|
-|3. intensifică sentimentele (de bucurie, admirație, dispreț, ură, revoltă ș.a.)|<p>*No-ta ze-ce pentru acest proiect!*</p><p>*Pe unde ai umblat, ne-no-ro-ci-tu-le?*</p>|
+<tr><td>1. tempoul rapid al vorbirii</td><td><i>De-abia a ajuns și s-a și apucat de teme.</i></td></tr>
+<tr><td>2. menține ritmul și măsura versurilor (prin căderea unei vocale, dispariția unei silabe, eliminarea hiatului, apariția unui diftong etc.)</td><td><i>Ne-am așezat alături și brațu-i m-a cuprins./ Un luminiș în mine părea că s-ar fi stins.</i>(Tudor Arghezi, <i>Toamna</i>)</td></tr><tr><td>3. intensifică sentimentele (de bucurie, admirație, dispreț, ură, revoltă ș.a.)</td><td><i>No-ta ze-ce pentru acest proiect!</i><i>Pe unde ai umblat, ne-no-ro-ci-tu-le?</i></td></tr>
 
+<b>ATENȚIE!</b>
 
-**ATENȚIE!**
-
-|Cratima este **obligatorie:**|Exemplu|
-| :- | :- |
-|1. când leagă un pronume cu formă neaccentuată *(mi-, ți-, i-, te-, ne-,v- le-, și-)* de un verb auxiliar sau de pronumele neaccentuat *o*|*ți-a zis, mi-a luat, i-o trimite*|
+<tr><td>Cratima este <b>obligatorie</b>:</td><td>Exemplu</td></tr>
+1. când leagă un pronume cu formă neaccentuată *(mi-, ți-, i-, te-, ne-,v- le-, și-)* de un verb auxiliar sau de pronumele neaccentuat *o*|*ți-a zis, mi-a luat, i-o trimite*|
 |2. când pronumele *(mi-, ți-, li-, ni-, vi-, i-, și-)* neaccentuate sunt urmate de forme pronominale în acuzativ|*Și-i duce, ni-l dăruiește*|
 |3. când pronumele neaccentuate / și *o* sunt precedate de verbe la imperativ, optativ sau conjunctiv|*Cântă-i! Laud-o!, ar aduce-o*|
 |4. când pronumele *i* se află după un substantiv sau prepoziții de genitiv|*Cartea-i, asupra-i, contra-i*|
