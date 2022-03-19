@@ -1667,9 +1667,9 @@ Are ca principale efecte expresive crearea de imagini auditive, dinamizarea, asp
 <b>ATENȚIE!</b>
 
 <table><tr><td>Cratima este <b>obligatorie</b>:</td><td>Exemplu</td></tr><tr><td>
-1. când leagă un pronume cu formă neaccentuată <i>(mi-, ți-, i-, te-, ne-,v- le-, și-)</i> de un verb auxiliar sau de pronumele neaccentuat <i>o</i>|*ți-a zis, mi-a luat, i-o trimite*|
-|2. când pronumele *(mi-, ți-, li-, ni-, vi-, i-, și-)* neaccentuate sunt urmate de forme pronominale în acuzativ|*Și-i duce, ni-l dăruiește*|
-|3. când pronumele neaccentuate / și *o* sunt precedate de verbe la imperativ, optativ sau conjunctiv|*Cântă-i! Laud-o!, ar aduce-o*|
+1. când leagă un pronume cu formă neaccentuată <i>(mi-, ți-, i-, te-, ne-,v- le-, și-)</i> de un verb auxiliar sau de pronumele neaccentuat <i>o</i></td><td><i>ți-a zis, mi-a luat, i-o trimite</i></td></tr>
+<tr><td>2. când pronumele (<i>mi-, ți-, li-, ni-, vi-, i-, și-</i>) neaccentuate sunt urmate de forme pronominale în acuzativ</td><td><i>Și-i duce, ni-l dăruiește</i></td></tr>
+3. când pronumele neaccentuate / și *o* sunt precedate de verbe la imperativ, optativ sau conjunctiv|*Cântă-i! Laud-o!, ar aduce-o*|
 |4. când pronumele *i* se află după un substantiv sau prepoziții de genitiv|*Cartea-i, asupra-i, contra-i*|
 
 
