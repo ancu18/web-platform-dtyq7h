@@ -1581,33 +1581,30 @@ Valoarea sa expresivă rezidă în marea încărcătură afectivă și subiectiv
 
 <i>Vino iar la sânu-mi, nepăsare tristă!</i> (Mihai Eminescu)</li>
 
-<li>Gerunziul - imprimă acțiunii un sens durativ, raportând-o la alta; poate dobândi în contexte un efect de muzicalitate lentă, cu ritm apăsat:
+<li><b>Gerunziul</b> - imprimă acțiunii un sens durativ, raportând-o la alta; poate dobândi în contexte un efect de muzicalitate lentă, cu ritm apăsat:
 
 <i>Iubind în taină am păstrat tăcere,/ Gândind că astfel o să-ți placă ție.* (Mihai Eminescu)</i></li>
 
-<li>Adverbul
+<li><b>Adverbul</b>
 
 Are, de obicei, valoare stilistică de epitet al verbului, cu rolul de a reda mai expresiv modul de desfășurare a acțiunii: <i>Te stingi încet din mine, iară/sub piept lovește-n căldărim o minge/și ziua pe trotuare se prelinge,/ lăsând în urmă-i iz de primăvară.</i> (Nichita Stănescu)</li>
 
-<li>Interjecția
+<li><b>Interjecția</b>
 
 Are ca principale efecte expresive crearea de imagini auditive, dinamizarea, aspectul ludic, imitarea unor sunete din natură pentru crearea unei atmosfere, imprimând discursului diferite nuanțe afective: mirarea, furia, îndoiala, insistența, aprobarea, chemarea, nemulțumirea etc.
 
-<i>Alături de mocirlele uscate/ies pomii toți cu trunchiurile-n floare/Hei... zi cu soare-n zare, spune-mi oare/cam câte fete-s astăzi deflorate?</i> (Nichita Stănescu)</li></td></tr>
+<i>Alături de mocirlele uscate/ies pomii toți cu trunchiurile-n floare/Hei... zi cu soare-n zare, spune-mi oare/cam câte fete-s astăzi deflorate?</i> (Nichita Stănescu)</li></td></tr></table>
 
-<tr><th colspan="2">B. FIGURILE DE STIL</th></tr>
+<center><b>B. FIGURILE DE STIL</b></center><br>
 
-<tr><td><i>Aliterația</i> [fr. <i>alliteration</i>, „repetarea aceleiași litere"] - figură de sunet care constă în repetarea consoanelor sau a silabelor pentru obținerea unei efect auditiv, eufonic.</td><td>„Eu altfel respir aerul ca soda/ Și caut suflul lucrului în sine/ Pot să vă spun sonetul ce e, oda/ Secrete ce le știe orișicine”	(Marin Sorescu, <i>Declarație</i>)</td></tr>
-
+<table><tr><td><b>Aliterația</b> [fr. <i>alliteration</i>, „repetarea aceleiași litere"] - figură de sunet care constă în repetarea consoanelor sau a silabelor pentru obținerea unei efect auditiv, eufonic.</td><td>„Eu altfel respir aerul ca soda/ Și caut suflul lucrului în sine/ Pot să vă spun sonetul ce e, oda/ Secrete ce le știe orișicine”	(Marin Sorescu, <i>Declarație</i>)</td></tr>
 <tr><td><b>Asonanța</b> <i>[fr. assonance]</i> - repetiția vocalei accentuate în două sau mai multe cuvinte plasate în succesiune.</td><td><p>„Cu ceața groasă oblojind copacii/ Coboară jos cerul ca o prelată”</p><p>(Marin Sorescu - *Sonet tomnatic)*</p></td></tr>
 <tr><td><b>Anafora</b> [gr. <i>Anaphoră</i> din <i>ana</i> și <i>phorein</i>, „a transporta”] - figură care constă în reluarea printr-un substitut a unui termen exprimat anterior numit antecedent. Relația antecedent-substitut este numită „relație anaforică” și are rolul de a oferi referința substitutului. Ea are mai multe funcții: emfatică, de intensificare, retorică, favorizează acumularea enumerativă etc.<td><p>întotdeauna tu ești alta/ Și întotdeauna eu sunt același”</p><p>(Marin Sorescu, <i>întotdeauna tu ești alta</i>)</p></td></tr>
 <tr><td><b>Hiperbola</b> (fr. <i>hyperbole</i>) - figură de stil, constând în folosirea unor expresii și imagini exagerate, pentru a reda mai plastic ideea și a impresiona mai puternic.</td><td><p>„Fiecare din noi se consideră Dragoș mândru ca un soare/ Și cu un roi întreg după el, chiuind, fuge în zig-zag”</p><p>(Marin Sorescu, Lupta cu gărgăunii)</p></td></tr>
 <tr><td><b>Metonimia</b> (fr. <i>metonymie</i>) - figură de stil care constă în inversiunea voluntară a categoriilor logice ale întregului prin parte, ale părții prin întreg, ale cauzei prin efect, ale efectului prin cauză, ale abstractului prin concret, ale posesorului prin lucrul posedat.</td><td><p>„Ce <i>pană</i> să se înnoade exact/ La firul meu început”</p><p>(Marin Sorescu, <i>Scribul</i>);</p><p><i>„pana” pentru „scris”</i></p></td></tr>
 <tr><td><b>Sinecdoca</b> (din lat. synecdoche, ngr. sinekdohi, fr. synecdoque) - figură de stil care constă în lărgirea sau restrângerea sensului unui cuvânt prin folosirea întregului în locul părții (și invers), a particularului în locul generalului, a generalului în locul particularului, a materiei din care este făcut un lucru în locul lucrului însuși etc.</td><td><p>„Vin cu inima curată/ Să-și fumeze aici tutunul/ ce răbdare-are românul/ Vor a ști, cronometrată”</p><p>(Marin Sorescu, <i>Năvăliri</i>)</p></td></tr><tr><td><b>Comparația</b>[lat. <i>comparatio</i>, „asemănare, stabilire”] - figură de stil prin intermediul căreia un termen numit comparat este apropiat de alt termen numit comparant prin intermediul unui adverb ce semnifică asemănarea lor (ca, precum, cum). Apropierea se face pe baza unei analogii.</td><td><p>„Ai intrat în inspirația mea astăzi/ Ca un microb frumos”</p><p>(Marin Sorescu, <i>Microb frumos</i>)</p></td></tr><tr><td><b>Personificarea</b> este figura de stil prin care lucrurilor, obiectelor li se atribuie însușiri umane.</td><td><p>„îmi place aerul tandru/ din jurul tău”</p><p>(Marin Sorescu, <i>Microb frumos</i>)</p><p>„îmi cade cerul în genunchi”</p><p>(Marin Sorescu, <i>Lumina dată la rindea)</i></p></td></tr>
 <tr><td><b>Alegoria</b> (fr.<i>allegorie</i> - „desfășurare a închipuirii") este un procedeu stilistic constând în exprimarea unei idei abstracte prin mijloace concrete; altfel spus, este o amplă metaforă ce permite un transfer din planul abstract/ profund al înțelesurilor, într-un plan de suprafață, figurativ.</td><td><p>„Fulgerul a trecut prin mine/ Luminându-mă fantastic/ Dar omorându-l/ Pe fiul meu... Dacă mă gândesc la pădure/ Se face mangal/ Până mâine dimineață/ De bun ce sunt/ Lumina m-a rugat să-i fiu gazdă/ Și cu toate acestea, în jurul meu/ E un imens cerc/ Negru.”</p><p>(Marin Sorescu, <i>Fulgerul a trecut</i>)</p></td></tr>
-
-
-<tr><b>Epitetul</b> (gr. <i>epitheton</i>, „cuvânt adăugat”) - „Partea de vorbire sau de frază care determină, în lucrările sau acțiunile exprimate, printr-un substantiv sau verb, însușirile lor estetice, adică acelea care pun în lumină felul cum le vede sau cum le simte scriitorul și care au un răsunet în sensibilitatea și fantezia cititorului.” (T. Vianu)</td><td><p>„E-atâta iarnă-n frigul sferic...”</p><p>(Marin Sorescu, *Limpezimi)*</p><p>„norul feței mele, plumburiu și greu”</p><p>(Nichita Stănescu, <i>Euridice</i>)</p></td></tr>
+<tr><td><b>Epitetul</b> (gr. <i>epitheton</i>, „cuvânt adăugat”) - „Partea de vorbire sau de frază care determină, în lucrările sau acțiunile exprimate, printr-un substantiv sau verb, însușirile lor estetice, adică acelea care pun în lumină felul cum le vede sau cum le simte scriitorul și care au un răsunet în sensibilitatea și fantezia cititorului.” (T. Vianu)</td><td><p>„E-atâta iarnă-n frigul sferic...”</p><p>(Marin Sorescu, *Limpezimi)*</p><p>„norul feței mele, plumburiu și greu”</p><p>(Nichita Stănescu, <i>Euridice</i>)</p></td></tr>
 
 <tr><td><b>Interogația retorică</b> [lat. <i>interogația</i>, „întrebare”] - figură de stil realizată sub forma unei/ unor întrebări de la care nu se așteaptă un răspuns, dar prin intermediul căreia/ cărora se transmit o idee, o supoziție, o atitudine. Este, de fapt, o falsă întrebare.</td><td><p>Ce literă e asta?/ L-a întrebat. - Noaptea, a spus el. - Te înșeli, este soarele./ Noaptea, știm cu toții, n-are raze. Dar asta?/ Noaptea./ - Mă faci să râd! Este marea. De unde/Atâta întuneric în mare?”</p><p>(Marin Sorescu, <i>Unghi</i>)</p></td></tr>
 <tr><td><b>Paralelismul sintactic</b> [fr. <i>parallelisme</i>] - repetarea simetrică a unor funcții sau structuri sintactice, în propoziție sau în frază; realizarea acestuia este rezultatul repetiției și al simetriei.</td><td><p>„Alergam pe o platformă infinită de beton alergam.</p><p>Tăcerea era desăvârșită și alergarea nu mi-o auzeam vederea platformei era amplă și infinită și n-o mai vedeam.</p><p>Alergam pe-o platformă infinită de beton alergam.”</p><p>(Marin Sorescu, <i>Trepte</i>)</p></td></tr>
@@ -1616,36 +1613,33 @@ Are ca principale efecte expresive crearea de imagini auditive, dinamizarea, asp
 <tr><td><b>Oximoronul</b> [gr. oxys, „înțepător, picant” și moros, „prostănac, năuc”] - figură de stil ce constă în asocierea în aceeași sintagmă a doi termeni ce exprimă noțiuni contradictorii.</td><td><p>„suferință tu, dureros de dulce", „bulgări fluizi”.</p><p>(Mihai Eminescu)</p></td></tr>
 <tr><td><b>Elipsa</b> - procedeu al eliminării unei părți a discursului care se subînțelege ușor din context, fără să fi fost exprimată în prealabil. Elipsa elimină ceea ce este neesențial, reținând exprimarea concisă a ideii.</td><td><p>„Fă cunoștință cu fata, n-o lua numai pe auzite, pentru că nu se mănâncă tot ce zboară și se-ntâmplă de departe trandafir și de-aproape borș cu știr.”</p><p>(Costache Negruzzi)</p></td></tr>
 <tr><td><b>Repetiția</b> [<i>fr.</i> repetion, <i>lat.</i> repetitio] - Figură de stil care constă în repetarea unui cuvânt, a unui grup de cuvinte, sau a aceleiași relații gramaticale de două sau de mai multe ori pentru a întări o idee sau o impresie.</td><td><p>„Tremur, tremur, tremur...</p><p>Orice ironie</p><p>Vă rămâne vouă -</p><p>Noaptea e târzie,</p><p>Tremur, tremur, tremur.”</p><p>(George Bacovia, <i>Rar</i>)</p></td></tr>
-
-<b>Enumerația</b> [<i>fr.</i> enumeration, <i>lat.</i> enumeratio-enumerare] 1. Ca termen retoric, desemnează o recapitulare a principalelor argumente înainte de încheierea discursului cu scopul de a convinge auditoriul. 2. Ca figură de stil constă în prezentarea succesivă a unor argumente, fapte, însușiri privitoare la o temă sau un subiect, utilizată atât în proză, cât și în poezia lirică. Este considerată și una dintre figurile insistenței.
-
+<tr><td><b>Enumerația</b> [<i>fr.</i> enumeration, <i>lat.</i> enumeratio-enumerare] 1. Ca termen retoric, desemnează o recapitulare a principalelor argumente înainte de încheierea discursului cu scopul de a convinge auditoriul. 2. Ca figură de stil constă în prezentarea succesivă a unor argumente, fapte, însușiri privitoare la o temă sau un subiect, utilizată atât în proză, cât și în poezia lirică. Este considerată și una dintre figurile insistenței.</td><td>
 „Iar în patru părți a lumii/Vede șiruri munții mari,/Atlasul, Caucazul, Taurul și Balcanii seculari;/ Vede Eufratul și Tigris, Nilul, Dunărea bătrână,/ Umbra arborelui falnic peste toate e stăpână.”
 
-(Mihai Eminescu, <i>Scrisoarea III</i>)
+(Mihai Eminescu, <i>Scrisoarea III</i>)</td></tr></table>
 
-<b>I. SEMNELE DE ORTOGRAFIE</b>
+<center><b>I. SEMNELE DE ORTOGRAFIE</b></center><br>
 
-1. <b>APOSTROFUL [’]</b>
+<center><b>1. APOSTROFUL [’]</b></center><br>
 
-<tr><td>A. <b>La nivel grafic</b>, apostroful marchează:</td><td>Exemple</td></tr>
+<table><tr><td>A. <b>La nivel grafic</b>, apostroful marchează:</td><td>Exemple</td></tr>
 <tr><td>1. căderea accidentală a unor sunete</td><td><p><i>’Neața!</i></p><p><i>„Cine oar’să fie omul care te-a îngrozit?"</i></p><p>(Grigore Alexandrescu, <i>Umbra lui Mircea. La Cozia)</i></p></td></tr>
 <tr><td>2. absența cifrei sau a cifrelor de început ale anilor calendaristici</td><td><i>Anii '80, anul '48</i></td></tr>
-<tr><td>3. grafia unor cuvinte împrumutate din alte limbi, neadaptate limbii române</td><td><i>McDonald’s</i></td></tr>
+<tr><td>3. grafia unor cuvinte împrumutate din alte limbi, neadaptate limbii române</td><td><i>McDonald’s</i></td></tr></table>
 
-<tr><td>B. La <b>nivel stilistic</b>, apostroful contribuie la:</td><td>Exemple</td>
+<table><tr><td>B. La <b>nivel stilistic</b>, apostroful contribuie la:</td><td>Exemple</td>
 <tr><td>1. evidențierea felului de a vorbi al unui personaj</td><td><p><i>Las’că știu eu că te prefaci! Zice Goe.</i></p><p>(I. L. Caragiale, <i>D-l Goe...</i>)</p></td></tr><tr><td>2. păstrarea ritmului și a măsurii prin reducerea numărului de silabe</td><td><p><i>Gerul dă aripi de vultur cailor în spumegare/ Ce se-ntrec pe câmpul luciu, scoțând aburi lungi pe nare./ O! tu, gerule năprasnic, vin’, îndeamnă calul meu/ Să mă poarte ca săgeata unde el știe, și eu!</i></p><p>(Vasile Alecsandri, <i>Gerul</i>)</p></td></tr>
 <tr><td>3. impresia de oralitate în textele literare</td><td><p><i>Vrei ceva, băiatu’?</i></p><p>(Radu Paraschivescu, <i>Salvarea</i>)</p></td></tr>
-<tr><td>4. atitudinea ironică</td><td><i>Sigur vreți să vină și domnu’?</i></td></tr>
+<tr><td>4. atitudinea ironică</td><td><i>Sigur vreți să vină și domnu’?</i></td></tr></table>
 
-<b>ATENȚIE!</b>
-
+<b>ATENȚIE!</b><br>
 <b>Apostroful este singurul semn exclusiv ortografic.</b>
 
-1. <b>CRATIMA [-]</b>
+<center><b>2. CRATIMA [-]</b></center>
 
-<b>A.</b> La nivel grafic
+<b>A. La nivel grafic</b>
 
-<tr><td>I. Cratima leagă:</td><td><i>Exemple</i></td></tr>
+<table><tr><td>I. Cratima leagă:</td><td><i>Exemple</i></td></tr>
 <tr><td><p>1. cuvinte pronunțate împreună:</p><p>a) permanent</p><p>b) accidental</p></td><td><p>a) <i>dă-l, de-a dreptul, las-o</i></p><p>b) <i>de-abia</i> sau <i>de abia, n-am</i> sau <i>nu am etc.</i></p></td></tr>
 <tr><td>2. cuvinte compuse</td><td><i>Roșu-împărat, Albă-ca-Zăpada, drept-credincios, Piatra-Neamț</i></td></tr>
 <tr><td>3. componentele unor locuțiuni</td><td><i>treacă-meargă, tura-vura, hodoronc-tronc</i></td></tr>
@@ -1658,22 +1652,22 @@ Are ca principale efecte expresive crearea de imagini auditive, dinamizarea, asp
 <tr><td>10. derivatele cu prefixele <i>ne-</i> și <i>re-</i> de la teme care încep cu <i>îm-, în-</i></td><td>ne-ncetat, re-mpărți</td></tr>
 <tr><td>11. forme verbale inversate</td><td><i>venit-au</i></td></tr>
 <tr><td>12. pronumele neaccentuat /- de un verb care începe cu vocală</td><td><i>l-am ascultat</i></td></tr>
-<tr><td>13. forma scurtă a verbului <i>a fi (-S-)</i> de cuvinte care se termină în vocală</td><td><i>Câțiva-s atleți</i></td></tr>
+<tr><td>13. forma scurtă a verbului <i>a fi (-S-)</i> de cuvinte care se termină în vocală</td><td><i>Câțiva-s atleți</i></td></tr></table>
 
-<tr><td>II. Cratima desparte</td><td>Exemple</td></tr>
+<table><tr><td>II. Cratima desparte</td><td>Exemple</td></tr>
 <tr><td>1. cuvintele în silabe la capăt de rând</td><td><i>li-te-ra-tu-ră</i></td></tr>
-<tr><td>2. silabele unui cuvânt redat sacadat</td><td><i>O-braz-ni-cu-le!</i></td></tr>
+<tr><td>2. silabele unui cuvânt redat sacadat</td><td><i>O-braz-ni-cu-le!</i></td></tr></table>
 
-<b>B.</b>La nivel stilistic
+<b>B. La nivel stilistic</b>
 
-<tr><td>Cratima marchează:</td><td>Exemple</td></tr>
+<table><tr><td>Cratima marchează:</td><td>Exemple</td></tr>
 <tr><td>1. tempoul rapid al vorbirii</td><td><i>De-abia a ajuns și s-a și apucat de teme.</i></td></tr>
-<tr><td>2. menține ritmul și măsura versurilor (prin căderea unei vocale, dispariția unei silabe, eliminarea hiatului, apariția unui diftong etc.)</td><td><i>Ne-am așezat alături și brațu-i m-a cuprins./ Un luminiș în mine părea că s-ar fi stins.</i>(Tudor Arghezi, <i>Toamna</i>)</td></tr><tr><td>3. intensifică sentimentele (de bucurie, admirație, dispreț, ură, revoltă ș.a.)</td><td><i>No-ta ze-ce pentru acest proiect!</i><i>Pe unde ai umblat, ne-no-ro-ci-tu-le?</i></td></tr>
+<tr><td>2. menține ritmul și măsura versurilor (prin căderea unei vocale, dispariția unei silabe, eliminarea hiatului, apariția unui diftong etc.)</td><td><i>Ne-am așezat alături și brațu-i m-a cuprins./ Un luminiș în mine părea că s-ar fi stins.</i>(Tudor Arghezi, <i>Toamna</i>)</td></tr><tr><td>3. intensifică sentimentele (de bucurie, admirație, dispreț, ură, revoltă ș.a.)</td><td><i>No-ta ze-ce pentru acest proiect!</i><i>Pe unde ai umblat, ne-no-ro-ci-tu-le?</i></td></tr></table>
 
 <b>ATENȚIE!</b>
 
-<tr><td>Cratima este <b>obligatorie</b>:</td><td>Exemplu</td></tr>
-1. când leagă un pronume cu formă neaccentuată *(mi-, ți-, i-, te-, ne-,v- le-, și-)* de un verb auxiliar sau de pronumele neaccentuat *o*|*ți-a zis, mi-a luat, i-o trimite*|
+<table><tr><td>Cratima este <b>obligatorie</b>:</td><td>Exemplu</td></tr><tr><td>
+1. când leagă un pronume cu formă neaccentuată <i>(mi-, ți-, i-, te-, ne-,v- le-, și-)</i> de un verb auxiliar sau de pronumele neaccentuat <i>o</i>|*ți-a zis, mi-a luat, i-o trimite*|
 |2. când pronumele *(mi-, ți-, li-, ni-, vi-, i-, și-)* neaccentuate sunt urmate de forme pronominale în acuzativ|*Și-i duce, ni-l dăruiește*|
 |3. când pronumele neaccentuate / și *o* sunt precedate de verbe la imperativ, optativ sau conjunctiv|*Cântă-i! Laud-o!, ar aduce-o*|
 |4. când pronumele *i* se află după un substantiv sau prepoziții de genitiv|*Cartea-i, asupra-i, contra-i*|
