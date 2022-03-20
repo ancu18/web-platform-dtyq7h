@@ -1669,12 +1669,9 @@ Are ca principale efecte expresive crearea de imagini auditive, dinamizarea, asp
 <table><tr><td>Cratima este <b>obligatorie</b>:</td><td>Exemplu</td></tr><tr><td>
 1. când leagă un pronume cu formă neaccentuată <i>(mi-, ți-, i-, te-, ne-,v- le-, și-)</i> de un verb auxiliar sau de pronumele neaccentuat <i>o</i></td><td><i>ți-a zis, mi-a luat, i-o trimite</i></td></tr>
 <tr><td>2. când pronumele (<i>mi-, ți-, li-, ni-, vi-, i-, și-</i>) neaccentuate sunt urmate de forme pronominale în acuzativ</td><td><i>Și-i duce, ni-l dăruiește</i></td></tr>
-3. când pronumele neaccentuate / și *o* sunt precedate de verbe la imperativ, optativ sau conjunctiv|*Cântă-i! Laud-o!, ar aduce-o*|
-|4. când pronumele *i* se află după un substantiv sau prepoziții de genitiv|*Cartea-i, asupra-i, contra-i*|
-
-
-|5. în structuri în care apare forma verbală /|*Nu-i, i-i dor*|
-| :- | :- |
+<tr><td>3. când pronumele neaccentuate <i>i</i> și <i>o</i> sunt precedate de verbe la imperativ, optativ sau conjunctiv</td><td><i>Cântă-i! Laud-o!, ar aduce-o</i></td></tr>
+<tr><td>4. când pronumele <i>i</i> se află după un substantiv sau prepoziții de genitiv</td><td><i>Cartea-i, asupra-i, contra-i</i></td></tr>
+<tr><td>5. în structuri în care apare forma verbală i</td><td><i>Nu-i, i-i dor</i></td></tr>
 |6. în locuțiuni adverbiale formate cu prepoziția compusă *de-a*|*De-a latul*|
 
 
