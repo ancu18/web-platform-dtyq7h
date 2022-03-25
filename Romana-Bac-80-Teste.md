@@ -1672,40 +1672,33 @@ Are ca principale efecte expresive crearea de imagini auditive, dinamizarea, asp
 <tr><td>3. când pronumele neaccentuate <i>i</i> și <i>o</i> sunt precedate de verbe la imperativ, optativ sau conjunctiv</td><td><i>Cântă-i! Laud-o!, ar aduce-o</i></td></tr>
 <tr><td>4. când pronumele <i>i</i> se află după un substantiv sau prepoziții de genitiv</td><td><i>Cartea-i, asupra-i, contra-i</i></td></tr>
 <tr><td>5. în structuri în care apare forma verbală i</td><td><i>Nu-i, i-i dor</i></td></tr>
-|6. în locuțiuni adverbiale formate cu prepoziția compusă *de-a*|*De-a latul*|
+<tr><td>6. în locuțiuni adverbiale formate cu prepoziția compusă <i>de-a</i></td><td><i>De-a latul</i></td></tr></table>
 
+<table><tr><td>Cratima este <b>facultativă</b>:</td><td>Exemplu</td></tr>
+<tr><td>1. când nu este necesar un tempo rapid al vorbirii</td><td><i>de-ar veni</i> (tempo rapid pentru ritm și măsură în poezie sau pentru dinamizarea discursului în proză) <i>de ar veni</i> (tempo normal)</td></tr>
+<tr><td>2. când un cuvânt terminat în vocală este înaintea altuia care începe cu î- neaccentuat urmat de consoana <i>-n</i></td><td><i>grupa-ntreagă grupa întreagă</i></td></tr></table>
 
-
-|Cratima este **facultativă:**|Exemplu|
-| :- | :- |
-|1. când nu este necesar un tempo rapid al vorbirii|*de-ar veni* (tempo rapid pentru ritm și măsură în poezie sau pentru dinamizarea discursului în proză) *de ar veni* (tempo normal)|
-|2. când un cuvânt terminat în vocală este înaintea altuia care începe cu /- neaccentuat urmat de consoana *-n*|*grupa-ntreagâ grupa întreagă*|
-
-**ATENȚIE!**
+<b>ATENȚIE!</b>
 
 Cratima contribuie la formarea unor figuri de stil fonetice:
 
-- **sinereza** (transformarea unui hiat în diftong: *de-abia);*
-- **sinalepsa** (reducerea unui diftong la o singură vocală: *d-abia);*
-- **afereza** (suprimarea unui sunet inițial: *-nalt);*
-- **apocopa** (suprimarea unui sunet final: *pân-să).*
-3. **PUNCTUL [.]**
+- <b>sinereza</b> (transformarea unui hiat în diftong: <i>de-abia</i>);
+- <b>sinalepsa</b> (reducerea unui diftong la o singură vocală: <i>d-abia</i>);
+- <b>afereza</b> (suprimarea unui sunet inițial: <i>-nalt</i>);
+- <b>apocopa</b> (suprimarea unui sunet final: <i>pân-să</i>).
+3. <b>PUNCTUL [.]</b>
 
-|La nivel grafic, punctul este folosit:|Exemple|
-| :- | :- |
-|1. în abrevieri dacă acestea păstrează una sau mai multe litere din partea inițială a cuvântului, nu și cea finală|*etc., invar., C.F.R., d.Hr.*|
+<table><tr><td>La nivel grafic, punctul este folosit:</td><td>Exemple</td></tr>
+<tr><td>1. în abrevieri dacă acestea păstrează una sau mai multe litere din partea inițială a cuvântului, nu și cea finală</td><td> <i>etc., invar., C.F.R., d.Hr.</i></td></tr></table>
 
-**ATENTIE!**
+<b>ATENȚIE!</b>
 
-7
-
-|Nu sunt urmate de punct:|Exemple|
-| :- | :- |
-|1. abrevierile care conțin vocala finală|*dnei*|
-|2. punctele cardinale|*N, S, V*|
-|3. simbolurile unităților de măsură|*cm, mm, mg*|
-|4. simbolurile din diverse domenii științifice|*L (lungime), 0 (oxigen)*|
-|5. abrevieri împrumutate|*HIV, SUA*|
+<table><tr><td>Nu sunt urmate de punct:</td><td>Exemple</td></tr>
+<tr><td>1. abrevierile care conțin vocala finală</td><td><i>dnei</i></td></tr>
+<tr><td>2. punctele cardinale</td><td><i>N, S, V</i></td></tr>
+<tr><td>3. simbolurile unităților de măsură</td><td><i>cm, mm, mg</i></td></tr>
+<tr><td>4. simbolurile din diverse domenii științifice</td><td><i>L (lungime), 0 (oxigen)</i></td></tr>
+<tr><td>5. abrevieri împrumutate</td><td><i>HIV, SUA</i></td></tr></tabl>
 
 3. **VIRGULA [,]**
 
