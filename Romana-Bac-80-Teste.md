@@ -1698,7 +1698,7 @@ Cratima contribuie la formarea unor figuri de stil fonetice:
 <tr><td>2. punctele cardinale</td><td><i>N, S, V</i></td></tr>
 <tr><td>3. simbolurile unităților de măsură</td><td><i>cm, mm, mg</i></td></tr>
 <tr><td>4. simbolurile din diverse domenii științifice</td><td><i>L (lungime), 0 (oxigen)</i></td></tr>
-<tr><td>5. abrevieri împrumutate</td><td><i>HIV, SUA</i></td></tr></tabl>
+<tr><td>5. abrevieri împrumutate</td><td><i>HIV, SUA</i></td></tr></table>
 
 3. **VIRGULA [,]**
 
