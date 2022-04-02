@@ -1739,7 +1739,7 @@ Semnul exclamării este semnul grafic care marchează o intonație exclamativă.
 <b>.A.</b> La nivel sintactic
 
 <table><tr><td>Semnul exclamării este folosit:</td><td>Exemple</td></tr>
-<tr><td>1. pentru a marca grafic intonația enunțurilor exclamative sau imperative </td><td><p><i>Nimicul zăcea-n agonie</i></p><p><i>când singur plutea-ntuneric și dat-a</i.</p><p><i>un semn Nepătrunsul:</i></p><p><i>„Să fie lumină!”</>	(Lucian Blaga, *Lumina)*</p>|
+<tr><td>1. pentru a marca grafic intonația enunțurilor exclamative sau imperative </td><td><p><i>Nimicul zăcea-n agonie</i></p><p><i>când singur plutea-ntuneric și dat-a</i.</p><p><i>un semn Nepătrunsul:</i></p><p><i>„Să fie lumină!”</i>	(Lucian Blaga, *Lumina)*</p>|
 |2. în interiorul enunțurilor, după interjecții|<p>*Ei! ziceți voi cum știți; eu zic cum am apucat.*</p><p>(I.L.Caragiale, *D-l Goe...)*</p>|
 |3. după vocative exclamative|<p>*— Goe! puișorule! Goe! Goe!*</p><p>(I.L.Caragiale, *D-l Goe...)*</p>|
 |4. după propoziții incidente pentru a sublinia caracterul exclamativ sau imperativ|<p>*Iar vizitiul - ptiu ferească Sfântul de-așa creștin! - în loc de ochi avea sticle negre, ca orbii...*</p><p>(Ionel Teodoreanu, *La Medeleni)*</p>|
