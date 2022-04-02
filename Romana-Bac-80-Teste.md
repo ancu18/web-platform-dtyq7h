@@ -1738,7 +1738,7 @@ Semnul exclamării este semnul grafic care marchează o intonație exclamativă.
 
 <b>.A.</b> La nivel sintactic
 
-<table><tr><td>Semnul exclamării este folosit:|Exemple|
+<table><tr><td>Semnul exclamării este folosit:</td><td>Exemple
 | :- | :- |
 |1. pentru a marca grafic intonația enunțurilor exclamative sau imperative|<p>*Nimicul zăcea-n agonie*</p><p>*când singur plutea-ntuneric și dat-a*</p><p>*un semn Nepătrunsul:*</p><p>*„Să fie lumină!”*	(Lucian Blaga, *Lumina)*</p>|
 |2. în interiorul enunțurilor, după interjecții|<p>*Ei! ziceți voi cum știți; eu zic cum am apucat.*</p><p>(I.L.Caragiale, *D-l Goe...)*</p>|
