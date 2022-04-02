@@ -15,5 +15,5 @@
   // 	],
   // 	"description": "Log output to console"
   // }
-  "lk1":{"prefix":["lk1"], "body": "<a id='bac$1' href='#$2'>$3</a>$4"}, "lk2":{"prefix": "lk2", "body": "<a href='#bac$1' id='$2'>$3</a>$4"}, "space":{"prefix":"sp", "body": "&emsp;&emsp;$1"}, "space1":{"prefix": "sp1", "body": "&emsp;&emsp;&emsp;&emsp;$1"}, "table":{"prefix": "tb", "body": "<table><tr><td>$1"}, "table1":{"prefix": "td", "body": "</td><td>$1"}, "table2":{"prefix": "tr", "body": "</td></tr>"}
+  "lk1":{"prefix":["lk1"], "body": "<a id='bac$1' href='#$2'>$3</a>$4"}, "lk2":{"prefix": "lk2", "body": "<a href='#bac$1' id='$2'>$3</a>$4"}, "space":{"prefix":"sp", "body": "&emsp;&emsp;$1"}, "space1":{"prefix": "sp1", "body": "&emsp;&emsp;&emsp;&emsp;$1"}, "table":{"prefix": "tb", "body": "<table><tr><td>$1"}, "table1":{"prefix": "td", "body": "</td><td>$1"}, "table2":{"prefix": "tr", "body": "</td></tr>$1"}, "table3":{"prefix": "tr1", "body": "<tr><td>$1"}
 }
