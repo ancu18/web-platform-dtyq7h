@@ -1719,13 +1719,12 @@ Cratima contribuie la formarea unor figuri de stil fonetice:
 
 1. <b>LINIA DE DIALOG [ — ]</b>
 
-|A. La nivel grafic, linia de dialog semnalează:|Exemple|
-| :- | :- |
-|1. începutul vorbirii directe|<p>- *Mam’mare! de ce nu mai vine?... Eu vreau să vie!*</p><p>- *Vine, vine acuma, puișorul mamii! răspunde cucoana.*</p><p>(LL. Caragiale, *D-l Goe)*</p>|
+<table><tr><td>A. La nivel grafic, linia de dialog semnalează:</td><td>Exemple</td></tr>
+<tr><td>1. începutul vorbirii directe</td><td><p><i>- Mam’mare! de ce nu mai vine?... Eu vreau să vie!</i></p><p><i>- Vine, vine acuma, puișorul mamii! răspunde cucoana.</i></p><p>(I. L. Caragiale, <i>D-l Goe</i>)</p></td></tr></table>
 
-**B.** La nivel stilistic, linia de dialog creează o pauză și o intonație specifice în vorbire.
+<b>B.</b> La nivel stilistic, linia de dialog creează o pauză și o intonație specifice în vorbire.
 
-De asemenea, linia de dialog este o marcă a dialogului, mod de expunere, ce îndeplinește următoarele funcții:
+e De asemenea, linia de dialog este o marcă a dialogului, mod de expunere, ce îndeplinește următoarele funcții:
 
 - Asigură comunicarea dintre personaje;
 - Conferă culoare locală;
