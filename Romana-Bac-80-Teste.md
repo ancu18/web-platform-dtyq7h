@@ -1724,7 +1724,7 @@ Cratima contribuie la formarea unor figuri de stil fonetice:
 
 <b>B.</b> La nivel stilistic, linia de dialog creează o pauză și o intonație specifice în vorbire.
 
-e De asemenea, linia de dialog este o marcă a dialogului, mod de expunere, ce îndeplinește următoarele funcții:
+ De asemenea, linia de dialog este o marcă a dialogului, mod de expunere, ce îndeplinește următoarele funcții:
 
 - Asigură comunicarea dintre personaje;
 - Conferă culoare locală;
