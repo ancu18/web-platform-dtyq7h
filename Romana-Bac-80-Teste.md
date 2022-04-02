@@ -1724,20 +1724,21 @@ Cratima contribuie la formarea unor figuri de stil fonetice:
 
 <b>B.</b> La nivel stilistic, linia de dialog creează o pauză și o intonație specifice în vorbire.
 
- De asemenea, linia de dialog este o marcă a dialogului, mod de expunere, ce îndeplinește următoarele funcții:
+&emsp;&emsp;&emsp;&emsp; De asemenea, linia de dialog este o marcă a dialogului, mod de expunere, ce îndeplinește următoarele funcții:
 
 - Asigură comunicarea dintre personaje;
 - Conferă culoare locală;
 - Creează impresia de autenticitate;
 - Dinamizează discursul;
 - Reprezintă o modalitate indirectă de caracterizare a personajelor etc.
-1. **SEMNUL EXCLAMĂRII [! ]**
+
+1. <b>.SEMNUL EXCLAMĂRII [! ]</b>
 
 Semnul exclamării este semnul grafic care marchează o intonație exclamativă.
 
-**A.** La nivel sintactic
+<b>.A.</b> La nivel sintactic
 
-|Semnul exclamării este folosit:|Exemple|
+<table><tr><td>Semnul exclamării este folosit:|Exemple|
 | :- | :- |
 |1. pentru a marca grafic intonația enunțurilor exclamative sau imperative|<p>*Nimicul zăcea-n agonie*</p><p>*când singur plutea-ntuneric și dat-a*</p><p>*un semn Nepătrunsul:*</p><p>*„Să fie lumină!”*	(Lucian Blaga, *Lumina)*</p>|
 |2. în interiorul enunțurilor, după interjecții|<p>*Ei! ziceți voi cum știți; eu zic cum am apucat.*</p><p>(I.L.Caragiale, *D-l Goe...)*</p>|
