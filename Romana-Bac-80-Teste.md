@@ -1673,9 +1673,6 @@ Are ca principale efecte expresive crearea de imagini auditive, dinamizarea, asp
 <tr><td>4. când pronumele <i>i</i> se află după un substantiv sau prepoziții de genitiv</td><td><i>Cartea-i, asupra-i, contra-i</i></td></tr>
 <tr><td>5. în structuri în care apare forma verbală i</td><td><i>Nu-i, i-i dor</i></td></tr>
 |6. în locuțiuni adverbiale formate cu prepoziția compusă *de-a*|*De-a latul*|
-
-
-
 |Cratima este **facultativă:**|Exemplu|
 | :- | :- |
 |1. când nu este necesar un tempo rapid al vorbirii|*de-ar veni* (tempo rapid pentru ritm și măsură în poezie sau pentru dinamizarea discursului în proză) *de ar veni* (tempo normal)|
