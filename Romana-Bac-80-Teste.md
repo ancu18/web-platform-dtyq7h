@@ -1672,11 +1672,10 @@ Are ca principale efecte expresive crearea de imagini auditive, dinamizarea, asp
 <tr><td>3. când pronumele neaccentuate <i>i</i> și <i>o</i> sunt precedate de verbe la imperativ, optativ sau conjunctiv</td><td><i>Cântă-i! Laud-o!, ar aduce-o</i></td></tr>
 <tr><td>4. când pronumele <i>i</i> se află după un substantiv sau prepoziții de genitiv</td><td><i>Cartea-i, asupra-i, contra-i</i></td></tr>
 <tr><td>5. în structuri în care apare forma verbală i</td><td><i>Nu-i, i-i dor</i></td></tr>
-|6. în locuțiuni adverbiale formate cu prepoziția compusă *de-a*|*De-a latul*|
-|Cratima este **facultativă:**|Exemplu|
-| :- | :- |
-|1. când nu este necesar un tempo rapid al vorbirii|*de-ar veni* (tempo rapid pentru ritm și măsură în poezie sau pentru dinamizarea discursului în proză) *de ar veni* (tempo normal)|
-|2. când un cuvânt terminat în vocală este înaintea altuia care începe cu /- neaccentuat urmat de consoana *-n*|*grupa-ntreagâ grupa întreagă*|
+<tr><td>6. în locuțiuni adverbiale formate cu prepoziția compusă <i>de-a</i></td><td><i>De-a latul</i></td></tr></table>
+<table><tr><td>Cratima este <b>facultativă</b>:</td><td>Exemplu</td></tr>
+<tr><td>1. când nu este necesar un tempo rapid al vorbirii</td><td><i>de-ar veni</i> (tempo rapid pentru ritm și măsură în poezie sau pentru dinamizarea discursului în proză) <i>de ar veni</i> (tempo normal)</td></tr>
+<tr><td>2. când un cuvânt terminat în vocală este înaintea altuia care începe cu î- neaccentuat urmat de consoana <i>-n</i></td><td><i>grupa-ntreagă grupa întreagă</i><tr><td>
 
 **ATENȚIE!**
 
