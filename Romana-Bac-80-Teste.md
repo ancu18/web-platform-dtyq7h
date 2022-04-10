@@ -1693,7 +1693,6 @@ Cratima contribuie la formarea unor figuri de stil fonetice:
 <b>ATENTIE!</b>
 
 <table><tr><td>Nu sunt urmate de punct:</td><td>Exemple</td></tr>
-| :- | :-
 |1. abrevierile care conțin vocala finală|*dnei*|
 |2. punctele cardinale|*N, S, V*|
 |3. simbolurile unităților de măsură|*cm, mm, mg*|
