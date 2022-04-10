@@ -1675,28 +1675,25 @@ Are ca principale efecte expresive crearea de imagini auditive, dinamizarea, asp
 <tr><td>6. în locuțiuni adverbiale formate cu prepoziția compusă <i>de-a</i></td><td><i>De-a latul</i></td></tr></table>
 <table><tr><td>Cratima este <b>facultativă</b>:</td><td>Exemplu</td></tr>
 <tr><td>1. când nu este necesar un tempo rapid al vorbirii</td><td><i>de-ar veni</i> (tempo rapid pentru ritm și măsură în poezie sau pentru dinamizarea discursului în proză) <i>de ar veni</i> (tempo normal)</td></tr>
-<tr><td>2. când un cuvânt terminat în vocală este înaintea altuia care începe cu î- neaccentuat urmat de consoana <i>-n</i></td><td><i>grupa-ntreagă grupa întreagă</i><tr><td>
+<tr><td>2. când un cuvânt terminat în vocală este înaintea altuia care începe cu î- neaccentuat urmat de consoana <i>-n</i></td><td><i>grupa-ntreagă grupa întreagă</i></td></tr></table>
 
-**ATENȚIE!**
+<b>ATENȚIE!</b>
 
 Cratima contribuie la formarea unor figuri de stil fonetice:
 
-- **sinereza** (transformarea unui hiat în diftong: *de-abia);*
-- **sinalepsa** (reducerea unui diftong la o singură vocală: *d-abia);*
-- **afereza** (suprimarea unui sunet inițial: *-nalt);*
-- **apocopa** (suprimarea unui sunet final: *pân-să).*
-3. **PUNCTUL [.]**
+- <b>sinereza</b> (transformarea unui hiat în diftong: <i>de-abia</i>);
+- <b>sinalepsa</b> (reducerea unui diftong la o singură vocală: <i>d-abia</i>);
+- <b>afereza</b> (suprimarea unui sunet inițial: <i>-nalt</i>);
+- <b>apocopa</b> (suprimarea unui sunet final: <i>pân-să</i>).
+<b>3. PUNCTUL [.]</b>
 
-|La nivel grafic, punctul este folosit:|Exemple|
-| :- | :- |
-|1. în abrevieri dacă acestea păstrează una sau mai multe litere din partea inițială a cuvântului, nu și cea finală|*etc., invar., C.F.R., d.Hr.*|
+<table><tr><td>La nivel grafic, punctul este folosit:</td><td>Exemple</td></tr>
+<tr><td>1. în abrevieri dacă acestea păstrează una sau mai multe litere din partea inițială a cuvântului, nu și cea finală</td><td><i>etc., invar., C.F.R., d.Hr.</i></td></tr></table>
 
-**ATENTIE!**
+<b>ATENTIE!</b>
 
-7
-
-|Nu sunt urmate de punct:|Exemple|
-| :- | :- |
+<table><tr><td>Nu sunt urmate de punct:</td><td>Exemple</td></tr>
+| :- | :-
 |1. abrevierile care conțin vocala finală|*dnei*|
 |2. punctele cardinale|*N, S, V*|
 |3. simbolurile unităților de măsură|*cm, mm, mg*|
