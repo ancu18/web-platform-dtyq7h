@@ -1,19 +1,2 @@
-{
-  // Place your global snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
-  // description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
-  // is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
-  // used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
-  // $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
-  // Placeholders with the same ids are connected.
-  // Example:
-  // "Print to console": {
-  // 	"scope": "javascript,typescript",
-  // 	"prefix": "log",
-  // 	"body": [
-  // 		"console.log('$1');",
-  // 		"$2"
-  // 	],
-  // 	"description": "Log output to console"
-  // }
-  "lk1":{"prefix":["lk1"], "body": "<a id='bac$1' href='#$2'>$3</a>$4"}, "lk2":{"prefix": "lk2", "body": "<a href='#bac$1' id='$2'>$3</a>$4"}, "space":{"prefix":"sp", "body": "&emsp;&emsp;$1"}, "space1":{"prefix": "sp1", "body": "&emsp;&emsp;&emsp;&emsp;$1"}, "table":{"prefix": "tb", "body": "<table><tr><td>$1"}, "table1":{"prefix": "td", "body": "</td><td>$1"}, "table2":{"prefix": "tr", "body": "</td></tr>$1"}, "table3":{"prefix": "tr1", "body": "<tr><td>$1"}
+{"lk1":{"prefix":["lk1"], "body": "<a id='bac$1' href='#$2'>$3</a>$4"}, "lk2":{"prefix": "lk2", "body": "<a href='#bac$1' id='$2'>$3</a>$4"}, "space":{"prefix":"sp", "body": "&emsp;&emsp;$1"}, "space1":{"prefix": "sp1", "body": "&emsp;&emsp;&emsp;&emsp;$1"}, "table":{"prefix": "tb", "body": "<table><tr><td>$1"}, "table1":{"prefix": "td", "body": "</td><td>$1"}, "table2":{"prefix": "tr", "body": "</td></tr>$1"}, "table3":{"prefix": "tr1", "body": "<tr><td>$1"}
 }
