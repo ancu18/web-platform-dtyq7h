@@ -1695,14 +1695,13 @@ Cratima contribuie la formarea unor figuri de stil fonetice:
 <table><tr><td>Nu sunt urmate de punct:</td><td>Exemple</td></tr>
 <tr><td>1. abrevierile care conțin vocala finală</td><td><i>dnei</i></td></tr>
 <tr><td>2. punctele cardinale</td><td><i>N, S, V</i></td></tr>
-|3. simbolurile unităților de măsură|*cm, mm, mg*|
-|4. simbolurile din diverse domenii științifice|*L (lungime), 0 (oxigen)*|
-|5. abrevieri împrumutate|*HIV, SUA*|
+<tr><td>3. simbolurile unităților de măsură</td><td><i>cm, mm, mg</i></td></tr>
+<tr><td>4. simbolurile din diverse domenii științifice</td><td><i>L (lungime), 0 (oxigen)</i></td></tr>
+<tr><td>5. abrevieri împrumutate</td><td><i>HIV, SUA</i></td></tr></table>
 
-3. **VIRGULA [,]**
+<b>3. VIRGULA [,]</b>
 
-|La nivel grafic, virgula este folosită:|Exemple|
-| :- | :- |
+<table><tr><td>La nivel grafic, virgula este folosită:</td><td>Exemple t
 |1. în interiorul unor locuțiuni, având aceeași funcție ca și cratima|*cu chiu, cu vai de bine, de rău*|
 |2. între cuvinte care se repetă identic sau cu o valoare apropiată (interjecții, adverbe, adjective), intrând în concurență cu cratima (trosc-trosc) și cu semnul exclamării (pleosc!)|*mor, mor; ham, ham; cioc, cioc*|
 
