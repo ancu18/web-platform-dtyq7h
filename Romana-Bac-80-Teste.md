@@ -1701,8 +1701,8 @@ Cratima contribuie la formarea unor figuri de stil fonetice:
 
 <b>3. VIRGULA [,]</b>
 
-<table><tr><td>La nivel grafic, virgula este folosită:</td><td>Exemple t
-|1. în interiorul unor locuțiuni, având aceeași funcție ca și cratima|*cu chiu, cu vai de bine, de rău*|
+<table><tr><td>La nivel grafic, virgula este folosită:</td><td>Exemple</td></tr>
+<tr><td>1. în interiorul unor locuțiuni, având aceeași funcție ca și cratima</td><td><i>cu chiu, cu vai de bine, de rău</i></td></tr>
 |2. între cuvinte care se repetă identic sau cu o valoare apropiată (interjecții, adverbe, adjective), intrând în concurență cu cratima (trosc-trosc) și cu semnul exclamării (pleosc!)|*mor, mor; ham, ham; cioc, cioc*|
 
 
