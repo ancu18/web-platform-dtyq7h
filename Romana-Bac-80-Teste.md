@@ -1703,17 +1703,16 @@ Cratima contribuie la formarea unor figuri de stil fonetice:
 
 <table><tr><td>La nivel grafic, virgula este folosită:</td><td>Exemple</td></tr>
 <tr><td>1. în interiorul unor locuțiuni, având aceeași funcție ca și cratima</td><td><i>cu chiu, cu vai de bine, de rău</i></td></tr>
-<tr><td>2. între cuvinte care se repetă identic sau cu o valoare apropiată (interjecții, adverbe, adjective), intrând în concurență cu cratima (trosc-trosc) și cu semnul exclamării (pleosc!)</td><td><i>mor, mor; ham, ham; cioc, cioc</i></td></tr>
+<tr><td>2. între cuvinte care se repetă identic sau cu o valoare apropiată (interjecții, adverbe, adjective), intrând în concurență cu cratima (trosc-trosc) și cu semnul exclamării (pleosc!)</td><td><i>mor, mor; ham, ham; cioc, cioc</i></td></tr></table>
 
 
-**II. SEMNELE DE PUNCTUAȚIE**
+<b>II. SEMNELE DE PUNCTUAȚIE</b>
 
-1. **CRATIMA [-]**
+<b>1. CRATIMA [-]</b>
 
-|Cratima este folosită:|Exemple|
-| :- | :- |
-|1. între cuvinte repetate, care constituie o unitate|*Fata era frumoasă-frumoasă.*|
-|2. între numerale, pentru indicarea aproximației|*Au venit 3-4 oameni.*|
+<table><tr><td>Cratima este folosită:</td><td>Exemple</td></tr>
+<tr><td>1. între cuvinte repetate, care constituie o unitate</td><td><i>.Fata era frumoasă-frumoasă.</i></td></tr>
+<tr><td>2. între numerale, pentru indicarea aproximației</td><td><i>Au venit 3-4 oameni.</i></td></tr>
 |3. între substantive sau numerale ce precizează limita de spațiu și de timp|*pe ruta București-Craiova în perioada 10-15 ianuarie*|
 |4. ierarhia într-un clasament|*Elevii au ocupat locurile 2-4.*|
 
