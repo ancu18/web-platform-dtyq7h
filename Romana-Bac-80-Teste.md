@@ -1742,43 +1742,42 @@ Semnul exclamării este semnul grafic care marchează o intonație exclamativă.
 <tr><td>1. pentru a marca grafic intonația enunțurilor exclamative sau imperative</td><td><p><i>Nimicul zăcea-n agonie</i></p><p><i>când singur plutea-ntuneric și dat-a</i.</p><p><i>un semn Nepătrunsul:</i></p><p><i>„Să fie lumină!”</i>	(Lucian Blaga, <i>Lumina</i>)</p></td></tr>
 <tr><td>2. în interiorul enunțurilor, după interjecții</td><td>p><i>Ei! ziceți voi cum știți; eu zic cum am apucat.</i.</p><p>(I.L.Caragiale, <i>D-l Goe...</i>)</p></td></tr>
 <tr><td>3. după vocative exclamative</td><td><p><i>— Goe! puișorule! Goe! Goe!</i></p><p>(I.L.Caragiale, <i>D-l Goe...</i>)</p></td></tr>
-|4. după propoziții incidente pentru a sublinia caracterul exclamativ sau imperativ|<p>*Iar vizitiul - ptiu ferească Sfântul de-așa creștin! - în loc de ochi avea sticle negre, ca orbii...*</p><p>(Ionel Teodoreanu, *La Medeleni)*</p>|
-|5. după anumite imprecații, injurii sau invocații|<p>*Cât de frumoasă te-ai gătit,*</p><p>*Naturo, tu! Ca o virgină*</p><p>*Cu umblet drag, cu chip iubit!*</p><p>*Aș vrea să plâng de fericit...	(G.* Coșbuc, *Vara)*</p>|
+<tr><td>4. după propoziții incidente pentru a sublinia caracterul exclamativ sau imperativ</td><td><p><i>Iar vizitiul - ptiu ferească Sfântul de-așa creștin! - în loc de ochi avea sticle negre, ca orbii...</i></p><p>(Ionel Teodoreanu, <i>La Medeleni</i>)</p></td></tr>
+<tr><td>5. după anumite imprecații, injurii sau invocații</td><td><p><i>Cât de frumoasă te-ai gătit,</i></p><p><i>Naturo, tu! Ca o virgină</i></p><p><i>Cu umblet drag, cu chip iubit!</i></p><p><i>Aș vrea să plâng de fericit...</i>	(G. Coșbuc, <i>Vara</i>)</p></td></tr></table>
+
+<b>B.</b> La nivel stilistic
+
+<table><tr><td>Semnul exclamării este folosit pentru:</td><td>Exemple</td></tr>
+
+<tr><td>1. a sugera anumite stări afective: hotărâre, curaj, dezgust, suferință etc.</td><td><i>— Am zis! spuse ea cu o privirea ce trăda hotărârea.</i></td></tr>
+<tr><td>2. în locul unei atitudini care să marcheze mimica și gesturile personajului</td><td><i>— Am reușit primul la facultate! —!...</i></td></tr>
+<tr><td>3. a reda intensitatea unei trăiri</td><td><p><i>— Sări, coniță! varsă spirtul! s-aprinde!</i></p><p>( I. L.Caragiale, <i>Vizită</i>)</p></td></tr>
+<tr><td>4. a arăta dezaprobare, ironie</td><td><i>— Hm! Să crezi tu asta!</i></td></tr>
+<tr><td>5. a accentua o anumită atitudine (indignare, refuz, dezaprobare etc.)</td><td><i>— Nu! Nu! am spus. Tu chiar nu înțelegi?</i></td></tr></table>
 
 
-**B.** La nivel stilistic
-
-|Semnul exclamării este folosit pentru:|Exemple|
-| :- | :- |
-|1. a sugera anumite stări afective: hotărâre, curaj, dezgust, suferință etc.|*— Am zis! spuse ea cu o privirea ce trăda hotărârea.*|
-|2. în locul unei atitudini care să marcheze mimica și gesturile personajului|*— Am reușit primul la facultate! —!...*|
-|3. a reda intensitatea unei trăiri|<p>*— Sări, coniță! varsă spirtul! s-aprinde!*</p><p>( LL.Caragiale, *Vizită)*</p>|
-|4. a arăta dezaprobare, ironie|*— Hm! Să crezi tu asta!*|
-|5. a accentua o anumită atitudine (indignare, refuz, dezaprobare etc.)|*— Nu! Nu! am spus. Tu chiar nu înțelegi?*|
-
-
-***4.* SEMNUL ÎNTREBĂRII [ ? ]**
+<b>4. SEMNUL ÎNTREBĂRII [ ? ]</b>
 
 Semnul întrebării este semnul grafic care marchează o intonație interogativă.
 
-**A.** La nivel sintactic
+<b>A.</b> La nivel sintactic
 
-|Semnul întrebării este folosit pentru a marca:|Exemple|
-| - | :- |
-|1. intonația unor cuvinte sau grupuri de cuvinte|<p>*JUPÂN DUMITRACHE: Ei! iac-așa m-a fiert fără apă toată seara...*</p><p>*IPINGESCU: în sfârșit?*</p><p>(LL. Caragiale, 0 *noapte furtunoasă)*</p>|
-|2. cuvinte sau grupuri de cuvinte cu funcție de propoziții interogative directe|<p>*— Nu e nimic pe lume, nu pot face nimic ca să mă poți iubi puțin? E cu adevărat imposibil?*</p><p>(Camil Petrescu, *Patul lui Procust)*</p>|
-|3. sfârșitul unei propoziții interogative incidente intercalate între părțile unei propoziții enunțiative sau între două propoziții enunțiative izolate prin pauze.|*A fost impresionată de vorbele și de purtarea lui - de altfel, cum să nu iubești un asemenea om? - încât a acceptat imediat propunerea lui.*|
+<table><tr><td>Semnul întrebării este folosit pentru a marca:</td><td>Exemple</td></tr>
+
+<tr><td>1. intonația unor cuvinte sau grupuri de cuvinte</td><td><p><i>JUPÂN DUMITRACHE: Ei! iac-așa m-a fiert fără apă toată seara...</i></p><p><i>IPINGESCU: în sfârșit?</i></p><p>(I. L. Caragiale, <i>0 noapte furtunoasă</i>)</p></td></tr>
+<tr><td>2. cuvinte sau grupuri de cuvinte cu funcție de propoziții interogative directe</td><td><p><i>— Nu e nimic pe lume, nu pot face nimic ca să mă poți iubi puțin? E cu adevărat imposibil?</i></p><p>(Camil Petrescu, <i>Patul lui Procust</i>)</p></td></tr>
+<tr><td>3. sfârșitul unei propoziții interogative incidente intercalate între părțile unei propoziții enunțiative sau între două propoziții enunțiative izolate prin pauze.</td><td><i>A fost impresionată de vorbele și de purtarea lui - de altfel, cum să nu iubești un asemenea om? - încât a acceptat imediat propunerea lui.</i></td></tr></table>
 
 
-**B.** La nivel stilistic
+<b>B.</b> La nivel stilistic
 
-|Semnul întrebării poate sugera:|Exemple|
-| :- | :- |
-|1. interogația retorică|<p>*Lumina ce-o simt*</p><p>*năvălindu-mi în piept când te văd, oare nu e un strop din lumina creată în ziua dintâi,*</p><p>*din lumina aceea-nsetată adânc de viață?*</p><p>(Lucian Blaga, *Lumina)*</p>|
-|2. absența unei replici cu caracter interogativ, exteriorizată prin mimică|<p>*— N-ai aflat ce se întâmpla?*</p><p>`	`*?*</p>|
-|3. rezervele sau îndoielile vorbitorului față de o afirmație anterioară; se notează între paranteze|*Spunea că talentul (?) l-a ajutat și de data asta.*|
-|4. anumite sentimente puternice: revolta, nemulțumirea, furia, neîncrederea, redate în monologul interior etc.|<p>*Ce să-mi fac dacă e în mine ceva mai tare decât voința mea?*</p><p>floan Slavici, *Moara cu noroc)*</p>|
-|5. împreună cu semnul exclamării redă sentimente contradictorii|<p>*Să-ți spui ce am aflat acuma la telefon din București...*</p><p>*E lată rău! Războiul e declarat.*</p><p>*— Ce?! zic eu îngrozit.*</p><p>(1. L. Caragiale, *Ultima oră !...)*</p>|
+<table><tr><td>Semnul întrebării poate sugera:</td><td>Exemple</td></tr>
+
+<tr><td>1. interogația retorică</td><td><p><i>Lumina ce-o simt</i></p><p><i>năvălindu-mi în piept când te văd, oare nu e un strop din lumina creată în ziua dintâi,</i></p><p><i>din lumina aceea-nsetată adânc de viață?</i></p><p>(Lucian Blaga, <i>Lumina</i>)</p></td></tr>
+<tr><td>2. absența unei replici cu caracter interogativ, exteriorizată prin mimică</td><td><p><i>— N-ai aflat ce se întâmpla?</i></p><p>`	`<i>?</i></p></td></tr>
+<tr><td>3. rezervele sau îndoielile vorbitorului față de o afirmație anterioară; se notează între paranteze</td><td><i>Spunea că talentul (?) l-a ajutat și de data asta.</i></td></tr>
+<tr><td>4. anumite sentimente puternice: revolta, nemulțumirea, furia, neîncrederea, redate în monologul interior etc.</td><td><p><i>Ce să-mi fac dacă e în mine ceva mai tare decât voința mea?</i></p><p>Ioan Slavici, <i>Moara cu noroc</i>)</p></td></tr>
+<tr><td>5. împreună cu semnul exclamării redă sentimente contradictorii</td><td><p>Să-ți spui ce am aflat acuma la telefon din București...*</p><p>*E lată rău! Războiul e declarat.*</p><p>*— Ce?! zic eu îngrozit.*</p><p>(1. L. Caragiale, *Ultima oră !...)*</p>|
 |6. oscilația între două posibilități, o dilemă interioară|*Pe cine să aleagă oare?*|
 
 
