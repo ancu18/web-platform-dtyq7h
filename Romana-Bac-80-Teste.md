@@ -1713,16 +1713,16 @@ Cratima contribuie la formarea unor figuri de stil fonetice:
 <table><tr><td>Cratima este folosită:</td><td>Exemple</td></tr>
 <tr><td>1. între cuvinte repetate, care constituie o unitate</td><td><i>.Fata era frumoasă-frumoasă.</i></td></tr>
 <tr><td>2. între numerale, pentru indicarea aproximației</td><td><i>Au venit 3-4 oameni.</i></td></tr>
-|3. între substantive sau numerale ce precizează limita de spațiu și de timp|*pe ruta București-Craiova în perioada 10-15 ianuarie*|
-|4. ierarhia într-un clasament|*Elevii au ocupat locurile 2-4.*|
+<tr><td>3. între substantive sau numerale ce precizează limita de spațiu și de timp </td><td><i>pe ruta București-Craiova în perioada 10-15 ianuarie</i></td></tr>
+<tr><td>4. ierarhia într-un clasament </td><td><i>Elevii au ocupat locurile 2-4.</i></td></tr>
 
-1. **LINIA DE DIALOG [ — ]**
+<b>1. LINIA DE DIALOG [ — ]</b>
 
-|A. La nivel grafic, linia de dialog semnalează:|Exemple|
-| :- | :- |
-|1. începutul vorbirii directe|<p>- *Mam’mare! de ce nu mai vine?... Eu vreau să vie!*</p><p>- *Vine, vine acuma, puișorul mamii! răspunde cucoana.*</p><p>(LL. Caragiale, *D-l Goe)*</p>|
+<tr><td>A. La nivel grafic, linia de dialog semnalează:</td><td>Exemple</td></tr>
 
-**B.** La nivel stilistic, linia de dialog creează o pauză și o intonație specifice în vorbire.
+<tr><td>1. începutul vorbirii directe</td><td>p><i>-Mam’mare! de ce nu mai vine?... Eu vreau să vie!</i></p><p><i>- Vine, vine acuma, puișorul mamii! răspunde cucoana.</i></p><p>(LL. Caragiale, <i>D-l Goe</i>)</p></td></tr></table>
+
+<b>B.</b> La nivel stilistic, linia de dialog creează o pauză și o intonație specifice în vorbire.
 
 De asemenea, linia de dialog este o marcă a dialogului, mod de expunere, ce îndeplinește următoarele funcții:
 
@@ -1731,17 +1731,17 @@ De asemenea, linia de dialog este o marcă a dialogului, mod de expunere, ce în
 - Creează impresia de autenticitate;
 - Dinamizează discursul;
 - Reprezintă o modalitate indirectă de caracterizare a personajelor etc.
-1. **SEMNUL EXCLAMĂRII [! ]**
+
+<b>1. SEMNUL EXCLAMĂRII [! ]</b>
 
 Semnul exclamării este semnul grafic care marchează o intonație exclamativă.
 
-**A.** La nivel sintactic
+<b>A.</b> La nivel sintactic
 
-|Semnul exclamării este folosit:|Exemple|
-| :- | :- |
-|1. pentru a marca grafic intonația enunțurilor exclamative sau imperative|<p>*Nimicul zăcea-n agonie*</p><p>*când singur plutea-ntuneric și dat-a*</p><p>*un semn Nepătrunsul:*</p><p>*„Să fie lumină!”*	(Lucian Blaga, *Lumina)*</p>|
-|2. în interiorul enunțurilor, după interjecții|<p>*Ei! ziceți voi cum știți; eu zic cum am apucat.*</p><p>(I.L.Caragiale, *D-l Goe...)*</p>|
-|3. după vocative exclamative|<p>*— Goe! puișorule! Goe! Goe!*</p><p>(I.L.Caragiale, *D-l Goe...)*</p>|
+<table><tr><td>Semnul exclamării este folosit:</td><td>Exemple</td></tr>
+<tr><td>1. pentru a marca grafic intonația enunțurilor exclamative sau imperative</td><td><p><i>Nimicul zăcea-n agonie</i></p><p><i>când singur plutea-ntuneric și dat-a</i.</p><p><i>un semn Nepătrunsul:</i></p><p><i>„Să fie lumină!”</i>	(Lucian Blaga, <i>Lumina</i>)</p></td></tr>
+<tr><td>2. în interiorul enunțurilor, după interjecții</td><td>p><i>Ei! ziceți voi cum știți; eu zic cum am apucat.</i.</p><p>(I.L.Caragiale, <i>D-l Goe...</i>)</p></td></tr>
+<tr><td>3. după vocative exclamative</td><td><p><i>— Goe! puișorule! Goe! Goe!</i></p><p>(I.L.Caragiale, <i>D-l Goe...</i>)</p></td></tr>
 |4. după propoziții incidente pentru a sublinia caracterul exclamativ sau imperativ|<p>*Iar vizitiul - ptiu ferească Sfântul de-așa creștin! - în loc de ochi avea sticle negre, ca orbii...*</p><p>(Ionel Teodoreanu, *La Medeleni)*</p>|
 |5. după anumite imprecații, injurii sau invocații|<p>*Cât de frumoasă te-ai gătit,*</p><p>*Naturo, tu! Ca o virgină*</p><p>*Cu umblet drag, cu chip iubit!*</p><p>*Aș vrea să plâng de fericit...	(G.* Coșbuc, *Vara)*</p>|
 
