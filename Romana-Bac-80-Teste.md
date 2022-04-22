@@ -1777,31 +1777,29 @@ Semnul întrebării este semnul grafic care marchează o intonație interogativ�
 <tr><td>2. absența unei replici cu caracter interogativ, exteriorizată prin mimică</td><td><p><i>— N-ai aflat ce se întâmpla?</i></p><p>`	`<i>?</i></p></td></tr>
 <tr><td>3. rezervele sau îndoielile vorbitorului față de o afirmație anterioară; se notează între paranteze</td><td><i>Spunea că talentul (?) l-a ajutat și de data asta.</i></td></tr>
 <tr><td>4. anumite sentimente puternice: revolta, nemulțumirea, furia, neîncrederea, redate în monologul interior etc.</td><td><p><i>Ce să-mi fac dacă e în mine ceva mai tare decât voința mea?</i></p><p>Ioan Slavici, <i>Moara cu noroc</i>)</p></td></tr>
-<tr><td>5. împreună cu semnul exclamării redă sentimente contradictorii</td><td><p>Să-ți spui ce am aflat acuma la telefon din București...*</p><p>*E lată rău! Războiul e declarat.*</p><p>*— Ce?! zic eu îngrozit.*</p><p>(1. L. Caragiale, *Ultima oră !...)*</p>|
-|6. oscilația între două posibilități, o dilemă interioară|*Pe cine să aleagă oare?*|
+<tr><td>5. împreună cu semnul exclamării redă sentimente contradictorii</td><td><p><i>Să-ți spui ce am aflat acuma la telefon din București...</i></p><p><i>E lată rău! Războiul e declarat.</i></p><p><i>— Ce?! zic eu îngrozit.</i></p><p>(I. L. Caragiale, <i>Ultima oră !...</i>)</p></td></tr>
+<tr><td>6. oscilația între două posibilități, o dilemă interioară</td><td><i>Pe cine să aleagă oare?</i></td></tr></table>
 
 
-3. **GHILIMELELE [„“]**
+<b>3. GHILIMELELE [„“]</b>
 
-|A. La nivel grafic, ghilimelele:|Exemple|
-| :- | :- |
-|1. reproduc întocmai un cuvânt, un grup de cuvinte, o propoziție, o frază sau un paragraf spuse sau scrise de către cineva|<p>*Plâns de cobe pe la geamuri se opri, Și pe lume plumb de iarnă s-a lăsat;*</p><p>*„l-auzi corbii!...”*</p><p>*mi-am zis singur...și-am oftat;*</p><p>*Iar în zarea grea de plumb*</p><p>*Ninge gri.*</p><p>(George Bacovia, *Gri)*</p>|
-|2. reproduc în frază titlurile operelor literare, științifice, ale publicațiilor etc.|*Romanul „Ion” a fost publicat în anul 1920.*|
-|3. atrag atenția în mod deosebit asupra anumitor cuvinte și le dau o importanță mai mare|*„Se consumă” e un fel de a spune.*|
-|4. precizează sensul unor cuvinte în lucrările științifice|*Cuvântul „inefabil” desemnează ceva ce nu poate fi exprimat în cuvinte. (DEX)*|
+<table><tr><td>A. La nivel grafic, ghilimelele:</td><td>Exemple</td></tr>
 
+<tr><td>1. reproduc întocmai un cuvânt, un grup de cuvinte, o propoziție, o frază sau un paragraf spuse sau scrise de către cineva </td><td><p><i>Plâns de cobe pe la geamuri se opri, Și pe lume plumb de iarnă s-a lăsat;</i></p><p><i>„I-auzi corbii!...”</i></p><p><i>mi-am zis singur...și-am oftat;</i></p><p><i>Iar în zarea grea de plumb</i></p><p><i>Ninge gri.</i></p><p>(George Bacovia, <i>Gri</i>)</p></td></tr>
+<tr><td>2. reproduc în frază titlurile operelor literare, științifice, ale publicațiilor etc.</td><td><i>Romanul „Ion” a fost publicat în anul 1920.</i></td></tr>
+<tr><td>3. atrag atenția în mod deosebit asupra anumitor cuvinte și le dau o importanță mai mare</td><td><i>„Se consumă” e un fel de a spune.</i></td></tr>
+<tr><td>4. precizează sensul unor cuvinte în lucrările științifice</td><td>Cuvântul „inefabil” desemnează ceva ce nu poate fi exprimat în cuvinte. (DEX)</td></tr></table>
 
+<table><tr><td>B. La nivel stilistic, ghilimelele:</td><td>Exemple</td></tr>
 
-|B. La nivel stilistic, ghilimelele:|Exemple|
-| :- | :- |
-|1. exprimă ironia față de cel care folosește cuvântul sau grupul de cuvinte reprodus, ori când cuvântul este folosit în sens opus|*Valoarea „estetică” a unei asemenea lucrări nu ne impresionează.*|
-|2. redau sensul figurat al unui termen|*„Sfântul Nicolaie” i-a motivat pe colegii lui Nică să învețe.*|
+<tr><td>1. exprimă ironia față de cel care folosește cuvântul sau grupul de cuvinte reprodus, ori când cuvântul este folosit în sens opus</td><td><i>Valoarea „estetică” a unei asemenea lucrări nu ne impresionează.</i></td></tr>
+<tr><td>2. redau sensul figurat al unui termen</td><td><i>„Sfântul Nicolaie” i-a motivat pe colegii lui Nică să învețe.</i></td></tr></table>
 
-3. **PARANTEZELE ()/[]**
+<b>3. PARANTEZELE ()/[]</b>
 
-|Parantezele rotunde delimitează:|Exemple|
-| :- | - |
-|1. un adaos neintegrat ideilor din text, alcătuit din propoziții și fraze independente ca sens și ca valoare sintactică (divagații, extinderi, trecerea la altă idee etc.)|<p>*Trecu - de când! - și ultimul drumeț!/ (A mai rămas vreo urmă prin noroi?) / Un biet copac se clatină răzleț,/ Cu trupul frânt și crengile vâlvoi.*</p><p>(Al. Philippide, *Desen murdar)*</p>|
+<table><tr><td>Parantezele rotunde delimitează:</td><td>Exemple</td></tr>
+
+<tr><td>1. un adaos neintegrat ideilor din text, alcătuit din propoziții și fraze independente ca sens și ca valoare sintactică (divagații, extinderi, trecerea la altă idee etc.)|<p>*Trecu - de când! - și ultimul drumeț!/ (A mai rămas vreo urmă prin noroi?) / Un biet copac se clatină răzleț,/ Cu trupul frânt și crengile vâlvoi.*</p><p>(Al. Philippide, *Desen murdar)*</p>|
 |2. un adaos integrat ideilor din text (completări, explicații, precizări etc.)|*Privea fotografia de pe perete și gândul îi zbură departe. (Tare-ar mai fi vrut să fie copil...). O lacrimă îi alunecă încet pe obraz.*|
 |3. indicațiile scenice în textul dramatic|<p>*JUPÂN DUMITRACHE (lui Spiridon): Dar mai mult nu puteai să șezi, mă?*</p><p>*SPIRIDON: Vezi că era mulți muștirii, jupâne, până să- mi dea madama gazeta.*</p><p>*(Ipingescu ia gazeta)*</p><p>(I.L. Caragiale, 0 *noapte furtunoasă)*</p>|
 |Parantezele drepte au rolul de a:|Exemple|
