@@ -1857,9 +1857,9 @@ Semnul întrebării este semnul grafic care marchează o intonație interogativ�
 
 <b>3. PUNCTUL Șl VIRGULA [; ]</b>
 
-A.** La nivel sintactic
+<b>A. La nivel sintactic</b>
 
-|Semnul de punctuație punctul și virgula delimitează:|Exemple|
+Semnul de punctuație punctul și virgula delimitează:|Exemple|
 | :- | - |
 |1. propoziții și fraze, diverse observații referitoare la același obiect etc.|<p>*...ea cu adevărat că știa a face multe si mari minunății: alunga nourii cei negri de pe deasupra satului nostru și abătea grindina în alte părți, întingând toporul în pământ, afară, dinaintea ușii; închega apa numai cu două picioare de vacă, de se încrucea lumea de mirare; bătea pământul, sau peretele...*</p><p>(Ion Creangă, *Amintiri din copilărie)*</p>|
 |2. anumite subordonate de regentele lor|<p>*Atunci bucuria cocoșului! Să-I fi văzut cum înghițea la buhai, la boi, la vaci și la viței; pân-a înghițit el toată cireada ș-a făcut un pântec mare, mare cât un munte!*</p><p>(Ion Creangă, *Punguța cu doi bani)*</p>|
