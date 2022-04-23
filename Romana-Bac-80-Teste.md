@@ -1867,7 +1867,7 @@ Semnul întrebării este semnul grafic care marchează o intonație interogativ�
 <tr><td>4. construcțiile incidente</td><td><p><i>Na-ți, mă, bani! zise dracul trimis; și să te cărăbănești de aici; că, de nu, e rău de tine!</i></p><p>(Ion Creangă, <i>Dănilă Prepeleac</i>)</p></td></tr>
 <tr><td>5. o anumită consecință sau explicație cauzală</td><td><p><i>Nu m-au iertat; nu-i iert nici eu.</i></p><p>(Mihail Sadoveanu, <i>Zodia Cancerului</i>)</p></td></tr></table>
 
-<b>B.</> La nivel stilistic
+<b>B.</b> La nivel stilistic
 
 |Punctul și virgula se folosesc pentru:|Exemple|
 | :- | - |
