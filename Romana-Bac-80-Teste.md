@@ -1849,15 +1849,15 @@ Semnul întrebării este semnul grafic care marchează o intonație interogativ�
 
 <b>B.</b> La nivel stilistic
 
-|Punctul este plasat pentru:|Exemple|
-| :- | - |
-|1. a accentua o idee|*l-am spus să aștepte. Să vadă și el ce înseamnă asta. Să se convingă singur.*|
-|2. a crea un moment meditativ, echivalent unei tăceri îndelungate|*Se gândea cum să facă. Tare-ar fi vrut să fie mai ușoară calea pe care s-o apuce.*|
-|3. a exprima teama, nedumerirea, o succesiune de gânduri/ acțiuni|*Așteaptă. Privește pe fereastră. 1 se pare că aude un foșnet în grădină, la pușca și iese afară.*|
+<table><tr><td>Punctul este plasat pentru:</td><td>Exemple</td></tr>
 
-3. **PUNCTUL Șl VIRGULA [; ]**
+<tr><td>1. a accentua o idee</td><td><i>I-am spus să aștepte. Să vadă și el ce înseamnă asta. Să se convingă singur.</td></tr>
+<tr><td>2. a crea un moment meditativ, echivalent unei tăceri îndelungate</td><td><i>Se gândea cum să facă. Tare-ar fi vrut să fie mai ușoară calea pe care s-o apuce.</i></td></tr>
+<tr><td>3. a exprima teama, nedumerirea, o succesiune de gânduri/ acțiuni</td><td><i>Așteaptă. Privește pe fereastră. I se pare că aude un foșnet în grădină, la pușca și iese afară.</i></td></tr></table>
 
-**A.** La nivel sintactic
+<b>3. PUNCTUL Șl VIRGULA [; ]</b>
+
+A.** La nivel sintactic
 
 |Semnul de punctuație punctul și virgula delimitează:|Exemple|
 | :- | - |
