@@ -1869,28 +1869,27 @@ Semnul întrebării este semnul grafic care marchează o intonație interogativ�
 
 <b>B.</b> La nivel stilistic
 
-|Punctul și virgula se folosesc pentru:|Exemple|
-| :- | - |
-|1. a dezambiguiza mesajul|<p>*De frig te-nghemi, și-o racla îți pare-odaia toată;/ de prin hogeaguri fumul se-ncercuiește roată/ și ciori ca de funingeni așteapt-un hoit trântit;/ și gândurile pleacă în stol funinginii,/ ca ciorile ce, negre, dau peste-ntinderi roată.*</p><p>(B. Fundoianu, *Hiems)*</p>|
-|2. a sugera monotonia, repetabilitatea unor acțiuni|<p>*E iarnă, urlă crivăț; în vatra-i foc sărac;/ și ninge, ninge, ninge; ca-ntr-un sfârșit de veac*</p><p>(B. Fundoianu, *Hiems)*</p>|
-|3. a rupe ritmul fluent al discursului pentru a atrage atenția asupra unor aspecte|<p>*Ochii nu mai văzuseră așa ceva, însă nările îi dădeau o bună încredințare; așa încât urmă pilda boierului ș-a căpitanului llie.*</p><p>(Mihail Sadoveanu, *Zodia Cancerului)*</p>|
-|4. a evidenția stări sufletești puternice, generate de o tensiune lăuntrică|<p>*Tăcea, nu se plângea, nu ofta; numai ochii negri, încrucișați, licăreau ca doi ochi de fiară.*</p><p>(Mihail Sadoveanu, *în concentrare)*</p>|
-|5. a marca pauze interioare mărite|*Căzu pe gânduri; se uita la chipul acela de parcă nu l-ar fi văzut de mult timp...*|
+<table><tr><td>Punctul și virgula se folosesc pentru:</td><td> Exemple</td></tr>
+<tr><td>1. a dezambiguiza mesajul</td><td><p><i>De frig te-nghemi, și-o racla îți pare-odaia toată;/ de prin hogeaguri fumul se-ncercuiește roată/ și ciori ca de funingeni așteapt-un hoit trântit;/ și gândurile pleacă în stol funinginii,/ ca ciorile ce, negre, dau peste-ntinderi roată.</i></p><p>(B. Fundoianu, <i>Hiems</i>)</p></td></tr>
+<tr><td>2. a sugera monotonia, repetabilitatea unor acțiuni</td><td><p><i>E iarnă, urlă crivăț; în vatra-i foc sărac;/ și ninge, ninge, ninge; ca-ntr-un sfârșit de veac</i></p><p>(B. Fundoianu, <i>Hiems</i>)</p></td></tr>
+<tr><td>3. a rupe ritmul fluent al discursului pentru a atrage atenția asupra unor aspecte</td><td><p><i>Ochii nu mai văzuseră așa ceva, însă nările îi dădeau o bună încredințare; așa încât urmă pilda boierului ș-a căpitanului Ilie.</i></p><p>(Mihail Sadoveanu, <i>Zodia Cancerului</i>)</p></td></tr>
+<tr><td>4. a evidenția stări sufletești puternice, generate de o tensiune lăuntrică</td><td><p><i>Tăcea, nu se plângea, nu ofta; numai ochii negri, încrucișați, licăreau ca doi ochi de fiară.</i></p><p>(Mihail Sadoveanu, <i>În concentrare</i>)</p></td></tr>
+<tr><td>5. a marca pauze interioare mărite</td><td><i>Căzu pe gânduri; se uita la chipul acela de parcă nu l-ar fi văzut de mult timp...</i></td></tr></table>
 
-3. **DOUĂ PUNCTE [: ]**
+<b>3. DOUĂ PUNCTE [: ]</b>
 
-**A.** La nivel sintactic
+<b>A.</b> La nivel sintactic
 
-|Două puncte marchează:|Exemple|
-| :- | :- |
-|1. trecerea de la vorbirea indirectă la vorbirea directă, după un verb dicendi prezent sau subînțeles|*Marius m-a întrebat încet: - Unde pleci?*|
-|2. o propoziție independentă care anunță un text citat, un proverb, un principiu etc.|<p>*S-a împlinit vorba ceea: apără-mă de găini, că de câini nu mă tem.*</p><p>(Ion Creangă, *Povestea lui Harap-Alb)*</p>|
-|3. o propoziție independentă care anunță un fapt, o idee|*lată ce s-a întâmplat: Maria s-a împiedicat, a căzut și a spart geamul.*|
-|4. stilul indirect liber (poate fi folosită și linia de pauză)|*își ceru iertare: exagerase.*|
-|5. o enumerație|*Și-a cumpărat mai multe haine: pantaloni, o fustă și două bluze.*|
-|6. o explicație|*A înțeles, în sfârșit, mesajul: trebuia să fi rămas acasă.*|
-|7. un enunț aflat în raport adversativ, conclusiv, cauzal, concesiv în raport cu restul enunțului|*Ai greșit: vei fi pedepsit!*|
-|8. lipsa predicatului|*Fata: o frumusețe, băiatul - mai urâțel.*|
+<table><tr><td>Două puncte marchează:</td><td>Exemple</td></tr>
+
+<tr><td>1. trecerea de la vorbirea indirectă la vorbirea directă, după un verb dicendi prezent sau subînțeles</td><td><i>Marius m-a întrebat încet: - Unde pleci?</i></td></tr>
+<tr><td>2. o propoziție independentă care anunță un text citat, un proverb, un principiu etc.</td><td><p><i>S-a împlinit vorba ceea: apără-mă de găini, că de câini nu mă tem.</i></p><p>(Ion Creangă, <i>Povestea lui Harap-Alb</i>)</p></td></tr>
+<tr><td>3. o propoziție independentă care anunță un fapt, o idee</td><td><i>Iată ce s-a întâmplat: Maria s-a împiedicat, a căzut și a spart geamul.</i></td></tr>
+<tr><td>4. stilul indirect liber (poate fi folosită și linia de pauză)</td><td><i>își ceru iertare: exagerase.</i></td></tr>
+<tr><td>5. o enumerație</td><td><i>Și-a cumpărat mai multe haine: pantaloni, o fustă și două bluze.</i></td></tr>
+<tr><td>6. o explicație</td><td><i>A înțeles, în sfârșit, mesajul: trebuia să fi rămas acasă.</i></td></tr>
+<tr><td>7. un enunț aflat în raport adversativ, conclusiv, cauzal, concesiv în raport cu restul enunțului</td><td><i>Ai greșit: vei fi pedepsit!</i></td></tr>
+<tr><td>8. lipsa predicatului</td><td><Fata: o frumusețe, băiatul - mai urâțel.</i></td></tr>
 
 
 **B.** La nivel stilistic
