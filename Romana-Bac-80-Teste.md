@@ -1799,24 +1799,24 @@ Semnul întrebării este semnul grafic care marchează o intonație interogativ�
 
 <table><tr><td>Parantezele rotunde delimitează:</td><td>Exemple</td></tr>
 
-<tr><td>1. un adaos neintegrat ideilor din text, alcătuit din propoziții și fraze independente ca sens și ca valoare sintactică (divagații, extinderi, trecerea la altă idee etc.)|<p>*Trecu - de când! - și ultimul drumeț!/ (A mai rămas vreo urmă prin noroi?) / Un biet copac se clatină răzleț,/ Cu trupul frânt și crengile vâlvoi.*</p><p>(Al. Philippide, *Desen murdar)*</p>|
-|2. un adaos integrat ideilor din text (completări, explicații, precizări etc.)|*Privea fotografia de pe perete și gândul îi zbură departe. (Tare-ar mai fi vrut să fie copil...). O lacrimă îi alunecă încet pe obraz.*|
-|3. indicațiile scenice în textul dramatic|<p>*JUPÂN DUMITRACHE (lui Spiridon): Dar mai mult nu puteai să șezi, mă?*</p><p>*SPIRIDON: Vezi că era mulți muștirii, jupâne, până să- mi dea madama gazeta.*</p><p>*(Ipingescu ia gazeta)*</p><p>(I.L. Caragiale, 0 *noapte furtunoasă)*</p>|
-|Parantezele drepte au rolul de a:|Exemple|
-|1. furniza precizări celui care utilizează textul sau de a reproduce cuvinte, sintagme etc. pentru a facilita înțelegerea mesajului de către receptor|<p>*El [Alecu Russo] va fi unul dintre cei ce pregătesc anul de deșteptare 1848.*</p><p>(Lucian Bl aga, *Alecu Russo)*</p>|
-|2. evidenția anumite semne de punctuație sau cuvinte|<p>*ZOE: Ce vrei cu mine[?]*</p><p>(I.L. Caragiale, 0 *scrisoare pierdută)*</p>|
-|3. indica absența unui fragment de text împreună cu punctele de suspensie|*Pierzându-ți timpul tău cu dulci nimicuri,/[...] Să stai visând la foc, de somn să picuri.*	(Mihai Eminescu)|
-|Parantezele oblice au rolul de a:|Exemplu|
-|reda transcrierea fonetică a unui cuvânt|Chiar- *[k’ar]*|
+<tr><td>1. un adaos neintegrat ideilor din text, alcătuit din propoziții și fraze independente ca sens și ca valoare sintactică (divagații, extinderi, trecerea la altă idee etc.)</td><td><p><i>Trecu - de când! - și ultimul drumeț!/ (A mai rămas vreo urmă prin noroi?) / Un biet copac se clatină răzleț,/ Cu trupul frânt și crengile vâlvoi.</i></p><p>(Al. Philippide, <i>Desen murdar</i>)</p></td></tr>
+<tr><td>2. un adaos integrat ideilor din text (completări, explicații, precizări etc.)</td><td><i>Privea fotografia de pe perete și gândul îi zbură departe. (Tare-ar mai fi vrut să fie copil...). O lacrimă îi alunecă încet pe obraz.</i></td></tr>
+<tr><td>3. indicațiile scenice în textul dramatic</td><td><p><i>JUPÂN DUMITRACHE (lui Spiridon): Dar mai mult nu puteai să șezi, mă?</i></p><p><i>SPIRIDON: Vezi că era mulți muștirii, jupâne, până să- mi dea madama gazeta.</i></p><p><i>(Ipingescu ia gazeta)</i></p><p>(I.L. Caragiale, <i>0 noapte furtunoasă</i>)</p></td></tr></table>
+<table><tr><td>Parantezele drepte au rolul de a:</td><td>Exemple</td></tr>
+<tr><td>1. furniza precizări celui care utilizează textul sau de a reproduce cuvinte, sintagme etc. pentru a facilita înțelegerea mesajului de către receptor</td><td><p><i>El [Alecu Russo] va fi unul dintre cei ce pregătesc anul de deșteptare 1848.</i></p><p>(Lucian Blaga, <i>Alecu Russo</i>)</p></td></tr>
+<tr><td>2. evidenția anumite semne de punctuație sau cuvinte</td><td><p><i>ZOE: Ce vrei cu mine[?]</i></p><p>(I.L. Caragiale, <i>0 scrisoare pierdută</i>)</p></td></tr>
+<tr><td>3. indica absența unui fragment de text împreună cu punctele de suspensie</td><td><i>Pierzându-ți timpul tău cu dulci nimicuri,/[...] Să stai visând la foc, de somn să picuri.</i>	(Mihai Eminescu)</td></tr></table>
+<table><tr><td>Parantezele oblice au rolul de a:</td><td>Exemplu</td></tr>
+<tr><td>reda transcrierea fonetică a unui cuvânt</td><td>Chiar- <i>[k’ar]</i></td></tr></table>
 
 
-3. **LINIA DE PAUZĂ [-]**
+<b>3. LINIA DE PAUZĂ [-]</b>
 
-**A.** La nivel sintactic
+<b>A.</b> La nivel sintactic
 
-|Linia de pauză este folosită pentru a marca:|Exemple|
-| :- | :- |
-|1.în interiorul propoziției sau al frazei cuvintele, construcțiile incidente|<p>*— Te aștept oricât vrei, citesc ceva - și brusc, ca și când ar fi călcat strâmb - sau poate trebuie să vie cineva...*</p><p>(Camil Petrescu, *Patul lui Procust)*</p>|
+<table><tr><td>Linia de pauză este folosită pentru a marca:</td><td>Exemple</td></tr>
+
+<tr><td>1.în interiorul propoziției sau al frazei cuvintele, construcțiile incidente</td><td><p><i>— Te aștept oricât vrei, citesc ceva - și brusc, ca și când ar fi călcat strâmb - sau poate trebuie să vie cineva...</i></p><p>(Camil Petrescu, <i>Patul lui Procust</i>)</p></td></tr>
 |2. apozițiile explicative|*Prietena mea - Maria Popescu - fusese prima pe lista celor admiși la facultate.*|
 |3. lipsa predicatului sau a verbului copulativ:|*El a cumpărat un caiet, iar eu - două. Fata - deșteaptă, băiatul - cam prostuț.*|
 |4. lipsa adverbului comparativ într-o comparație|*Dan era înalt - un catarg în toată regula.*|
