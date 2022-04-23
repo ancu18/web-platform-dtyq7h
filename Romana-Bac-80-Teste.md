@@ -1859,15 +1859,12 @@ Semnul întrebării este semnul grafic care marchează o intonație interogativ�
 
 <b>A. La nivel sintactic</b>
 
-Semnul de punctuație punctul și virgula delimitează:|Exemple|
-| :- | - |
-|1. propoziții și fraze, diverse observații referitoare la același obiect etc.|<p>*...ea cu adevărat că știa a face multe si mari minunății: alunga nourii cei negri de pe deasupra satului nostru și abătea grindina în alte părți, întingând toporul în pământ, afară, dinaintea ușii; închega apa numai cu două picioare de vacă, de se încrucea lumea de mirare; bătea pământul, sau peretele...*</p><p>(Ion Creangă, *Amintiri din copilărie)*</p>|
-|2. anumite subordonate de regentele lor|<p>*Atunci bucuria cocoșului! Să-I fi văzut cum înghițea la buhai, la boi, la vaci și la viței; pân-a înghițit el toată cireada ș-a făcut un pântec mare, mare cât un munte!*</p><p>(Ion Creangă, *Punguța cu doi bani)*</p>|
-|3. adverbele de negație și afirmație de restul enunțului|<p>*CHIRI AC: Să-mi poruncești, firește; nu-mi ești stăpână?... Nu sunt slugă în casa dumitale, cu simbrie? VETA (întorcându-se cu fața spre Chiriac): Bine, domnule Chiriac, bine; zi înainte, că n-ai zis destule.*</p><p>(LL. Caragiale, 0 *noapte furtunoasă)*</p>|
+<table><tr><td>Semnul de punctuație punctul și virgula delimitează:</td><td>Exemple</td></tr>
 
-
-
-|*4.* construcțiile incidente|<p>*Na-ți, mă, bani! zise dracul trimis; și să te cărăbănești de aici; că, de nu, e rău de tine!*</p><p>*(Ion Creangă, Dănilă Prepeleac)*</p>|
+<tr><td>1. propoziții și fraze, diverse observații referitoare la același obiect etc.</td><td><p><i>...ea cu adevărat că știa a face multe si mari minunății: alunga nourii cei negri de pe deasupra satului nostru și abătea grindina în alte părți, întingând toporul în pământ, afară, dinaintea ușii; închega apa numai cu două picioare de vacă, de se încrucea lumea de mirare; bătea pământul, sau peretele...</i></p><p>(Ion Creangă, <i>Amintiri din copilărie</i>)</p></td></tr>
+<tr><td>2. anumite subordonate de regentele lor</td><td><p><i>Atunci bucuria cocoșului! Să-I fi văzut cum înghițea la buhai, la boi, la vaci și la viței; pân-a înghițit el toată cireada ș-a făcut un pântec mare, mare cât un munte!</i></p><p>(Ion Creangă, <i>Punguța cu doi bani</i>)</p></td></tr>
+<tr><td>3. adverbele de negație și afirmație de restul enunțului</td><td><p><i>CHIRIAC: Să-mi poruncești, firește; nu-mi ești stăpână?... Nu sunt slugă în casa dumitale, cu simbrie? VETA (întorcându-se cu fața spre Chiriac): Bine, domnule Chiriac, bine; zi înainte, că n-ai zis destule.</i></p><p>(I. L. Caragiale, <i>0 noapte furtunoasă</i>)</p></td></tr>
+4. construcțiile incidente|<p>*Na-ți, mă, bani! zise dracul trimis; și să te cărăbănești de aici; că, de nu, e rău de tine!*</p><p>*(Ion Creangă, Dănilă Prepeleac)*</p>|
 | :- | :- |
 |5. o anumită consecință sau explicație cauzală|<p>*Nu m-au iertat; nu-i iert nici eu.*</p><p>(Mihail Sadoveanu, *Zodia Cancerului)*</p>|
 
