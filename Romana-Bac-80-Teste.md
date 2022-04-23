@@ -1889,8 +1889,7 @@ Semnul întrebării este semnul grafic care marchează o intonație interogativ�
 <tr><td>5. o enumerație</td><td><i>Și-a cumpărat mai multe haine: pantaloni, o fustă și două bluze.</i></td></tr>
 <tr><td>6. o explicație</td><td><i>A înțeles, în sfârșit, mesajul: trebuia să fi rămas acasă.</i></td></tr>
 <tr><td>7. un enunț aflat în raport adversativ, conclusiv, cauzal, concesiv în raport cu restul enunțului</td><td><i>Ai greșit: vei fi pedepsit!</i></td></tr>
-<tr><td>8. lipsa predicatului</td><td><Fata: o frumusețe, băiatul - mai urâțel.</i></td></tr>
-
+<tr><td>8. lipsa predicatului</td><td><i>Fata: o frumusețe, băiatul - mai urâțel.</i></td></tr></table>
 
 **B.** La nivel stilistic
 
