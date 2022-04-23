@@ -1838,7 +1838,7 @@ Semnul întrebării este semnul grafic care marchează o intonație interogativ�
 
 <table><tr><td>Punctul este plasat după:</td><td>Exemple</td></tr>
 
-<tr><td>1. propoziții independente</td><td>Am văzut un dalmațian pe strada mea.*|
+<tr><td>1. propoziții independente</td><td><i>Am văzut un dalmațian pe strada mea.</i></td></tr>
 |2. fraze formate din propoziții enunțiative coordonate prin juxtapunere, principale sau subordonate; fraze formate din propoziții enunțiative subordonate|<p>*îmi aduc aminte ce zarvă a fost, când într-un rând, s-a zvonit că pe Domnu nostru are să-l mute într-o altă comună, peste Șiret.*</p><p>(Mihail Sadoveanu, *Domnu Trandafir)*</p>|
 |3. fraze conținând propoziții interogative indirecte|*Am întrebat cine va veni mâine.*|
 
