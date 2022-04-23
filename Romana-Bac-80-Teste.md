@@ -1817,28 +1817,28 @@ Semnul întrebării este semnul grafic care marchează o intonație interogativ�
 <table><tr><td>Linia de pauză este folosită pentru a marca:</td><td>Exemple</td></tr>
 
 <tr><td>1.în interiorul propoziției sau al frazei cuvintele, construcțiile incidente</td><td><p><i>— Te aștept oricât vrei, citesc ceva - și brusc, ca și când ar fi călcat strâmb - sau poate trebuie să vie cineva...</i></p><p>(Camil Petrescu, <i>Patul lui Procust</i>)</p></td></tr>
-|2. apozițiile explicative|*Prietena mea - Maria Popescu - fusese prima pe lista celor admiși la facultate.*|
-|3. lipsa predicatului sau a verbului copulativ:|*El a cumpărat un caiet, iar eu - două. Fata - deșteaptă, băiatul - cam prostuț.*|
-|4. lipsa adverbului comparativ într-o comparație|*Dan era înalt - un catarg în toată regula.*|
-|5. intervenția autorului după semnul întrebării sau al exclamării|*— Unde pleci? - întrebă iritat George.*|
+<tr><td>2. apozițiile explicative</td><td><i>Prietena mea - Maria Popescu - fusese prima pe lista celor admiși la facultate.</i></td></tr>
+<tr><td>3. lipsa predicatului sau a verbului copulativ:</td><td><i>El a cumpărat un caiet, iar eu - două. Fata - deșteaptă, băiatul - cam prostuț.</i></td></tr>
+<tr><td>4. lipsa adverbului comparativ într-o comparație</td><td><i>Dan era înalt - un catarg în toată regula.</i></td></tr>
+<tr><td>5. intervenția autorului după semnul întrebării sau al exclamării</td><td><i>— Unde pleci? - întrebă iritat George.</i></td></tr></table>
 
-**B.** La nivel stilistic
+<b>B.</b> La nivel stilistic
 
-|Linia de pauză:|Exemple|
-| :- | - |
-|1. contribuie, prin delimitarea unor fragmente de enunțul întreg, la dinamizarea discursului|*în casă - zgomote, în grădină - zgomote, oare ce-o fi?*|
-|2. impune crearea unei pauze și a unei intonații specifice|<p>*La orizont - departe - fulgere fără glas zvâcnesc din când în când/ ca niște lungi picioare de păianjen-smulse/ din trupul care le purta.*</p><p>(Lucian Blaga, *Vară)*</p>|
-|3. în cazul unor precizări suplimentare, contribuie la sporirea semnificațiilor și a trimiterilor.|<p>*Un băietan voinic - barba de-abia-i mijește, și sub căciulă de oaie părul creț și des... și niște ochi blânzi - și mintos tânăr.*</p><p>(I. L. Caragiale, *Păcat)*</p>|
-|4. marchează o pauză mai mare decât una care apare anterior|<p>*Sunt solitarul pustiilor piețe*</p><p>*Cu jocuri de umbră ce dau nebunie;*</p><p>*Pălind în tăcere și-n paralizie, -*</p><p>*Sunt solitarul pustiilor piețe...*</p><p>(George Bacovia, *Pălind)*</p>|
-|5. o atitudine afectivă a naratorului sau a eului liric|*Privea cu durere totul în jurul ei - ah, de-ar fi fost mama aproape...*|
+<table><tr><td>Linia de pauză:</td><td>Exemple</td></tr>
 
-3. **PUNCTUL [.]**
+<tr><td>1. contribuie, prin delimitarea unor fragmente de enunțul întreg, la dinamizarea discursului</td><td><i>în casă - zgomote, în grădină - zgomote, oare ce-o fi?</i></td></tr>
+<tr><td>2. impune crearea unei pauze și a unei intonații specifice</td><td><p><i>La orizont - departe - fulgere fără glas zvâcnesc din când în când/ ca niște lungi picioare de păianjen-smulse/ din trupul care le purta.</i></p><p>(Lucian Blaga, <i>Vară</i>)</p></td></tr>
+<tr><td>3. în cazul unor precizări suplimentare, contribuie la sporirea semnificațiilor și a trimiterilor.</td><td><p><i>Un băietan voinic - barba de-abia-i mijește, și sub căciulă de oaie părul creț și des... și niște ochi blânzi - și mintos tânăr.</i></p><p>(I. L. Caragiale, <i>Păcat</i>)</p></td></tr>
+<tr><td>4. marchează o pauză mai mare decât una care apare anterior</td><td><p><i>Sunt solitarul pustiilor piețe</i></p><p><i>Cu jocuri de umbră ce dau nebunie;</i></p><p><i>Pălind în tăcere și-n paralizie, -</i></p><p><i>Sunt solitarul pustiilor piețe...</i></p><p>(George Bacovia, <i>Pălind</i>)</p></td></tr>
+<tr><td>5. o atitudine afectivă a naratorului sau a eului liric</td><td><i>Privea cu durere totul în jurul ei - ah, de-ar fi fost mama aproape...</i></td></tr></table>
 
-**A.** La nivel sintactic
+<b>3. PUNCTUL [.]</b>
 
-|Punctul este plasat după:|Exemple|
-| - | - |
-|1. propoziții independente|*Am văzut un dalmațian pe strada mea.*|
+<b>A.</b> La nivel sintactic
+
+<table><tr><td>Punctul este plasat după:</td><td>Exemple</td></tr>
+
+<tr><td>1. propoziții independente</td><td>Am văzut un dalmațian pe strada mea.*|
 |2. fraze formate din propoziții enunțiative coordonate prin juxtapunere, principale sau subordonate; fraze formate din propoziții enunțiative subordonate|<p>*îmi aduc aminte ce zarvă a fost, când într-un rând, s-a zvonit că pe Domnu nostru are să-l mute într-o altă comună, peste Șiret.*</p><p>(Mihail Sadoveanu, *Domnu Trandafir)*</p>|
 |3. fraze conținând propoziții interogative indirecte|*Am întrebat cine va veni mâine.*|
 
