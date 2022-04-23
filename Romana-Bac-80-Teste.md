@@ -1839,16 +1839,15 @@ Semnul întrebării este semnul grafic care marchează o intonație interogativ�
 <table><tr><td>Punctul este plasat după:</td><td>Exemple</td></tr>
 
 <tr><td>1. propoziții independente</td><td><i>Am văzut un dalmațian pe strada mea.</i></td></tr>
-<tr><td>2. fraze formate din propoziții enunțiative coordonate prin juxtapunere, principale sau subordonate; fraze formate din propoziții enunțiative subordonate|<p>*îmi aduc aminte ce zarvă a fost, când într-un rând, s-a zvonit că pe Domnu nostru are să-l mute într-o altă comună, peste Șiret.*</p><p>(Mihail Sadoveanu, *Domnu Trandafir)*</p>|
-|3. fraze conținând propoziții interogative indirecte|*Am întrebat cine va veni mâine.*|
+<tr><td>2. fraze formate din propoziții enunțiative coordonate prin juxtapunere, principale sau subordonate; fraze formate din propoziții enunțiative subordonate</td><td><p><i>îmi aduc aminte ce zarvă a fost, când într-un rând, s-a zvonit că pe Domnu nostru are să-l mute într-o altă comună, peste Șiret.</i></p><p>(Mihail Sadoveanu, <i>Domnu Trandafir</i>)</p></td></tr>
+<tr><td>3. fraze conținând propoziții interogative indirecte</td><td><i>Am întrebat cine va veni mâine.</i></td></tr>
 
+<tr><td>4. propoziții formate dintr-un singur cuvânt cu valoarea unei propoziții enunțiative, independente</td><td><p><i>M.: Nu-mi pasă nimic... dar sunt curios să văz până unde merge mișelia omului... Zici că mi-e amic.</i></p><p><i>L. : Bun.</i></p><p><i>M.	: Amic de-aproape?</i></p><p><i>L: Da.</i></p><p>(I.L. Caragiale, <i>Amici</i>)</p></td></tr>
 
-|4. propoziții formate dintr-un singur cuvânt cu valoarea unei propoziții enunțiative, independente|<p>*M.: Nu-mi pasă nimic... dar sunt curios să văz până unde merge mișelia omului... Zici că mi-e amic.*</p><p>L. *: Bun.*</p><p>*M.	: Amic de-aproape?*</p><p>*L: Da.*</p><p>(I.L. Caragiale, *Amici)*</p>|
-| - | :- |
-|5. fraze fragmentate în propoziții principale|*- Unde pleci? - întrebă iritat George.*|
-|6. fraze în care apar interogative directe, propoziții imperative sau exclamative, în relație cu subordonate care le atenuează acest caracter|<p>*Codrule, codruțule,*</p><p>*Ce mai faci, drăguțule,*</p><p>*Că de când nu ne-am văzut*</p><p>*Multă vreme a trecut*</p><p>*Și de când m-am depărtat,*</p><p>*Multă lume am îmbiat.*</p><p>(Mihai Eminescu, *Revedere)*</p>|
+<tr><td>5. fraze fragmentate în propoziții principale</td><td><i>- Unde pleci? - întrebă iritat George.</i></td></tr>
+<tr><td>6. fraze în care apar interogative directe, propoziții imperative sau exclamative, în relație cu subordonate care le atenuează acest caracter</td><td><p><i>Codrule, codruțule,</i></p><p><i>Ce mai faci, drăguțule,</i></p><p><i>Că de când nu ne-am văzut</i></p><p><i>Multă vreme a trecut</i></p><p><i>Și de când m-am depărtat,</i></p><p><i>Multă lume am îmbiat.</i></p><p>(Mihai Eminescu, <i>Revedere</i>)</p></td></tr></table>
 
-**B.** La nivel stilistic
+<b>B.</b> La nivel stilistic
 
 |Punctul este plasat pentru:|Exemple|
 | :- | - |
