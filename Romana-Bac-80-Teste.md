@@ -1891,14 +1891,13 @@ Semnul întrebării este semnul grafic care marchează o intonație interogativ�
 <tr><td>7. un enunț aflat în raport adversativ, conclusiv, cauzal, concesiv în raport cu restul enunțului</td><td><i>Ai greșit: vei fi pedepsit!</i></td></tr>
 <tr><td>8. lipsa predicatului</td><td><i>Fata: o frumusețe, băiatul - mai urâțel.</i></td></tr></table>
 
-**B.** La nivel stilistic
+<b>B</b>.La nivel stilistic
 
-|Două puncte evidențiază:|Exemple|
-| :- | - |
-|1. un fapt, o idee, un punct de vedere|<p>- *De unde răsare soarele?*</p><p>- *Știu: din casa lui de dincolo de nori.*</p>|
-|2. un element necesar comunicării|<p>*Pe bancă, sub castanul din vie, te așază, / Străine, ce venit-ai priveliștea s-o vezi —/ Florica e acolo, cu casă, parc, livezi, / Și peste drumul mare: zăvoiul. înserează.*</p><p>(Ion Pillat, *Străinul)*</p>|
-|3. schimbarea registrului afectiv și a intonației, mai ales lângă o interjecție|<p>*Dar sturzul se lăsă lângă bucățica de hârtie, deschise pliscul, apucă, cu lăcomie, cărăbușul, și hap! hap! - mai să se înece, îl înghiți.*</p><p>(Emil Gârleanu, *Sărăcuțul!...)*</p>|
-|4. o anumită intonație|<p>*Nu e de aur: e de raze.*</p><p>(Al. Macedonski, *Rondelul cupei de Murano)*</p>|
+<table><tr><td>Două puncte evidențiază:</td><td>Exemple</td></tr>
+<tr><td>1. un fapt, o idee, un punct de vedere</td><td><p>- <i>De unde răsare soarele?</i></p><p>- <i>Știu: din casa lui de dincolo de nori.</i></p></td></tr>
+<tr><td>2. un element necesar comunicării</td><td><p><i>Pe bancă, sub castanul din vie, te așază, / Străine, ce venit-ai priveliștea s-o vezi —/ Florica e acolo, cu casă, parc, livezi, / Și peste drumul mare: zăvoiul. înserează.</i></p><p>(Ion Pillat, <i>Străinul</i>)</p></td></tr>
+<tr><td>3. schimbarea registrului afectiv și a intonației, mai ales lângă o interjecție</td><td><p><i>Dar sturzul se lăsă lângă bucățica de hârtie, deschise pliscul, apucă, cu lăcomie, cărăbușul, și hap! hap! - mai să se înece, îl înghiți.</i></p><p>(Emil Gârleanu, <i>Sărăcuțul!...</i>)</p></td></tr>
+<tr><td>4. o anumită intonație</td><td><p><i>Nu e de aur: e de raze.</i></p><p>(Al. Macedonski, <i>Rondelul cupei de Murano</i>)</p></td></tr></table>
 
 3. **PUNCTELE DE SUSPENSIE [...]**
 
