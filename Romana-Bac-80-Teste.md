@@ -1899,9 +1899,9 @@ Semnul întrebării este semnul grafic care marchează o intonație interogativ�
 <tr><td>3. schimbarea registrului afectiv și a intonației, mai ales lângă o interjecție</td><td><p><i>Dar sturzul se lăsă lângă bucățica de hârtie, deschise pliscul, apucă, cu lăcomie, cărăbușul, și hap! hap! - mai să se înece, îl înghiți.</i></p><p>(Emil Gârleanu, <i>Sărăcuțul!...</i>)</p></td></tr>
 <tr><td>4. o anumită intonație</td><td><p><i>Nu e de aur: e de raze.</i></p><p>(Al. Macedonski, <i>Rondelul cupei de Murano</i>)</p></td></tr></table>
 
-3. **PUNCTELE DE SUSPENSIE [...]**
+<b>3. PUNCTELE DE SUSPENSIE [...]</b>
 
-**A.** La nivel sintactic
+<b>A</b>. La nivel sintactic
 
 |Punctele de suspensie marchează:|Exemple|
 | - | - |
