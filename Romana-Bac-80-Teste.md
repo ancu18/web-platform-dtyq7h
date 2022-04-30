@@ -1905,8 +1905,8 @@ Semnul întrebării este semnul grafic care marchează o intonație interogativ�
 
 <table><tr><td>Punctele de suspensie marchează:</td><td>Exemple</td></tr>
 
-<tr><td>1. întreruperea intenționată/ neintenționată a vorbirii:</td><td><p><i>O iau înapoi fără să știu unde merg; mă împiedic de un butoi cu țiment... O inspirațiune... - eu ca poet am totdeauna inspirațiuni! - m-ascunz în butoi!</i></p><p>(I. L. Caragiale, <i>0 noapte furtunoasă</i>)</p>
-|2. indică lipsa verbului la mod predicativ, suplinind linia de pauză sau virgula|<p>*Mititelul... al dumneavoastră?*</p><p>(I.L. Caragiale, *Dl Goe...)*</p>|
+<tr><td>1. întreruperea intenționată/ neintenționată a vorbirii:</td><td><p><i>O iau înapoi fără să știu unde merg; mă împiedic de un butoi cu țiment... O inspirațiune... - eu ca poet am totdeauna inspirațiuni! - m-ascunz în butoi!</i></p><p>(I. L. Caragiale, <i>0 noapte furtunoasă</i>)</p></td></tr>
+<tr><td>2. indică lipsa verbului la mod predicativ, suplinind linia de pauză sau virgula|<p>*Mititelul... al dumneavoastră?*</p><p>(I.L. Caragiale, *Dl Goe...)*</p>|
 |3. marchează omisiunile care nu aparțin autorului, în acest caz recomandându-se folosirea lor între paranteze drepte sau rotunde|<p>*Mi-era teamă să nu mă întrebe de ce plângeam... Dar mi se păru straniu, din punctul lui de vedere, că nu mă întreabă totuși[...] noi eram însă cam la cincizeci de pași din drum.*</p><p>(Camil Petrescu, *Patul lui Procust)*</p>|
 |4. vorbirea incoerentă|<p>*Pristanda: (asemenea) Curat caraghioz!... Pardon, să iertați, coane Fănică, că întreb: bampir... ce-i aia, bampir? Tipătescu: Unul... unul care suge sângele poporului... Eu sug sângele poporului!...*</p><p>*Pristanda: Dumneata sugi sângele poporului!... Aoleu!*</p><p>(LL. Caragiale, O *scrisoare pierdută)*</p>|
 
