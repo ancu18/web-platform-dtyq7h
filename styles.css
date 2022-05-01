@@ -1,12 +1,9 @@
 body {
   background: orange;
 }
-﻿<style type="text/css">
-  <!-- @page { margin-top: 0.30cm; margin-bottom: 0.30cm; margin-left: 0.20cm; margin-right: 0.20cm; } 
+<!-- @page { margin-top: 0.30cm; margin-bottom: 0.30cm; margin-left: 0.20cm; margin-right: 0.20cm; } 
   -->
-</style>
-<style>div.b {padding-left:2em;} div.a{text-indent:-2em; padding-left:2em;}</style> 
-<style>
+div.b {padding-left:2em;} div.a{text-indent:-2em; padding-left:2em;} 
   h1 {
     text-align: center;
   }
@@ -51,8 +48,6 @@ body {
   }
   th, tr {text-align:center}
   td {text-align:justify}
-</style>
-<style>
   .bf_toc_container {
     border: 5px solid green; 
     page-break-after:always;
@@ -217,4 +212,3 @@ body {
     counter-increment:item; 
     margin-left: -20px;
   }
-</style>
