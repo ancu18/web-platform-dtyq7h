@@ -21,7 +21,7 @@ Limba si literatura română
 
 \- ghid complet pentru Bacalaureat -
 
-<bBooklet</b>
+<b>Booklet</b>
 
 **București, 2019**
 
@@ -31,7 +31,7 @@ Pentru comenzi:
 
 **021 440.1002**
 
-**e-mail: [**comenzi@booklet.ro](mailto:comenzi@booklet.ro)**
+**e-mail: [**comenzi@booklet.ro]<b>(mailto:comenzi@booklet.ro)</b>
 
 web: [www.booklet.ro](http://www.booklet.ro)
 
