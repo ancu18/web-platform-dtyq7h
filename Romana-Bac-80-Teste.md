@@ -1689,17 +1689,15 @@ Semnul întrebării este semnul grafic care marchează o intonație interogativ�
 <table><tr><td>Punctele de suspensie marchează:</td><td>Exemple</td></tr>
 
 <tr><td>1. întreruperea intenționată/ neintenționată a vorbirii:</td><td><p><i>O iau înapoi fără să știu unde merg; mă împiedic de un butoi cu țiment... O inspirațiune... - eu ca poet am totdeauna inspirațiuni! - m-ascunz în butoi!</i></p><p>(I. L. Caragiale, <i>0 noapte furtunoasă</i>)</p></td></tr>
-<tr><td>2. indică lipsa verbului la mod predicativ, suplinind linia de pauză sau virgula|<p>*Mititelul... al dumneavoastră?*</p><p>(I.L. Caragiale, *Dl Goe...)*</p>|
-|3. marchează omisiunile care nu aparțin autorului, în acest caz recomandându-se folosirea lor între paranteze drepte sau rotunde|<p>*Mi-era teamă să nu mă întrebe de ce plângeam... Dar mi se păru straniu, din punctul lui de vedere, că nu mă întreabă totuși[...] noi eram însă cam la cincizeci de pași din drum.*</p><p>(Camil Petrescu, *Patul lui Procust)*</p>|
-|4. vorbirea incoerentă|<p>*Pristanda: (asemenea) Curat caraghioz!... Pardon, să iertați, coane Fănică, că întreb: bampir... ce-i aia, bampir? Tipătescu: Unul... unul care suge sângele poporului... Eu sug sângele poporului!...*</p><p>*Pristanda: Dumneata sugi sângele poporului!... Aoleu!*</p><p>(LL. Caragiale, O *scrisoare pierdută)*</p>|
+<tr><td>2. indică lipsa verbului la mod predicativ, suplinind linia de pauză sau virgula</td><td><p><i>Mititelul... al dumneavoastră?</i></p><p>(I.L. Caragiale, <i>Dl Goe...</i>)</p></td></tr>
+<tr><td>3. marchează omisiunile care nu aparțin autorului, în acest caz recomandându-se folosirea lor între paranteze drepte sau rotunde</td><td><p><i>Mi-era teamă să nu mă întrebe de ce plângeam... Dar mi se păru straniu, din punctul lui de vedere, că nu mă întreabă totuși[...] noi eram însă cam la cincizeci de pași din drum.</i></p><p>(Camil Petrescu, <i>Patul lui Procust</i>)</p></td></tr>
+<tr><td>4. vorbirea incoerentă</td><td><p><i>Pristanda: (asemenea) Curat caraghioz!... Pardon, să iertați, coane Fănică, că întreb: bampir... ce-i aia, bampir? Tipătescu: Unul... unul care suge sângele poporului... Eu sug sângele poporului!...</i></p><p><i>Pristanda: Dumneata sugi sângele poporului!... Aoleu!</i></p><p>(I. L. Caragiale, <i>O scrisoare pierdută</i>)</p></td></tr></table>
 
+<b>B</b>.La nivel stilistic
 
-**B.** La nivel stilistic
-
-|Punctele de suspensie creează:|Exemple|
-| :- | :- |
-|1. pauză psihologică|0 *privea încordat... Oare să-i spună ce-l măcina de la* o *vreme?*|
-|2. o stare de indecizie sau de emoție a vorbitorului|<p>*-Elev Marcu, ai făcut tema pentru azi?*</p><p>*- Păi, știți...aseară...am..*</p>|
+<tr><td>Punctele de suspensie creează:</td><td> Exemple</td></tr>
+<tr><td>1. pauză psihologică</td><td><i>0 privea încordat... Oare să-i spună ce-l măcina de la o vreme?</i></td></tr>
+<tr><td>2. o stare de indecizie sau de emoție a vorbitorului</td><td><p><i>-Elev Marcu, ai făcut tema pentru azi?</i></p><p><i>- Păi, știți...aseară...am..</i></p></td></tr>
 |3. tăcerea, pauza, lipsa, absența, prin întreruperea enunțului, dând posibilitatea unei interpretări noi care să aparțină cititorului|<p>*Primăvară...*</p><p>*0 pictură parfumată cu vibrări de violet.*</p><p>*în vitrine, versuri de un nou poet,*</p><p>*în oraș, suspină un vals de fanfară.*</p><p>*(G.* Bacovia, *Nervi de primăvară)*</p>|
 
 3. **VIRGULA [,]**
