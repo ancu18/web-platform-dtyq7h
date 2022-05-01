@@ -1,4 +1,4 @@
-﻿<style type="text/css">
+<style type="text/css">
   <!-- @page { margin-top: 0.30cm; margin-bottom: 0.30cm; margin-left: 0.20cm; margin-right: 0.20cm; } 
   -->
 </style>
