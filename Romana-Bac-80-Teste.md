@@ -21,7 +21,7 @@ Limba si literatura română
 
 \- ghid complet pentru Bacalaureat -
 
-**Booklet**
+<bBooklet</b>
 
 **București, 2019**
 
