@@ -1698,7 +1698,7 @@ Semnul întrebării este semnul grafic care marchează o intonație interogativ�
 <tr><td>Punctele de suspensie creează:</td><td> Exemple</td></tr>
 <tr><td>1. pauză psihologică</td><td><i>0 privea încordat... Oare să-i spună ce-l măcina de la o vreme?</i></td></tr>
 <tr><td>2. o stare de indecizie sau de emoție a vorbitorului</td><td><p><i>-Elev Marcu, ai făcut tema pentru azi?</i></p><p><i>- Păi, știți...aseară...am..</i></p></td></tr>
-|3. tăcerea, pauza, lipsa, absența, prin întreruperea enunțului, dând posibilitatea unei interpretări noi care să aparțină cititorului|<p>*Primăvară...*</p><p>*0 pictură parfumată cu vibrări de violet.*</p><p>*în vitrine, versuri de un nou poet,*</p><p>*în oraș, suspină un vals de fanfară.*</p><p>*(G.* Bacovia, *Nervi de primăvară)*</p>|
+<tr><td>3. tăcerea, pauza, lipsa, absența, prin întreruperea enunțului, dând posibilitatea unei interpretări noi care să aparțină cititorului</td><td><p><i>Primăvară...</i></p><p><i>0 pictură parfumată cu vibrări de violet.</i></p><p><i>în vitrine, versuri de un nou poet,</i></p><p><i>în oraș, suspină un vals de fanfară.</i></p><p>(G. Bacovia, <i>Nervi de primăvară</i>)</p></td></tr>
 
 3. **VIRGULA [,]**
 
