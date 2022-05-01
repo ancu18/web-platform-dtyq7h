@@ -2,3 +2,220 @@ go
 https://css-tricks.com/ordered-lists-unicode-symbols/
 https://gist.github.com/jirutka/32049196ab75547b7f47
 https://stackoverflow.com/questions/36682602/a-styled-ordered-list-whose-nested-list-should-have-numbers-with-letters-using-c
+<style type="text/css">
+  <!-- @page { margin-top: 0.30cm; margin-bottom: 0.30cm; margin-left: 0.20cm; margin-right: 0.20cm; } 
+  -->
+</style>
+<style>div.b {padding-left:2em;} div.a{text-indent:-2em; padding-left:2em;}</style> 
+<style>
+  h1 {
+    text-align: center;
+  }
+
+
+  h2 {p
+    text-align: center;
+  }
+  
+  h3 {
+    text-align: center;
+    font-weight: bold;
+  } 
+  h4 {
+    text-align: center;
+  }
+  pre,
+  code {
+    white-space: pre-wrap;
+    background-color: lightblue;
+    text-align:justify;
+  }
+
+  pre.border {
+    border-radius: 25px;
+    background-color: lightblue;
+  }
+
+  code {
+    border-radius: 25px
+  }
+
+  ul {
+    list-style-type: none;
+  }
+
+  ul>li:before {
+    content: "\26AC";
+    /* en dash */
+    position: absolute;
+    margin-left: -1.1em;
+  }
+  th, tr {text-align:center}
+  td {text-align:justify}
+</style>
+<style>
+  .bf_toc_container {
+    border: 5px solid green; 
+    page-break-after:always;
+    padding: 5px;
+    font-size: 12px;
+    overflow: hidden;
+    border-radius: 25px;
+    margin-bottom: 20px;
+    color: red; 
+  }
+  .bf_toc_container_1 {
+    border: 5px solid green; 
+    page-break-after:always;
+    padding: 5px;
+    font-size: 12px;
+    overflow: hidden;
+    border-radius: 25px;
+    margin-bottom: 20px;
+    color: red; 
+  }
+  .bf_toc_container a {
+    text-decoration: none;
+  }
+
+  .bf_toc_container a:hover {
+    opacity: 0.9;
+  }
+  
+  .bf_toc_container ol {
+    counter-reset: item ;
+  }
+
+  .bf_toc_container ol>li {
+    counter-increment: item}
+
+  .bf_toc_container ol ol>li {
+    display: block;
+  }
+  
+  .bf_toc_container ol ol>li:before {
+    content: counters(item, ".") ".";
+    margin-left: -20px;
+  }
+
+  .bf_toc_container ul>li:before {
+    content: "\26AC";
+    /* circle */
+    color: green;
+    position: absolute;
+    margin-left: -1.1em;
+  }
+  
+  .bf_toc_container_1 a {
+    text-decoration: none;
+  }
+
+  .bf_toc_container_1 a:hover {
+    opacity: 0.9;
+  }
+  
+  .bf_toc_container_1 ol{
+    list-style-type: none;
+    counter-reset: sitem 6;
+  }
+  .bf_toc_container_1 ol>li {
+    counter-reset: item 2;
+    counter-increment: sitem;
+  }
+
+  .bf_toc_container_1 ol ol>li {
+    display: block;
+  }
+  
+  .bf_toc_container_1 ol ol>li:before {
+    content: counter(item) "." counter(sitem, decimal) ". ";
+    margin-left: -20px;
+  }
+  .bf_toc_container_1 ul>li:before {
+    content: "\26AC";
+    /* circle */
+    color: green;
+    position: absolute;
+    margin-left: -1.1em;
+  }
+  .bf_toc_container_2 {
+    border: 5px solid green; 
+    page-break-after:always;
+    padding: 5px;
+    font-size: 12px;
+    overflow: hidden;
+    border-radius: 25px;
+    margin-bottom: 20px;
+    color: red; 
+  }
+  .bf_toc_container_2 a {
+    text-decoration: none;
+  }
+
+  .bf_toc_container_2 a:hover {
+    opacity: 0.9;
+  }
+  
+  .bf_toc_container_2 ol{
+    list-style-type: none;
+    counter-reset: sitem 14;
+  }
+  .bf_toc_container_2 ol>li {
+    counter-reset: item 2;
+    counter-increment: sitem;
+  }
+
+  .bf_toc_container_2 ol ol>li {
+    display: block;
+  }
+  
+  .bf_toc_container_2 ol ol>li:before {
+    content: counter(item) "." counter(sitem, decimal) ". ";
+    margin-left: -20px;
+  }
+  .bf_toc_container_2 ul>li:before {
+    content: "\26AC";
+    /* circle */
+    color: green;
+    position: absolute;
+    margin-left: -1.1em;
+  }
+  .bf_toc_container .bf_toc_title{
+    font-weight: bold;
+    font-size:18pt;
+  }
+  .bf_toc_container_3 {
+    border: 5px solid green; 
+    page-break-after:always;
+    padding: 5px;
+    font-size: 12px;
+    overflow: hidden;
+    border-radius: 25px;
+    margin-bottom: 20px;
+    color: red; 
+  }
+  .bf_toc_container_3 a {
+    text-decoration: none;
+  }
+  .bf_toc_container_3 a:hover {
+    opacity: 0.9;
+  }
+  .bf_toc_container_3 ul>li:before {
+    content: "\26AC";
+    /* circle */
+    color: green;
+    position: absolute;
+    margin-left: -1.1em;
+  }
+  .bf_toc_container_3 ol{
+   counter-reset:item;
+  }
+  .bf_toc_container_3 ol>li {
+    display: block;
+  }
+  .bf_toc_container_3 ol>li:before {
+    content: counters(item, ". ") ". ";
+    counter-increment:item; 
+    margin-left: -20px;
+  }
+</style>
