@@ -1700,56 +1700,54 @@ Semnul întrebării este semnul grafic care marchează o intonație interogativ�
 <tr><td>2. o stare de indecizie sau de emoție a vorbitorului</td><td><p><i>-Elev Marcu, ai făcut tema pentru azi?</i></p><p><i>- Păi, știți...aseară...am..</i></p></td></tr>
 <tr><td>3. tăcerea, pauza, lipsa, absența, prin întreruperea enunțului, dând posibilitatea unei interpretări noi care să aparțină cititorului</td><td><p><i>Primăvară...</i></p><p><i>0 pictură parfumată cu vibrări de violet.</i></p><p><i>în vitrine, versuri de un nou poet,</i></p><p><i>în oraș, suspină un vals de fanfară.</i></p><p>(G. Bacovia, <i>Nervi de primăvară</i>)</p></td></tr>
 
-3. **VIRGULA [,]**
+<b>3. VIRGULA [,]</b>
 
-|La nivelul propoziției, virgula delimitează:|1. părți de propziție de același fel aflate în raport de coordonare, când nu sunt legate prin **și, ori** și **sau** (nerepetate)|<p>*Copiii erau veseli, activi, creativi.*</p><p>*Băiatul era atent, curios, sfios. Munții păreau înalți, maiestuoși, impunători.*</p><p>*Ninge pe câmpuri, pe uliți, peste case.*</p>|
-| :- | :- | - |
-||2. atributele izolate, apozițiile explicative|*- Maria, fata cea mai deșteaptă, a luat premiul întâi.*|
-||3. construcțiile gerunziale și participiale, cu sau fără determinări, așezate la începutul propoziției|*Terminând primul, a predat lucrarea.*|
-||4. interjecțiile, dacă nu sunt folosite alte semne de punctuație|*Hei, ce faci acolo?*|
-||5. un complement circumstanțial așezat înainte de locul pe care îl ocupă în ordinea normală a complementelor|*în liniște, așa a plecat Andrei.*|
-||6. complementele circumstanțiale așezate între subiect și predicat, dar numai când subiectul se află înaintea predicatului|*Trenul, la Galați, pleacă.*|
-||7. cuvintele și construcțiile incidente|*- Vino, zise ea, nu vrei să participi la petrecere?*|
-||8. adverbele de afirmație sau de negație când sunt echivalentele unor propoziții|*- Nu, eu voi pleca mâine.*|
-||9. adverbul cu valoare conjuncțională ***așadar*** și locuțiunea conjuncțională ***prin urmare,*** așezate în interiorul enunțului|*Devenise, așadar, cel mai popular din liceu.*|
-||10. vocativele de restul enunțului|*Ce faci, fată dragă?*|
+<table><tr><td>La nivelul propoziției, virgula delimitează:</td></tr><tr><td>1. părți de propziție de același fel aflate în raport de coordonare, când nu sunt legate prin <b>și, ori</b> și <b>sau</b> (nerepetate)</td><td><p><i>Copiii erau veseli, activi, creativi.</i></p><p><i>Băiatul era atent, curios, sfios. Munții păreau înalți, maiestuoși, impunători.</i></p><p><i>Ninge pe câmpuri, pe uliți, peste case.</i></p></td></tr>
+<tr><td>2. atributele izolate, apozițiile explicative</td><td><i>- Maria, fata cea mai deșteaptă, a luat premiul întâi.</i></td></tr>
+<tr><td>3. construcțiile gerunziale și participiale, cu sau fără determinări, așezate la începutul propoziției</td><td><i>Terminând primul, a predat lucrarea.</i></td></tr>
+<tr><td>4. interjecțiile, dacă nu sunt folosite alte semne de punctuație</td><td><i>Hei, ce faci acolo?</i></td></tr>
+<tr><td>5. un complement circumstanțial așezat înainte de locul pe care îl ocupă în ordinea normală a complementelor</td><td><i>în liniște, așa a plecat Andrei.</i></td></tr>
+<tr><td>6. complementele circumstanțiale așezate între subiect și predicat, dar numai când subiectul se află înaintea predicatului</td><td><i>Trenul, la Galați, pleacă.</i></td></tr>
+<tr><td>7. cuvintele și construcțiile incidente</td><td><i>- Vino, zise ea, nu vrei să participi la petrecere?</i></td></tr>
+<tr><td>8. adverbele de afirmație sau de negație când sunt echivalentele unor propoziții</td><td><i>- Nu, eu voi pleca mâine.</i></td></tr>
+<tr><td>9. adverbul cu valoare conjuncțională <b><i>așadar</i></b>și locuțiunea conjuncțională <b><i>prin urmare</i></b>, așezate în interiorul enunțului</td><td><i>Devenise, așadar, cel mai popular din liceu.</i></td></tr>
+<tr><td>10. vocativele de restul enunțului</td><td><i>Ce faci, fată dragă?</i></td></tr></table>
 
-**NOTA BENE!**
+<b>NOTA BENE!</b>
 
 1. Virgula îndeplinește și funcția de substituție, apărând în locul unei predicat, verb copulativ sau auxiliar eliptic, ca și cratima.
 
-*Eu am cumpărat caiete, iar Paul, cărți.*
+<i>Eu am cumpărat caiete, iar Paul, cărți.</i>
 
-1. Virgula are și o funcție de identificare sintactică sau semantică în unele contexte (ajută la dezambiguizarea mesajului).
+2. Virgula are și o funcție de identificare sintactică sau semantică în unele contexte (ajută la dezambiguizarea mesajului).
 
 Exemplu:
 
-*Tot e alb pe câmp, pe dealuri, împrejur, în depărtare,*
+<i>Tot e alb pe câmp, pe dealuri, împrejur, în depărtare,</i>
 
-*Ca fantasme albe plopii înșirați se pierd în zare,*
+<i>Ca fantasme albe plopii înșirați se pierd în zare,</i>
 
-*Și pe-ntinderea pustie, fără urme, fără drum,*
+<i>Și pe-ntinderea pustie, fără urme, fără drum,</i>
 
-*Se văd satele pierdute sub clăbuci albii de fum.*
+<i>Se văd satele pierdute sub clăbuci albii de fum.</i>
 
-(Vasile Alecsandri, *Iarna)*
+(Vasile Alecsandri, <i>Iarna</i>)
 
 Virgula atrage atenția asupra faptului că și este aici conjuncție coordonatoare adversativă, nu copulativă.
 
-**ATENȚIE!**
+<b>ATENȚIE!</b>
 
 Nu se despart prin virgulă:
 
-- părțile de propoziție de același fel legate prin ***și*** copulativ, prin ***ori*** și ***sau;***
+- părțile de propoziție de același fel legate prin <b><i>și</i></b> copulativ, prin <b><i>ori</i></b> și <b><i>sau;</i></b>
 - subiectul de predicat, dacă nu sunt între ele construcții explicative sau incidente;
 - atributele (substantivale, adjectivale, pronominale, verbale, adverbiale etc.) neizolate de termenul lor regent;
 - complementele directe, indirecte și de agent așezate imediat după predicat;
-- interjecțiile ***ia*** și ***hai*** de verbul care le urmează și cu care formează o unitate;
+- interjecțiile <b><i>ia</i></b> și <b><i>hai</i></b> de verbul care le urmează și cu care formează o unitate;
 - când sunt urmate de un substantiv sau de un substitut al lui în cazul V cu care formează o unitate, interjecțiile nu se despart prin virgulă de vocativele respective.
 
-|La nivelul frazei virgula desparte:|**A. PROPOZIȚII COORDONATE**|
-| :- | :- |
-||1. propoziții coordonate prin juxtapunere|*Copilul fredona melodia, asculta, își punea apoi căștile pe urechi.*|
+<table><tr><td>La nivelul frazei virgula desparte:</td><td><b>A. PROPOZIȚII COORDONATE</b></td></tr>
+<tr><td>1. propoziții coordonate prin juxtapunere</td><td><i>Copilul fredona melodia, asculta, își punea apoi căștile pe urechi.</i></td></tr>
 ||2. propoziții *coordonate prin joncțiune:* prin conjuncții sau locuțiuni conjuncționale copulative *{nici, nu numai..., ci și etc.);* copulative cu nuanță adversativă *(și);* adversative *{iar, dar, însă, ci, ba, numai că);* disjunctive perechi *{bă..., ba; când..., când; fie..., fie; ori..., ori, sau..., sau);* coordonata conclusivă *{deci, așadar)*|*Ori vii cu mine, ori rămâi singur acasă.*|
 ||**B. PROPOZIȚII SUBORDONATE**|
 ||1. două propoziții subordonate de același fel aflate în raport de coordonare prin juxtapunere prin joncțiune (cu excepția celor coordonate prin ***și*** copulativ sau prin ***sau)***|*Să-mi spui cine ești, cine te-a trimis și încotro te îndrepți.*|
