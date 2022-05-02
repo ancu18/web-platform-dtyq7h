@@ -1702,7 +1702,7 @@ Semnul întrebării este semnul grafic care marchează o intonație interogativ�
 
 <b>3. VIRGULA [,]</b>
 
-<table><tr><td>La nivelul propoziției, virgula delimitează:</td></tr><tr><td>1. părți de propziție de același fel aflate în raport de coordonare, când nu sunt legate prin <b>și, ori</b> și <b>sau</b> (nerepetate)</td><td><p><i>Copiii erau veseli, activi, creativi.</i></p><p><i>Băiatul era atent, curios, sfios. Munții păreau înalți, maiestuoși, impunători.</i></p><p><i>Ninge pe câmpuri, pe uliți, peste case.</i></p></td></tr>
+<table><tr><td rowspan='11' style="vertical-align: middle;">La nivelul propoziției, virgula delimitează:</td><tr><td>1. părți de propziție de același fel aflate în raport de coordonare, când nu sunt legate prin <b>și, ori</b> și <b>sau</b> (nerepetate)</td><td><p><i>Copiii erau veseli, activi, creativi.</i></p><p><i>Băiatul era atent, curios, sfios. Munții păreau înalți, maiestuoși, impunători.</i></p><p><i>Ninge pe câmpuri, pe uliți, peste case.</i></p></td></tr>
 <tr><td>2. atributele izolate, apozițiile explicative</td><td><i>- Maria, fata cea mai deșteaptă, a luat premiul întâi.</i></td></tr>
 <tr><td>3. construcțiile gerunziale și participiale, cu sau fără determinări, așezate la începutul propoziției</td><td><i>Terminând primul, a predat lucrarea.</i></td></tr>
 <tr><td>4. interjecțiile, dacă nu sunt folosite alte semne de punctuație</td><td><i>Hei, ce faci acolo?</i></td></tr>
@@ -1746,31 +1746,22 @@ Nu se despart prin virgulă:
 - interjecțiile <b><i>ia</i></b> și <b><i>hai</i></b> de verbul care le urmează și cu care formează o unitate;
 - când sunt urmate de un substantiv sau de un substitut al lui în cazul V cu care formează o unitate, interjecțiile nu se despart prin virgulă de vocativele respective.
 
-<table><tr><td>La nivelul frazei virgula desparte:</td><td><b>A. PROPOZIȚII COORDONATE</b></td></tr>
+<table><tr><td rowspan='15' style="vertical-align: middle;">La nivelul frazei virgula desparte:</td><tr><td colspan= '2'><b>A. PROPOZIȚII COORDONATE</b></td>
 <tr><td>1. propoziții coordonate prin juxtapunere</td><td><i>Copilul fredona melodia, asculta, își punea apoi căștile pe urechi.</i></td></tr>
-||2. propoziții *coordonate prin joncțiune:* prin conjuncții sau locuțiuni conjuncționale copulative *{nici, nu numai..., ci și etc.);* copulative cu nuanță adversativă *(și);* adversative *{iar, dar, însă, ci, ba, numai că);* disjunctive perechi *{bă..., ba; când..., când; fie..., fie; ori..., ori, sau..., sau);* coordonata conclusivă *{deci, așadar)*|*Ori vii cu mine, ori rămâi singur acasă.*|
-||**B. PROPOZIȚII SUBORDONATE**|
-||1. două propoziții subordonate de același fel aflate în raport de coordonare prin juxtapunere prin joncțiune (cu excepția celor coordonate prin ***și*** copulativ sau prin ***sau)***|*Să-mi spui cine ești, cine te-a trimis și încotro te îndrepți.*|
-||2. subiectiva când este reluată printr-un subiect exprimat prin pronume demonstrativ|*Cine învață, acela va ajunge departe.*|
-||3. propozițiile atributive explicative (izolate)|*Un elev, pe care îl apreciez în mod deosebit, a câștigat.*|
-||4. propozițiile completive directe și indirecte așezate înaintea regentei|*Că nu a terminat proiectul la timp, asta îl supăra.*|
-||5. propozițiile circumstanțiale de loc, de timp și de mod așezate înaintea regentei (când nu se insistă asupra lor)|<p>*S-a dus moș Ion și n-a putut face treaba singur; dar când v-ați dus câțiva într-ajutor, treaba s-a făcut cu multă ușurință...*</p><p>(Ion Creangă, *Moș Ion Roată)*</p>|
-||6. subordonata cauzală, indiferent de locul ei, dacă nu exprimă singura cauză pentru care are loc acțiunea din regentă|<p>*Abia vorbind, reușești să uiți ce a fost, pentru că tot ce ai pus în loc e mai proaspăt în mintea ta.*</p><p>(Mircea Nedelciu, *Zmeura de câmpie)*</p>|
-*iul*
+<tr><td>2. propoziții <i>coordonate prin joncțiune</i>: prin conjuncții sau locuțiuni conjuncționale copulative (<i>nici, nu numai..., ci și etc.</i>); copulative cu nuanță adversativă <i>(și)</i>; adversative (<i>iar, dar, însă, ci, ba, numai că</i>); disjunctive perechi (<i>bă..., ba; când..., când; fie..., fie; ori..., ori, sau..., sau</i>); coordonata conclusivă (<i>deci, așadar</i>)</td><td><i>Ori vii cu mine, ori rămâi singur acasă.</i></td></tr>
+<tr><td colspan= '2'><b>B. PROPOZIȚII SUBORDONATE</b></td></tr>
+<tr><td>1. două propoziții subordonate de același fel aflate în raport de coordonare prin juxtapunere prin joncțiune (cu excepția celor coordonate prin <b><i>și</i></b> copulativ sau prin <b><i>sau)</i></b></td><td><i>Să-mi spui cine ești, cine te-a trimis și încotro te îndrepți.</i></td></tr>
+<tr><td>2. subiectiva când este reluată printr-un subiect exprimat prin pronume demonstrativ</td><td><i>Cine învață, acela va ajunge departe.</i></td></tr>
+<tr><td>3. propozițiile atributive explicative (izolate)</td><td><i>Un elev, pe care îl apreciez în mod deosebit, a câștigat.</i></td></tr>
+<tr><td>4. propozițiile completive directe și indirecte așezate înaintea regentei</td><td><i>Că nu a terminat proiectul la timp, asta îl supăra.</i></td></tr>
+<tr><td>5. propozițiile circumstanțiale de loc, de timp și de mod așezate înaintea regentei (când nu se insistă asupra lor)</td><td><p><i>S-a dus moș Ion și n-a putut face treaba singur; dar când v-ați dus câțiva într-ajutor, treaba s-a făcut cu multă ușurință...</i></p><p>(Ion Creangă, <i>Moș Ion Roată</i>)</p></td></tr>
+<tr><td>6. subordonata cauzală, indiferent de locul ei, dacă nu exprimă singura cauză pentru care are loc acțiunea din regentă</td><td><p><i>Abia vorbind, reușești să uiți ce a fost, pentru că tot ce ai pus în loc e mai proaspăt în mintea ta.</i></p><p>(Mircea Nedelciu, <i>Zmeura de câmpie</i>)</p></td></tr>
+<tr><td>7. propoziția circumstanțială de scop, când se află înainte sau după regenta ei, dacă nu se insistă asupra ei și când are corelativ în regentă</td><td><i>Ca să reușesc, de aceea învăț.</i></td></tr>
+<tr><td>8. propoziția circumstanțială concesivă, indiferent de locul pe care-l ocupă</td><td><i>Deși te-am ajutat mereu, totuși de data asta trebuie să te refuz.</i></td></tr>
+<tr><td>9. propoziția condițională, dacă nu arată singura condiție pentru înfăptuirea acțiunii din regentă și când are corelativ în regentă</td><td>Dacă te întorci cu lecțiile făcute, atunci putem vorbi altfel.</i></td></tr>
+<tr><td>10. propozițiile consecutive și concesive, cu excepția celor introduse prin <b><i>de</i></b> și aflate imediat după termenul regent</td><td><p><i>în lumea asta sunt femei</i></p><p><i>Cu ochi ce izvorăsc scântei...</i></p><p><i>Dar, oricât ele sunt de sus,</i></p><p><i>Ca tine nu-s, ca tine nu-s!</i></p><p>(Mihai Eminescu, <i>De ce nu-mi vii?</i>)</p></td></tr></table>
 
-
-
-|La nivelul frazei virgula desparte:|**B. PROPOZIȚII SUBORDONATE**|
-| :- | :- |
-||7. propoziția circumstanțială de scop, când se află înainte sau după regenta ei, dacă nu se insistă asupra ei și când are corelativ în regentă|Ca *să reușesc, de aceea învăț.*|
-||8. propoziția circumstanțială concesivă, indiferent de locul pe care-l ocupă|*Deși te-am ajutat mereu, totuși de data asta trebuie să te refuz.*|
-||9. propoziția condițională, dacă nu arată singura condiție pentru înfăptuirea acțiunii din regentă și când are corelativ în regentă|*Dacă te întorci cu lecțiile făcute, atunci putem vorbi altfel.*|
-||10. propozițiile consecutive și concesive, cu excepția celor introduse prin ***de*** și aflate imediat după termenul regent|<p>*în lumea asta sunt femei*</p><p>*Cu ochi ce izvorăsc scântei...*</p><p>*Dar, oricât ele sunt de sus,*</p><p>*Ca tine nu-s, ca tine nu-s I*</p><p>(Mihai Eminescu, *De ce nu-mi vii?)*</p>|
-**S'**
-
-**IS**
-
-**ATENȚIE!**
+<b>ATENȚIE!</b>
 
 Nu se despart prin virgulă:
 
@@ -1779,17 +1770,16 @@ Nu se despart prin virgulă:
 - propozițiile completive directe și indirecte așezate după regentele lor;
 - unele propoziții circumstanțiale când se insistă asupra lor.
 
-|**La nivel stilistic,** virgula poate îndeplini următoarele roluri:|Exemple|
-| :- | :- |
-|1. conferă un ritm lent discursului|*E minunat, soarele abia a apus, seara coboară armonios, pe pomi, pe flori, pe bazinurile cu apa cu reflexe roșcate.* ("Anton Holban, 0 *moarte care nu dovedește nimic)*|
-|2. poate sugera precipitarea gradată, creând o anumită tensiune epică|<p>*Bolnavul sare din pat, iese din dormitor și fără să mai anunțe pe cineva, după cum cere regulamentul, iese pe poartă.*</p><p>(I.L. Caragiale, *Păcat)*</p>|
-|3. creează impresia de insistență, de acumulare|<p>*Ascultam cu sufletul la buze și îngurgitam acum cu creierul, cu ochii, cu urechile, cu sufletul, fiecare cuvânt, fiecare silabă, fiecare sunet.*</p><p>(Gib Mihăescu, *DonnaAlba)*</p>|
-|4. reliefează anumite idei, sentimente|<p>*Căci tu înseninezi mereu*</p><p>*Viața sufletului meu,*</p><p>*Mai mândră decât orice stea,*</p><p>*Iubita mea, iubita mea!*</p><p>(Mihai Eminescu, *De ce nu-mi vii?)*</p>|
-|5. poate crea un contrast între anumite elemente|<p>*Așa de prăpădit, este totuși foarte îndrăzneț.*</p><p>(I.L. Caragiale, *Păcat)*</p>|
+<table><tr><td><b>La nivel stilistic</b>, virgula poate îndeplini următoarele roluri:</td><td>Exemple</td></tr>
+<tr><td>1. conferă un ritm lent discursului</td><td><i>E minunat, soarele abia a apus, seara coboară armonios, pe pomi, pe flori, pe bazinurile cu apa cu reflexe roșcate.</i>(Anton Holban, <i>0 moarte care nu dovedește nimic</i>)</td></tr>
+<tr><td>2. poate sugera precipitarea gradată, creând o anumită tensiune epică</td><td><p><i>Bolnavul sare din pat, iese din dormitor și fără să mai anunțe pe cineva, după cum cere regulamentul, iese pe poartă.</i></p><p>(I.L. Caragiale, <i>Păcat</i>)</p></td></tr>
+<tr><td>3. creează impresia de insistență, de acumulare</td><td><p><i>Ascultam cu sufletul la buze și îngurgitam acum cu creierul, cu ochii, cu urechile, cu sufletul, fiecare cuvânt, fiecare silabă, fiecare sunet.</i></p><p>(Gib Mihăescu, <i>Donna Alba</i>)</p></td></tr>
+<tr><td>4. reliefează anumite idei, sentimente</td><td><p><i>Căci tu înseninezi mereu</i></p><p><i>Viața sufletului meu,</i></p><p><i>Mai mândră decât orice stea,</i></p><p><i>Iubita mea, iubita mea!</i></p><p>(Mihai Eminescu, <i>De ce nu-mi vii?</i>)</p></td></tr>
+<tr><td>5. poate crea un contrast între anumite elemente</td><td><p><i>Așa de prăpădit, este totuși foarte îndrăzneț.</i></p><p>(I.L. Caragiale, <i>Păcat</i>)</p></td></tr></table>
 
+<b>GENUL LIRIC</b>
 
-
-|definiție|<p>Etimologic, termenul de poezie provine din fr. *poesie,* lat. *poesis,* gr. *poiesis,* „creație”, iar cuvântul „liric” provine din fr. *lyrique,* derivat din *lyre,* lat., gr. *lyra,* „liră”, întrucât primele creații de acest gen, în Grecia antică, erau recitate cu acompaniament muzical de liră. Muzica, mai apoi muzicalitatea au rămas, de-a lungul veacurilor, un ideal de atins prin intermediul poeziei, un domeniu în care poezia (subiectivitatea, lirismul) se întâlnește cu armoniile lumii.</p><p>**Lirismul** reprezintă, deci, acea formă a creației literare în care poetul își exprimă direct viziunile, sentimentele, trăirile și aspirațiile cele mai intense, care dobândesc, de fapt, un caracter general-uman.</p><p>Poezia este strâns legată de: figurile de stil, metrica, rimele, tot ceea ce alcătuiește seducția sonoră a cuvântului, muzicalitatea (exterioară) și emoția, sentimentul.</p>|
+<table><tr><td><b>DEFINIȚIE</b></td><td><p>Etimologic, termenul de poezie provine din fr. <i>poesie</i>, lat. <i>poesis</i>, gr. <i>poiesis</i>, „creație”, iar cuvântul „liric” provine din fr. *lyrique,* derivat din *lyre,* lat., gr. *lyra,* „liră”, întrucât primele creații de acest gen, în Grecia antică, erau recitate cu acompaniament muzical de liră. Muzica, mai apoi muzicalitatea au rămas, de-a lungul veacurilor, un ideal de atins prin intermediul poeziei, un domeniu în care poezia (subiectivitatea, lirismul) se întâlnește cu armoniile lumii.</p><p>**Lirismul** reprezintă, deci, acea formă a creației literare în care poetul își exprimă direct viziunile, sentimentele, trăirile și aspirațiile cele mai intense, care dobândesc, de fapt, un caracter general-uman.</p><p>Poezia este strâns legată de: figurile de stil, metrica, rimele, tot ceea ce alcătuiește seducția sonoră a cuvântului, muzicalitatea (exterioară) și emoția, sentimentul.</p>|
 | :- | - |
 |**SCURT ISTORIC**|<p>Apariția poeziei este legată de secolele VIII-VII î.Hr., fiind la început o lirică monodică, corală, expresia sentimentelor unui eu plural, colectiv. Primii poeți aparțin Antichității grecești și latine: Pindar, Alceu, Sapho, Anacreon, Virgiliu.</p><p>Termenul s-a impus totuși destul de târziu, generalizându-se abia în secolul al XVI 1 l-lea: latinii foloseau termenul de *carmina,* în Evul Mediu italienii își numeau producțiile lirice *canzoni,* iar în Renaștere, europenii utilizau sinonimul parțial *ode.*</p>|
 |**TIPURI DE LIRISM**|<p>1. **Lirica subiectivă** are următoarele caracteristici:</p><p>- discursul liric se desfășoară la persoana I sau a ll-a;</p><p>- sunt prezente mărci textuale ale eului liric, cum ar fi pronumele și adjectivele pronominale la persoana I, verbele la moduri și timpuri personale, la persoana I sau a ll-a;</p><p>- are un puternic caracter afectiv;</p><p>- are forma unui monolog (liric);'</p><p>- are un caracter confesiv, direct, apropiindu-se de definiția clasică a lirismului.</p><p>Ex.: *Sara pe deal* de Mihai Eminescu, *Testament* de Tudor Arghezi, *Eu nu strivesc corola de minuni a lumii* de Lucian Blaga</p><p>2. **Lirica obiectivă** sau lirica măștilor, a rolurilor, cu următoarele caracteristici:</p><p>- discursul liric se desfășoară și la persoana a IIl-a, fără însă a renunța la exprimarea la persoana I sau a ll-a;</p><p>- locul mărcilor textuale ale eului liric este luat de roluri, măști care se comportă asemenea personajelor din genul epic;</p><p>- are un ușor caracter dramatic (care provine din introducerea dialogului în textul liric) și chiar descriptiv și narativ.</p><p>Ex.: foarte multe dintre idilele dialogate ale lui George Coșbuc, *Zburătorul* de Ion Heliade Rădulescu, *Luceafărul* de Mihai Eminescu</p>|
