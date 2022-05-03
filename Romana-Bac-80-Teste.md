@@ -1815,54 +1815,51 @@ Mircea Eliade, <i>Memorii</i>
 
 <b>I. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</v>
 1. Indică sensul structurii <i>își găsea necontenit de lucru.</i><b>6 puncte</b>
-1. Menționează ce reacții a stârnit foiletonul *împotriva Moldovei,* scris de Mircea Eliade în perioada studenției.6 **puncte**
-1. Precizează, pe baza textului, două elemente contradictorii în felul de a fi al tatălui.	**6 puncte**
-1. Explică ce reprezintă pentru Mircea Eliade zestrea ereditară oferită de fiecare dintre părinții săi. **6 puncte**
-1. Prezintă, în 30-50 de cuvinte, imaginea mamei, așa cum este surprinsă în ultimul alineat al textului. **6 puncte**
-1. **Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă factorul ereditar poate**
-
-**influența sau nu destinul unui om, raportându-te atât la informațiile din fragmentul citat aparținând lui Mircea Eliade, cât și la experiența personală sau culturală.	20 de puncte**
+2. Menționează ce reacții a stârnit foiletonul <i>împotriva Moldovei</i>, scris de Mircea Eliade în perioada studenției.6 <i>puncte</i>
+3. Precizează, pe baza textului, două elemente contradictorii în felul de a fi al tatălui.	<i>6 puncte</i>
+4. Explică ce reprezintă pentru Mircea Eliade zestrea ereditară oferită de fiecare dintre părinții săi. <b>6 puncte</b>
+5. Prezintă, în 30-50 de cuvinte, imaginea mamei, așa cum este surprinsă în ultimul alineat al textului. <b>6 puncte</b>
+6. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă factorul ereditar poate influența sau nu destinul unui om, raportându-te atât la informațiile din fragmentul citat aparținând lui Mircea Eliade, cât și la experiența personală sau culturală.	<b>20 de puncte</b>
 
 În redactarea textului, vei avea în vedere următoarele repere:
 
 - formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
 
-argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+argumente adecvate opiniei și formularea unei concluzii pertinente;	<b>14 puncte</b>
 
 - utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
 
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
+ortografie și de punctuație), așezarea în pagină, lizibilitatea.	<b>6 puncte</b>
 
-**În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
+<b>Subiectul al ll-lea (10 puncte)</b>
 
-**Subiectul al ll-lea (10 puncte)** 
+<b>Comentează, în minimum 50 de cuvinte, textul următor, evidențiind relația strânsă dintre ideile poetice și mijloacele artistice utilizate:</b>
 
-**Comentează, în minimum 50 de cuvinte, textul următor, evidențiind relația strânsă dintre ideile poetice și mijloacele artistice utilizate:**
+<i>Deși pe cer e-aceeași lună - Dar unde e cea de-altădată
 
-*Deși pe cer e-aceeași lună - Dar unde e cea de-altădată*
+Minciuna vieței ce mă-mbată - E azi o altfel de minciună.
 
-*Minciuna vieței ce mă-mbată - E azi o altfel de minciună.*
+Ca și atunci, duios răsună Cavale-n noaptea înstelată,
 
-*Ca și atunci, duios răsună Cavale-n noaptea înstelată,*
+Și-n cer zâmbește-aceeași lună - Dar unde e cea de-altădată?
 
-*Și-n cer zâmbește-aceeași lună - Dar unde e cea de-altădată?*
+A ei lumină argintată Cu roze albe mă-ncunună,
 
-*A ei lumină argintată Cu roze albe mă-ncunună,*
+Și cântă tot pe vechea strună, Dar pentru mine e schimbată,
 
-*Și cântă tot pe vechea strună, Dar pentru mine e schimbată,*
+Deși pe cer e-aceeași lună.</i>
 
-*Deși pe cer e-aceeași lună.*
+Alexandru Macedonski, <i>Rondelul lunei</i>
 
-Alexandru Macedonski, *Rondelul lunei*
+<b>Notă</b>
 
-**Notă**
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
-
-**Subiectul al lll-lea(30 de puncte)**
+Subiectul al III-lea(30 de puncte)
 
 **Redactează un eseu de minimum 400 de cuvinte, în care să prezinți ideologia promovată de revista *Dacia literară,* așa cum se reflectă aceasta într-o operă literară studiată.**
 
