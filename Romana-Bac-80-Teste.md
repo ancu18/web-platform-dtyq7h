@@ -1823,17 +1823,13 @@ Mircea Eliade, <i>Memorii</i>
 
 În redactarea textului, vei avea în vedere următoarele repere:
 
-- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right'><b>14 puncte</b></span>
 
-argumente adecvate opiniei și formularea unei concluzii pertinente;	<b>14 puncte</b>
-
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
-
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	<b>6 puncte</b>
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
 
 <b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-<b>Subiectul al ll-lea (10 puncte)</b>
+<b>Subiectul al II-lea (10 puncte)</b>
 
 <b>Comentează, în minimum 50 de cuvinte, textul următor, evidențiind relația strânsă dintre ideile poetice și mijloacele artistice utilizate:</b>
 
@@ -1861,99 +1857,81 @@ Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei pr
 
 Subiectul al III-lea(30 de puncte)
 
-**Redactează un eseu de minimum 400 de cuvinte, în care să prezinți ideologia promovată de revista *Dacia literară,* așa cum se reflectă aceasta într-o operă literară studiată.**
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți ideologia promovată de revista <i>Dacia literară</i>, așa cum se reflectă aceasta într-o operă literară studiată.</b>
 
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
-- descrierea contextului istoric în care a apărut revista *Dacia literară;*
-- prezentarea a două trăsături ale ideologiei literare promovate în studiul *Introducție;*
+- descrierea contextului istoric în care a apărut revista <i>Dacia literară</i>;
+- prezentarea a două trăsături ale ideologiei literare promovate în studiul <i>Introducție</i>;
 - stabilirea unei relații între ideile identificate în programul revistei și o operă literară studiată (text narativ sau text poetic).
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**în vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul I(50 de puncte)** 
+<b>Subiectul I (50 de puncte)</b> 
 
-**Citește următorul fragment:**	 
+<b>Citește următorul fragment:</b>	 
 
-*Muzica clasică, înțelegând aici muzica cultă, are multiple calități terapeutice, nu doar grație efectelor dinamizante***  *sau relaxante de moment, ci și prin caracterul evocator, ce permite numeroase asociații libere de idei. Este o muzică ce solicită și dezvoltă enorm intelectul, fiindcă presupune o ascultare pe mai multe planuri: melodic, ritmic, armonic, timbral. Muzica lui Beethoven, de pildă, poate fi extrem de mobilizatoare și poate genera noi resurse interioare de a ieși dintr-o situație nu tocmai favorabilă momentului.*
+<i>Muzica clasică, înțelegând aici muzica cultă, are multiple calități terapeutice, nu doar grație efectelor dinamizante  sau relaxante de moment, ci și prin caracterul evocator, ce permite numeroase asociații libere de idei. Este o muzică ce solicită și dezvoltă enorm intelectul, fiindcă presupune o ascultare pe mai multe planuri: melodic, ritmic, armonic, timbral. Muzica lui Beethoven, de pildă, poate fi extrem de mobilizatoare și poate genera noi resurse interioare de a ieși dintr-o situație nu tocmai favorabilă momentului.
 
-*în momentul în care muzica este ascultată predominant cu emisfera dreaptă (adică analogic, emoțional), calitățile terapeutice apar neîntârziat. Bogăția ritmico-melodico-armonico-timbrală a muzicii culte permite fiecăruia să se ancoreze în ceva, să-și dea drumul la fantezie, să purceadă în istoria personală găsind noi sensuri și înțelegeri ale unor evenimente trecute.*
+În momentul în care muzica este ascultată predominant cu emisfera dreaptă (adică analogic, emoțional), calitățile terapeutice apar neîntârziat. Bogăția ritmico-melodico-armonico-timbrală a muzicii culte permite fiecăruia să se ancoreze în ceva, să-și dea drumul la fantezie, să purceadă în istoria personală găsind noi sensuri și înțelegeri ale unor evenimente trecute.
 
-*Orice linie melodică poate sugera un anume personaj din viața noastră, orice instrument poate evoca vocea sau atitudinea cuiva din trecutul nostru. Fiecare dintre noi aude muzica în felul său propriu, în funcție de istoria personală. Nu există un mod bun sau rău de a auzi muzica, există doar un mod autentic și real, în concordanță cu propria viață.*
+Orice linie melodică poate sugera un anume personaj din viața noastră, orice instrument poate evoca vocea sau atitudinea cuiva din trecutul nostru. Fiecare dintre noi aude muzica în felul său propriu, în funcție de istoria personală. Nu există un mod bun sau rău de a auzi muzica, există doar un mod autentic și real, în concordanță cu propria viață.
 
-*Există experimente care atestă calitățile terapeutice ale muzicii clasice. Efectul Mozart a fost studiat încă din anii ’50 de către Alfred Tomatis, în Franța, când, în urma experimentelor, s-a constatat că audierea muzicii mozartiene dezvoltă foarte mult gândirea spațială și aptitudinile matematice. Neurofiziologii au demonstrat (prin intermediul prelucrării activității neuronale pe calculator) că există o sincronizare între activitatea ritmică a creierului și ritmicitatea muzicii mozartiene. [...]*
+Există experimente care atestă calitățile terapeutice ale muzicii clasice. Efectul Mozart a fost studiat încă din anii ’50 de către Alfred Tomatis, în Franța, când, în urma experimentelor, s-a constatat că audierea muzicii mozartiene dezvoltă foarte mult gândirea spațială și aptitudinile matematice. Neurofiziologii au demonstrat (prin intermediul prelucrării activității neuronale pe calculator) că există o sincronizare între activitatea ritmică a creierului și ritmicitatea muzicii mozartiene. [...]
 
-*A existat chiar un program special conceput pentru copii, numit „Keyboard Music", un experiment desfășurat pe o durată de cinci ani și soldat cu progrese evidente în domeniul gândirii, în general, și a celei spațiale, în special.*
+A existat chiar un program special conceput pentru copii, numit „Keyboard Music", un experiment desfășurat pe o durată de cinci ani și soldat cu progrese evidente în domeniul gândirii, în general, și a celei spațiale, în special.
 
-*Evident, dozarea trebuie făcută cu mare grijă și alternată cu muzica de altă factură, fiindcă poate apărea suprasaturația și, astfel, efectele pozitive se pot transforma într-o aversiune fățișă.*	
+Evident, dozarea trebuie făcută cu mare grijă și alternată cu muzica de altă factură, fiindcă poate apărea suprasaturația și, astfel, efectele pozitive se pot transforma într-o aversiune fățișă.
 
-*Nu numai muzica mozartiană are calități terapeutice demonstrate, ci și muzica barocă, în special cea cu un tempo lent și interpretată de un ansamblu de coarde (psihologul Lozanov este autorul care a studiat acest efect).* 
+Nu numai muzica mozartiană are calități terapeutice demonstrate, ci și muzica barocă, în special cea cu un tempo lent și interpretată de un ansamblu de coarde (psihologul Lozanov este autorul care a studiat acest efect).
 
-*Aceasta muzică lentă favorizează apariția unei stări de relaxare foarte speciale, numită și „relaxare activă", stare în care corpul intră într-o stare de calm, consumând foarte puțină energie (se reglează tensiunea arterială, scad hormonii de stres, crește activitatea sistemului imunitar), în timp ce creierul beneficiază de un plus de energie obținută | tocmai din economia de energie a corpului.*	
+Aceasta muzică lentă favorizează apariția unei stări de relaxare foarte speciale, numită și „relaxare activă", stare în care corpul intră într-o stare de calm, consumând foarte puțină energie (se reglează tensiunea arterială, scad hormonii de stres, crește activitatea sistemului imunitar), în timp ce creierul beneficiază de un plus de energie obținută tocmai din economia de energie a corpului.
 
-*în acest fel, se remarcă apariția unei îmbunătățiri rapide a capacității de învățare, un soi de supermemorie.*
+În acest fel, se remarcă apariția unei îmbunătățiri rapide a capacității de învățare, un soi de supermemorie.
 
-*Ascultarea muzicii baroce lente (compozitori precum Bach, Vivaldi, Telemann etc.) atunci când vrem să învățăm ceva, nu poate decât să ne ajute foarte mult. [...]*
+Ascultarea muzicii baroce lente (compozitori precum Bach, Vivaldi, Telemann etc.) atunci când vrem să învățăm ceva, nu poate decât să ne ajute foarte mult. [...]</i>
 
-Loredana Mitruț, *Valoarea psihologică a muzicii,* în revista *Psychologies*
+Loredana Mitruț, <i>Valoarea psihologică a muzicii</i>, în revista <i>Psychologies</i>
 
-1. **Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
-1. Indică sensul structurii *poate genera noi resurse interioare.*	**6 puncte**
-1. Menționează două calități terapeutice ale muzicii clasice, așa cum reies acestea din primele două alineate ale
+<b>I. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
+1. Indică sensul structurii <i>poate genera noi resurse interioare.</i>	<b>6 puncte</b>
+2. Menționează două calități terapeutice ale muzicii clasice, așa cum reies acestea din primele două alineate ale textului.<span style='background-color:yellow;float:right'><b>6	puncte</b></span>
+3. Precizează, pe baza textului, două efecte ale muzicii mozartiene.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
+4. Explică, valorificând informațiile din text, de ce un instrument evocă lucruri diferite pentru fiecare persoană.<span style='background-color:yellow;float:right'>6 puncte</span>
+5. Prezintă, în 30-50 de cuvinte, în ce constă <i>starea de relaxare activă</i> și care sunt beneficiile ei.<span style='background-color:yellow;float:right'>6 puncte</span>
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă muzica clasică trebuie sau nu să ocupe un rol important în viața unei persoane, indiferent de vârstă și profesie, raportându-te atât la informațiile din fragmentul citat aparținând Loredanei Mitruț, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right'>20 de puncte
 
-textului.                                                                                                                                                           **6 	puncte**
+În redactarea textului, vei avea în vedere următoarele repere:
 
-1. Precizează, pe baza textului, două efecte ale muzicii mozartiene.                                                                **6 	puncte**
-1. Explică, valorificând informațiile din text, de ce un instrument evocă lucruri diferite pentru fiecare 
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right'><b>14 puncte</b>
 
-`     `persoană. 												**6 puncte**
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right'><b>6 puncte</b>
 
-1. Prezintă, în 30-50 de cuvinte, în ce constă *starea de relaxare activă* și care sunt beneficiile ei.                   **6 	puncte**
-1. **Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă muzica clasică trebuie sau**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-**nu să ocupe un rol important în viața unei persoane, indiferent de vârstă și profesie, raportându-te** 
+<b>Subiectul al II-lea (10 puncte)</b>
 
-**atât la informațiile din fragmentul citat aparținând Loredanei Mitruț, cât și la experiența personală sau** 
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți particularitățile de construcție a unui personaj dintr-un basm cult studiat.</b>
 
-**culturală.**
-
-`		`**20 de puncte**
-
-în redactarea textului, vei avea în vedere următoarele repere:
-
-- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
-
-argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
-
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
-
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
-
-` `**vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
-
-**Subiectul al ll-lea(10 puncte)**
-
-**Redactează un eseu de minimum 400 de cuvinte, în care să prezinți particularitățile de construcție a unui personaj dintr-un basm cult studiat.**
-
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - prezentarea statutului social, psihologic, moral al personajului ales;
 - evidențierea a două trăsături ale personajului ales prin două scene/ secvențe comentate;
 - analiza, la alegere, a două elemente de structură: conflict, subiect, modalități de caracterizare, limbaj.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**în vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
 **Citește următorul fragment:**
 
