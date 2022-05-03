@@ -1905,13 +1905,13 @@ Loredana Mitruț, <i>Valoarea psihologică a muzicii</i>, în revista <i>Psychol
 3. Precizează, pe baza textului, două efecte ale muzicii mozartiene.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
 4. Explică, valorificând informațiile din text, de ce un instrument evocă lucruri diferite pentru fiecare persoană.<span style='background-color:yellow;float:right'>6 puncte</span>
 5. Prezintă, în 30-50 de cuvinte, în ce constă <i>starea de relaxare activă</i> și care sunt beneficiile ei.<span style='background-color:yellow;float:right'>6 puncte</span>
-<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă muzica clasică trebuie sau nu să ocupe un rol important în viața unei persoane, indiferent de vârstă și profesie, raportându-te atât la informațiile din fragmentul citat aparținând Loredanei Mitruț, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right'>20 de puncte
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă muzica clasică trebuie sau nu să ocupe un rol important în viața unei persoane, indiferent de vârstă și profesie, raportându-te atât la informațiile din fragmentul citat aparținând Loredanei Mitruț, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right'>20 de puncte</span></b>
 
 În redactarea textului, vei avea în vedere următoarele repere:
 
-- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right'><b>14 puncte</b>
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right'><b>14 puncte</b></span>
 
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right'><b>6 puncte</b>
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
 
 <b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
@@ -1935,79 +1935,71 @@ Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pe
 
 <b>Citește următorul fragment:</b>
 
-*Care este destinul literaturii în lume la ora actuală? Cu alte cuvinte, ce loc mai ocupă ea în atenția publicului și ce semnificație mai au valorile estetice în ochii oamenilor? [...]*
+<i>Care este destinul literaturii în lume la ora actuală? Cu alte cuvinte, ce loc mai ocupă ea în atenția publicului și ce semnificație mai au valorile estetice în ochii oamenilor? [...]
 
-*Ce putere mai are un scriitor în fața dezvăluirilor senzaționale pe care o presă bine organizată le face publicului cu o rapiditate perfectă? Mai poate el conta că psihologia cititorului a rămas intactă și că același cititor mai poate parcurge sute de pagini de invenție, când realitatea întrece orice închipuire? Fiindcă, într-o jumătate de secol, s-au petrecut atâtea răsturnări și omul a asistat la atâtea tragedii, și când n-a asistat și când n-a luat parte la ele i s-au relatat și continuă să i se relateze cu lux de amănunte, în reviste cu fotografii de o frumusețe și de o claritate coloristică buimăcitoare, sau în filme în care bubuitul tunului se aude aievea și explozia bombei dilată privirea aproape ca în fața faptului trăit, încât ce mai poate face un roman, oricât de ingenios construit, în fața acestei curiozități avide prompt satisfăcute? Ce mai poate spune literatura? Și anume romanul? în fața acestor realități, trei reacții sunt posibile. Una în care scriitorul rămâne la concepția secolului al nouăsprezecelea și declară pur și simplu că toate acestea n-au legătură cu creația artistică, și că mai cuminte e să-și vadă de treabă liniștit și să pună mai departe pe hârtie rodul imaginației sale... [...] A doua reacție este una cu totul opusă acesteia. Nu mai e nimic de făcut cu literatura legată de istorie și de eveniment. Literatură despre război? Iar despre revoluție? Literatura despre revoluție. Literatură despre țărani? Acum? Lasă că știm noi ce e de făcut: scoatem din plăsmuirile noastre tot ce-ar avea vreo legătură cu războaiele, cu mișcările de masă, cu relațiile sociale, cu evenimentele politice. Radem tot, extirpăm fără șovăire orice pulsație autentică, „psihologică“, „simbolică", „parabolică", „angajată" și de „concepție", și vom scrie un roman în care vom descrie cum se scrie chiar acel roman... [...] Aceștia sunt adepții „noului roman" francez. A treia reacție posibilă o vom găsi la scriitorul care nu va ignora nici puterea documentului, care fascinează pe cititor astăzi, și nici imensa capacitate de informație pe care o reprezintă presa și care, ea, cea dintâi, ia, ca să zicem așa, pentru cititor, spuma evenimentelor. El va renunța să mai conteze pe descrierea acestor evenimente deja știute, dar va încerca să iasă învingător folosindu-le astfel, dând bătălia și câștigând-o chiar cu armele adversarului. Cum? Prin cunoscuta putere de generalizare pe care documentul brut n-o posedă și nici reportajul de actualitate, oricât ar fi el de senzațional. ”*
+Ce putere mai are un scriitor în fața dezvăluirilor senzaționale pe care o presă bine organizată le face publicului cu o rapiditate perfectă? Mai poate el conta că psihologia cititorului a rămas intactă și că același cititor mai poate parcurge sute de pagini de invenție, când realitatea întrece orice închipuire? Fiindcă, într-o jumătate de secol, s-au petrecut atâtea răsturnări și omul a asistat la atâtea tragedii, și când n-a asistat și când n-a luat parte la ele i s-au relatat și continuă să i se relateze cu lux de amănunte, în reviste cu fotografii de o frumusețe și de o claritate coloristică buimăcitoare, sau în filme în care bubuitul tunului se aude aievea și explozia bombei dilată privirea aproape ca în fața faptului trăit, încât ce mai poate face un roman, oricât de ingenios construit, în fața acestei curiozități avide prompt satisfăcute? Ce mai poate spune literatura? Și anume romanul? în fața acestor realități, trei reacții sunt posibile. Una în care scriitorul rămâne la concepția secolului al nouăsprezecelea și declară pur și simplu că toate acestea n-au legătură cu creația artistică, și că mai cuminte e să-și vadă de treabă liniștit și să pună mai departe pe hârtie rodul imaginației sale... [...] A doua reacție este una cu totul opusă acesteia. Nu mai e nimic de făcut cu literatura legată de istorie și de eveniment. Literatură despre război? Iar despre revoluție? Literatura despre revoluție. Literatură despre țărani? Acum? Lasă că știm noi ce e de făcut: scoatem din plăsmuirile noastre tot ce-ar avea vreo legătură cu războaiele, cu mișcările de masă, cu relațiile sociale, cu evenimentele politice. Radem tot, extirpăm fără șovăire orice pulsație autentică, „psihologică“, „simbolică", „parabolică", „angajată" și de „concepție", și vom scrie un roman în care vom descrie cum se scrie chiar acel roman... [...] Aceștia sunt adepții „noului roman" francez. A treia reacție posibilă o vom găsi la scriitorul care nu va ignora nici puterea documentului, care fascinează pe cititor astăzi, și nici imensa capacitate de informație pe care o reprezintă presa și care, ea, cea dintâi, ia, ca să zicem așa, pentru cititor, spuma evenimentelor. El va renunța să mai conteze pe descrierea acestor evenimente deja știute, dar va încerca să iasă învingător folosindu-le astfel, dând bătălia și câștigând-o chiar cu armele adversarului. Cum? Prin cunoscuta putere de generalizare pe care documentul brut n-o posedă și nici reportajul de actualitate, oricât ar fi el de senzațional. ”</i>
 
-Marin Preda, *Jurnal intim*
+Marin Preda, <i>Jurnal intim</i>
 
-**A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 
-1. Indică sensul structurii *întrece orice închipuire.*	**6	puncte**
-1. Menționează două elemente care influențează destinul literaturii actuale,	așa cum reiese din text.	**6 puncte**
-1. Precizează în ce constă prima reacție posibilă a scriitorului contemporan la acest nou context socio-cultural, la
+1. Indică sensul structurii <i>întrece orice închipuire</i>.<span style='background-color:yellow;float:right'>6	puncte</span>
+2. Menționează două elemente care influențează destinul literaturii actuale,	așa cum reiese din text.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
+3. Precizează în ce constă prima reacție posibilă a scriitorului contemporan la acest nou context socio-cultural, la care se face referire în text.<span style='background-color:yellow;float:right'><b>6	puncte</b></span>
+4. Explică ce a determinat schimbarea psihologiei cititorului contemporan.<span style='background-color:yellow;float:right'><b>6	puncte</b></span>
+5. Prezintă, în 30-50 de cuvinte, atitudinea scriitorului față de tema abordată.<b><span style='background-color:yellow;float:right'>6	puncte</span></b>
 
-care se face referire în text.	**6	puncte**
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă literatura contemporană mai are sau nu același impact asupra cititorilor ca acum o jumătate de secol, raportându-te atât la informațiile din fragmentul citat aparținând lui Marin Preda, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right'><b>20 de puncte</b></span>
 
-1. Explică ce a determinat schimbarea psihologiei cititorului contemporan.	**6	puncte**
-1. Prezintă, în 30-50 de cuvinte, atitudinea scriitorului față de tema abordată.	**6	puncte**
+În redactarea textului, vei avea în vedere următoarele repere:
 
-**B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă literatura contemporană mai are sau nu același impact asupra cititorilor ca acum o jumătate de secol, raportându-te atât la informațiile din fragmentul citat aparținând lui Marin Preda, cât și la experiența personală sau culturală.**
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right'><b>14 puncte</b></span>
 
-**20 de puncte** în redactarea textului, vei avea în vedere următoarele repere:
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
 
-- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+<b>Comentează, în minimum 50 de cuvinte, semnificațiile titlului textului următor, evidențiind relația acestuia cu mesajul poetic:</b>
 
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
+<i>Mi-ai dăruit, frumoasă doamnă, o călimară de argint
 
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
+Cu două guri întunecate, ca două porți de labirint,
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+Prin care gândurile mele s-or afunda neștiutoare
 
+Și-adesea n-or găsi ieșire din bezna umedă, la soare.
 
-**Comentează, în minimum 50 de cuvinte, semnificațiile titlului textului următor, evidențiind relația acestuia cu mesajul poetic:**
+Cu două guri ca de fântână, din care ultimul meu vis,
 
-*Mi-ai dăruit, frumoasă doamnă, o călimară de argint*
+Scafandru mic, privind cu spaimă spre fundul negrului abis,
 
-*Cu două guri întunecate, ca două porți de labirint,*
+Va încerca, zădarnic poate, s-adune înșirată-n salbe
 
-*Prin care gândurile mele s-or afunda neștiutoare*
+Recolta de mărgăritare a viitoarelor nopți albe.
 
-*Și-adesea n-or găsi ieșire din bezna umedă, la soare.*
+în călimara asta nouă roiesc ca fluturii imagini
 
-*Cu două guri ca de fântână, din care ultimul meu vis,*
+Ce vor cădea cândva inerte, pe câmpul alb al unei pagini,
 
-*Scafandru mic, privind cu spaimă spre fundul negrului abis,*
+Închipuiri neplăsmuite și gânduri negândite încă*
 
-*Va încerca, zădarnic poate, s-adune înșirată-n salbe*
+Pe care stropul de cerneală le-nchide-n noaptea lui adâncă,
 
-*Recolta de mărgăritare a viitoarelor nopți albe.*
+Cuvinte șterse peste-o clipă, fantome de idei defuncte,
 
-*în călimara asta nouă roiesc ca fluturii imagini*
+O ploaie miniaturală de-accente, virgule și puncte -
 
-*Ce vor cădea cândva inerte, pe câmpul alb al unei pagini,*
+Și-acele arabescuri pe care-o vagă fantezie
 
-*închipuiri neplăsmuite și gânduri negândite încă*
+Sau numai mâna mea distrată le zugrăvește pe hârtie.
 
-*Pe care stropul de cerneală le-nchide-n noaptea lui adâncă,*
+În ea, tăcute și smerite, stau viitoarele regrete*
 
-*Cuvinte șterse peste-o clipă, fantome de idei defuncte,*
+Alături de bilanțul zilei și de adresa unei fete;</i>
 
-*O ploaie miniaturală de-accente, virgule și puncte -*
+George Topîrceanu, <i>Călimara</i>
 
-*Și-acele arabescuri pe care-o vagă fantezie*
-
-*Sau numai mâna mea distrată le zugrăvește pe hârtie.*
-
-*în ea, tăcute și smerite, stau viitoarele regrete*
-
-*Alături de bilanțul zilei și de adresa unei fete;*
-
-George Topîrceanu, *Călimara*
-
-**Notă**
+<b>Notă</b>
 
 Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
