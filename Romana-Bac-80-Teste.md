@@ -1931,9 +1931,9 @@ Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
 Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-<În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Citește următorul fragment:**
+<b>Citește următorul fragment:</b>
 
 *Care este destinul literaturii în lume la ora actuală? Cu alte cuvinte, ce loc mai ocupă ea în atenția publicului și ce semnificație mai au valorile estetice în ochii oamenilor? [...]*
 
