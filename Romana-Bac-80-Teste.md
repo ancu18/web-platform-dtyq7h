@@ -2001,161 +2001,155 @@ George Topîrceanu, <i>Călimara</i>
 
 <b>Notă</b>
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul al lll-lea(30 de puncte)**
+<b>Subiectul al III-lea (30 de puncte)</b>
 
-**Redactează un eseu de minimum 400 de cuvinte, în care să prezinți relația dintre două personaje dintr-un basm cult studiat.**
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți relația dintre două personaje dintr-un basm cult studiat.</b>
 
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - prezentarea statutului social, psihologic, moral al fiecăruia dintre personajele alese;
 - evidențierea a câte două trăsături ale personajelor alese prin scene/ secvențe comentate a modului în care evoluează relația dintre cele două personaje;
 - analiza, la alegere, a două elemente de structură, semnificative pentru analiza relației dintre cele două personaje: incipit, final, perspectivă narativă, acțiune, conflict, indici spațio-temporali, modalități de caracterizare, limbaj, registre stilistice etc.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere - 1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi ,<b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere - 1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**In vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
-
-
-**Citește următorul fragment:**
-
-*Sâmbătă 12/ 25 Noiembrie 1916*
-
-*Scris în tren.*
-
-*Se pare că s-a ajuns aici... Suntem nevoiți să fugim!*
-
-*Trebuie să povestesc pe îndelete, lucrurile sunt de o simplitate atât de dramatică încât merită să fie evocate pe rând.*
-
-*Ziua de ieri a fost de o durere sfâșietoare, poate cea mai dureroasă zi dintre toate. Planul hotărât a fost executat fără cusur. Fiindcă Regele nu avusese timp să vină să-și ia la revedere de la mine, am mers eu la Cartierul General, pe la ora 9. în plus, am vrut să fac demersurile necesare astfel încât Carol să se alăture frontului. Am discutat de nenumărate ori și i-am mărturisit tot ce aveam pe suflet, erau lucruri grele și apăsătoare, însă măcar am plecat liniștiți, ca și cum situația nu ar fi fost așa de tragică cum părea. Am plecat fără să știu când, unde și cum va fi următoarea dată când ne vom revedea, asta stă în mâinile divinității. Am plecat imediat spre oraș.*
-
-*în oraș am avut parte de imagini tulburătoare la spitalul meu. Răniții trebuiau mutați, și după ce se răspândise știrea nefastă, aceștia au luat-o înainte. Peste tot domnea panica: se zărea panica pe toate chipurile, ochii injectați și zâmbete sfioase și temătoare.*
-
-*Chiar și eu eram teribil de îngrijorată. Până acum când mi se luau răniții din spital aveam ocazia să îmi iau rămas bun. [...] Scene sfâșietoare se petreceau în camera ofițerilor. Stăteam pe un scăunel între paturile a doi soldați răniți și plângeam ținându-ne de mână ca și cum eram cei mai buni prieteni. Disperarea îl cuprinsese și pe Bulgăraș, prietenul lleanei, care voia să plecăm îndată, Cârjă era galben la față. Nimeni nu mai avea răbdare, le era teamă că vor cădea prizionieri dacă vor rămâne aici, însă se temeau teribil de chinurile transportului. Nu mai aveau nicio limită, fiecare își exprima din rărunchi suferințele și fiecare jinduia din pricina situației cum știa mai bine. Iar eu eram în mijlocul lor și nu știam cum să le alin durerile, nici măcar prin cuvinte, simțeam durerea mai acut decât oricare dintre ei. Mi-am ascuns chipul în mâini și m-au podidit lacrimile. La vederea acestei răbufniri s-a reinstalat calmul, parcă era de datoria lor să mă aline pe mine în disperarea pe care o simțeam, eu care eram Regina lor.*
-
-*într-un final, am fost nevoită să plec, cu toate că eram conștientă că nu îi voi mai vedea niciodată. Mă prindeau de mâini recunoscători și mârturisindu-mi că nu vor uita niciodată ajutorul pe care l-au primit de la mine. Am plecat repede din cameră după ce l-am strâns în brațe și l-am sărutat pe Bulgăraș, copilul spitalului care trecuse prin cele mai mari chinuiri.*
-
-*Cu fiecare pas eram mai chinuită. Următoarea suferință mi-a fost cauzată de plecarea de la Cotroceni. Locul care fusese pentru 23 de ani căminul meu, pe care îl aranjasem și îl înfrumusețasem după placul meu, casa de care eram atât de mândri și pe care o iubeam. Trebuia să îmi iau la revedere în liniște, pentru că nimeni nu trebuia să știe că ne aflam acolo, poate chiar pentru ultima dată.*
-
-Regina Maria a României, *Povestea vieții mele-fragmente*
-
-***A.* Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
-
-1. Indică sensul structurii *tot ce aveam pe suflet.*	**6	puncte**
-1. Menționează data la care sunt povestite evenimentele prezentate	în	text.	**6	puncte**
-1. Precizează, pe baza textului, cine este Bulgăraș.	**6	puncte**
-1. Explică motivul pentru care este foarte dificilă plecarea reginei de	la	Cotroceni.	**6	puncte**
-1. Prezintă, în 30-50 de cuvinte, efectele războiului, așa cum sunt surprinse în secvența: *Nimeni nu mai avea răbdare, le era teamă că vor cădea prizionieri dacă vor rămâne aici, însă se temeau teribil de chinurile transportului. Nu mai aveau nicio limită, fiecare își exprima din rărunchi suferințele și fiecare jinduia din pricina situației cum știa mai bine. Iar eu eram în mijlocul lor și nu știam cum să le alin durerile, nici măcar prin cuvinte, simțeam durerea mai acut decât oricare dintre ei.*	**6 puncte**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
 
-**B Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă unele jurnale/ memorii pot constitui sau nu documente cu caracter istoric, raportându-te atât la informațiile din fragmentul citat aparținând Reginei Maria, cât și la experiența personală sau culturală.	20 de puncte**
+<b>Citește următorul fragment:</b>
 
-în redactarea textului, vei avea în vedere următoarele repere:
+<i>Sâmbătă 12/ 25 Noiembrie 1916</i>
 
--formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+<i>Scris în tren.</i>
+
+<i>Se pare că s-a ajuns aici... Suntem nevoiți să fugim!
+
+Trebuie să povestesc pe îndelete, lucrurile sunt de o simplitate atât de dramatică încât merită să fie evocate pe rând.
+
+Ziua de ieri a fost de o durere sfâșietoare, poate cea mai dureroasă zi dintre toate. Planul hotărât a fost executat fără cusur. Fiindcă Regele nu avusese timp să vină să-și ia la revedere de la mine, am mers eu la Cartierul General, pe la ora 9. în plus, am vrut să fac demersurile necesare astfel încât Carol să se alăture frontului. Am discutat de nenumărate ori și i-am mărturisit tot ce aveam pe suflet, erau lucruri grele și apăsătoare, însă măcar am plecat liniștiți, ca și cum situația nu ar fi fost așa de tragică cum părea. Am plecat fără să știu când, unde și cum va fi următoarea dată când ne vom revedea, asta stă în mâinile divinității. Am plecat imediat spre oraș.
+
+În oraș am avut parte de imagini tulburătoare la spitalul meu. Răniții trebuiau mutați, și după ce se răspândise știrea nefastă, aceștia au luat-o înainte. Peste tot domnea panica: se zărea panica pe toate chipurile, ochii injectați și zâmbete sfioase și temătoare.
+
+Chiar și eu eram teribil de îngrijorată. Până acum când mi se luau răniții din spital aveam ocazia să îmi iau rămas bun. [...] Scene sfâșietoare se petreceau în camera ofițerilor. Stăteam pe un scăunel între paturile a doi soldați răniți și plângeam ținându-ne de mână ca și cum eram cei mai buni prieteni. Disperarea îl cuprinsese și pe Bulgăraș, prietenul lleanei, care voia să plecăm îndată, Cârjă era galben la față. Nimeni nu mai avea răbdare, le era teamă că vor cădea prizionieri dacă vor rămâne aici, însă se temeau teribil de chinurile transportului. Nu mai aveau nicio limită, fiecare își exprima din rărunchi suferințele și fiecare jinduia din pricina situației cum știa mai bine. Iar eu eram în mijlocul lor și nu știam cum să le alin durerile, nici măcar prin cuvinte, simțeam durerea mai acut decât oricare dintre ei. Mi-am ascuns chipul în mâini și m-au podidit lacrimile. La vederea acestei răbufniri s-a reinstalat calmul, parcă era de datoria lor să mă aline pe mine în disperarea pe care o simțeam, eu care eram Regina lor.
+
+Într-un final, am fost nevoită să plec, cu toate că eram conștientă că nu îi voi mai vedea niciodată. Mă prindeau de mâini recunoscători și mârturisindu-mi că nu vor uita niciodată ajutorul pe care l-au primit de la mine. Am plecat repede din cameră după ce l-am strâns în brațe și l-am sărutat pe Bulgăraș, copilul spitalului care trecuse prin cele mai mari chinuiri.
+
+Cu fiecare pas eram mai chinuită. Următoarea suferință mi-a fost cauzată de plecarea de la Cotroceni. Locul care fusese pentru 23 de ani căminul meu, pe care îl aranjasem și îl înfrumusețasem după placul meu, casa de care eram atât de mândri și pe care o iubeam. Trebuia să îmi iau la revedere în liniște, pentru că nimeni nu trebuia să știe că ne aflam acolo, poate chiar pentru ultima dată.</i>
+
+Regina Maria a României, <i>Povestea vieții mele-fragmente</i>
+
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
+
+1. Indică sensul structurii <i>tot ce aveam pe suflet</i>.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
+1. Menționează data la care sunt povestite evenimentele prezentate	în	text.<span style='background-color:yellow;float:right'><b>6	puncte</b></span>
+2. Precizează, pe baza textului, cine este Bulgăraș.<span style='background-color:yellow;float:right'><b>6	puncte</b></span>
+3. Explică motivul pentru care este foarte dificilă plecarea reginei de	la	Cotroceni.<span style='background-color:yellow;float:right'>	<b>6	puncte</b></span>
+4. Prezintă, în 30-50 de cuvinte, efectele războiului, așa cum sunt surprinse în secvența: <i>Nimeni nu mai avea răbdare, le era teamă că vor cădea prizionieri dacă vor rămâne aici, însă se temeau teribil de chinurile transportului. Nu mai aveau nicio limită, fiecare își exprima din rărunchi suferințele și fiecare jinduia din pricina situației cum știa mai bine. Iar eu eram în mijlocul lor și nu știam cum să le alin durerile, nici măcar prin cuvinte, simțeam durerea mai acut decât oricare dintre ei.</i><span style='background-color:yellow;float:right'><b>6 puncte</B>
+
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă unele jurnale/ memorii pot constitui sau nu documente cu caracter istoric, raportându-te atât la informațiile din fragmentul citat aparținând Reginei Maria, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right'><b>20 de puncte</b></span>
+
+În redactarea textului, vei avea în vedere următoarele repere:
+
+-formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right'><b>14 puncte</b></span>
 
 - utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
+ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
 
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+<b>Subiectul al II-lea(10 puncte)</b>
 
-**Subiectul al ll-lea(10 puncte)**
+<b>Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind caracterul său de artă poetică, prin două particularități:</b>
 
-**Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind caracterul său de artă poetică, prin două particularități:**
+<i>De mult mă lupt cătând în vers măsura,
 
-*De mult mă lupt cătând în vers măsura,*
+Ce plină e ca toamna mierea-n faguri,
 
-*Ce plină e ca toamna mierea-n faguri,*
+Ca s-o aștern frumos în lungi șiraguri,
 
-*Ca s-o aștern frumos în lungi șiraguri,*
+Ce fără piedici trec sunând cezura.
 
-*Ce fără piedici trec sunând cezura.*
+Ce aspru mișcă pânza de la steaguri,
 
-*Ce aspru mișcă pânza de la steaguri,*
+Trezind în suflet patima și ura -
 
-*Trezind în suflet patima și ura -*
+Dar iar cu dulce glas îți umple gura
 
-*Dar iar cu dulce glas îți umple gura*
+Atunci când Amor timid trece praguri!
 
-*Atunci când Amor timid trece praguri!*
+De l-am aflat la noi a spune n-o pot;
 
-*De l-am aflat la noi a spune n-o pot;*
+De poți s-auzi în el al undei șopot,
 
-*De poți s-auzi în el al undei șopot,*
+De e al lui cu drept acest preambul -
 
-*De e al lui cu drept acest preambul -*
+Aceste toate singur nu le judec...
 
-*Aceste toate singur nu le judec...*
+Dar versul cel mai plin, mai blând și pudic,
 
-*Dar versul cel mai plin, mai blând și pudic,*
+Puternic iar - de-o vrea - e pururi iambul.</i>
 
-*Puternic iar - de-o vrea - e pururi iambul.*
+Mihai Eminescu, <i>Iambul</i>
 
-Mihai Eminescu, *Iambul*
+<b>Notă</b>
 
-**Notă**
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+<b>Subiectul al III-lea (30 de puncte)</b>
 
-**Subiectul al lll-lea(30 de puncte)**
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți particularitățile de construcție a unui personaj dintr-o nuvelă studiată.</b>
 
-**Redactează un eseu de minimum 400 de cuvinte, în care să prezinți particularitățile de construcție a unui personaj dintr-o nuvelă studiată.**
-
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - prezentarea statutului social, psihologic, moral al personajului ales;
 - evidențierea a două trăsături ale personajului ales prin două scene/ secvențe comentate;
 - analiza, la alegere, a două elemente de structură: conflict, subiect, relații temporale și spațiale, construcția subiectului, perspectivă narativă, modalități de caracterizare, limbaj etc.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**în vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
 
-**Citește următorul fragment:**
+<b>Citește următorul fragment:</b>
 
-*Cu Caragiale, Eminescu s-a cunoscut și s-a împrietenit de îndată la Pascaly. Au stat de vorbă o noapte întreagă despre literatură și filosofie, după obicei. Caragiale a fost uimit mai ales de cunoștințele de literatură germană ale tânărului și în general de personalitatea acestuia atât de marcantă și, evident, atât de promițătoare. A doua seară însă când s-au întâlnit, după spusele lui Caragiale însuși, dispoziția interlocutorului se schimbase. Era posomorât și nu suferea să fie contrazis. I se păruse că cea căreia îi fusese adresat mesajul liric nu se arătase destul de sensibilă la el. S-a despărțit devreme de Caragiale, ducându-se să se culce.*
+<i>Cu Caragiale, Eminescu s-a cunoscut și s-a împrietenit de îndată la Pascaly. Au stat de vorbă o noapte întreagă despre literatură și filosofie, după obicei. Caragiale a fost uimit mai ales de cunoștințele de literatură germană ale tânărului și în general de personalitatea acestuia atât de marcantă și, evident, atât de promițătoare. A doua seară însă când s-au întâlnit, după spusele lui Caragiale însuși, dispoziția interlocutorului se schimbase. Era posomorât și nu suferea să fie contrazis. I se păruse că cea căreia îi fusese adresat mesajul liric nu se arătase destul de sensibilă la el. S-a despărțit devreme de Caragiale, ducându-se să se culce.
 
-*Când noul prieten l-a vizitat acasă, a doua zi pe la prânz, l-a găsit dormind în continuare. Trezit din somn, s-a arătat foarte vesel, a glumit și a râs toată ziua, povestind, despre India veche, despre Ștefan cel Mare, ba chiar cântând o doină. Se arătau încă o dată și aci, în mic, nucleele constante ale unor viitoare preocupări.*
+Când noul prieten l-a vizitat acasă, a doua zi pe la prânz, l-a găsit dormind în continuare. Trezit din somn, s-a arătat foarte vesel, a glumit și a râs toată ziua, povestind, despre India veche, despre Ștefan cel Mare, ba chiar cântând o doină. Se arătau încă o dată și aci, în mic, nucleele constante ale unor viitoare preocupări.
 
-*îl pasionau tot mai mult folclorul și limba, pe care le studia fără întrerupere. Strângea de pe la alții colecții de poezii populare în manuscris și se exersa să compună versuri în stil popular. începuse chiar să rescrie opera de inspirație folclorică a lui Barac - basmul lui Arghir - dar după vreo cincizeci de stihuri abandonase încercarea, îndemna, în schimb, pe prietenii ardeleni atunci aflători în București - Ștefan Cacoveanu, Miron Pompiliu și alții - s-o facă, pentru că ei, venind de la țară, ar fi fost mai aproape de sursele vii ale limbii. Este un detaliu care vorbește despre modestia poetului, cu atât mai rară cu cât se afirmă la o vârstă la care începătorii cred fără limite în capacitățile lor creatoare. De altfel, modestia și exigența îl determinau să publice puțin (anul 1869 avea să vadă doar trei poezii de Eminescu, printre care profetica „Junii corupți'j, ba chiar îl împingeau să regrete și ceea ce publicase: „Este o zicală din bătrâni: gura să aibă trei lacăte: în inimă, în gât și a treia pe buze, când îți va scăpa cuvântul din inimă, să nu scape de cealaltă, că dacă ai scăpat o dată vorba din gură, n-o mai prinzi nici cu calul, nici cu ogarul, ba nici cu șoimul. Trebuie să cumpănești de o sută de ori o scriere până o dai publicității.”*
+Îl pasionau tot mai mult folclorul și limba, pe care le studia fără întrerupere. Strângea de pe la alții colecții de poezii populare în manuscris și se exersa să compună versuri în stil popular. începuse chiar să rescrie opera de inspirație folclorică a lui Barac - basmul lui Arghir - dar după vreo cincizeci de stihuri abandonase încercarea, îndemna, în schimb, pe prietenii ardeleni atunci aflători în București - Ștefan Cacoveanu, Miron Pompiliu și alții - s-o facă, pentru că ei, venind de la țară, ar fi fost mai aproape de sursele vii ale limbii. Este un detaliu care vorbește despre modestia poetului, cu atât mai rară cu cât se afirmă la o vârstă la care începătorii cred fără limite în capacitățile lor creatoare. De altfel, modestia și exigența îl determinau să publice puțin (anul 1869 avea să vadă doar trei poezii de Eminescu, printre care profetica „Junii corupți'j, ba chiar îl împingeau să regrete și ceea ce publicase: „Este o zicală din bătrâni: gura să aibă trei lacăte: în inimă, în gât și a treia pe buze, când îți va scăpa cuvântul din inimă, să nu scape de cealaltă, că dacă ai scăpat o dată vorba din gură, n-o mai prinzi nici cu calul, nici cu ogarul, ba nici cu șoimul. Trebuie să cumpănești de o sută de ori o scriere până o dai publicității.”
 
-*Lucra mai degrabă noaptea, când i se părea că are în jur liniștea trebuincioasă, iar ziua și-o petrecea mai mult umblând pe străzi. Se oprea la câte un anticar, umbla printre vechituri, citea cu nesaț, cu rapiditate, de cele mai multe ori fără să cumpere. Și pleca mai departe, amestecându-se prin gloata pestriță de pe bulevarde și întârziind adesea până seara târziu în Cișmigiu sau la șosea. Ca întotdeauna, îi plăcea să privească mișcarea, agitația altora, de departe sau chiar din mijlocul lor, dar totuși ca de pe o culme, de la altitudinea lăuntrică. (...)*
+Lucra mai degrabă noaptea, când i se părea că are în jur liniștea trebuincioasă, iar ziua și-o petrecea mai mult umblând pe străzi. Se oprea la câte un anticar, umbla printre vechituri, citea cu nesaț, cu rapiditate, de cele mai multe ori fără să cumpere. Și pleca mai departe, amestecându-se prin gloata pestriță de pe bulevarde și întârziind adesea până seara târziu în Cișmigiu sau la șosea. Ca întotdeauna, îi plăcea să privească mișcarea, agitația altora, de departe sau chiar din mijlocul lor, dar totuși ca de pe o culme, de la altitudinea lăuntrică. (...)</i>
 
-Zoe Dumitrescu-Bușulenga, *Mihai Eminescu, viața*
+Zoe Dumitrescu-Bușulenga, <i>Mihai Eminescu, viața</i>
 
-1. **Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
-1. Indică sensul secvenței *ei, venind de la țară, ar fi fost mai aproape de sursele vii ale limbii.*	**6	puncte**
-1. Menționează cele două teme de discuție ale lui Eminescu și Caragiale în ziua în care s-au cunoscut.	**6	puncte**
-1. Precizează, pe baza textului, patru activități preferate de Eminescu în timpul zilei.	**6	puncte**
-1. Explică, valorificând informațiile din text, motivul pentru care poetul publica puțin în acea perioadă.	**6	puncte**
-1. Prezintă, în 30-50 de cuvinte, semnificația secvenței: *Este o zicală din bătrâni: gura să aibă trei lacăte: în inimă, în*
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
+1. Indică sensul secvenței <i>ei, venind de la țară, ar fi fost mai aproape de sursele vii ale limbii</i>.<span style='background-color:yellow;float:right'><b>6	puncte</b></span>
+1. Menționează cele două teme de discuție ale lui Eminescu și Caragiale în ziua în care s-au cunoscut.<span style='background-color:yellow;float:right'><b>6	puncte</b></span>
+2. Precizează, pe baza textului, patru activități preferate de Eminescu în timpul zilei.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
+3. Explică, valorificând informațiile din text, motivul pentru care poetul publica puțin în acea perioadă.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
+4. Prezintă, în 30-50 de cuvinte, semnificația secvenței: <i>Este o zicală din bătrâni: gura să aibă trei lacăte: în inimă, în gât și a treia pe buze, când îți va scăpa cuvântul din inimă, să nu scape de cealaltă, că dacă ai scăpat o dată vorba din gură, n-o mai prinzi nici cu calul, nici cu ogarul, ba nici cu șoimul. Trebuie să cumpănești de o sută de ori o scriere până o dai publicității.</i><span style='background-color:yellow;float:right'><b>6 puncte</b></span>
 
-*gât și a treia pe buze, când îți va scăpa cuvântul din inimă, să nu scape de cealaltă, că dacă ai scăpat o dată vorba din gură, n-o mai prinzi nici cu calul, nici cu ogarul, ba nici cu șoimul. Trebuie să cumpănești de o sută de ori o scriere până o dai publicității.*	**6 puncte**
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă relațiile de prietenie bazate pe afinități culturale pot contribui sau nu la dezvoltarea personalității unui tânăr, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.<span style='background-color:yellow;float:right'><b>20 de puncte</b></span>
 
-1. **Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă relațiile de prietenie bazate**
+În redactarea textului, vei avea în vedere următoarele repere:
 
-**pe afinități culturale pot contribui sau nu la dezvoltarea personalității unui tânăr, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.	20 de puncte**
+-formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right'><b>14 puncte</b></span>
 
-în redactarea textului, vei avea în vedere următoarele repere:
-
--formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
-
-\- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
 
 **în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
 
