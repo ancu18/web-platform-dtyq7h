@@ -2234,28 +2234,28 @@ B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă
 
 În redactarea textului, vei avea în vedere următoarele repere:
 
-- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right'><b>14 puncte</b></span>
 
--utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
+-utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
 
-**Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind două particularități ale textului dramatic.**
+<b>Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind două particularități ale textului dramatic.</b>
 
 Scena 11
 
-Dacia (intrând): *Bine c-a dat Dumnezeu! Ei, așa da! Unde să scriu că te-ai hotărât să-ți iei pălărie?!...* (îl contemplă) *Și să știi că nu-ți vine chiar așa de rău... Vezi?*
+Dacia (intrând): <i>Bine c-a dat Dumnezeu! Ei, așa da! Unde să scriu că te-ai hotărât să-ți iei pălărie?!...</i> (îl contemplă) <i>Și să știi că nu-ți vine chiar așa de rău... Vezi?</i>
 
-*Așa-mi place să fii! Ghigăl și simțit...*
+<i>Așa-mi place să fii! Ghigăl și simțit...</i>
 
-Spirache: (încântat) *îmi pare bine că-ți place și că ești mulțumită!*
+Spirache: (încântat) <i>Îmi pare bine că-ți place și că ești mulțumită!</i>
 
-Dacia: *Cât ai dat pe ea?*
+Dacia: <i>Cât ai dat pe ea?</i>
 
-Spirache: (Dezolat, privește când la Gena, când la Miza): O *sută de lei... dragă, adevărată pomană...*
+Spirache: (Dezolat, privește când la Gena, când la Miza): <i>O sută de lei... dragă, adevărată pomană...</i>
 
-Dacia: *Ei, asta e! Unde vezi tu că e pomană?... Nu e pomană deloc... E chiar foarte scumpă... (...)*
+Dacia: <i>Ei, asta e! Unde vezi tu că e pomană?... Nu e pomană deloc... E chiar foarte scumpă... (...)</>
 
 Dacia: *Sigur. Că noi avem fabrică de bani... Treaba ta! Să vezi ce-o să-ți zică mama când o să audă c-ai dat atâția bani pe pălărie...* (intră tocmai și Chiriachița) *Mamă!... Și-a luat Spirache pălărie...*
 
