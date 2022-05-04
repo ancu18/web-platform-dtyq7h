@@ -2257,58 +2257,59 @@ Spirache: (Dezolat, privește când la Gena, când la Miza): <i>O sută de lei..
 
 Dacia: <i>Ei, asta e! Unde vezi tu că e pomană?... Nu e pomană deloc... E chiar foarte scumpă... (...)</i>
 
-Dacia: Sigur. Că noi avem fabrică de bani... Treaba ta! Să vezi ce-o să-ți zică mama când o să audă c-ai dat atâția bani pe pălărie...* (intră tocmai și Chiriachița) *Mamă!... Și-a luat Spirache pălărie...*
+Dacia: <i>Sigur. Că noi avem fabrică de bani... Treaba ta! Să vezi ce-o să-ți zică mama când o să audă c-ai dat atâția bani pe pălărie...</i> (intră tocmai și Chiriachița) <i>Mamă!... Și-a luat Spirache pălărie...</i>
 
-Chiriachița: *Ei taci!* (îl privește.)
+Chiriachița: <i>Ei taci!</i> (îl privește.)
 
-Dacia: *Nu-i vine rău și nu e urâtă, să știi...*
+Dacia: <i>Nu-i vine rău și nu e urâtă, să știi...</i>
 
-Chiriachița (trece la el): *E verde, sau mi se pare mie?... la aprinde lumina, maică...*
+Chiriachița (trece la el): <i>E verde, sau mi se pare mie?... la aprinde lumina, maică...</i>
 
 (Gena aprinde)
 
-Spirache: (ca să-i facă plăcere): *Verde... verde...*
+Spirache: (ca să-i facă plăcere): <i>Verde... verde...</i>
 
-Chiriachița: *E, cum îți vine, om bătrân, c-o casă de copii, să umbli cu pălărie verde în cap?...*
+Chiriachița: <i>E, cum îți vine, om bătrân, c-o casă de copii, să umbli cu pălărie verde în cap?...</i>
 
-Tudor Mușatescu, *Titanic Vals*
+Tudor Mușatescu, <i>Titanic Vals</i>
 
-**Notă**
+<b>Notă</b>
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul al lll-lea(30 de puncte) Redactează un eseu de minimum 400 de cuvinte, în care să prezinți particularitățile de construcție a unui personaj dintr-un roman aparținând lui Liviu Rebreanu.**
+<b>Subiectul al III-lea (30 de puncte)</b>
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți particularitățile de construcție a unui personaj dintr-un roman aparținând lui Liviu Rebreanu.</b>
 
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - prezentarea statutului social, psihologic, moral al personajului ales;
 - evidențierea a două trăsături ale personajului ales prin două scene/ secvențe comentate;
 - analiza, la alegere, a două elemente de structură: conflict, subiect, relații temporale și spațiale, construcția subiectului, perspectivă narativă, modalități de caracterizare, limbaj etc.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**In vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
 
-**Citește următorul fragment:**
+<b>Citește următorul fragment:</b>
 
-*în convingerea noastră, inspirația nu este expresia unor funcții și elemente psihologice bine circumscrise, ci* a *întregii personalități creatoare a unui subiect; actul ultim, socotit ca fiind creator și depășind datele sufletești inițiale, nu ascultă numai de principiul rezultantelor creatoare, ci reprezintă o structură de totalitate a personalității, aceasta fiind socotită în creșterea și dezvoltarea ei în timp.*
+<b>În convingerea noastră, inspirația nu este expresia unor funcții și elemente psihologice bine circumscrise, ci a întregii personalități creatoare a unui subiect; actul ultim, socotit ca fiind creator și depășind datele sufletești inițiale, nu ascultă numai de principiul rezultantelor creatoare, ci reprezintă o structură de totalitate a personalității, aceasta fiind socotită în creșterea și dezvoltarea ei în timp.
 
-*Preaplinul sufletesc al inspirației poetice, sentimentul de revelare a unei lumi noi sau a unei noi împliniri de idei sau de forme, este rodul ultim al unei îndelungi incubații sufletești, deopotrivă conștiente și subliminale, prelungite în lungul întregii vieți individuale a creatorului. Geniul, îndelungă răbdare, sau indicația reprezentată prin răspunsul lui Newton, care a descoperit legea gravitației universale, gândindu-se în permanență la această problemă, arată măsura în care viața interioară a personalității creatoare reprezintă o integrare succesivă de viziuni, imagini, reflexii, și mai ales de stări emotive de mare tensiune și efort voluntar de progresivă împlinire, într-o structură mentală unitară și complexă.*
+Preaplinul sufletesc al inspirației poetice, sentimentul de revelare a unei lumi noi sau a unei noi împliniri de idei sau de forme, este rodul ultim al unei îndelungi incubații sufletești, deopotrivă conștiente și subliminale, prelungite în lungul întregii vieți individuale a creatorului. Geniul, îndelungă răbdare, sau indicația reprezentată prin răspunsul lui Newton, care a descoperit legea gravitației universale, gândindu-se în permanență la această problemă, arată măsura în care viața interioară a personalității creatoare reprezintă o integrare succesivă de viziuni, imagini, reflexii, și mai ales de stări emotive de mare tensiune și efort voluntar de progresivă împlinire, într-o structură mentală unitară și complexă.
 
-*în general, ruminația\* mentală și elaborarea trudnică, fără rezultat aparent, prelungite în timp, de către personalitatea productivă, ajung adesea neașteptat la o iluminare, de copleștitoare intensitate emotivă: momentul în care H. Poincare, urcându-se distrat într-un vehicul, întrevede dintr-odată soluția matematică a funcțiilor fuchsiene\*, îndelung, și, în credința lui, infructuos căutate mai înainte; momentele de revelație, survenite ca un fulger, de extaz, tensiune nemaiîntâlnită, rezolvându-se într-o izbucnire de lacrimi, și mai ales, de neapartenență la sine însuși, în care omul nu se socotește decât ca un mijlocitor al unor puteri covârșitoare, despre care vorbește Fr. Nietzsche, în volumul său, „Ecce homo“\*; impresia originii exterioare a acestei stări, în care inspiratul se simte însuflețit de o forță impersonală, conducându-i automat condeiul, care așterne cuvinte sau note muzicale pe hârtie, sau conduce mâna artistulului plastic, într-o stare de exaltare și depășire de sine.*
+În general, ruminația\* mentală și elaborarea trudnică, fără rezultat aparent, prelungite în timp, de către personalitatea productivă, ajung adesea neașteptat la o iluminare, de copleștitoare intensitate emotivă: momentul în care H. Poincare, urcându-se distrat într-un vehicul, întrevede dintr-odată soluția matematică a funcțiilor fuchsiene\*, îndelung, și, în credința lui, infructuos căutate mai înainte; momentele de revelație, survenite ca un fulger, de extaz, tensiune nemaiîntâlnită, rezolvându-se într-o izbucnire de lacrimi, și mai ales, de neapartenență la sine însuși, în care omul nu se socotește decât ca un mijlocitor al unor puteri covârșitoare, despre care vorbește Fr. Nietzsche, în volumul său, „Ecce homo“\*; impresia originii exterioare a acestei stări, în care inspiratul se simte însuflețit de o forță impersonală, conducându-i automat condeiul, care așterne cuvinte sau note muzicale pe hârtie, sau conduce mâna artistulului plastic, într-o stare de exaltare și depășire de sine.*
 
-*înțelegem, astfel, prin inspirație o stare de criză interioară asemenea crizelor spirituale, de ordin etic, religios, politic, social sau proces inventiv științific sau tehnic, în care o conștiință, după o îndelungată zbatere interioară, după îndoieli, căutări, nesiguranțe și suferință, ajunge, prin mijlocirea unei mari răvășiri emotive, la o certitudine interioară, la un nou palier al devenirii sale spirituale, îndemnând o stare de relativ echilibru.*
+Înțelegem, astfel, prin inspirație o stare de criză interioară asemenea crizelor spirituale, de ordin etic, religios, politic, social sau proces inventiv științific sau tehnic, în care o conștiință, după o îndelungată zbatere interioară, după îndoieli, căutări, nesiguranțe și suferință, ajunge, prin mijlocirea unei mari răvășiri emotive, la o certitudine interioară, la un nou palier al devenirii sale spirituale, îndemnând o stare de relativ echilibru.
 
-*Formă a devenirii interioare, apărută la creatorii de complexiune hiperemotivă, în general în două faze bine hotărnicite - o primă fază, îndelungă, de pregătire și căutări, și un moment revelant de exaltare - inspirația poetică, artistică sau științifică exprimă dinamismul creator al vieții interioare, într-o mișcare alternantă, de pregătire îndelungă și de bruscă limpezire de sine.*
+Formă a devenirii interioare, apărută la creatorii de complexiune hiperemotivă, în general în două faze bine hotărnicite - o primă fază, îndelungă, de pregătire și căutări, și un moment revelant de exaltare - inspirația poetică, artistică sau științifică exprimă dinamismul creator al vieții interioare, într-o mișcare alternantă, de pregătire îndelungă și de bruscă limpezire de sine.
 
-Ion Biberi, *Poezia, mod de existență luminăție - frământare a unor gânduri obsedante*
+Ion Biberi, <i>Poezia, mod de existență luminăție - frământare a unor gânduri obsedante</i>
 
 *★fuchsiene - de la numele matematicianului Lazarus Immanuel Fuchs*
 
