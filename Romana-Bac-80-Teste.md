@@ -2149,98 +2149,92 @@ Zoe Dumitrescu-Bușulenga, <i>Mihai Eminescu, viața</i>
 
 -formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right'><b>14 puncte</b></span>
 
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
 
-**Subiectul al ll-lea(10 puncte) Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind relația strânsă dintre ideile poetice și mijloacele artistice:**
+<b>Subiectul al ll-lea(10 puncte)</b> 
 
-*Eu urc spre culme... Mi-a rămas în urmă*
+<b>Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind relația strânsă dintre ideile poetice și mijloacele artistice:</b>
 
-*Noroiul prins în putreda-i osândă,*
+<i>Eu urc spre culme... Mi-a rămas în urmă
 
-*înfrigurata patimilor turmă,*
+Noroiul prins în putreda-i osândă,
 
-*Cu chiot lung de-ntrecere flămândă...*
+Înfrigurata patimilor turmă,
 
-*Eu urc... Acolo Jos, în adâncime,*
+Cu chiot lung de-ntrecere flămândă...
 
-*Aud viața ce-și întinde hora;*
+Eu urc... Acolo Jos, în adâncime,
 
-*E necurmatul cântec din vechime.*
+Aud viața ce-și întinde hora;
 
-*îl știu... Mai bine n-o să-l știe nime,*
+E necurmatul cântec din vechime.
 
-*Căci am băut din cupa tuturora*
+Îl știu... Mai bine n-o să-l știe nime,
 
-*Și l-am plătit cu lacrimi și cu rime...*
+Căci am băut din cupa tuturora
 
-Octavian Goga, *Din larg*
+Și l-am plătit cu lacrimi și cu rime...</i>
 
-**Notă**
+Octavian Goga, <i>Din larg</i>
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+<b>Notă</b>
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-**Subiectul al lll-lea(30 de puncte)**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-o nuvelă studiată.**
+<b>Subiectul al III-lea (30 de puncte)</b>
 
-în elaborarea eseului, vei avea în vedere următoarele repere:
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-o nuvelă studiată.</b>
+
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - evidențierea unei trăsături care face posibilă încadrarea nuvelei într-o tipologie, într-un curent cultural/ literar, într-o perioadă sau într-o orientare tematică;
 - ilustrarea a două elemente de structură și de compoziție ale textului narativ, semnificative pentru tema aleasă (acțiune, conflicte, relații temporale și spațiale, perspectivă narativă, tehnici narative, incipit, final, limbaj etc.);
 - ilustrarea relațiilor dintre două personaje, prin care tema aleasă se evidențiază în nuvela aleasă.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**în vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
 
-**Citește următorul fragment:**
+<b>Citește următorul fragment:</b>
 
-***Spuneați într-un interviu din 2008 că teatrul poate provoca revoltă, mai ales într-o dictatură. Cum judecați oamenii care mai calcă astăzi în sălile de teatru? Mai pot fi incitați la fel de jocul actorilor sau e doar* o *defuiare de câteva ore din cotidian?***
+<b><i>Spuneați într-un interviu din 2008 că teatrul poate provoca revoltă, mai ales într-o dictatură. Cum judecați oamenii care mai calcă astăzi în sălile de teatru? Mai pot fi incitați la fel de jocul actorilor sau e doar o defuiare de câteva ore din cotidian?</b></i>
 
-*Eu cred că oamenii în ziua de astăzi caută teatrul ca un loc de refugiu întrucât sunt intoxicați de televizor, de alte ecrane (mici și mari) care ne invadează viața, precum și de delirul general al mediilor de informare care privilegiază în general un spectacol de proastă calitate. Și chiar dacă teatrul nu mai este un loc de rezistență politică (așa cum a fost cazul în România și în alte țări ale lumii comuniste), el este un loc care rezistă împotriva noilor forme de spălare pe creier.*
+<i>Eu cred că oamenii în ziua de astăzi caută teatrul ca un loc de refugiu întrucât sunt intoxicați de televizor, de alte ecrane (mici și mari) care ne invadează viața, precum și de delirul general al mediilor de informare care privilegiază în general un spectacol de proastă calitate. Și chiar dacă teatrul nu mai este un loc de rezistență politică (așa cum a fost cazul în România și în alte țări ale lumii comuniste), el este un loc care rezistă împotriva noilor forme de spălare pe creier.</i>
 
-***Privind cărțile care se vând astăzi, consumul de carte din Romania și trendul (nu neapărat localizat pe România) de consumerism, mai este literatura „bună la toate" cum spuneați într-un interviu că era în perioada comunismului?***
+<b><i>Privind cărțile care se vând astăzi, consumul de carte din Romania și trendul (nu neapărat localizat pe România) de consumerism, mai este literatura „bună la toate" cum spuneați într-un interviu că era în perioada comunismului?</i></b>
 
-*Nu, romanul și literatura în general nu-și mai asumă astăzi, cum era cazul în anii când am început să scriu eu, misiunile științelor sociale (ale sociologiei, ale psihologiei, ale istoriei, ale filozofiei). A fost o vreme când anumite revendicări istorice nu se puteau face decât printre linii, în romane... Acum istoricii pot spune tot ce doresc, repune în cauză cum doresc anumite pagini ale istoriei naționale și universale. Dar literatura rămâne instrumentul cel mai fin de detectare a umanității în om, a pulsiunilor sale ascunse, a contradicțiilor sale și a multiplelor sale fațete. Nici o altă disciplină nu poate fora mai adânc în ființa omului decât literatura.*
+<i>Nu, romanul și literatura în general nu-și mai asumă astăzi, cum era cazul în anii când am început să scriu eu, misiunile științelor sociale (ale sociologiei, ale psihologiei, ale istoriei, ale filozofiei). A fost o vreme când anumite revendicări istorice nu se puteau face decât printre linii, în romane... Acum istoricii pot spune tot ce doresc, repune în cauză cum doresc anumite pagini ale istoriei naționale și universale. Dar literatura rămâne instrumentul cel mai fin de detectare a umanității în om, a pulsiunilor sale ascunse, a contradicțiilor sale și a multiplelor sale fațete. Nici o altă disciplină nu poate fora mai adânc în ființa omului decât literatura.</i>
 
-***Credeți că dacă v-ați fi născut astăzi, fără greutățile pe care le impunea comunismul și a limitărilor impuse atunci de cenzură în exprimarea artistică, v-ați mai fi îndreptat către dramaturgie?***
+<b><i>Credeți că dacă v-ați fi născut astăzi, fără greutățile pe care le impunea comunismul și a limitărilor impuse atunci de cenzură în exprimarea artistică, v-ați mai fi îndreptat către dramaturgie?</i></b>
 
-*Da, și aș fi ajuns poate și mai departe pentru că aș fi debutat, poate, la timp, adică la 20 de ani și nu la 30... Și mai ales astăzi n-aș fi avut poate nevoie să scriu în altă limbă ca să-mi fac un loc, în sfârșit cultura romană poate trimite în străinătate autori care se afirmă normal, întâi în România, înainte de a fi citiți și pe alte meridiane. Acest joc al scenariului posibil dacă ne-am fi născut în altă epocă are însă limitele sale. Eu sunt eu, Matei Vișniec, numai pentru că am cunoscut comunismul și apoi libertatea, numai pentru că am scris în două limbi, numai pentru că am navigat între două culturi, numai pentru că frustrările din vremea comunismului m-au obligat să abordez teme care sunt ale mele, încărcate de poezie, luciditate, reflecție, denunțare, îndoială, speranță și puțină tristețe... [...]*
+<i>Da, și aș fi ajuns poate și mai departe pentru că aș fi debutat, poate, la timp, adică la 20 de ani și nu la 30... Și mai ales astăzi n-aș fi avut poate nevoie să scriu în altă limbă ca să-mi fac un loc, în sfârșit cultura romană poate trimite în străinătate autori care se afirmă normal, întâi în România, înainte de a fi citiți și pe alte meridiane. Acest joc al scenariului posibil dacă ne-am fi născut în altă epocă are însă limitele sale. Eu sunt eu, Matei Vișniec, numai pentru că am cunoscut comunismul și apoi libertatea, numai pentru că am scris în două limbi, numai pentru că am navigat între două culturi, numai pentru că frustrările din vremea comunismului m-au obligat să abordez teme care sunt ale mele, încărcate de poezie, luciditate, reflecție, denunțare, îndoială, speranță și puțină tristețe... [...]</i>
 
 Interviu cu Matei Vișniec, Cătălin Hopulele
 
-1. **Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
-1. Indică sensul structurii *trendul de consumerism,* raportându-te la text.	**6 puncte**
-1. Menționează două roluri ale literaturii în perioada unei dictaturi, așa cum reies din text.	**6 puncte**
-1. Precizează, pe baza textului, o cauză pentru care oamenii încă mai merg la teatru în contextul lumii actuale.
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
+1. Indică sensul structurii <i>trendul de consumerism</i>, raportându-te la text.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
+2. Menționează două roluri ale literaturii în perioada unei dictaturi, așa cum reies din text.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
+3. Precizează, pe baza textului, o cauză pentru care oamenii încă mai merg la teatru în contextul lumii actuale.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
+4. Explică, valorificând informațiile din text, motivul pentru care Matei Vișniec consideră că literatura din prezent nu
+mai este *bună la toate.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
+5. Prezintă, în 30-50 de cuvinte, semnificația secvenței: <i>Dar literatura rămâne instrumentul cel mai fin de detectare a
+umanității în om, a pulsiunilor sale ascunse, a contradicțiilor sale și a multiplelor sale fațete. Nici o altă disciplină nu poate fora mai adânc în ființa omului decât literatura.</i><span style='background-color:yellow;float:right'><b>6 puncte</b>
 
-**6 puncte**
+B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă destinul unui scriitor poate fi influențat sau nu de contextul istorico-politic în care trăiește, raportându-te atât la informațiile din interviul cu Matei Vișniec, cât și la experiența personală sau culturală.<span style='background-color:yellow;float:right'><b>20 de puncte</b></span>
 
-1. Explică, valorificând informațiile din text, motivul pentru care Matei Vișniec consideră că literatura din prezent nu
+În redactarea textului, vei avea în vedere următoarele repere:
 
-mai este *bună la toate.*	**6 puncte**
-
-1. Prezintă, în 30-50 de cuvinte, semnificația secvenței: *Dar literatura rămâne instrumentul cel mai fin de detectare a*
-
-*umanității în om, a pulsiunilor sale ascunse, a contradicțiilor sale și a multiplelor sale fațete. Nici o altă disciplină nu poate fora mai adânc în ființa omului decât literatura.*	**6 puncte**
-
-1. **Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă destinul unui scriitor poate**
-
-**fi influențat sau nu de contextul istorico-politic în care trăiește, raportându-te atât la informațiile din interviul cu Matei Vișniec, cât și la experiența personală sau culturală.	20 de puncte**
-
-în redactarea textului, vei avea în vedere următoarele repere:
-
-\- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
 
 -utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
 
