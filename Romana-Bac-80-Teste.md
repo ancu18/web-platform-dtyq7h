@@ -2255,9 +2255,9 @@ Dacia: <i>Cât ai dat pe ea?</i>
 
 Spirache: (Dezolat, privește când la Gena, când la Miza): <i>O sută de lei... dragă, adevărată pomană...</i>
 
-Dacia: <i>Ei, asta e! Unde vezi tu că e pomană?... Nu e pomană deloc... E chiar foarte scumpă... (...)</>
+Dacia: <i>Ei, asta e! Unde vezi tu că e pomană?... Nu e pomană deloc... E chiar foarte scumpă... (...)</i>
 
-Dacia: *Sigur. Că noi avem fabrică de bani... Treaba ta! Să vezi ce-o să-ți zică mama când o să audă c-ai dat atâția bani pe pălărie...* (intră tocmai și Chiriachița) *Mamă!... Și-a luat Spirache pălărie...*
+Dacia: Sigur. Că noi avem fabrică de bani... Treaba ta! Să vezi ce-o să-ți zică mama când o să audă c-ai dat atâția bani pe pălărie...* (intră tocmai și Chiriachița) *Mamă!... Și-a luat Spirache pălărie...*
 
 Chiriachița: *Ei taci!* (îl privește.)
 
