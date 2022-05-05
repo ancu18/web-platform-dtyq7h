@@ -2307,164 +2307,151 @@ Preaplinul sufletesc al inspirației poetice, sentimentul de revelare a unei lum
 
 Înțelegem, astfel, prin inspirație o stare de criză interioară asemenea crizelor spirituale, de ordin etic, religios, politic, social sau proces inventiv științific sau tehnic, în care o conștiință, după o îndelungată zbatere interioară, după îndoieli, căutări, nesiguranțe și suferință, ajunge, prin mijlocirea unei mari răvășiri emotive, la o certitudine interioară, la un nou palier al devenirii sale spirituale, îndemnând o stare de relativ echilibru.
 
-Formă a devenirii interioare, apărută la creatorii de complexiune hiperemotivă, în general în două faze bine hotărnicite - o primă fază, îndelungă, de pregătire și căutări, și un moment revelant de exaltare - inspirația poetică, artistică sau științifică exprimă dinamismul creator al vieții interioare, într-o mișcare alternantă, de pregătire îndelungă și de bruscă limpezire de sine.
+Formă a devenirii interioare, apărută la creatorii de complexiune hiperemotivă, în general în două faze bine hotărnicite - o primă fază, îndelungă, de pregătire și căutări, și un moment revelant de exaltare - inspirația poetică, artistică sau științifică exprimă dinamismul creator al vieții interioare, într-o mișcare alternantă, de pregătire îndelungă și de bruscă limpezire de sine.</i>
 
 Ion Biberi, <i>Poezia, mod de existență luminăție - frământare a unor gânduri obsedante</i>
 
-*★fuchsiene - de la numele matematicianului Lazarus Immanuel Fuchs*
+<i>fuchsiene - de la numele matematicianului Lazarus Immanuel Fuchs</i>
 
-*★Ecce homo - lat. lată omul!*
+<i>Ecce homo - lat. lată omul!</i>
 
-***A..* Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 
-1. Indică sensul structurii *survenite ca un fulger.*	**6	puncte**
-1. Menționează, din text, două nume de personalități științifice și domeniile în care au excelat aceștia. **6 puncte**
-1. Precizează două domenii în care se manifestă inspirația, așa cum reiese din	text.	**6	puncte**
-1. Explică ce este inspirația, în viziunea lui Ion Biberi, raportându-te la al doilea	alineat al textului.	**6 puncte**
-1. Prezintă, în 30-50 de cuvinte, semnificația ultimului alineat al textului.	**6	puncte**
+1. Indică sensul structurii <i>survenite ca un fulger.</i><span style='background-color:yellow;float:right'><b>6 puncte</b></span>
+2. Menționează, din text, două nume de personalități științifice și domeniile în care au excelat aceștia.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
+3. Precizează două domenii în care se manifestă inspirația, așa cum reiese din	text.<span style='background-color:yellow;float:right'><b>6	puncte</b></span>
+4. Explică ce este inspirația, în viziunea lui Ion Biberi, raportându-te la al doilea	alineat al textului.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
+5. Prezintă, în 30-50 de cuvinte, semnificația ultimului alineat al textului.<span style='background-color:yellow;float:right'><b>6	puncte</b></span>
 
-**B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă inspirația poate constitui sau nu singurul factor care contribuie la realizarea unei opere de valoare, raportându-te atât la informațiile din textul citat, cât și la experiența personală sau culturală.	20 de puncte**
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă inspirația poate constitui sau nu singurul factor care contribuie la realizarea unei opere de valoare, raportându-te atât la informațiile din textul citat, cât și la experiența personală sau culturală.	20 de puncte</b>
 
-în redactarea textului, vei avea în vedere următoarele repere:
+În redactarea textului, vei avea în vedere următoarele repere:
 
-- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right'><b>14 puncte</b></span>
 
-argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
 
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
+<b>Subiectul al ll-lea (10 puncte)</b> <b>Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind două trăsături specifice liricii simboliste.</b>
 
-**țn vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+<i>S-a dus albastrul cer senin
 
-**Subiectul al ll-lea(10 puncte) Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind două trăsături specifice liricii simboliste.**
+Și primăvara s-a sfârșit - Te-am așteptat în lung suspin, Tu, n-ai venit!
 
-*S-a dus albastrul cer senin*
+Și vara, și nopțile ei,
 
-*Și primăvara s-a sfârșit - Te-am așteptat în lung suspin, Tu, n-ai venit!*
+S-a dus, și câmpu-i veștejit - Te-am așteptat pe lângă tei, Tu, n-ai venit!
 
-*Și vara, și nopțile ei,*
+Târziu, și toamna a plecat, Frunzișul tot e răvășit - Plângând, pe drumuri, te-am chemat, Tu, n-ai venit!
 
-*S-a dus, și câmpu-i veștejit - Te-am așteptat pe lângă tei, Tu, n-ai venit!*
+Iar, mâini, cu-a! iernii trist pustiu, De mine-atunci nu vei mai ști - Nu mai veni, e prea târziu, Nu mai veni!</i>
 
-*Târziu, și toamna a plecat, Frunzișul tot e răvășit - Plângând, pe drumuri, te-am chemat, Tu, n-ai venit!*
+George Bacovia, <i>Ecou de romanță</i>
 
-*Iar, mâini, cu-a! iernii trist pustiu, De mine-atunci nu vei mai ști - Nu mai veni, e prea târziu, Nu mai veni!*
+<b>Notă</b>
 
-George Bacovia, *Ecou de romanță*
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-**Notă**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+<b>Subiectul al III-lea (30 de puncte)</b> <b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți relația dintre două personaje așa cum apare într-un roman modern subiectiv.</b>
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
-
-**Subiectul al lll-lea(30 de puncte) Redactează un eseu de minimum 400 de cuvinte, în care să prezinți relația dintre două personaje așa cum apare într-un roman modern subiectiv.**
-
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - prezentarea statutului social, psihologic, moral al personajelor alese;
 - evidențierea a câte două trăsături ale personajelor alese prin două scene/ secvențe comentate;
 - analiza, la alegere, a două elemente de structură: conflict, subiect, relații temporale și spațiale, construcția subiectului, perspectivă narativă, modalități de caracterizare, limbaj etc.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**In vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Citește următorul fragment:**
+<b>Citește următorul fragment:</b>
 
-*Am întâlnit destul de des călători care, din spaima că nu vor vedea ceea ce ar trebui să vadă, își alcătuiesc programe minuțioase, după ghidurile cele mai autorizate, hotărâți să nu scape nimic important, să vadă totul,* să *cântărească totul. Dar, uneori, tocmai din frica de a nu scăpa esențialul nu te alegi cu nimic. Pupila se dilată ca /a pisici în întuneric și privești obiectele fără să le mai vezi. Cum s-a zis, poate că adevărurile mari sunt uneori atât de aproape, încât doar de aceea nu le observăm fiindcă le căutăm. Ar trebui numai să deschidem ochii și să privim.*
+<i>Am întâlnit destul de des călători care, din spaima că nu vor vedea ceea ce ar trebui să vadă, își alcătuiesc programe minuțioase, după ghidurile cele mai autorizate, hotărâți să nu scape nimic important, să vadă totul, să cântărească totul. Dar, uneori, tocmai din frica de a nu scăpa esențialul nu te alegi cu nimic. Pupila se dilată ca la pisici în întuneric și privești obiectele fără să le mai vezi. Cum s-a zis, poate că adevărurile mari sunt uneori atât de aproape, încât doar de aceea nu le observăm fiindcă le căutăm. Ar trebui numai să deschidem ochii și să privim.
 
-*Ceea ce încerc să fac în această primă seară la Ciudad de Mexico. întâia tentație a fost să iau o hartă a orașului. Să începem să-l explorăm. Pe urmă am renunțat. Am renunțat chiar să întreb pe ce stradă înaintăm. M-am încredințat pur și simplu întâmplării, într-o agitație de carnaval.*
+Ceea ce încerc să fac în această primă seară la Ciudad de Mexico. întâia tentație a fost să iau o hartă a orașului. Să începem să-l explorăm. Pe urmă am renunțat. Am renunțat chiar să întreb pe ce stradă înaintăm. M-am încredințat pur și simplu întâmplării, într-o agitație de carnaval.
 
-*Căci am nimerit în plină fiestă. Peste tot se vând cornete cu confetti, măști și pălării de pai multicolore. Se strigă, se cântă, se aruncă petarde. Sărbătoarea explodează și hohotește în jurul nostru.*
+Căci am nimerit în plină fiestă. Peste tot se vând cornete cu confetti, măști și pălării de pai multicolore. Se strigă, se cântă, se aruncă petarde. Sărbătoarea explodează și hohotește în jurul nostru.
 
-*întreg orașul pare ieșit pe străzi. Sunetele unor instrumente necunoscute însoțesc dansatori cu panașe viu colorate și măști de lemn sau de piele, în fața noastră, un tânăr metis are o torță în mână. Și lângă el o damigeana cu benzină. își umple gura cu benzină, pe care apoi o pulverizează, suflând, în aer și-i dă foc creând impresia unui aruncător de flăcări. Nimeni nu-i dă atenție, noi ne ferim de teamă să nu ne atingă cumva flacăra care zboară câteva secunde prin aer, dar el își continuă netulburat spectacolul ca pe o scenă. Ceva mai departe, indieni în costume tradiționale pregătesc din făină de porumb și din lapte de var faimoasele tortillas, puternic condimentate, care ard buzele europenilor, în timp ce mexicanii zâmbesc îngăduitor. Câțiva turiști s-au oprit și privesc scena cu aerul pe care-l vor fi avut aztecii văzând „bastonul" cu care conchistadorii ucideau victima îndreptându-l spre ea. [...]*
+Întreg orașul pare ieșit pe străzi. Sunetele unor instrumente necunoscute însoțesc dansatori cu panașe viu colorate și măști de lemn sau de piele, în fața noastră, un tânăr metis are o torță în mână. Și lângă el o damigeana cu benzină. își umple gura cu benzină, pe care apoi o pulverizează, suflând, în aer și-i dă foc creând impresia unui aruncător de flăcări. Nimeni nu-i dă atenție, noi ne ferim de teamă să nu ne atingă cumva flacăra care zboară câteva secunde prin aer, dar el își continuă netulburat spectacolul ca pe o scenă. Ceva mai departe, indieni în costume tradiționale pregătesc din făină de porumb și din lapte de var faimoasele tortillas, puternic condimentate, care ard buzele europenilor, în timp ce mexicanii zâmbesc îngăduitor. Câțiva turiști s-au oprit și privesc scena cu aerul pe care-l vor fi avut aztecii văzând „bastonul" cu care conchistadorii ucideau victima îndreptându-l spre ea. [...]
 
-*Odinioară, aztecii erau convinși că beția îi punea în comunicare cu zeii. Acum, de două zile orice vânzare de alcool e interzisă în capitală. în vârtejul fiestei, unii au și uitat, parcă, sau n-au aflat încă de ce suflă în tiribombe, de ce poartă măști ciudate, ca vechiul zeu al vântului, sau de ce și-au pus coifuri caraghioase, care mă fac o clipă ss tresar, căci asemenea coifuri am văzut la Goya, așezate de Inchiziție pe capul muribunzilor.*
+Odinioară, aztecii erau convinși că beția îi punea în comunicare cu zeii. Acum, de două zile orice vânzare de alcool e interzisă în capitală. în vârtejul fiestei, unii au și uitat, parcă, sau n-au aflat încă de ce suflă în tiribombe, de ce poartă măști ciudate, ca vechiul zeu al vântului, sau de ce și-au pus coifuri caraghioase, care mă fac o clipă ss tresar, căci asemenea coifuri am văzut la Goya, așezate de Inchiziție pe capul muribunzilor.
 
-*Fiesta e, probabil, tot ce se spune despre ea, drog, petrecere, spectacol și mai mult decât atât. în această noapte, ea dictează ritmul după care trăiește orașul. Strada e transformată într-o scenă imensă și spectatorii sunt constrânși să devină actori.*
+Fiesta e, probabil, tot ce se spune despre ea, drog, petrecere, spectacol și mai mult decât atât. în această noapte, ea dictează ritmul după care trăiește orașul. Strada e transformată într-o scenă imensă și spectatorii sunt constrânși să devină actori.
 
-*în cele din urmă, însă, curiozitatea cedează în fața oboselii. Am în urmă douăsprezece ore de zbor cu avionul. La un moment dat, zgomotul mă amețește. Simt nevoia liniștii și, brusc, câinele negru al singurătății începe să-mi dea târcoale în plină fiestă. De vină e, poate, și faptul că am nimerit fără nicio inițiere într-o noapte atât de fierbinte. Strecurându-mă prin mulțime, mă întreb de ce spunea Camus că tăcerea nu mai e posibilă decât în orașele zgomotoase...*
+În cele din urmă, însă, curiozitatea cedează în fața oboselii. Am în urmă douăsprezece ore de zbor cu avionul. La un moment dat, zgomotul mă amețește. Simt nevoia liniștii și, brusc, câinele negru al singurătății începe să-mi dea târcoale în plină fiestă. De vină e, poate, și faptul că am nimerit fără nicio inițiere într-o noapte atât de fierbinte. Strecurându-mă prin mulțime, mă întreb de ce spunea Camus că tăcerea nu mai e posibilă decât în orașele zgomotoase...
 
-*Ne întoarcem la hotel, lăsând în urmă fiesta, care aruncă mai departe lavă colorată pe străzi.*
+Ne întoarcem la hotel, lăsând în urmă fiesta, care aruncă mai departe lavă colorată pe străzi.</i>
 
-Octavian Paler, *Caminante*
+Octavian Paler, <i>Caminante</i>
 
-1. **Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
-1. Indică sensul structurii *curiozitatea cedează în fața oboselii.*	**6 puncte**
-1. Menționează, valorificând informațiile din primul alineat, ce fac unii călători din dorința de a nu rata nimic important
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
+1. Indică sensul structurii <i>curiozitatea cedează în fața oboselii</i>.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
+2. Menționează, valorificând informațiile din primul alineat, ce fac unii călători din dorința de a nu rata nimic important în călătoria lor.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
+3. Precizează, pe baza textului, două obiceiuri întâlnite în timpul fiestei.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
+4. Explică, pe baza textului, de ce renunță autorul să cumpere o hartă atunci când ajunge în oraș.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
+5. Prezintă, în 30-50 de cuvinte, semnificația fiestei, așa cum apare ea în viziunea autorului.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
+B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă sărbătorile pot influența sau nu ritmul cotidian/ nocturn într-o comunitate, raportându-te atât la informațiile din fragmentul citat aparținând lui Octavian Paler, cât și la experiența personală sau culturală.<span style='background-color:yellow;float:right'><b>20 de puncte</b></span>
 
-în călătoria lor.	**6 puncte**
+În redactarea textului, vei avea în vedere următoarele repere:
 
-1. Precizează, pe baza textului, două obiceiuri întâlnite în timpul fiestei.	**6 puncte**
-1. Explică, pe baza textului, de ce renunță autorul să cumpere o hartă atunci când ajunge în oraș.	**6 puncte**
-1. Prezintă, în 30-50 de cuvinte, semnificația fiestei, așa cum apare ea în viziunea autorului.	**6 puncte**
-1. **Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă sărbătorile pot influența sau**
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right'><b>14 puncte</b></span>
 
-**nu ritmul cotidian/ nocturn într-o comunitate, raportându-te atât la informațiile din fragmentul citat aparținând lui Octavian Paler, cât și la experiența personală sau culturală.	20 de puncte**
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
 
-în redactarea textului, vei avea în vedere următoarele repere:
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
+<b>Subiectul al II-lea(10 puncte)</b> <b>Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind rolul stilistic al verbelor la imperfect:</b>
 
-argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+<i>Liniștea te-nsoțea pretutindeni, ca o suită.
 
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
+Dacă ridicai o mână, se făcea în arbori tăcere.
 
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
+Când mă priveai în ochi, împietrea o clipită din a timpului curgătoare putere.
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+Simțeam că pot adormi, visând stele locuite.
 
-**Subiectul al ll-lea(10 puncte) Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind rolul stilistic al verbelor la imperfect:**
+Și, numai dacă m-ar fi atins umbra ta foșnitoare, aș fi putut împinge nopțile-ncremenite ca pe-o elice-naintând, spre soare.
 
-*Liniștea te-nsoțea pretutindeni, ca o suită.*
+Și numai sentimentul acesta îmi da fericire, numai gândul ca sunt și că ești.
 
-*Dacă ridicai o mână, se făcea în arbori tăcere.*
+Sprijineam pe țârâitul greerilor coviltire, sub care beam azurul decantat în cești.
 
-*Când mă priveai în ochi, împietrea o clipită din a timpului curgătoare putere.*
+Și când sfârșeam cuvintele, inventam altele.
 
-*Simțeam că pot adormi, visând stele locuite.*
+Și când se-nsera cerul, inventam ceruri albastre, și când orele se-verzeau ca smaraldele, ne bronzam la lumina dragostei noastre. [...]</i>
 
-*Și, numai dacă m-ar fi atins umbra ta foșnitoare, aș fi putut împinge nopțile-ncremenite ca pe-o elice-naintând, spre soare.*
+Nichita Stănescu, <i>La-nceputul serilor</i>
 
-*Și numai sentimentul acesta îmi da fericire, numai gândul ca sunt și că ești.*
+<b>Notă</b>
 
-*Sprijineam pe țârâitul greerilor coviltire, sub care beam azurul decantat în cești.*
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b.redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-*Și când sfârșeam cuvintele, inventam altele.*
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-*Și când se-nsera cerul, inventam ceruri albastre, și când orele se-verzeau ca smaraldele, ne bronzam la lumina dragostei noastre. [...]*
+<b>Subiectul al III-lea (30 de puncte)</b>
 
-Nichita Stănescu, *La-nceputul serilor*
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un roman de G. Călinescu.</b>
 
-**Notă**
-
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
-
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
-
-**Subiectul al lll-lea(30 de puncte)**
-
-**Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un roman de G. Călinescu.**
-
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - evidențierea unei trăsături care face posibilă încadrarea romanului într-o tipologie, într-un curent cultural/ literar, într-o perioadă sau într-o orientare tematică;
 - ilustrarea a două elemente de structură și de compoziție ale textului narativ, semnificative pentru tema aleasă (acțiune, conflicte, relații temporale si spațiale, perspectivă narativă, tehnici narative, incipit, final, limbaj etc.);
 - ilustrarea relațiilor dintre două personaje, prin care tema aleasă se evidențiază în romanul ales.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**în vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
 
 **Citește următorul fragment:**
