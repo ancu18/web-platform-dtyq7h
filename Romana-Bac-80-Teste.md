@@ -1815,8 +1815,8 @@ Mircea Eliade, <i>Memorii</i>
 
 <b>I. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 1. Indică sensul structurii <i>își găsea necontenit de lucru.</i><span style='background-color:yellow;float:right'><b>6 puncte</b></span>
-2. Menționează ce reacții a stârnit foiletonul <i>împotriva Moldovei</i>, scris de Mircea Eliade în perioada studenției.<span style='background-color:yellow;float:right'> 6<i>puncte</i></span>
-3. Precizează, pe baza textului, două elemente contradictorii în felul de a fi al tatălui.<span style='background-color:yellow;float:right'><i>6 puncte</i></span>
+2. Menționează ce reacții a stârnit foiletonul <i>împotriva Moldovei</i>, scris de Mircea Eliade în perioada studenției.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
+3. Precizează, pe baza textului, două elemente contradictorii în felul de a fi al tatălui.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
 4. Explică ce reprezintă pentru Mircea Eliade zestrea ereditară oferită de fiecare dintre părinții săi.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
 5. Prezintă, în 30-50 de cuvinte, imaginea mamei, așa cum este surprinsă în ultimul alineat al textului.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
 6. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă factorul ereditar poate influența sau nu destinul unui om, raportându-te atât la informațiile din fragmentul citat aparținând lui Mircea Eliade, cât și la experiența personală sau culturală.<span style='background-color:yellow;float:right'><b>20 de puncte</b></span>
