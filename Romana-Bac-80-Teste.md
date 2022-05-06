@@ -2143,11 +2143,11 @@ Zoe Dumitrescu-Bușulenga, <i>Mihai Eminescu, viața</i>
 3. Explică, valorificând informațiile din text, motivul pentru care poetul publica puțin în acea perioadă.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
 4. Prezintă, în 30-50 de cuvinte, semnificația secvenței: <i>Este o zicală din bătrâni: gura să aibă trei lacăte: în inimă, în gât și a treia pe buze, când îți va scăpa cuvântul din inimă, să nu scape de cealaltă, că dacă ai scăpat o dată vorba din gură, n-o mai prinzi nici cu calul, nici cu ogarul, ba nici cu șoimul. Trebuie să cumpănești de o sută de ori o scriere până o dai publicității.</i><span style='background-color:yellow;float:right'><b>6 puncte</b></span>
 
-<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă relațiile de prietenie bazate pe afinități culturale pot contribui sau nu la dezvoltarea personalității unui tânăr, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.<span style='background-color:yellow;float:right'><b>20 de puncte</b></span>
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă relațiile de prietenie bazate pe afinități culturale pot contribui sau nu la dezvoltarea personalității unui tânăr, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right'><b>20 de puncte</b></span>
 
 În redactarea textului, vei avea în vedere următoarele repere:
 
--formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right'><b>14 puncte</b></span>
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right'><b>14 puncte</b></span>
 
 - utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
 
@@ -2207,7 +2207,7 @@ Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pe
 
 <b>Citește următorul fragment:</b>
 
-<b><i>Spuneați într-un interviu din 2008 că teatrul poate provoca revoltă, mai ales într-o dictatură. Cum judecați oamenii care mai calcă astăzi în sălile de teatru? Mai pot fi incitați la fel de jocul actorilor sau e doar o defuiare de câteva ore din cotidian?</b></i>
+<div style='text-align:justify'><b><i>Spuneați într-un interviu din 2008 că teatrul poate provoca revoltă, mai ales într-o dictatură. Cum judecați oamenii care mai calcă astăzi în sălile de teatru? Mai pot fi incitați la fel de jocul actorilor sau e doar o defuiare de câteva ore din cotidian?</b></i>
 
 <i>Eu cred că oamenii în ziua de astăzi caută teatrul ca un loc de refugiu întrucât sunt intoxicați de televizor, de alte ecrane (mici și mari) care ne invadează viața, precum și de delirul general al mediilor de informare care privilegiază în general un spectacol de proastă calitate. Și chiar dacă teatrul nu mai este un loc de rezistență politică (așa cum a fost cazul în România și în alte țări ale lumii comuniste), el este un loc care rezistă împotriva noilor forme de spălare pe creier.</i>
 
@@ -2217,7 +2217,7 @@ Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pe
 
 <b><i>Credeți că dacă v-ați fi născut astăzi, fără greutățile pe care le impunea comunismul și a limitărilor impuse atunci de cenzură în exprimarea artistică, v-ați mai fi îndreptat către dramaturgie?</i></b>
 
-<i>Da, și aș fi ajuns poate și mai departe pentru că aș fi debutat, poate, la timp, adică la 20 de ani și nu la 30... Și mai ales astăzi n-aș fi avut poate nevoie să scriu în altă limbă ca să-mi fac un loc, în sfârșit cultura romană poate trimite în străinătate autori care se afirmă normal, întâi în România, înainte de a fi citiți și pe alte meridiane. Acest joc al scenariului posibil dacă ne-am fi născut în altă epocă are însă limitele sale. Eu sunt eu, Matei Vișniec, numai pentru că am cunoscut comunismul și apoi libertatea, numai pentru că am scris în două limbi, numai pentru că am navigat între două culturi, numai pentru că frustrările din vremea comunismului m-au obligat să abordez teme care sunt ale mele, încărcate de poezie, luciditate, reflecție, denunțare, îndoială, speranță și puțină tristețe... [...]</i>
+<i>Da, și aș fi ajuns poate și mai departe pentru că aș fi debutat, poate, la timp, adică la 20 de ani și nu la 30... Și mai ales astăzi n-aș fi avut poate nevoie să scriu în altă limbă ca să-mi fac un loc, în sfârșit cultura romană poate trimite în străinătate autori care se afirmă normal, întâi în România, înainte de a fi citiți și pe alte meridiane. Acest joc al scenariului posibil dacă ne-am fi născut în altă epocă are însă limitele sale. Eu sunt eu, Matei Vișniec, numai pentru că am cunoscut comunismul și apoi libertatea, numai pentru că am scris în două limbi, numai pentru că am navigat între două culturi, numai pentru că frustrările din vremea comunismului m-au obligat să abordez teme care sunt ale mele, încărcate de poezie, luciditate, reflecție, denunțare, îndoială, speranță și puțină tristețe... [...]</i></div>
 
 Interviu cu Matei Vișniec, Cătălin Hopulele
 
@@ -2236,7 +2236,7 @@ B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă
 
 - formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right'><b>14 puncte</b></span>
 
--utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
 
 <b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
@@ -2299,7 +2299,7 @@ Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pe
 
 <b>Citește următorul fragment:</b>
 
-<b>În convingerea noastră, inspirația nu este expresia unor funcții și elemente psihologice bine circumscrise, ci a întregii personalități creatoare a unui subiect; actul ultim, socotit ca fiind creator și depășind datele sufletești inițiale, nu ascultă numai de principiul rezultantelor creatoare, ci reprezintă o structură de totalitate a personalității, aceasta fiind socotită în creșterea și dezvoltarea ei în timp.
+<i>În convingerea noastră, inspirația nu este expresia unor funcții și elemente psihologice bine circumscrise, ci a întregii personalități creatoare a unui subiect; actul ultim, socotit ca fiind creator și depășind datele sufletești inițiale, nu ascultă numai de principiul rezultantelor creatoare, ci reprezintă o structură de totalitate a personalității, aceasta fiind socotită în creșterea și dezvoltarea ei în timp.
 
 Preaplinul sufletesc al inspirației poetice, sentimentul de revelare a unei lumi noi sau a unei noi împliniri de idei sau de forme, este rodul ultim al unei îndelungi incubații sufletești, deopotrivă conștiente și subliminale, prelungite în lungul întregii vieți individuale a creatorului. Geniul, îndelungă răbdare, sau indicația reprezentată prin răspunsul lui Newton, care a descoperit legea gravitației universale, gândindu-se în permanență la această problemă, arată măsura în care viața interioară a personalității creatoare reprezintă o integrare succesivă de viziuni, imagini, reflexii, și mai ales de stări emotive de mare tensiune și efort voluntar de progresivă împlinire, într-o structură mentală unitară și complexă.
 
@@ -2323,7 +2323,7 @@ Ion Biberi, <i>Poezia, mod de existență luminăție - frământare a unor gân
 4. Explică ce este inspirația, în viziunea lui Ion Biberi, raportându-te la al doilea	alineat al textului.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
 5. Prezintă, în 30-50 de cuvinte, semnificația ultimului alineat al textului.<span style='background-color:yellow;float:right'><b>6	puncte</b></span>
 
-<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă inspirația poate constitui sau nu singurul factor care contribuie la realizarea unei opere de valoare, raportându-te atât la informațiile din textul citat, cât și la experiența personală sau culturală.	20 de puncte</b>
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă inspirația poate constitui sau nu singurul factor care contribuie la realizarea unei opere de valoare, raportându-te atât la informațiile din textul citat, cât și la experiența personală sau culturală. 20 de puncte</b>
 
 În redactarea textului, vei avea în vedere următoarele repere:
 
