@@ -2575,9 +2575,9 @@ Pentru copii, rutina înseamnă siguranță. Când lucrurile se întâmplă înt
 1. Indică sensul structurii <i>să faci față lumii</i>.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 2. Menționează două efecte pozitive ale tabietului, așa cum reies acestea din primul răspuns al Zenobiei Niculiță.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
 3. Precizează, pe baza textului, deosebirea dintre adicție și tabiet.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
-1. Explică ce este un mijloc de evitare, așa cum reiese din text.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
-1. Prezintă, în 30-50 de cuvinte, rolul rutinei în viața omului, valorificând informațiile din text.	**6 puncte**
-1. **Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă rutina este sau nu importantă*
+4. Explică ce este un mijloc de evitare, așa cum reiese din text.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
+5. Prezintă, în 30-50 de cuvinte, rolul rutinei în viața omului, valorificând informațiile din text. 	6 puncte**
+1. **Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă rutina este sau nu importantă* 
 
 **în viața unui om, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.	20 de puncte**
 
