@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="styles.css" />
 <div class="bf_toc_container">
   <div class="bf_toc_title">
     <center>Cuprins</center>
@@ -2456,7 +2457,7 @@ Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pe
 
 <b>Citește următorul fragment:</b>
 
-<i>(1) Sunt permise, fără consimțământul autorului și fără plata vreunei remunerații, următoarele utilizări ale unei opere aduse anterior la cunoștința publică, cu condiția ca acestea să fie conforme bunelor uzanțe, să nu contravin^ exploatării normale a operei și să nu îl prejudicieze pe autor sau pe titularii drepturilor de utilizare:
+<i>(1) Sunt permise, fără consimțământul autorului și fără plata vreunei remunerații, următoarele utilizări ale unei opere aduse anterior la cunoștința publică, cu condiția ca acestea să fie conforme bunelor uzanțe, să nu contravin exploatării normale a operei și să nu îl prejudicieze pe autor sau pe titularii drepturilor de utilizare:
 
 1) reproducerea unei opere în cadrul procedurilor judiciare, parlamentare sau administrative ori pentru scopuri de siguranță publică;
 2) utilizarea de scurte citate dintr-o operă, în scop de analiză, comentariu sau critică ori cu titlu de exemplificare, în măsura în care folosirea lor justifică întinderea citatului;
@@ -2558,9 +2559,12 @@ Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pe
 
 <b><i>Cum ați defini, din punct de vedere psihologic, tabietul?</i></b>
 
-<i>Tabietul este, în primul rând, un obicei, dar nu unul pe care îl facem automat, fără să depunem efort motivațional sau intelectual, ci unul care ne îngrijește, care ne face bine. Așa cum te aranjezi și ai grijă de corpul tău, așa ai nevoie să ai grijă și de mintea ta, cu niște tabieturi. Bineînțeles, unele sunt mai sănătoase decât altele, dar cred că un aspect esențial al tabietului este acela de răsfăț menit să te aducă într-o stare psihică bună. Să te calmeze, să te ajute să faci față lumii mai bine. Cu alte cuvinte: „nu trebuie să mă confrunt acum cu toate problemele lumii, dar cât timp îmi fac tabietul, îmi adun resursele și voi fi pregătit să încep". Ideea de tabiet este, în esență, una de îngrijire. 
+<i>Tabietul este, în primul rând, un obicei, dar nu unul pe care îl facem automat, fără să depunem efort motivațional sau intelectual, ci unul care ne îngrijește, care ne face bine. Așa cum te aranjezi și ai grijă de corpul tău, așa ai nevoie să ai grijă și de mintea ta, cu niște tabieturi. Bineînțeles, unele sunt mai sănătoase decât altele, dar cred că un aspect esențial al tabietului este acela de răsfăț menit să te aducă într-o stare psihică bună. Să te calmeze, să te ajute să faci față lumii mai bine. Cu alte cuvinte: „nu trebuie să mă confrunt acum cu toate problemele lumii, dar cât timp îmi fac tabietul, îmi adun resursele și voi fi pregătit să încep". Ideea de tabiet este, în esență, una de îngrijire.
+
 <b>Dar poate deveni o dependență? Care ar fi diferența dintre a avea un tabiet și a fi dependent de un obicei?</b>
+
 Tabietul este un mecanism benefic, cât timp nu devine un mijloc de evitare. Tabieturile pe care le avem, de exemplu, dimineața, când bem cafeaua, se referă la o relaxare determinată de un anumit timp, jumătatea de oră pe care ți-o aloci ca să îți reîncarci bateriile. însă țigara pe care o fumezi înainte de o ședință, ca să nu fii nevoit să faci conversație cu șeful, poate deveni un mijloc de a evita situațiile cu care trebuie să ne confruntăm. Când nu te poți concentra dacă nu ți-ai îndeplinit ritualul, nu mai vorbim despre tabiet, ci despre dependență. Cred că aici este deosebirea esențială. Orice formă de adicție are la bază un comportament de evitare. Evit să mă confrunt cu mine, cu temerile mele, cu demonii mei. Ca să nu mai simt toate aceste lucruri îngrozitoare, toate emoțiile copleșitoare, am un comportament care mă scoate din starea respectivă și mă amorțește. Asta face orice drog (în sensul general al cuvântului) care pe moment ne suspendă disconfortul unor emoții neplăcute și ne ajută să evităm ceva cu care avem nevoie să ne confruntăm la momentul respectiv. De aceea adicțiile pot fi și comportamente de amânare, pe când tabietul își are locul lui, e delimitat în timp și e un comportament de îngrijire, de încărcare cu energie. [...] 
+
 <b>Tabietul are și o latură de rutină. Deci cât de importantă este rutina în viața noastră?</b>
 
 Pentru copii, rutina înseamnă siguranță. Când lucrurile se întâmplă într-un mod predictibil, așa cum ne-am propus și cum ni s-a promis, atunci simțim că lumea asta mare și înfricoșătoare are totuși o ordine. Chiar dacă totul pare haotic, există acei piloni, elemente care se repetă cu periodicitate și de care mă pot agăța ca să mă simt în siguranță. Pe de altă parte, nici căderea într-o rutină totală nu este bună. Toți avem nevoie de creativitate și de spontaneitate, de schimbări care să ne facă să descoperim lucruri noi, interesante. Cele două nevoi trebuie să fie în echilibru. Același lucru este valabil și pentru adulți. Câteva elemente de rutină pe zi, care să te ajute să îți faci o ordine și să pornești la drum, sunt extrem de benefice.</i>
@@ -2568,8 +2572,8 @@ Pentru copii, rutina înseamnă siguranță. Când lucrurile se întâmplă înt
 <i>Tabietul înseamnă să preiei controlul asupra vieții tale</i> - interviu cu Zenobia Niculiță
 
 <b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
-1. Indică sensul structurii <i>să faci față lumii</i>.6 puncte**
-1. Menționează două efecte pozitive ale tabietului, așa cum reies acestea din primul răspuns al Zenobiei Niculiță.
+1. Indică sensul structurii <i>să faci față lumii</i>.<b>6 puncte</b>
+2. Menționează două efecte pozitive ale tabietului, așa cum reies acestea din primul răspuns al Zenobiei Niculiță.
 
 **6 puncte**
 
