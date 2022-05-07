@@ -14,7 +14,7 @@
 
 DORICA BOLTAȘU NICOLAE</center>
 
-*EBACalaureat*
+<i>EBACalaureat</i>
 
 Dorica Boltașu Nicolae
 
@@ -56,7 +56,7 @@ Corectori: Ana-Maria Lupașcu, Anda Marin
 
 Tehnoredactor: Carmen Dumitrescu
 
-**©Editura Booklet** 2019
+<b>©Editura Booklet</b> 2019
 
 Toate drepturile asupra lucrării aparțin editurii
 
