@@ -2568,7 +2568,7 @@ Pentru copii, rutina înseamnă siguranță. Când lucrurile se întâmplă înt
 <i>Tabietul înseamnă să preiei controlul asupra vieții tale</i> - interviu cu Zenobia Niculiță
 
 <b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
-1. Indică sensul structurii <i>să faci față lumii</>.	**6 puncte**
+1. Indică sensul structurii <i>să faci față lumii</i>.6 puncte**
 1. Menționează două efecte pozitive ale tabietului, așa cum reies acestea din primul răspuns al Zenobiei Niculiță.
 
 **6 puncte**
