@@ -2454,116 +2454,116 @@ Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pe
 <b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
 
-**Citește următorul fragment:**
+<b>Citește următorul fragment:</b>
 
-*(1) Sunt permise, fără consimțământul autorului și fără plata vreunei remunerații, următoarele utilizări ale unei opere aduse anterior la cunoștința publică, cu condiția ca acestea să fie conforme bunelor uzanțe, să nu contravin^ exploatării normale a operei și să nu îl prejudicieze pe autor sau pe titularii drepturilor de utilizare:*
+<i>(1) Sunt permise, fără consimțământul autorului și fără plata vreunei remunerații, următoarele utilizări ale unei opere aduse anterior la cunoștința publică, cu condiția ca acestea să fie conforme bunelor uzanțe, să nu contravin^ exploatării normale a operei și să nu îl prejudicieze pe autor sau pe titularii drepturilor de utilizare:
 
-1) *reproducerea unei opere în cadrul procedurilor judiciare, parlamentare sau administrative ori pentru scopuri de siguranță publică;*
-1) *utilizarea de scurte citate dintr-o operă, în scop de analiză, comentariu sau critică ori cu titlu de exemplificare, în măsura în care folosirea lor justifică întinderea citatului;*
-1) *utilizarea de articole izolate sau de scurte extrase din opere în publicații, în emisiuni de radio sau de televiziune ori în înregistrări sonore sau audiovizuale, destinate exclusiv învățământului, precum și reproducerea pentru învățământ, în cadrul instituțiilor de învățământ sau de ocrotire socială, de articole izolate sau de scurte extrase din opere, în măsura justificată de scopul urmărit;*
-1) *reproducerea pentru informare și cercetare de scurte extrase din opere, în cadrul bibliotecilor, muzeelor, filmotecilor, fonotecilor, arhivelor instituțiilor publice culturale sau științifice, care funcționează fără scop lucrativ; reproducerea integrală a exemplarului unei opere este permisă, pentru înlocuirea acestuia, în cazul distrugerii, al deteriorării grave sau al pierderii exemplarului unic din colecția permanentă a bibliotecii sau a arhivei respective;*
-1) *reproducerile specifice realizate de bibliotecile accesibile publicului, de instituțiile de învățământ sau de muzee ori de către arhive, care nu sunt realizate în scopul obținerii unui avantaj comercial sau economic, direct ori indirect;*
-1) *reproducerea, cu excluderea oricăror mijloace care vin în contact direct cu opera, distribuirea sau comunicarea către public a imaginii unei opere de arhitectură, artă plastică, fotografică sau artă aplicată, amplasată permanent în locuri publice, în afara cazurilor în care imaginea operei este subiectul principal al unei astfel de reproduceri, distribuiri sau comunicări și dacă este utilizată'în scopuri comerciale;*
-1) *reprezentarea și executarea unei opere în cadrul activităților instituțiilor de învățământ, exclusiv în scopuri specifice și cu condiția ca atât reprezentarea sau executarea, cât și accesul publicului să fie fără plată;*
-1) *utilizarea operelor în timpul celebrărilor religioase sau al ceremoniilor oficiale organizate de o autoritate publică;*
-1) *utilizarea, în scopuri publicitare, a imaginilor operelor prezentate în cadrul expozițiilor cu acces public sau cu vânzare, al târgurilor, licitațiilor publice de opere de artă, ca mijloc de promovare a evenimentului, excluzând orice utilizare comercială.*
+1) reproducerea unei opere în cadrul procedurilor judiciare, parlamentare sau administrative ori pentru scopuri de siguranță publică;
+2) utilizarea de scurte citate dintr-o operă, în scop de analiză, comentariu sau critică ori cu titlu de exemplificare, în măsura în care folosirea lor justifică întinderea citatului;
+3) utilizarea de articole izolate sau de scurte extrase din opere în publicații, în emisiuni de radio sau de televiziune ori în înregistrări sonore sau audiovizuale, destinate exclusiv învățământului, precum și reproducerea pentru învățământ, în cadrul instituțiilor de învățământ sau de ocrotire socială, de articole izolate sau de scurte extrase din opere, în măsura justificată de scopul urmărit;
+4) reproducerea pentru informare și cercetare de scurte extrase din opere, în cadrul bibliotecilor, muzeelor, filmotecilor, fonotecilor, arhivelor instituțiilor publice culturale sau științifice, care funcționează fără scop lucrativ; reproducerea integrală a exemplarului unei opere este permisă, pentru înlocuirea acestuia, în cazul distrugerii, al deteriorării grave sau al pierderii exemplarului unic din colecția permanentă a bibliotecii sau a arhivei respective;
+5) reproducerile specifice realizate de bibliotecile accesibile publicului, de instituțiile de învățământ sau de muzee ori de către arhive, care nu sunt realizate în scopul obținerii unui avantaj comercial sau economic, direct ori indirect;
+6) reproducerea, cu excluderea oricăror mijloace care vin în contact direct cu opera, distribuirea sau comunicarea către public a imaginii unei opere de arhitectură, artă plastică, fotografică sau artă aplicată, amplasată permanent în locuri publice, în afara cazurilor în care imaginea operei este subiectul principal al unei astfel de reproduceri, distribuiri sau comunicări și dacă este utilizată'în scopuri comerciale;
+7) reprezentarea și executarea unei opere în cadrul activităților instituțiilor de învățământ, exclusiv în scopuri specifice și cu condiția ca atât reprezentarea sau executarea, cât și accesul publicului să fie fără plată;
+8) utilizarea operelor în timpul celebrărilor religioase sau al ceremoniilor oficiale organizate de o autoritate publică;
+9) utilizarea, în scopuri publicitare, a imaginilor operelor prezentate în cadrul expozițiilor cu acces public sau cu vânzare, al târgurilor, licitațiilor publice de opere de artă, ca mijloc de promovare a evenimentului, excluzând orice utilizare comercială.</i>
 
 LEGEA nr. 8/1996, Actualizata 2014, privind dreptul de autor si drepturile conexe
 
-**A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 
-1. Indică sensul structurii *aduse la cunoștința publică.*	**6	puncte**
-1. Menționează, pe baza textului, două motive pentru care pot fi folosite citatele dintr-o operă.	**6	puncte**
-1. Precizează două trăsături ale textului nonliterar identificate în fragmentul citat.	**6	puncte**
-1. Explică în ce condiții se poate folosi un material fără remunerația autorului.	**6	puncte**
-1. Prezintă, în 30-50 de cuvinte, drepturile de autor în contextele prezentate la litera	c).	**6	puncte**
+1. Indică sensul structurii <i>aduse la cunoștința publică</i>.<span style='background-color:yellow;float:right'><b>6	puncte</b></span>
+2. Menționează, pe baza textului, două motive pentru care pot fi folosite citatele dintr-o operă.<span style='background-color:yellow;float:right'><b>6	puncte</b></span>
+3. Precizează două trăsături ale textului nonliterar identificate în fragmentul citat.<span style='background-color:yellow;float:right'><b>6	puncte</b></span>
+4. Explică în ce condiții se poate folosi un material fără remunerația autorului.<span style='background-color:yellow;float:right'><b>6	puncte</b></span>
+1. Prezintă, în 30-50 de cuvinte, drepturile de autor în contextele prezentate la litera	c).<span style='background-color:yellow;float:right'><b>6	puncte</b></span>
 
-**B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă absolvenții de liceu ar trebui sau nu să cunoască legea drepturilor de autor, raportându-te atât la informațiile din fragmentul extras din LEGEA nr. 8/1996, cât și la experiența personală sau culturală.	20 de puncte**
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă absolvenții de liceu ar trebui sau nu să cunoască legea drepturilor de autor, raportându-te atât la informațiile din fragmentul extras din LEGEA nr. 8/1996, cât și la experiența personală sau culturală.<span style='background-color:yellow;float:right'>20 de puncte</b></span>
 
-în redactarea textului, vei avea în vedere următoarele repere:
+În redactarea textului, vei avea în vedere următoarele repere:
 
--formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right'><b>14 puncte</b></span>
 
-\- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
 
-**Comentează, în minimum 50 de cuvinte, semnificațiile titlului textului următor, atât la nivel stilistic, cât și la**
+<b>Comentează, în minimum 50 de cuvinte, semnificațiile titlului textului următor, atât la nivel stilistic, cât și la
+nivel structural: <i>într-o încăpere ca toate celelalte, Amenajată cu plafon zdravăn, Ne întrecem la sărituri în înălțime.</i></b>
 
-|**nivel structural:**|*într-o încăpere ca toate celelalte, Amenajată cu plafon zdravăn, Ne întrecem la sărituri în înălțime.*|
-| :- | :- |
+<i>Știm precis
 
-*Știm precis*
+Că nu poate sări nimeni
 
-*Că nu poate sări nimeni*
+Mai sus decât tavanul
 
-*Mai sus decât tavanul*
+Să fie și Dumnezeu.
 
-*Să fie și Dumnezeu.*
+Asta din cauza gravitației
 
-*Asta din cauza gravitației*
+Care ne trage mereu în jos, încă din cele mai vechi timpuri.
 
-*Care ne trage mereu în jos, încă din cele mai vechi timpuri.*
+Dar continuăm
 
-*Dar continuăm*
+Cu o îndârjire diavolească
 
-*Cu o îndârjire diavolească*
+Pentru că nu putem sta altfel
 
-*Pentru că nu putem sta altfel*
+Când avem în noi geniul înălțimii,
 
-*Când avem în noi geniul înălțimii,*
+Ca peștii zburători
 
-*Ca peștii zburători*
+Dorul aripilor adevărate
 
-*Dorul aripilor adevărate*
+Zi și noapte continuăm în plafonul nostru scund.
 
-*Zi și noapte continuăm în plafonul nostru scund.*
+Cel mai sprinten,
 
-*Cel mai sprinten,*
+Care are mușchii cei mai oțeliți, mai dresați
 
-*Care are mușchii cei mai oțeliți, mai dresați*
+Și stăpânește cel mai bine
 
-*Și stăpânește cel mai bine*
+Legile avântului
 
-*Legile avântului*
+Ia și cele mai multe pocnituri în cap.</i>
 
-*la și cele mai multe pocnituri în cap.*
+Marin Sorescu, <i>Concurs</i>
 
-Marin Sorescu, *Concurs*
+<b>Notă</b>
 
-**Notă**
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+<b>Subiectul al III-lea (30 de puncte)</b>
 
-**Subiectul al lll-lea(30 de puncte)**
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți relația dintre două personaje într-un roman de G. Călinescu</b>.
 
-**Redactează un eseu de minimum 400 de cuvinte, în care să prezinți relația dintre două personaje într-un roman de G. Călinescu.**
-
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - prezentarea statutului social, psihologic, moral al fiecăruia dintre personajele alese;
 - evidențierea a câte două trăsături ale personajelor alese prin scene/ secvențe comentate a modului în care evoluează relația dintre cele două personaje;
 - analiza, la alegere, a două elemente de structură, semnificative pentru analiza relației dintre cele două personaje: incipit, final, perspectivă narativă, acțiune, conflict, indici spațio-temporali, modalități de caracterizare, limbaj, registre stilistice etc.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**In vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
+<b>Citește următorul fragment:</b>
 
-**Citește următorul fragment:**
+<b><i>Cum ați defini, din punct de vedere psihologic, tabietul?</i></b>
 
-***Cum ați defini, din punct de vedere psihologic, tabietul?***
+<i>Tabietul este, în primul rând, un obicei, dar nu unul pe care îl facem automat, fără să depunem efort motivațional sau intelectual, ci unul care ne îngrijește, care ne face bine. Așa cum te aranjezi și ai grijă de corpul tău, așa ai nevoie să ai grijă și de mintea ta, cu niște tabieturi. Bineînțeles, unele sunt mai sănătoase decât altele, dar cred că un aspect esențial al tabietului este acela de răsfăț menit să te aducă într-o stare psihică bună. Să te calmeze, să te ajute să faci față lumii mai bine. Cu alte cuvinte: „nu trebuie să mă confrunt acum cu toate problemele lumii, dar cât timp îmi fac tabietul, îmi adun resursele și voi fi pregătit să încep". Ideea de tabiet este, în esență, una de îngrijire. 
+<b>Dar poate deveni o dependență? Care ar fi diferența dintre a avea un tabiet și a fi dependent de un obicei?</b>
+Tabietul este un mecanism benefic, cât timp nu devine un mijloc de evitare. Tabieturile pe care le avem, de exemplu, dimineața, când bem cafeaua, se referă la o relaxare determinată de un anumit timp, jumătatea de oră pe care ți-o aloci ca să îți reîncarci bateriile. însă țigara pe care o fumezi înainte de o ședință, ca să nu fii nevoit să faci conversație cu șeful, poate deveni un mijloc de a evita situațiile cu care trebuie să ne confruntăm. Când nu te poți concentra dacă nu ți-ai îndeplinit ritualul, nu mai vorbim despre tabiet, ci despre dependență. Cred că aici este deosebirea esențială. Orice formă de adicție are la bază un comportament de evitare. Evit să mă confrunt cu mine, cu temerile mele, cu demonii mei. Ca să nu mai simt toate aceste lucruri îngrozitoare, toate emoțiile copleșitoare, am un comportament care mă scoate din starea respectivă și mă amorțește. Asta face orice drog (în sensul general al cuvântului) care pe moment ne suspendă disconfortul unor emoții neplăcute și ne ajută să evităm ceva cu care avem nevoie să ne confruntăm la momentul respectiv. De aceea adicțiile pot fi și comportamente de amânare, pe când tabietul își are locul lui, e delimitat în timp și e un comportament de îngrijire, de încărcare cu energie. [...] 
+Tabietul are și o latură de rutină. Deci cât de importantă este rutina în viața noastră?
 
-*Tabietul este, în primul rând, un obicei, dar nu unul pe care îl facem automat, fără să depunem efort motivațional sau intelectual, ci unul care ne îngrijește, care ne face bine. Așa cum te aranjezi și ai grijă de corpul tău, așa ai nevoie să ai grijă și de mintea ta, cu niște tabieturi. Bineînțeles, unele sunt mai sănătoase decât altele, dar cred că un aspect esențial al tabietului este acela de răsfăț menit să te aducă într-o stare psihică bună. Să te calmeze, să te ajute să faci față lumii mai bine. Cu alte cuvinte: „nu trebuie să mă confrunt acum cu toate problemele lumii, dar cât timp îmi fac tabietul, îmi adun resursele și voi fi pregătit să încep". Ideea de tabiet este, în esență, una de îngrijire. **Dar poate deveni o dependență? Care ar fi diferența dintre a avea un tabiet și a fi dependent de un obicei?** Tabietul este un mecanism benefic, cât timp nu devine un mijloc de evitare. Tabieturile pe care le avem, de exemplu, dimineața, când bem cafeaua, se referă la o relaxare determinată de un anumit timp, jumătatea de oră pe care ți-o aloci ca să îți reîncarci bateriile. însă țigara pe care o fumezi înainte de o ședință, ca să nu fii nevoit să faci conversație cu șeful, poate deveni un mijloc de a evita situațiile cu care trebuie să ne confruntăm. Când nu te poți concentra dacă nu ți-ai îndeplinit ritualul, nu mai vorbim despre tabiet, ci despre dependență. Cred că aici este deosebirea esențială. Orice formă de adicție are la bază un comportament de evitare. Evit să mă confrunt cu mine, cu temerile mele, cu demonii mei. Ca să nu mai simt toate aceste lucruri îngrozitoare, toate emoțiile copleșitoare, am un comportament care mă scoate din starea respectivă și mă amorțește. Asta face orice drog (în sensul general al cuvântului) care pe moment ne suspendă disconfortul unor emoții neplăcute și ne ajută să evităm ceva cu care avem nevoie să ne confruntăm la momentul respectiv. De aceea adicțiile pot fi și comportamente de amânare, pe când tabietul își are locul lui, e delimitat în timp și e un comportament de îngrijire, de încărcare cu energie. [...] **Tabietul are și o latură de rutină. Deci cât de importantă este rutina în viața noastră?***
-
-*Pentru copii, rutina înseamnă siguranță. Când lucrurile se întâmplă într-un mod predictibil, așa cum ne-am propus și cum ni s-a promis, atunci simțim că lumea asta mare și înfricoșătoare are totuși o ordine. Chiar dacă totul pare haotic, există acei piloni, elemente care se repetă cu periodicitate și de care mă pot agăța ca să mă simt în siguranță. Pe de altă parte, nici căderea într-o rutină totală nu este bună. Toți avem nevoie de creativitate și de spontaneitate, de schimbări care să ne facă să descoperim lucruri noi, interesante. Cele două nevoi trebuie să fie în echilibru. Același lucru este valabil și pentru adulți. Câteva elemente de rutină pe zi, care să te ajute să îți faci o ordine și să pornești la drum, sunt extrem de benefice.*
+*=Pentru copii, rutina înseamnă siguranță. Când lucrurile se întâmplă într-un mod predictibil, așa cum ne-am propus și cum ni s-a promis, atunci simțim că lumea asta mare și înfricoșătoare are totuși o ordine. Chiar dacă totul pare haotic, există acei piloni, elemente care se repetă cu periodicitate și de care mă pot agăța ca să mă simt în siguranță. Pe de altă parte, nici căderea într-o rutină totală nu este bună. Toți avem nevoie de creativitate și de spontaneitate, de schimbări care să ne facă să descoperim lucruri noi, interesante. Cele două nevoi trebuie să fie în echilibru. Același lucru este valabil și pentru adulți. Câteva elemente de rutină pe zi, care să te ajute să îți faci o ordine și să pornești la drum, sunt extrem de benefice.*
 
 *Tabietul înseamnă să preiei controlul asupra vieții tale -* interviu cu Zenobia Niculiță
 
