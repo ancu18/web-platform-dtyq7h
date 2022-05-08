@@ -2657,52 +2657,51 @@ Ana Blandiana, <i>Fratele mai mic al lecturii</i>
 
 <b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 1. Indică sensul structurii <i>avea să-mi marcheze devenirea</i>, raportându-te la text.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
-1. Menționează două elemente arhitecturale ale locuinței din Oradea, așa cum reies din text.	**6 puncte**	c
-1. Precizează care este viziunea autoarei despre scris, valorificând textul dat.	**6 puncte**	p
-1. Explică motivul uimirii fetiței la deshiderea ușii ferecate.	**6 puncte	e**
-1. Prezintă, în 30-50 de cuvinte, semnifcația interogațiilor retorice din finalul textului.	**6 puncte	K**
-1. **Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă lectura poate contribui sau**
+2. Menționează două elemente arhitecturale ale locuinței din Oradea, așa cum reies din text.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+3. Precizează care este viziunea autoarei despre scris, valorificând textul dat.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+4. Explică motivul uimirii fetiței la deshiderea ușii ferecate.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+5. Prezintă, în 30-50 de cuvinte, semnifcația interogațiilor retorice din finalul textului.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-**nu la evoluția interioară a unui om, indiferent de meseria aleasă, raportându-te atât la informațiile din s fragmentul citat, cât și la experiența personală sau culturală.	20 de puncte**
+B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă lectura poate contribui sau nu la evoluția interioară a unui om, indiferent de meseria aleasă, raportându-te atât la informațiile din s fragmentul citat, cât și la experiența personală sau culturală.<span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-în redactarea textului, vei avea în vedere următoarele repere:
+În redactarea textului, vei avea în vedere următoarele repere:
 
--formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-\- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
 
-**gyhiectul al ll-lea(10 puncte)**
+<b>Subiectul al ll-lea (10 puncte)</b>
 
-**Comentează, în minimum 50 de cuvinte, semnifcația textului, evidențiind două particularități ale artei poetice.**
+<b>Comentează, în minimum 50 de cuvinte, semnifcația textului, evidențiind două particularități ale artei poetice.</b>
 
-*Aici e casa mea. Dincolo soarele și grădina cu stupi.*
+<i>Aici e casa mea. Dincolo soarele și grădina cu stupi.
 
-*Voi treceți pe drum, vă uitați printre gratii de poartă și așteptați să vorbesc. - De unde să-ncep?*
+Voi treceți pe drum, vă uitați printre gratii de poartă și așteptați să vorbesc. - De unde să-ncep?
 
-*Credeți-mă, credeți-mă,*
+Credeți-mă, credeți-mă,
 
-*despre orișice poți să vorbești cât vrei:*
+despre orișice poți să vorbești cât vrei:
 
-*despre soartă și despre șarpele binelui,*
+despre soartă și despre șarpele binelui,
 
-*despre arhanghelii cari ară cu plugul*
+despre arhanghelii cari ară cu plugul
 
-*grădinile omului,*
+grădinile omului,
 
-*despre cerul spre care creștem,*
+despre cerul spre care creștem,
 
-*despre ură și cădere, tristețe și răstigniri și înainte de toate despre marea trecere. Dar cuvintele sunt lacrimile celor ce ar fi voit așa de mult să plângă și n-au putut.*
+despre ură și cădere, tristețe și răstigniri și înainte de toate despre marea trecere. Dar cuvintele sunt lacrimile celor ce ar fi voit așa de mult să plângă și n-au putut.
 
-*Amare foarte sunt toate cuvintele,*
+Amare foarte sunt toate cuvintele,
 
-*de-aceea - lăsați-mă să umblu mut printre voi, să vă ies în cale cu ochii închiși.*
+de-aceea - lăsați-mă să umblu mut printre voi, să vă ies în cale cu ochii închiși.</i>
 
-Lucian Blaga, *Către cititori*
+Lucian Blaga, <i>Către cititori</i>
 
-**Notă**
+<b>Notă</b>
 
 Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
