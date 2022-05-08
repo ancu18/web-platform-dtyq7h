@@ -2582,49 +2582,45 @@ B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă
 
 În redactarea textului, vei avea în vedere următoarele repere:
 
-- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right'><b>14 puncte</b></span>
 
-argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right'><b>14 puncte</b></span>
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
-
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
-
-**Comentează, în minimum 50 de cuvinte, fragmentul dat, evidențiind relația dintre cele două personaje, așa cum reiese din text.**
+<b> Comentează, în minimum 50 de cuvinte, fragmentul dat, evidențiind relația dintre cele două personaje, așa cum reiese din text.</b>
 
 SCENA XIV
 
-GROZEA (calm, rugător): *Anișoaro, te rog, ascultă-mă acuma ... Spune-mi și tu o minciună mai plauzibilă, fiindcă, vezi bine, vreau să te cred! ...O minciună, Anișoaro! Ce-i la tine o minciună? Pe când toată fericirea mea atârnă acuma de minciuna ta!...*
+GROZEA (calm, rugător):<i>Anișoaro, te rog, ascultă-mă acuma ... Spune-mi și tu o minciună mai plauzibilă, fiindcă, vezi bine, vreau să te cred! ...O minciună, Anișoaro! Ce-i la tine o minciună? Pe când toată fericirea mea atârnă acuma de minciuna ta!...</i>
 
-ANISOARA: *Eu nu mint niciodată.*
+ANISOARA: <i>Eu nu mint niciodată.</i>
 
-GROZEA: *Nici când e în joc fericirea?*
+GROZEA: <i>Nici când e în joc fericirea?</i>
 
-ANISOARA: *Niciodată!... Dar, dacă vrei, am să-ți spun adevărul...*
+ANISOARA: <i>Niciodată!... Dar, dacă vrei, am să-ți spun adevărul...</i>
 
-GROZEA (astupându-și urechile): *Nu, nu. Adevărul nu-mi trebuie. Adevărul îl cunosc. M-ai înșelat. Te-am găsit în brațele lui... Ce-ai căutat tu în brațele lui?*
+GROZEA (astupându-și urechile): <i>Nu, nu. Adevărul nu-mi trebuie. Adevărul îl cunosc. M-ai înșelat. Te-am găsit în brațele lui... Ce-ai căutat tu în brațele lui?</i>
 
-ANIȘOARA: *Dacă ți-aș spune eu, poate n-ai crede. Să-ți spună mai bine el!*
+ANIȘOARA: <i>Dacă ți-aș spune eu, poate n-ai crede. Să-ți spună mai bine el!</i>
 
-STELIAN (încurcat): O, *eu ... eu ...*
+STELIAN (încurcat): <i>O, eu ... eu ...</i>
 
-ANIȘOARA (măsurându-l cu dispreț): *Cât ești de nerod, Manole! ...Și când mă gândesc că era aproape să ...* (Se întrerupe brusc. Alt glas. Lui Grozea.) *Uite, dragul meu, în două vorbe. Am vrut să văd și eu „Nimfa îndrăgostită"... Auzisem atâtea verzi și uscate, încât nu m-am putut răbda și am venit. Știam însă că ție nu ți-ar plăcea, dacă ai afla că mă interesez de lucrările lui Manole, și am venit pe furiș ...*
+ANIȘOARA (măsurându-l cu dispreț): <i>Cât ești de nerod, Manole! ...Și când mă gândesc că era aproape să ...</i> (Se întrerupe brusc. Alt glas. Lui Grozea.) <i>Uite, dragul meu, în două vorbe. Am vrut să văd și eu „Nimfa îndrăgostită"... Auzisem atâtea verzi și uscate, încât nu m-am putut răbda și am venit. Știam însă că ție nu ți-ar plăcea, dacă ai afla că mă interesez de lucrările lui Manole, și am venit pe furiș ...</i>
 
-GROZEA (mulțumit): *Adevărat?*
+GROZEA (mulțumit): <i>Adevărat?</i>
 
-STELIAN (jignit): *Adevărat?*
+STELIAN (jignit): <i>Adevărat?</i>
 
-*ANIȘOARA: Și pot să spun acuma verde că e mediocru. Am venit încărcată de iluzii. Le-am pierdut. Mi-a trecut. M-am convins că e mediocru.*
+*ANIȘOARA: <i>Și pot să spun acuma verde că e mediocru. Am venit încărcată de iluzii. Le-am pierdut. Mi-a trecut. M-am convins că e mediocru.</i>
 
-GROZEA (lângă tablou, privindu-l cu superioritate, frecându-și mâinile): *Adevărat!*
+GROZEA (lângă tablou, privindu-l cu superioritate, frecându-și mâinile): <i>Adevărat!</i>
 
-ANIȘOARA (lui Grozea): *Acuma cred că ești mulțumit?*
+ANIȘOARA (lui Grozea): <i>Acuma cred că ești mulțumit?</i>
 
-GROZEA (vesel): *Acuma sunt mulțumit!...*
+GROZEA (vesel): <i>Acuma sunt mulțumit!...</i>
 
-Liviu Rebreanu, *Cadrilul*
+<div style='text-align:right'>Liviu Rebreanu, <i>Cadrilul</i></div>
 
 **Notă**
 
