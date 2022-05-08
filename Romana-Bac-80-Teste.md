@@ -2622,51 +2622,41 @@ GROZEA (vesel): <i>Acuma sunt mulțumit!...</i>
 
 <a href='#bac10' id='liviu_rebreanu_cadrilul'><div style='text-align:right'>Liviu Rebreanu, <i>Cadrilul</i></div></a>
 
-**Notă**
+<b>Notă</b>
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul al lll-lea(30 de puncte)**
+<b>Subiectul al lll-lea (30 de puncte)</b>
 
-**Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un roman de Mihail Sadoveanu.**
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un roman de Mihail Sadoveanu.</b>
 
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - evidențierea unei trăsături care face posibilă încadrarea romanului într-o tipologie, într-un curent cultural/ literar, într-o perioadă sau într-o orientare tematică;
 - ilustrarea a două elemente de structură si de compoziție ale textului narativ, semnificative pentru tema aleasă (acțiune, conflicte, relații temporale si spațiale, perspectivă narativă, tehnici narative, incipit, final, limbaj etc.);
 - ilustrarea relațiilor dintre două personaje, prin care tema aleasă se evidențiază în romanul ales
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**In vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
+<i>Vorbesc mereu despre citit pentru că scrisul s-a legat întotdeauna de el, pentru că nu a fost - atunci, la începuturile lui, mai ales - decât un frate mai mic al lecturii. Și chiar dacă a depășit-o în importanță cu timpul, cititul nu a încetat până azi să fie pentru mine cel mai important concurent al scrisului: un concurent care are, în plus, imensa calitate de a fi fericit. [...]
 
-*Vorbesc mereu despre citit pentru că scrisul s-a legat întotdeauna de el, pentru că nu a fost - atunci, la începuturile lui, mai ales - decât un frate mai mic al lecturii. Și chiar dacă a depășit-o în importanță cu timpul, cititul nu a încetat până azi să fie pentru mine cel mai important concurent al scrisului: un concurent care are, în plus, imensa calitate de a fi fericit. [...]*
+Am început să scriu din dorința de a face, la rândul meu, ceea ce admirasem mai mult - pagina scrisă - și am scris un timp, cu încântare, în felul tuturor scriitorilor pe care i-am iubit. Așa cum, în natură, ontogeneza repeta întotdeauna filogeneza (un embrion uman, de exemplu, trecând prin toate speciile înainte de naștere), am trecut prin toate epocile istoriei literare, înainte de a ajunge la mine însămi. [...]
 
-**I îf**
+Cum aș putea să-mi imaginez că această fericire ar putea să înceteze să existe vreodată, că generațiilor viitoare de adolescenți ar putea să le fie interzisă? Cum aș putea să cred că de acum înainte tinerii vor refuza să mai urce în cel mai rapid dintre vehiculele care l-au îndepărtat pe om de animalitate? Suportul material al textului poate să se	schimbe, dar ce legătură poate să aibă asta cu dorința de a citi? Așa cum au trecut de la tăblițele de lut la papyrus, îi
+și de la papyrus la tăblițele de ceară, și de la tăblițele de ceară la pergament și de la pergament la hârtie, cititorii vor trece, nu mă îndoiesc, de la hârtie la e-book, fără să piardă bucuria lecturii. în ceea ce mă privește, nu mi-am dorit	e niciodată - ca scriitor - decât să reprezint pentru cititorii mei ceea ce au reprezentat scriitorii pe care i-am citit eu	însămi pentru mine.</i>
 
-*Am început să scriu din dorința de a face, la rândul meu, ceea ce admirasem mai mult - pagina scrisă - și am scris un timp, cu încântare, în felul tuturor scriitorilor pe care i-am iubit. Așa cum, în natură, ontogeneza repeta întotdeauna filogeneza (un embrion uman, de exemplu, trecând prin toate speciile înainte de naștere), am trecut prin toate epocile istoriei literare, înainte de a ajunge la mine însămi. [...]*	I c
+Ana Blandiana, <i>Fratele mai mic al lecturii</i>
 
-*Cum aș putea să-mi imaginez că această fericire ar putea să înceteze să existe vreodată, că generațiilor viitoare de adolescenți ar putea să le fie interzisă? Cum aș putea să cred că de acum înainte tinerii vor refuza să mai urce în cel mai rapid dintre vehiculele care l-au îndepărtat pe om de animalitate? Suportul material al textului poate să se	p*
-
-` `TOC \o "1-5" \h \z *schimbe, dar ce legătură poate să aibă asta cu dorința de a citi? Așa cum au trecut de la tăblițele de lut la papyrus,*	îi
-
-*și de la papyrus la tăblițele de ceară, și de la tăblițele de ceară la pergament și de la pergament la hârtie, cititorii vor trece, nu mă îndoiesc, de la hârtie la e-book, fără să piardă bucuria lecturii. în ceea ce mă privește, nu mi-am dorit*	e
-
-*niciodată - ca scriitor - decât să reprezint pentru cititorii mei ceea ce au reprezentat scriitorii pe care i-am citit eu*	p
-
-*însămi pentru mine.*
-
-Ana Blandiana, *Fratele mai mic al lecturii*
-
-1. **Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
-1. Indică sensul structurii *avea să-mi marcheze devenirea,* raportându-te la text	**6 puncte	h**
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
+1. Indică sensul structurii <i>avea să-mi marcheze devenirea</i>, raportându-te la text.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 1. Menționează două elemente arhitecturale ale locuinței din Oradea, așa cum reies din text.	**6 puncte**	c
 1. Precizează care este viziunea autoarei despre scris, valorificând textul dat.	**6 puncte**	p
 1. Explică motivul uimirii fetiței la deshiderea ușii ferecate.	**6 puncte	e**
