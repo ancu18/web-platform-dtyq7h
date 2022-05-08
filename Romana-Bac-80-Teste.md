@@ -2576,16 +2576,15 @@ Pentru copii, rutina înseamnă siguranță. Când lucrurile se întâmplă înt
 2. Menționează două efecte pozitive ale tabietului, așa cum reies acestea din primul răspuns al Zenobiei Niculiță.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
 3. Precizează, pe baza textului, deosebirea dintre adicție și tabiet.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
 4. Explică ce este un mijloc de evitare, așa cum reiese din text.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
-5. Prezintă, în 30-50 de cuvinte, rolul rutinei în viața omului, valorificând informațiile din text. 	6 puncte**
-1. **Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă rutina este sau nu importantă* 
+5. Prezintă, în 30-50 de cuvinte, rolul rutinei în viața omului, valorificând informațiile din text.<span style='background-color:yellow;float:right'><b>6 puncte</b></span>
 
-**în viața unui om, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.	20 de puncte**
+B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă rutina este sau nu importantă în viața unui om, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.<span style='background-color:yellow;float:right'><b>20 de puncte</b></span>
 
-în redactarea textului, vei avea în vedere următoarele repere:
+În redactarea textului, vei avea în vedere următoarele repere:
 
 - formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
 
-argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right'><b>14 puncte</b></span>
 
 - utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
 
