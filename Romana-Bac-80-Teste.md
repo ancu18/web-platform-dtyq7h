@@ -4,7 +4,7 @@
     <center>Cuprins</center>
   </div>
   <nav>
-    <ol><li><a id='bac1' href='#limba_si_literatura_romana'>Limba și literatura română</a><ul><li><a id='bac2' href='#ghid_complet_pentru_bacalaureat'>GHID COMPLET PENTRU BACALAUREAT</a><ol><li><a id='bac3' href='#curente_literare_romanesti_in_context_european'>CURENTE LITERARE ROMÂNEȘTI ÎN CONTEXT EUROPEAN</a><ol><li><a id='bac4' href='#umanismul_european'>UMANISMUL EUROPEAN</a></li></ol></nav></div>
+    <ol><li><a id='bac1' href='#limba_si_literatura_romana'>Limba și literatura română</a><ul><li><a id='bac2' href='#ghid_complet_pentru_bacalaureat'>GHID COMPLET PENTRU BACALAUREAT</a><ol><li><a id='bac3' href='#curente_literare_romanesti_in_context_european'>CURENTE LITERARE ROMÂNEȘTI ÎN CONTEXT EUROPEAN</a><ol><li><a id='bac4' href='#umanismul_european'>UMANISMUL EUROPEAN</a></li></ol><li><a id='bac10' href='#liviu_rebreanu_cadrilul'>Liviu Rebreanu, Cadrilul</a></li></ol></nav></div>
 
 <a href='#bac1' id='limba_si_literatura_romana'><h1 id='limba_si_literatura_romana'>Limba și literatura română</h1></a>
 
@@ -2620,7 +2620,7 @@ ANIȘOARA (lui Grozea): <i>Acuma cred că ești mulțumit?</i>
 
 GROZEA (vesel): <i>Acuma sunt mulțumit!...</i>
 
-<div style='text-align:right'>Liviu Rebreanu, <i>Cadrilul</i></div>
+<a href='#bac10' id='liviu_rebreanu_cadrilul'><div style='text-align:right'>Liviu Rebreanu, <i>Cadrilul</i></div></a>
 
 **Notă**
 
