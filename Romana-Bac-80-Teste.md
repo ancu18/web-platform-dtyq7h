@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="styles.css" />
+﻿<link rel="stylesheet" href="styles.css" />
 <div class="bf_toc_container">
   <div class="bf_toc_title">
     <center>Cuprins</center>
@@ -2727,137 +2727,137 @@ Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pe
 
 <b>Citește următorul fragment:</b>
 
-<i>Iancu Jianu era de peste Olt, din județul Romanați, de pe valea Tasluiului. El a lăsat un nume de haiduc, dar nici n-a fost, nici gând n-a avut să se facă vreodată hoț de codru. însă o poveste, dacă ajunge a deveni legendă, adevărul n-o mai poate scoate din capul poporului.
+<i>Iancu Jianu era de peste Olt, din județul Romanați, de pe valea Tasluiului. El a lăsat un nume de haiduc, dar nici n-a fost, nici gând n-a avut să se facă vreodată hoț de codru. Însă o poveste, dacă ajunge a deveni legendă, adevărul n-o mai poate scoate din capul poporului.
 
-Tată-său, boier de țară, își crescuse băiatul la moșie, fără carte grecească și fără ambițiunea de-a-l face un concurent feciorilor de boieri mari la isprăvnicii și la divanuri. îl obicinuise lângă pluguri, cu cai și cu pușca; vara la munca câmpului, iarna la urși și la capre negre; ajunsese de o dibăcie vestită în călărie și în vânătoare; încăleca fără a pune piciorul în scară, nici mâna pe coama calului și băga glonțul prin verigă de inel.
+Tată-său, boier de țară, își crescuse băiatul la moșie, fără carte grecească și fără ambițiunea de-a-l face un concurent feciorilor de boieri mari la isprăvnicii și la divanuri. Îl obicinuise lângă pluguri, cu cai și cu pușca; vara la munca câmpului, iarna la urși și la capre negre; ajunsese de o dibăcie vestită în călărie și în vânătoare; încăleca fără a pune piciorul în scară, nici mâna pe coama calului și băga glonțul prin verigă de inel.
 
-Se îndrăgise cu o fată de țăran și vrea s-o ia de nevastă. Jianul bătrânul, deși habar n-avea el era strănepot al lui Cesianus, secretarul lui Traian, văr cu Salust și mai în urmă proconsul în Dacia; deși nu se potrivea cu banii Filipești, cu vornicii Crețulești și cu logofeții Bărcănești, dar purta ceacșiri<a id="a3" href="#f3"><sup>1</sup></a> roșii cu meși<a id="a4" href="#f4"><sup>2</sup></a> galbeni și ișlic\* cu perna verde, în patru colțuri. Boierul, tot boier! Cum să lase pe fiul său să ia o mojică\*, să se încuscrească el cu un clăcaș\*. Văzând că se îngroașă gluma și că dragostea se întețea, a hotărât să-și ducă băiatul la Caracal. Tânărul, a doua zi după ce a ajuns în oraș, a încălecat pe murgul, și fuga înapoi; tată-său iar l-a luat, el iar a fugit; l-a închis în casă, el a sărit pe fereastră; l-a închis în pivniță, el a spart ușa. Tată-său, dac-a văzut și-a văzut că nu-i vine de hac, s-a adresat la stăpânire, cerând să-l surghiunească\*. Caimacamul a și poruncit ispravnicului\* să-l închidă la Strehaia; băiatul, țeapăn, a trântit slujitorii și egumenul\* și a scăpat; slujitorii s-au luat după dânsul; el, dacă s-a văzut strâmtorat, s-a înhăitat cu vreo câțiva flăcăi cu cari copilărise:
+Se îndrăgise cu o fată de țăran și vrea s-o ia de nevastă. Jianul bătrânul, deși habar n-avea el era strănepot al lui Cesianus, secretarul lui Traian, văr cu Salust și mai în urmă proconsul în Dacia; deși nu se potrivea cu banii Filipești, cu vornicii Crețulești și cu logofeții Bărcănești, dar purta ceacșiri<a id="a1" href="#f1"><sup>1</sup></a> roșii cu meși<a id="a2" href="#f2"><sup>2</sup></a> galbeni și ișlic<a id="a3" href="#f3"><sup>3</sup></a> cu perna verde, în patru colțuri. Boierul, tot boier! Cum să lase pe fiul său să ia o mojică<a id="a4" href="#f4"><sup>4</sup></a>, să se încuscrească el cu un clăcaș<a id="a5" href="#f5"><sup>5</sup></a>. Văzând că se îngroașă gluma și că dragostea se întețea, a hotărât să-și ducă băiatul la Caracal. Tânărul, a doua zi după ce a ajuns în oraș, a încălecat pe murgul, și fuga înapoi; tată-său iar l-a luat, el iar a fugit; l-a închis în casă, el a sărit pe fereastră; l-a închis în pivniță, el a spart ușa. Tată-său, dac-a văzut și-a văzut că nu-i vine de hac, s-a adresat la stăpânire, cerând să-l surghiunească<a id="a6" href="#f6"><sup>6</sup></a>. Caimacamul<a id="a7" href="#f7"><sup>7</sup></a> a și poruncit ispravnicului<a id="a8" href="#f8"><sup>8</sup></a> să-l închidă la Strehaia; băiatul, țeapăn, a trântit slujitorii și egumenul<a id="a9" href="#f9"><sup>9</sup></a> și a scăpat; slujitorii s-au luat după dânsul; el, dacă s-a văzut strâmtorat, s-a înhăitat cu vreo câțiva flăcăi cu cari copilărise:
 
 Tot ca dânsul de bărbați/ Și pe cai încălecați/ și au apucat câmpii.
 
-Șapte ani a pribegit prin păduri și prin munți, hrănindu-se cu carne necântâritâ de pe la ciobani și desfidând potira\*. Nici nu omora, nici nu schingiuia, nici nu jăfuia, ci numai se găzduia; fugea de potiră și de panduri cât putea; dar când îl încolțea, apoi se apăra:
+Șapte ani a pribegit prin păduri și prin munți, hrănindu-se cu carne necântârită de pe la ciobani și desfidând potira<a id="a10" href="#f10"><sup>10</sup></a>. Nici nu omora, nici nu schingiuia, nici nu jăfuia, ci numai se găzduia; fugea de potiră și de panduri cât putea; dar când îl încolțea, apoi se apăra:
 
 Căci nu vrea/ Viu să se dea (...)
 
-Nu văzuse pe Stăncuța de doi ani și-i era dor de se topea. într-o noapte de ploaie și de vijelie, lasă pe tovarăși la gazda din Valea-Rea, își încalecă murgul și zboară după dor. în sat, întuneric beznă, numai o zare de lumină la o casă. Se apropie, dă cu degetul în hârtia luminată, pune ochiul și ce vede? Stăncuța, gătită ca mireasă, lungită pe pat, cu o lumânărică de ceară galbenă în mână. Dă cu piciorul în ușă și intră, cade în genuchi, pune iataganul și pistoalele lângă moartă, îi dă cea de pe urmă sărutare, încalecă calul, și drept la zapciu\*.
+Nu văzuse pe Stăncuța de doi ani și-i era dor de se topea. Într-o noapte de ploaie și de vijelie, lasă pe tovarăși la gazda din Valea-Rea, își încalecă murgul și zboară după dor. În sat, întuneric beznă, numai o zare de lumină la o casă. Se apropie, dă cu degetul în hârtia luminată, pune ochiul și ce vede? Stăncuța, gătită ca mireasă, lungită pe pat, cu o lumânărică de ceară galbenă în mână. Dă cu piciorul în ușă și intră, cade în genuchi, pune iataganul și pistoalele lângă moartă, îi dă cea de pe urmă sărutare, încalecă calul, și drept la zapciu<a id="a11" href="#f11"><sup>11</sup></a>.
 
 „Sunt Jianul! Capul meu este pus la preț; du-mă la vodă și-ți ia mia de lei.”</i>
 
 Ion Ghica, <i>Scrisori către Vasile Alecsandri</i>
 
-<a id="f3" href="#a3">1.</a> ceacșiri - pantaloni lungi turcești
+<a id="f1" href="#a1">1.</a> ceacșiri - pantaloni lungi turcești
 
-<a id="f4" href="#a4">2.</a> meși- încălțăminte fără toc, confecționată din piele subțire și purtată în trecut de bărbați, peste ciorapi.
+<a id="f2" href="#a2">2.</a> meși- încălțăminte fără toc, confecționată din piele subțire și purtată în trecut de bărbați, peste ciorapi.
 
-*\*ișlic - căciulă de blană scumpă sau de postav, de format mare, cilindrică sau cu fundul pătrat (din alt material), purtată de domni, de boieri*
+<a id="f3" href="#a3">3.</a> ișlic - căciulă de blană scumpă sau de postav, de format mare, cilindrică sau cu fundul pătrat (din alt material), purtată de domni, de boieri
 
-*\*mojică - țăran*
+<a id="f4" href="#a4">4.</a> mojică - țăran
 
-*\*clăcaș - țăran care face clacă pe teritoriul boierului*
+<a id="f5" href="#a5">5.</a> clăcaș - țăran care face clacă pe teritoriul boierului
 
-*★surghiuni - a exila*
+<a id="f6" href="#a6">6.</a> surghiuni - a exila
 
-*\*caimacan - locțiitor al domnitorului*
+<a id="f7" href="#a7">7.</a> caimacan - locțiitor al domnitorului
 
-*\*ispravnic - dregător care aducea la îndeplinire o poruncă domnească sau (mai târziu) care conducea, ca reprezentant al domnului, un județ sau un ținut*
+<a id="f8" href="#a8">8.</a> ispravnic - dregător care aducea la îndeplinire o poruncă domnească sau (mai târziu) care conducea, ca reprezentant al domnului, un județ sau un ținut
 
-*\*egumen - conducător al unei mănăstiri de călugări; stareț, superior*
+<a id="f9" href="#a9">9.</a> egumen - conducător al unei mănăstiri de călugări; stareț, superior
 
-*\*potira - detașament de oameni înarmați (în special amăuți) însărcinat de domnie cu prinderea răufăcătorilor.*
+<a id="f10" href="#a10">10.</a> potira - detașament de oameni înarmați (în special amăuți) însărcinat de domnie cu prinderea răufăcătorilor.
 
-*★zapciu - (în Evul Mediu în Țara Românească) rang de conducător al unei clase care strângea dările*
+<a id="f11" href="#a11">11.</a> zapciu - (în Evul Mediu în Țara Românească) rang de conducător al unei clase care strângea dările
 
-**A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 
-1. Indică sensul fragmentului o *poveste, dacă ajunge a deveni legendă, adevărul n-o mai poate scoate din capul*
+1. Indică sensul fragmentului <i>o poveste, dacă ajunge a deveni legendă, adevărul n-o mai poate scoate din capul poporului.</i><span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+2. Menționează două personalități cu care se înrudea familia Jienilor.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+3. Precizează motivul pentru care tatăl lui Iancu nu este de acord ca Stăncuța să-i devină noră, valorificând textul dat.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+4. Explică de ce Jianu se duce la zapciu și se dă prins de bunăvoie.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+5. Prezintă, în 30-50 de cuvinte, portretul lui Iancu Jianu, așa cum reiese din conținutul textului citat.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-*poporului.*	**6 puncte**
+<b>B. Redactează un text de minimum 10 de cuvinte, în care să argumentezi dacă perseverența poate sau nu să contribuie la întărirea caracterului unui om, raportându-te atât la informațiile din fragmentul citat aparținând lui Ion Ghica, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-1. Menționează două personalități cu care se înrudea familia Jienilor.	**6 puncte**
-1. Precizează motivul pentru care tatăl lui lancu nu este de acord ca Stăncuța să-i devină noră, valorificând textul
+În redactarea textului, vei avea în vedere următoarele repere:
 
-dat.	**6 puncte**
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-1. Explică de ce Jianu se duce la zapciu și se dă prins de bunăvoie.	**6 puncte**
-1. Prezintă, în 30-50 de cuvinte, portretul lui lancu Jianu, așa cum reiese din conținutul textului citat. **6 puncte**
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-**g Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă perseverența poate sau nu să contribuie la întărirea caracterului unui om, raportându-te atât la informațiile din fragmentul citat aparținând lui Ion Ghica, cât și la experiența personală sau culturală.	20 de puncte**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-în redactarea textului, vei avea în vedere următoarele repere:
+<b>Subiectul al II-lea (10 puncte)</b>
 
-„formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
-
-^utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
-
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
-
-**Subiectul al ll-lea(10 puncte)**
-
-**Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind două trăsături specifice genului dramatic.**
+<b>Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind două trăsături specifice genului dramatic.</b>
 
 Scena VIII
 
 aceiași, căpitanul de pompieri
 
-POMPIERUL (are, bineînțeles, o cască enormă care strălucește și poartă uniformă): *Bună ziua, doamnelor și domnilor.* (Ceilalți rămân încă puțin surprinși. Supărată, Doamna Smith întoarce capul și nu răspunde la salut.) *Bună ziua, doamnă Smith. Mi se pare mie sau sunteți supărată?*
+POMPIERUL (are, bineînțeles, o cască enormă care strălucește și poartă uniformă): <i>Bună ziua, doamnelor și domnilor.</i> (Ceilalți rămân încă puțin surprinși. Supărată, Doamna Smith întoarce capul și nu răspunde la salut.)<i>Bună ziua, doamnă Smith. Mi se pare mie sau sunteți supărată?</i>
 
-DOAMNA SMITH: *Oh!*
+DOAMNA SMITH: <i>Oh!</i>
 
-DOMNUL SMITH: *Soția mea, vedeți dumneavoastră... se simte ușor jignită fiindcă n-a avut dreptate.*
+DOMNUL SMITH: <i>Soția mea, vedeți dumneavoastră... se simte ușor jignită fiindcă n-a avut dreptate.</i>
 
-DOMNUL MARTIN: *Domnule căpitan de pompieri, aici a avut loc o dispută între doamna și domnul Smith.*
+DOMNUL MARTIN: <i>Domnule căpitan de pompieri, aici a avut loc o dispută între doamna și domnul Smith.</i>
 
-DOAMNA SMITH, Domnului Martin: *Ce vă băgați?* (Domnului Smith:) *Nu-i amesteca, te rog, pe străini în certurile noastre de familie!*
+DOAMNA SMITH, Domnului Martin: <i>Ce vă băgați?</i> (Domnului Smith:) <i>Nu-i amesteca, te rog, pe străini în certurile noastre de familie!</i>
 
-DOMNUL SMITH: *Oh, scumpa mea, nu face din țânțar armăsar. Căpitanul este un vechi prieten de familie. Maică-sa îmi făcea curte, pe taică-su l-am cunoscut. M-a rugat să i-o dau de nevastă pe fiică-mea, atunci când o să am una. A murit așteptând.*
+DOMNUL SMITH: <i>Oh, scumpa mea, nu face din țânțar armăsar. Căpitanul este un vechi prieten de familie. Maică-sa îmi făcea curte, pe taică-su l-am cunoscut. M-a rugat să i-o dau de nevastă pe fiică-mea, atunci când o să am una. A murit așteptând.</i>
 
-DOMNUL MARTIN: *Nu e nici vina dumnealui și nici vina dumneavoastră.*
+DOMNUL MARTIN: <i>Nu e nici vina dumnealui și nici vina dumneavoastră.</i>
 
-POMPIERUL: *în fine, despre ce e vorba?*
+POMPIERUL: <i>În fine, despre ce e vorba?</i>
 
-DOAMNA SMITH: *Soțul meu pretindea...*
+DOAMNA SMITH: <i>Soțul meu pretindea...</i>
 
-DOMNUL SMITH: *Ba tu pretindeai. [...]*
+DOMNUL SMITH: <i>Ba tu pretindeai. [...]</i>
 
-POMPIERUL: *Nu vă enervați. Spuneți-mi dumneavoastră, doamnă Smith.*
+POMPIERUL: <i>Nu vă enervați. Spuneți-mi dumneavoastră, doamnă Smith.</i>
 
-DOAMNA SMITH: *Ei bine, uitați despre ce e vorba... Mă cam jenez să-mi deschid sufletul, dar, la urma urmei, un adevărat pompier e și un duhovnic.*
+DOAMNA SMITH: <i>Ei bine, uitați despre ce e vorba... Mă cam jenez să-mi deschid sufletul, dar, la urma urmei, un adevărat pompier e și un duhovnic.</i>
 
-POMPIERUL: *Vă ascult.*
+POMPIERUL: <i>Vă ascult.</i>
 
-DOAMNA SMITH: *Ne certam fiindcă soțul meu spunea că, atunci când se-aude soneria la ușă, întotdeauna e cineva.* DOMNUL MARTIN: *Eplauzibil.*
+DOAMNA SMITH: <i>Ne certam fiindcă soțul meu spunea că, atunci când se-aude soneria la ușă, întotdeauna e cineva.</i> 
 
-DOAMNA SMITH: *Iar eu spuneam că de fiecare dată când sună nu e nimeni.*
+DOMNUL MARTIN: <i>E plauzibil.</i>
 
-Eugen lonescu, *Cântăreața cheală* **Notă**
+DOAMNA SMITH: <i>Iar eu spuneam că de fiecare dată când sună nu e nimeni.</i>
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+Eugen Ionescu, <i>Cântăreața cheală</i> 
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+<b>Notă </b>
 
-**Subiectul al lll-lea(30 de puncte)**
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-**Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un roman postbelic.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-In elaborarea eseului, vei avea în vedere următoarele repere:
+<b>Subiectul al III-lea (30 de puncte)</b>
 
-~ evidențierea unei trăsături care face posibilă încadrarea romanului într-o tipologie, într-un curent cultural/ literar, într-o perioadă sau într-o orientare tematică;
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un roman postbelic.</b>
 
-~ ilustrarea a două elemente de structură si de compoziție ale textului narativ, semnificative pentru tema aleasă (de exemplu: acțiune, conflicte, relații temporale și spațiale, perspectivă narativă, tehnici narative, incipit, final, limbaj etc.); “ ilustrarea relațiilor dintre două personaje, prin care tema aleasă se evidențiază în romanul ales.
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
-**Citește următorul fragment:**
+- evidențierea unei trăsături care face posibilă încadrarea romanului într-o tipologie, într-un curent cultural/ literar, într-o perioadă sau într-o orientare tematică;
 
-**O *altă experiență pe care a pierdut-o omul contemporan este legătura cu calul. Cum se vede lumea dtț pe cal, domnule Alexandru Paleologu?***
+- ilustrarea a două elemente de structură si de compoziție ale textului narativ, semnificative pentru tema aleasă (de exemplu: acțiune, conflicte, relații temporale și spațiale, perspectivă narativă, tehnici narative, incipit, final, limbaj etc.); “ ilustrarea relațiilor dintre două personaje, prin care tema aleasă se evidențiază în romanul ales.
 
-*Da, ăsta e un lucru important care, fără îndoială, nu mai există astăzi aproape deloc. [...] eu am învățat să călăresc pe la 12-13 ani, mama învățase mai devreme, fiindcă îi cumpăraseră un poney. Mergeam tot timpul călare; e* o *plăcere formidabilă. De pe cal, vezi lumea nu prea de sus, dar suficient de sus ca să o vezi bine. în galopul mic, de vânătoare, mai puțin rapid, poți să remarci detalii extraordinare despre oameni și despre lume, pe care altfel le ratezi. De-a călare am văzut lucruri splendide, pe care nu le vedeam când mergeam pe jos. Optica lumii e alta; și mai* e *ritmicitatea uneori mângâietoare și blajină, alteori vie și brutală a mersului calului. Se spune despre cal că nu este un animal foarte inteligent. Nu știu dacă e așa, dar știu că e un animal care simte despre ce este vorba. Simte* ce *vrei și ce pretinzi de la el și are ambiția să dovedească de ce e în stare. Dar și călărețul trebuie să fie călăreț [...]*
+<b>Citește următorul fragment:</b>
 
-***Ati fost cavalerist.***
+<b><i>O altă experiență pe care a pierdut-o omul contemporan este legătura cu calul. Cum se vede lumea dtț pe cal, domnule Alexandru Paleologu?</i></b>
 
-*Snobismul cavalerismului a exista dintotdeauna, dar fandoseala modernă a apărut mai târziu. Și eu am fost ofițer de roșiori, dar de rezervă, la Regimentul 4 Roșiori Regina Maria din Garda călare. în anul III de facultate, am făcut serviciul militar la Școala de Ofițeri de Rezervă de la Sibiu, unde am petrecut foarte bine, împreună cu mai mulți prieteni, alături de care stăteam într-o vilă închiriată. Acolo am făcut multă călărie, la Dumbravă. Armata nu e cea mai mare plăcere, dar are părțile ei amuzante și te face mai om, dacă nu ai neșansa de a te întâlni cu latura inumană, bestială a lumii cazone\*. Pentru mine, serviciul militar a fost ca un roman cu ofițeri aristocrați ruși. M-a ajutat să-l înțeleg mai bine pe Tolstoi. [...]*
+<i>Da, ăsta e un lucru important care, fără îndoială, nu mai există astăzi aproape deloc. [...] eu am învățat să călăresc pe la 12-13 ani, mama învățase mai devreme, fiindcă îi cumpăraseră un poney. Mergeam tot timpul călare; e o plăcere formidabilă. De pe cal, vezi lumea nu prea de sus, dar suficient de sus ca să o vezi bine. în galopul mic, de vânătoare, mai puțin rapid, poți să remarci detalii extraordinare despre oameni și despre lume, pe care altfel le ratezi. De-a călare am văzut lucruri splendide, pe care nu le vedeam când mergeam pe jos. Optica lumii e alta; și mai e ritmicitatea uneori mângâietoare și blajină, alteori vie și brutală a mersului calului. Se spune despre cal că nu este un animal foarte inteligent. Nu știu dacă e așa, dar știu că e un animal care simte despre ce este vorba. Simte ce vrei și ce pretinzi de la el și are ambiția să dovedească de ce e în stare. Dar și călărețul trebuie să fie călăreț [...]</i>
 
-*Călăria, ca și scrima, nu era, la început, un sport, ci exercițiu utilitar. Calul era un mijloc de transport, iar sabia era un mijloc de apărare, deci nu putea fi vorba de exerciții atletice sau de gimnastică. Cum era o obligație să știi să înoți, era o obligație să știi să mergi pe cal și să te aperi cu o armă, în speță cu sabia. Arma albă a dominat timp de secole. Arma de foc a apărut mai târziu, iar pistoletul cu repetiție și mitraliera sunt invenții recente. Lașitatea a început de când a apărut praful de pușcă. Lașitate este și în vânătoare, că nu poți să lupți cu mistrețul cot la cot. Eu nu am făcut niciodată vânătoare și îmi displace, mi se pare un exercițiu foarte laș să ucizi niște biete animale care trăiesc și ele pe pământ, ca și tine. A fost, de-i drept, apanajul nobilimii, dar eu unul, nu am gustat vânătoarea cu arme de foc. Mai mult respect am pentru vânătorile de foarte demult, care necesitau un oarecare efort și o rezistență fizică mai mare și când arma de vânătoare era săgeata; mai brutală, mai dură, dar mai bărbătească și mai onorabilă.*
+<b><i>Ați fost cavalerist.</i></b>
 
-*Breviar pentru păstrarea clipelor,* Filip-Lucian lorga în dialog cu Alexandru Paleologu *\*cazon - de cazarmă, propriu cazărmii, milităresc*
+<i>Snobismul cavalerismului a exista dintotdeauna, dar fandoseala modernă a apărut mai târziu. Și eu am fost ofițer de roșiori, dar de rezervă, la Regimentul 4 Roșiori Regina Maria din Garda călare. în anul III de facultate, am făcut serviciul militar la Școala de Ofițeri de Rezervă de la Sibiu, unde am petrecut foarte bine, împreună cu mai mulți prieteni, alături de care stăteam într-o vilă închiriată. Acolo am făcut multă călărie, la Dumbravă. Armata nu e cea mai mare plăcere, dar are părțile ei amuzante și te face mai om, dacă nu ai neșansa de a te întâlni cu latura inumană, bestială a lumii cazone. Pentru mine, serviciul militar a fost ca un roman cu ofițeri aristocrați ruși. M-a ajutat să-l înțeleg mai bine pe Tolstoi. [...]
+
+Călăria, ca și scrima, nu era, la început, un sport, ci exercițiu utilitar. Calul era un mijloc de transport, iar sabia era un mijloc de apărare, deci nu putea fi vorba de exerciții atletice sau de gimnastică. Cum era o obligație să știi să înoți, era o obligație să știi să mergi pe cal și să te aperi cu o armă, în speță cu sabia. Arma albă a dominat timp de secole. Arma de foc a apărut mai târziu, iar pistoletul cu repetiție și mitraliera sunt invenții recente. Lașitatea a început de când a apărut praful de pușcă. Lașitate este și în vânătoare, că nu poți să lupți cu mistrețul cot la cot. Eu nu am făcut niciodată vânătoare și îmi displace, mi se pare un exercițiu foarte laș să ucizi niște biete animale care trăiesc și ele pe pământ, ca și tine. A fost, de-i drept, apanajul nobilimii, dar eu unul, nu am gustat vânătoarea cu arme de foc. Mai mult respect am pentru vânătorile de foarte demult, care necesitau un oarecare efort și o rezistență fizică mai mare și când arma de vânătoare era săgeata; mai brutală, mai dură, dar mai bărbătească și mai onorabilă.</i>
+
+<i>Breviar pentru păstrarea clipelor</i>, Filip-Lucian Iorga în dialog cu Alexandru Paleologu 
+
+cazon - de cazarmă, propriu cazărmii, milităresc
 
 1. **Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
 1. Indică sensul enunțului *Călăria, ca și scrima, nu era, la început, un sport, ci exercițiu utilitar,* raportându-te la text.
