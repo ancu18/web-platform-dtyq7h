@@ -2731,7 +2731,7 @@ Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pe
 
 Tată-său, boier de țară, își crescuse băiatul la moșie, fără carte grecească și fără ambițiunea de-a-l face un concurent feciorilor de boieri mari la isprăvnicii și la divanuri. îl obicinuise lângă pluguri, cu cai și cu pușca; vara la munca câmpului, iarna la urși și la capre negre; ajunsese de o dibăcie vestită în călărie și în vânătoare; încăleca fără a pune piciorul în scară, nici mâna pe coama calului și băga glonțul prin verigă de inel.
 
-Se îndrăgise cu o fată de țăran și vrea s-o ia de nevastă. Jianul bătrânul, deși habar n-avea el era strănepot al lui Cesianus, secretarul lui Traian, văr cu Salust și mai în urmă proconsul în Dacia; deși nu se potrivea cu banii Filipești, cu vornicii Crețulești și cu logofeții Bărcănești, dar purta ceacșiri\* roșii cu meși\* galbeni și ișlic\* cu perna verde, în patru colțuri. Boierul, tot boier! Cum să lase pe fiul său să ia o mojică\*, să se încuscrească el cu un clăcaș\*. Văzând că se îngroașă gluma și că dragostea se întețea, a hotărât să-și ducă băiatul la Caracal. Tânărul, a doua zi după ce a ajuns în oraș, a încălecat pe murgul, și fuga înapoi; tată-său iar l-a luat, el iar a fugit; l-a închis în casă, el a sărit pe fereastră; l-a închis în pivniță, el a spart ușa. Tată-său, dac-a văzut și-a văzut că nu-i vine de hac, s-a adresat la stăpânire, cerând să-l surghiunească\*. Caimacamul a și poruncit ispravnicului\* să-l închidă la Strehaia; băiatul, țeapăn, a trântit slujitorii și egumenul\* și a scăpat; slujitorii s-au luat după dânsul; el, dacă s-a văzut strâmtorat, s-a înhăitat cu vreo câțiva flăcăi cu cari copilărise:
+Se îndrăgise cu o fată de țăran și vrea s-o ia de nevastă. Jianul bătrânul, deși habar n-avea el era strănepot al lui Cesianus, secretarul lui Traian, văr cu Salust și mai în urmă proconsul în Dacia; deși nu se potrivea cu banii Filipești, cu vornicii Crețulești și cu logofeții Bărcănești, dar purta ceacșiri<a id="a3" href="#f3"><sup>1</sup></a> roșii cu meși<a id="a4" href="#f4"><sup>2</sup></a> galbeni și ișlic\* cu perna verde, în patru colțuri. Boierul, tot boier! Cum să lase pe fiul său să ia o mojică\*, să se încuscrească el cu un clăcaș\*. Văzând că se îngroașă gluma și că dragostea se întețea, a hotărât să-și ducă băiatul la Caracal. Tânărul, a doua zi după ce a ajuns în oraș, a încălecat pe murgul, și fuga înapoi; tată-său iar l-a luat, el iar a fugit; l-a închis în casă, el a sărit pe fereastră; l-a închis în pivniță, el a spart ușa. Tată-său, dac-a văzut și-a văzut că nu-i vine de hac, s-a adresat la stăpânire, cerând să-l surghiunească\*. Caimacamul a și poruncit ispravnicului\* să-l închidă la Strehaia; băiatul, țeapăn, a trântit slujitorii și egumenul\* și a scăpat; slujitorii s-au luat după dânsul; el, dacă s-a văzut strâmtorat, s-a înhăitat cu vreo câțiva flăcăi cu cari copilărise:
 
 Tot ca dânsul de bărbați/ Și pe cai încălecați/ și au apucat câmpii.
 
@@ -2743,11 +2743,11 @@ Nu văzuse pe Stăncuța de doi ani și-i era dor de se topea. într-o noapte de
 
 „Sunt Jianul! Capul meu este pus la preț; du-mă la vodă și-ți ia mia de lei.”</i>
 
-Ion Ghica, <i>Scrisori către Vasile Alecsandri</i> 
+Ion Ghica, <i>Scrisori către Vasile Alecsandri</i>
 
-\*ceacșiri - pantaloni lungi turcești*
+<a id="f3" href="#a3">1.</a> ceacșiri - pantaloni lungi turcești
 
-*★meși- încălțăminte fără toc, confecționată din piele subțire și purtată în trecut de bărbați, peste ciorapi.*
+<a id="f4" href="#a4">2.</a> meși- încălțăminte fără toc, confecționată din piele subțire și purtată în trecut de bărbați, peste ciorapi.
 
 *\*ișlic - căciulă de blană scumpă sau de postav, de format mare, cilindrică sau cu fundul pătrat (din alt material), purtată de domni, de boieri*
 
