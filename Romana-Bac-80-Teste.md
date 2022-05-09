@@ -2703,47 +2703,49 @@ Lucian Blaga, <i>Către cititori</i>
 
 <b>Notă</b>
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul al lll-lea(30 de puncte)**
+<b>Subiectul al lll-lea (30 de puncte)</b>
 
-**Redactează un eseu de minimum 400 de ctivinte, în care să prezinți modalitățile de construcție a unui personaj dintr-un roman de Mihail Sadoveanu.**
+<b>Redactează un eseu de minimum 400 de ctivinte, în care să prezinți modalitățile de construcție a unui personaj dintr-un roman de Mihail Sadoveanu.</b>
 
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - evidențierea a două dintre caracteristicile textului narativ, semnificative pentru realizarea personajului ales (de exemplu: formula estetică, temă, conflict, acțiune, relații temporale și spațiale, moduri de expunere, incipit, final etc.) prin referire la textul studiat;
 - prezentarea statutului social, moral și psihologic al personajului;
 - comentarea unei scene semnificative pentru construcția personajului.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**în vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Citește următorul fragment:**
+<b>Citește următorul fragment:</b>
 
-*lancu Jianu era de peste Olt, din județul Romanați, de pe valea Tasluiului. El a lăsat un nume de haiduc, dar nici n-a fost, nici gând n-a avut să se facă vreodată hoț de codru. însă o poveste, dacă ajunge a deveni legendă, adevărul n-o mai poate scoate din capul poporului.*
+<i>Iancu Jianu era de peste Olt, din județul Romanați, de pe valea Tasluiului. El a lăsat un nume de haiduc, dar nici n-a fost, nici gând n-a avut să se facă vreodată hoț de codru. însă o poveste, dacă ajunge a deveni legendă, adevărul n-o mai poate scoate din capul poporului.
 
-*Tată-său, boier de țară, își crescuse băiatul la moșie, fără carte grecească și fără ambițiunea de-a-l face un concurent feciorilor de boieri mari la isprăvnicii și la divanuri. îl obicinuise lângă pluguri, cu cai și cu pușca; vara la munca câmpului, iarna la urși și la capre negre; ajunsese de o dibăcie vestită în călărie și în vânătoare; încăleca fără a pune piciorul în scară, nici mâna pe coama calului și băga glonțul prin verigă de inel.*
+Tată-său, boier de țară, își crescuse băiatul la moșie, fără carte grecească și fără ambițiunea de-a-l face un concurent feciorilor de boieri mari la isprăvnicii și la divanuri. îl obicinuise lângă pluguri, cu cai și cu pușca; vara la munca câmpului, iarna la urși și la capre negre; ajunsese de o dibăcie vestită în călărie și în vânătoare; încăleca fără a pune piciorul în scară, nici mâna pe coama calului și băga glonțul prin verigă de inel.
 
-*Se îndrăgise cu o fată de țăran și vrea s-o ia de nevastă. Jianul bătrânul, deși habar n-avea el era strănepot al lui Cesianus, secretarul lui Traian, văr cu Salust și mai în urmă proconsul în Dacia; deși nu se potrivea cu banii Filipești, cu vornicii Crețulești și cu logofeții Bărcănești, dar purta ceacșiri\* roșii cu meși\* galbeni și ișlic\* cu perna verde, în patru colțuri. Boierul, tot boier! Cum să lase pe fiul său să ia o mojică\*, să se încuscrească el cu un clăcaș\*. Văzând că se îngroașă gluma și că dragostea se întețea, a hotărât să-și ducă băiatul la Caracal. Tânărul, a doua zi după ce a ajuns în oraș, a încălecat pe murgul, și fuga înapoi; tată-său iar l-a luat, el iar a fugit; l-a închis în casă, el a sărit pe fereastră; l-a închis în pivniță, el a spart ușa. Tată-său, dac-a văzut și-a văzut că nu-i vine de hac, s-a adresat la stăpânire, cerând să-l surghiunească\*. Caimacamul a și poruncit ispravnicului\* să-l închidă la Strehaia; băiatul, țeapăn, a trântit slujitorii și egumenul\* și a scăpat; slujitorii s-au luat după dânsul; el, dacă s-a văzut strâmtorat, s-a înhăitat cu vreo câțiva flăcăi cu cari copilărise:*
+Se îndrăgise cu o fată de țăran și vrea s-o ia de nevastă. Jianul bătrânul, deși habar n-avea el era strănepot al lui Cesianus, secretarul lui Traian, văr cu Salust și mai în urmă proconsul în Dacia; deși nu se potrivea cu banii Filipești, cu vornicii Crețulești și cu logofeții Bărcănești, dar purta ceacșiri\* roșii cu meși\* galbeni și ișlic\* cu perna verde, în patru colțuri. Boierul, tot boier! Cum să lase pe fiul său să ia o mojică\*, să se încuscrească el cu un clăcaș\*. Văzând că se îngroașă gluma și că dragostea se întețea, a hotărât să-și ducă băiatul la Caracal. Tânărul, a doua zi după ce a ajuns în oraș, a încălecat pe murgul, și fuga înapoi; tată-său iar l-a luat, el iar a fugit; l-a închis în casă, el a sărit pe fereastră; l-a închis în pivniță, el a spart ușa. Tată-său, dac-a văzut și-a văzut că nu-i vine de hac, s-a adresat la stăpânire, cerând să-l surghiunească\*. Caimacamul a și poruncit ispravnicului\* să-l închidă la Strehaia; băiatul, țeapăn, a trântit slujitorii și egumenul\* și a scăpat; slujitorii s-au luat după dânsul; el, dacă s-a văzut strâmtorat, s-a înhăitat cu vreo câțiva flăcăi cu cari copilărise:
 
-*Tot ca dânsul de bărbați/ Și pe cai încălecați/ și au apucat câmpii.*
+Tot ca dânsul de bărbați/ Și pe cai încălecați/ și au apucat câmpii.
 
-*Șapte ani a pribegit prin păduri și prin munți, hrănindu-se cu carne necântâritâ de pe la ciobani și desfidând potira\*. Nici nu omora, nici nu schingiuia, nici nu jăfuia, ci numai se găzduia; fugea de potiră și de panduri cât putea; dar când îl încolțea, apoi se apăra:*
+Șapte ani a pribegit prin păduri și prin munți, hrănindu-se cu carne necântâritâ de pe la ciobani și desfidând potira\*. Nici nu omora, nici nu schingiuia, nici nu jăfuia, ci numai se găzduia; fugea de potiră și de panduri cât putea; dar când îl încolțea, apoi se apăra:
 
-*Căci nu vrea/ Viu să se dea (...)*
+Căci nu vrea/ Viu să se dea (...)
 
-*Nu văzuse pe Stăncuța de doi ani și-i era dor de se topea. într-o noapte de ploaie și de vijelie, lasă pe tovarăși la gazda din Valea-Rea, își încalecă murgul și zboară după dor. în sat, întuneric beznă, numai o zare de lumină la o casă. Se apropie, dă cu degetul în hârtia luminată, pune ochiul și ce vede? Stăncuța, gătită ca mireasă, lungită pe pat, cu o lumânărică de ceară galbenă în mână. Dă cu piciorul în ușă și intră, cade în genuchi, pune iataganul și pistoalele lângă moartă, îi dă cea de pe urmă sărutare, încalecă calul, și drept la zapciu\*.*
+Nu văzuse pe Stăncuța de doi ani și-i era dor de se topea. într-o noapte de ploaie și de vijelie, lasă pe tovarăși la gazda din Valea-Rea, își încalecă murgul și zboară după dor. în sat, întuneric beznă, numai o zare de lumină la o casă. Se apropie, dă cu degetul în hârtia luminată, pune ochiul și ce vede? Stăncuța, gătită ca mireasă, lungită pe pat, cu o lumânărică de ceară galbenă în mână. Dă cu piciorul în ușă și intră, cade în genuchi, pune iataganul și pistoalele lângă moartă, îi dă cea de pe urmă sărutare, încalecă calul, și drept la zapciu\*.
 
-*„Sunt Jianul! Capul meu este pus la preț; du-mă la vodă și-ți ia mia de lei.”*
+„Sunt Jianul! Capul meu este pus la preț; du-mă la vodă și-ți ia mia de lei.”</i>
 
-Ion Ghica, *Scrisori către Vasile Alecsandri \*ceacșiri - pantaloni lungi turcești*
+Ion Ghica, <i>Scrisori către Vasile Alecsandri</i> 
+
+\*ceacșiri - pantaloni lungi turcești*
 
 *★meși- încălțăminte fără toc, confecționată din piele subțire și purtată în trecut de bărbați, peste ciorapi.*
 
