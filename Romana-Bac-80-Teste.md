@@ -2898,7 +2898,7 @@ Din somnul tău, copil de-odinioară...</i>
 
 Ion Pillat, <i>Copil de-odinioară</i>
 
-<b>Notă </b>
+<b>Notă</b>
 
 Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
