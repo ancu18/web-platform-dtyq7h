@@ -2860,45 +2860,45 @@ Călăria, ca și scrima, nu era, la început, un sport, ci exercițiu utilitar.
 cazon - de cazarmă, propriu cazărmii, milităresc
 
 <b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
-1. Indică sensul enunțului <i>Călăria, ca și scrima, nu era, la început, un sport, ci exercițiu utilitar</i>, raportându-te la text. 6 puncte
-2. Menționează două avantaje ale armatei, așa cum reies din text. 6 puncte**
-1. Precizează, pe baza textului, când și unde a făcut Al. Paleologu serviciul militar.	**6 puncte**
-1. Explică motivul pentru care autorul face afirmația *Optica lumii e alta,* raportându-te la experiența mersului pe cal.
+1. Indică sensul enunțului <i>Călăria, ca și scrima, nu era, la început, un sport, ci exercițiu utilitar</i>, raportându-te la text.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+2. Menționează două avantaje ale armatei, așa cum reies din text.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+3. Precizează, pe baza textului, când și unde a făcut Al. Paleologu serviciul militar.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+4. Explică motivul pentru care autorul face afirmația <i>Optica lumii e alta</i>, raportându-te la experiența mersului pe cal.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+5. Prezintă, în 30-50 de cuvinte, semnificația pe care o dobândește vânătoarea în viziunea lui Alexandru Paleologu, așa cum apare în ultimul alineat al textului.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-**6 puncte**
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă experiența de viață ne poate sau nu ajuta să înțelegem mai bine literatura, raportându-te atât la informațiile din interviul cu Alexandru Paleologu, cât și la experiența personală sau culturală.<span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-1. Prezintă, în 30-50 de cuvinte, semnificația pe care o dobândește vânătoarea în viziunea lui Alexandru Paleologu,
+În redactarea textului, vei avea în vedere următoarele repere:
 
-așa cum apare în ultimul alineat al textului.	**6 puncte**
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-1. **Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă experiența de viață ne poate**
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-**sau nu ajuta să înțelegem mai bine literatura, raportându-te atât la informațiile din interviul cu Alexandru Paleologu, cât și la experiența personală sau culturală.	20 de puncte**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-în redactarea textului, vei avea în vedere următoarele repere:
+<b>Comentează, în minimum 50 de cuvinte, semnificațiile fragmentului următor, evidențiind particularitățile tradiționalismului:</b>
+<i>Prin iarna din cămara zăvorâtă
+ Se furișează cald miros de mere, 
+ 
+ Readucând în vremea viscolită 
+ Iar toamna cu trecuta mângâiere, 
+ 
+ Când sufletul împovărat venise, 
+ Cu târna lui de poame și de vise, în casa amintirilor închise.
 
--formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+Și-n inimi amorțite de-a lor strajă, 
+Străbat adânc, îmbălsămând gândirea,
 
-\- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
+Cu seva lor fierbând din nou sub coajă, Copilărescul dor și amăgirea...
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+Și-n inimi, viu ca și întâia oară.
 
-**Comentează, în minimum 50 de cuvinte, semnificațiile fragmentului următor, evidențiind particularitățile**
+Te scoli din somn, tu, cel de-odinioară, 
+Din somnul tău, copil de-odinioară...</i>
 
-|**tradiționalismului:**|*Prin iarna din cămara zăvorâtă Se furișează cald miros de mere, Readucând în vremea viscolită Iar toamna cu trecuta mângâiere, Când sufletul împovărat venise, Cu târna lui de poame și de vise, în casa amintirilor închise.*|
-| :- | :- |
+Ion Pillat, <i>Copil de-odinioară</i>
 
-*Și-n inimi amorțite de-a lor strajă, Străbat adânc, îmbălsămând gândirea,*
-
-*Cu seva lor fierbând din nou sub coajă, Copilărescul dor și amăgirea...*
-
-*Și-n inimi, viu ca și întâia oară.*
-
-*Te scoli din somn, tu, cel de-odinioară, Din somnul tău, copil de-odinioară...*
-
-Ion Pillat, *Copil de-odinioară*
-
-**Notă**
+<b>Notă </b>
 
 Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
