@@ -1,4 +1,4 @@
-﻿<link rel="stylesheet" href="styles.css" />
+<link rel="stylesheet" href="styles.css" />
 <div class="bf_toc_container">
   <div class="bf_toc_title">
     <center>Cuprins</center>
@@ -2859,7 +2859,7 @@ Călăria, ca și scrima, nu era, la început, un sport, ci exercițiu utilitar.
 
 cazon - de cazarmă, propriu cazărmii, milităresc
 
-1. **Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
+ A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:
 1. Indică sensul enunțului *Călăria, ca și scrima, nu era, la început, un sport, ci exercițiu utilitar,* raportându-te la text.
 
 **6 puncte**
