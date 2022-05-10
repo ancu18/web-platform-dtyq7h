@@ -2902,59 +2902,58 @@ Ion Pillat, <i>Copil de-odinioară</i>
 
 Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul al lll-lea(30 de puncte)**
+<b>Subiectul al III-lea (30 de puncte)</b>
 
-**Redactează un eseu de minimum 400 de cuvinte, în care să prezinți particularitățile de construcție a unui personaj dintr-un roman aparținând lui Marin Preda.**
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți particularitățile de construcție a unui personaj dintr-un roman aparținând lui Marin Preda.</b>
 
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - prezentarea statutului social, psihologic, moral al personajului ales;
 - evidențierea a două trăsături ale personajului ales prin două scene/ secvențe comentate;
 - analiza, la alegere, a două elemente de structură: conflict, subiect, relații temporale și spațiale, construcția subiectului, perspectivă narativă, modalități de caracterizare, limbaj etc.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**In vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
+<b>Citește următorul fragment:</b>
 
-**Citește următorul fragment:**
+Abilitățile de lider sunt constant prezentate ca fiind un lucru la care se poate ajunge relativ ușor, pentru care i aproape ca la dietele alimentare - este necesar numai să respecți anumite reguli, mecanic, și apoi o să apară $ efectul.
 
-*Abilitățile de lider sunt constant prezentate ca fiind un lucru la care se poate ajunge relativ ușor, pentru care i aproape ca la dietele alimentare - este necesar numai să respecți anumite reguli, mecanic, și apoi o să apară $ efectul.*
+Din păcate, această prezentare nu este cea corectă, ba chiar poate vinde iluzii, remarcă George Chiriacescu psiholog și psihoterapeut adlerian.
 
-*Din păcate, această prezentare nu este cea corectă, ba chiar poate vinde iluzii, remarcă George Chiriacescu psiholog și psihoterapeut adlerian.*
+Astfel, el remarcă faptul că pe lângă abilitățile de management, imperios necesare, restul caracteristicilor suni caracterologice și de personalitate. Altfel spus, sunt direct legate de gradul de dezvoltare a inteligenței emoționale
 
-*Astfel, el remarcă faptul că pe lângă abilitățile de management, imperios necesare, restul caracteristicilor suni caracterologice și de personalitate. Altfel spus, sunt direct legate de gradul de dezvoltare a inteligenței emoționale*
+Iar George Chiriacescu spune că principala trăsătură care subsumează toate aspectele emoționale și sociale ale acestui concept este spiritul comunitar.
 
-*Iar George Chiriacescu spune că principala trăsătură care subsumează toate aspectele emoționale și sociale ale acestui concept este spiritul comunitar.*
+Cei care au o atitudine modestă și nu sunt cu nasul pe sus au toate șansele să fie buni lideri. Căci dacă tu crezi că le știi pe toate și că doar ideile tale sunt cele mai bune, atunci nu ai cum să înveți și să te dezvolți. Iar asta înseamnă că nu posezi abilitățile unui conducător veritabil.</i>
 
-*Cei care au o atitudine modestă și nu sunt cu nasul pe sus au toate șansele să fie buni lideri. Căci dacă tu crezi că le știi pe toate și că doar ideile tale sunt cele mai bune, atunci nu ai cum să înveți și să te dezvolți. Iar asta înseamnă că nu posezi abilitățile unui conducător veritabil.*
+<b><i>„Să ai o atitudine umilă, în acest context, nu are legătură cu umilința, cu pierderea statutului, ci cu modestia, cu păstrarea unei atitudini ferme și demne, fără a încerca însă să demonstrezi poziția de putere."</i></b>
 
-***„Să ai o atitudine umilă, în acest context, nu are legătură cu umilința, cu pierderea statutului, ci*** cu ***modestia, cu păstrarea unei atitudini ferme și demne, fără a încerca însă să demonstrezi poziția de putere."***
+<i>Pentru acest lucru, este important să te cunoști, să ai încredere în tine, să nu încerci să epatezi. Necesită curaj și o bună conectare la grup, explică George Chiriacescu pentru Revista CARIERE.
 
-*Pentru acest lucru, este important să te cunoști, să ai încredere în tine, să nu încerci să epatezi. Necesită curaj și o bună conectare la grup, explică George Chiriacescu pentru Revista CARIERE.*
+Dacă ai o bună rezistență la frustrare, dacă știi să înveți din greșeli nu ai nevoie să „demonstrezi”, doar „ești" punctează psihologul.
 
-*Dacă ai o bună rezistență la frustrare, dacă știi să înveți din greșeli nu ai nevoie să „demonstrezi”, doar „ești" punctează psihologul.*
+CE SPUN STUDIILE
 
-*CE SPUN STUDIILE*
+Cercetarea de piață a arătat că a fi umil se numără printre cele patru calități esențiale pentru un lider adevărăt.
 
-*Cercetarea de piață a arătat că a fi umil se numără printre cele patru calități esențiale pentru un lider adevărăt.*
+Atunci când văd că managerul posedă anumite calități, angajații simt că fac parte cu adevărat dintr-o echipă. Aceste trăsături sunt:
 
-*Atunci când văd că managerul posedă anumite calități, angajații simt că fac parte cu adevărat dintr-o echipă. Aceste trăsături sunt:*
+1. este umil, adică admite că face erori, învață din greșeli și acceptă critici;
+2. îndeamnă subordonații să învețe și să se dezvolte;
+3. are curaj, adică acționează pentru binele echipei, nu în scop personal;
+4. responsabilizează angajații.
 
-1. *este umil, adică admite că face erori, învață din greșeli și acceptă critici;*
-1. *îndeamnă subordonații să învețe și să se dezvolte;*
-1. *are curaj, adică acționează pentru binele echipei, nu în scop personal;*
-1. *responsabilizează angajații.*
+Ideea este că angajații percep un manager care are un comportament altruist că fiind inovați v, ceea ce le dă impresia că poate crea lucruri noi și că poate lucra mai bine cu echipa sa. Mai mult, cei care sunt conduși de astfel de lideri au tendința de a se implica mai mult în proiectul pe care îl au de făcut, dar și să îi copieze comportamentul.
 
-*Idee a este că angajații percep un manager care are un comportament altruist că fiind inovați v, ceea ce le dă impresia că poate crea lucruri noi și că poate lucra mai bine cu echipa sa. Mai mult, cei care sunt conduși de astfel de lideri au tendința de a se implica mai mult în proiectul pe care îl au de făcut, dar și să îi copieze comportamentul.*
-
-*Modestia în management: De ce un lider bun trebuie să fie umil,* Constantin Pescaru, *cariereonline.ro*
+<i>Modestia în management: De ce un lider bun trebuie să fie umil</i>, Constantin Pescaru,  cariereonline.ro
 
 1. **Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
 1. Indică sensul expresiei *a fi cu nasul pe sus.*	**6 puncte**
