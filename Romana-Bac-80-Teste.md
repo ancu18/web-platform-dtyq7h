@@ -2859,12 +2859,9 @@ Călăria, ca și scrima, nu era, la început, un sport, ci exercițiu utilitar.
 
 cazon - de cazarmă, propriu cazărmii, milităresc
 
- A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:
-1. Indică sensul enunțului *Călăria, ca și scrima, nu era, la început, un sport, ci exercițiu utilitar,* raportându-te la text.
-
-**6 puncte**
-
-1. Menționează două avantaje ale armatei, așa cum reies din text.	**6 puncte**
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
+1. Indică sensul enunțului <i>Călăria, ca și scrima, nu era, la început, un sport, ci exercițiu utilitar</i>, raportându-te la text. 6 puncte
+2. Menționează două avantaje ale armatei, așa cum reies din text. 6 puncte**
 1. Precizează, pe baza textului, când și unde a făcut Al. Paleologu serviciul militar.	**6 puncte**
 1. Explică motivul pentru care autorul face afirmația *Optica lumii e alta,* raportându-te la experiența mersului pe cal.
 
