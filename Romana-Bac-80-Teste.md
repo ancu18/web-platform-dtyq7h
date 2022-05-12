@@ -3102,11 +3102,11 @@ Tonul agresiv, instigarea la ură, damnarea și blamarea dușmanilor de clasă, 
 
 Accesibilitatea era cuvântul de ordine în privința expresiei așa-zis poetice, poeziei pentru inițiați opunându-i-se acum o poezie pe înțelesul tuturor. Principiul clarității și al accesibilității devine un principiu absolut de judecare a „valorii1 poetice. Turnate mai ales în matrița baladei populare, temele amintite erau dezvoltate în adevărate poeme-fluviu care construiau, ca la orice începuturi, o întreagă mitologie. Eroul era însă ieșit din rândul colectivului, un om de jos cu care ceilalți se puteau identifica și, deci, pe care îl puteau imita. Tonalitatea seducătoare a poveștii lipsite de „perversiuni stilistice și terminată, evident, cu victoria binelui „nostru" nu avea cum să nu ajungă la inima tuturor.
 
-Dintre figurile de stil, autorul se putea servi de paralelism și de antiteză - pentru a releva și mai mult opoziția vechi-nou, de epitete și metafore cuminți, de câte o comparație tocită pentru a da concretețe faptelor și a le ancora astfel temeinic în mințile oamenilor. în plus, povestea putea fi asezonată cu invective și imprecații în cel mai denotații stil. Nu ambiguități, nu polisemantism, meditații ori limbaj sentențios, ci unul prietenos, spontan, sincer și melodios care să ungă la suflet omul, să-i adoarmă rațiunea.i
+Dintre figurile de stil, autorul se putea servi de paralelism și de antiteză - pentru a releva și mai mult opoziția vechi-nou, de epitete și metafore cuminți, de câte o comparație tocită pentru a da concretețe faptelor și a le ancora astfel temeinic în mințile oamenilor. în plus, povestea putea fi asezonată cu invective și imprecații în cel mai denotații stil. Nu ambiguități, nu polisemantism, meditații ori limbaj sentențios, ci unul prietenos, spontan, sincer și melodios care să ungă la suflet omul, să-i adoarmă rațiunea.</i>
 
 Carmen losif, <i>ESTETIC VS. IDEOLOGIC - bătălia pierdută în literatura din perioada comunista</i>
 
-***A.* Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
+A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:
 
 1. Indică sensul structurii *poezia era chemată [...] să servească acestei cauze.*	**6	puncte**
 1. Menționează două obiective pe care și le propune poezia agitatorică.	**6	puncte**
