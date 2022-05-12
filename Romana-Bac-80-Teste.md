@@ -2955,34 +2955,27 @@ Ideea este că angajații percep un manager care are un comportament altruist c�
 
 <i>Modestia în management: De ce un lider bun trebuie să fie umil</i>, Constantin Pescaru,  cariereonline.ro
 
-1. **Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
-1. Indică sensul expresiei *a fi cu nasul pe sus.*	**6 puncte**
-1. Menționează, pe baza textului, care sunt calitățile necesare unui lider.	**6 puncte**
-1. Precizează, valorificând informațiile din text, o consecință a adoptării unei atitudini cu nasul pe sus. **6 puncte**
-1. Explică motivul pentru care un manager altruist este perceput în mod pozitiv de angajații săi.	**6 puncte**
-1. Prezintă, în 30-50 de cuvinte, semnificația fragmentului: *Să ai o atitudine umilă, în acest context, nu are legătură*
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:<b>
+1. Indică sensul expresiei <i>a fi cu nasul pe sus.</i><span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+2. Menționează, pe baza textului, care sunt calitățile necesare unui lider.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+3. Precizează, valorificând informațiile din text, o consecință a adoptării unei atitudini cu nasul pe sus.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+4. Explică motivul pentru care un manager altruist este perceput în mod pozitiv de angajații săi.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+5. Prezintă, în 30-50 de cuvinte, semnificația fragmentului: <i>Să ai o atitudine umilă, în acest context, nu are legătură cu umilința, cu pierderea statutului, ci cu modestia, cu păstrarea unei atitudini ferme și demne, fără a încerca însă să demonstrezi poziția de putere.</i><span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-*cu umilința, cu pierderea statutului, ci cu modestia, cu păstrarea unei atitudini ferme și demne, fără a încerca însă să demonstrezi poziția de putere.*	**6 puncte**
+B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă modestia este sau nu o calitate importantă în practicarea unei profesii, raportându-te atât la informațiile din fragmentul citat aparținând lui Constantin Pescaru, cât și la experiența personală sau culturală.<span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-1. **Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă modestia este sau nu o**
+În redactarea textului, vei avea în vedere următoarele repere:
 
-**calitate importantă în practicarea unei profesii, raportându-te atât la informațiile din fragmentul citat aparținând lui Constantin Pescaru, cât și la experiența personală sau culturală.	20 de puncte**
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-în redactarea textului, vei avea în vedere următoarele repere:
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
+<b>Subiectul al II-lea	(10 puncte)</b>
 
-argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+<b>Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind două trăsături specifice basmului cult:</b>
 
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
-
-ortoc rafie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
-
-**Subiectul al ll-lea	(10 puncte)**
-
-**Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind două trăsături specifice basmului cult:**
-
-*Era odată un rus, pe care îl chema Ivan. Și rusul acela din copilărie se trezise în oaste. Și slujind el câteva soroace de-a rândul, acuma era bătrân. Și mai-marii lui, văzându-l că și-a făcut datoria de ostaș, l-au slobozit din oaste, cu arme cu tot, să se ducă unde-a vrea, dându-i și două carboave\* de cheltuială.*
+<i>Era odată un rus, pe care îl chema Ivan. Și rusul acela din copilărie se trezise în oaste. Și slujind el câteva soroace de-a rândul, acuma era bătrân. Și mai-marii lui, văzându-l că și-a făcut datoria de ostaș, l-au slobozit din oaste, cu arme cu tot, să se ducă unde-a vrea, dându-i și două carboave  de cheltuială.
 
 *Ivan atunci mulțumi mai-marilor săi și apoi, luându-și rămas bun de la tovarășii lui de oaste, cu care mai trase câte-o dușcă, două de rachiu, pornește la drum cântând.*
 
