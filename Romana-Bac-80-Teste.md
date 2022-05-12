@@ -2977,153 +2977,134 @@ B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă
 
 <i>Era odată un rus, pe care îl chema Ivan. Și rusul acela din copilărie se trezise în oaste. Și slujind el câteva soroace de-a rândul, acuma era bătrân. Și mai-marii lui, văzându-l că și-a făcut datoria de ostaș, l-au slobozit din oaste, cu arme cu tot, să se ducă unde-a vrea, dându-i și două carboave  de cheltuială.
 
-*Ivan atunci mulțumi mai-marilor săi și apoi, luându-și rămas bun de la tovarășii lui de oaste, cu care mai trase câte-o dușcă, două de rachiu, pornește la drum cântând.*
+Ivan atunci mulțumi mai-marilor săi și apoi, luându-și rămas bun de la tovarășii lui de oaste, cu care mai trase câte-o dușcă, două de rachiu, pornește la drum cântând.
 
-*Si cum mergea Ivan, șovăind când la o margine de drum, când la alta, fără să știe unde se duce, puțin mai înaintea lui mergeau din întâmplare, pe-o cărare lăuntrică, Dumnezeu și cu Sfântul Petre, vorbind ei știu ce. [...]*
+Si cum mergea Ivan, șovăind când la o margine de drum, când la alta, fără să știe unde se duce, puțin mai înaintea lui mergeau din întâmplare, pe-o cărare lăuntrică, Dumnezeu și cu Sfântul Petre, vorbind ei știu ce. [...]
 
-- *Doamne, zise atunci Sfântul Petre, speriat: ori hai să ne grăbim, ori să ne dăm într-o parte, nu cumva ostașul cela să aibă harțag, și să ne găsim beleaua cu dânsul. [...]*
-- *N-ai grijă, Petre, zise Dumnezeu. De drumețul care cântă să nu te temi. Ostașul acesta e un om bun la inimă și milostiv. [...]*
+- Doamne, zise atunci Sfântul Petre, speriat: ori hai să ne grăbim, ori să ne dăm într-o parte, nu cumva ostașul cela să aibă harțag, și să ne găsim beleaua cu dânsul. [...]
+- N-ai grijă, Petre, zise Dumnezeu. De drumețul care cântă să nu te temi. Ostașul acesta e un om bun la inimă și milostiv. [...]
 
-*Atunci Sfântul Petre se pune jos la un capăt de pod, iară Dumnezeu la celălalt și încep a cere de pomană.*
+Atunci Sfântul Petre se pune jos la un capăt de pod, iară Dumnezeu la celălalt și încep a cere de pomană.
 
-*Ivan, cum ajunge în dreptul podului, scoate cele două carboave de unde le avea strânse și dă una lui Sfântul Petre și una lui Dumnezeu, zicând:*
+Ivan, cum ajunge în dreptul podului, scoate cele două carboave de unde le avea strânse și dă una lui Sfântul Petre și una lui Dumnezeu, zicând:
 
-- *Dar din dar se face raiul. Na-vă! Dumnezeu mi-a dat, eu dau, și Dumnezeu iar mi-a da, că are de unde.*
+- Dar din dar se face raiul. Na-vă! Dumnezeu mi-a dat, eu dau, și Dumnezeu iar mi-a da, că are de unde.</i>
 
-Ion Creangă, *Ivan Turbincă*
+Ion Creangă, <i>Ivan Turbincă</i>
 
-*★carboave -* ruble de argint (veche monedă rusească)
+carboave - ruble de argint (veche monedă rusească)
 
-**Notă**
+<b>Notă</b>
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul al lll-lea(30 de puncte)**
+<b>Subiectul al III-lea (30 de puncte)</b>
 
-**Redactează un eseu de minimum 400 de cuvinte, în care care să prezinți tema și viziunea despre lume într-un text poetic romantic.**
+<b>Redactează un eseu de minimum 400 de cuvinte, în care care să prezinți tema și viziunea despre lume într-un text poetic romantic.</b>
 
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - evidențierea a două trăsături care fac posibilă încadrarea textului în curentul literar, într-o perioadă sau într-o orientare tematică;
 - prezentarea a două idei/ imagini poetice relevante pentru tema și viziunea despre lume;
 - prezentarea a două elemente de compoziție și limbaj (de exemplu: temă, motiv literar, secvențe lirice, elemente de prozodie, relații de simetrie/ opoziție, arii semantice, laitmotiv, figuri semnatice-tropi etc.) prin referire la opera poetică studiată.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere - 1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere - 1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**In vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul I(50 de puncțj |**
+<b>Subiectul I (50 de puncte)</b>
 
-**Citește următorul fragment:**
+<b>Citește următorul fragment:</b>
 
-***Fiindcă suntem în ajunul Crăciunului și pe străzile Bucureștiului se aud tot felul de colindători urbani y	1***
+<b><i>Fiindcă suntem în ajunul Crăciunului și pe străzile Bucureștiului se aud tot felul de colindători urbani/ suburbani, v-aș propune o întoarcere afectivă în trecut. Cum era sărbătorit Crăciunul în Lisa, în familia Paler
+și în celelalte case? leșeați cu colindul? întâmpinați cu bucurie (și cu lăcomie copilărească) nașterea Domnului? Există scene similare celor din „Amintirile" lui Creangă, cu Humuleștii plini de zăpadă și năzdrăvanii aventurați cu buhaiul? [...]</i></b>
 
-***suburbani, v-aș propune o întoarcere afectivă în trecut. Cum era sărbătorit Crăciunul în Lisa, în familia Pal&	1***
+<i>24 decembrie
 
-***și în celelalte case? leșeați cu colindul? întâmpinați cu bucurie (și cu lăcomie copilărească) nașter^ Domnului? Există scene similare celor din „Amintirile" lui Creangă, cu Humuleștii plini de zăpadă*** șj ***năzdrăvanii aventurați cu buhaiul? [...]***
+O.P.: N-am ieșit în oraș de câteva zile din cauza frigului, dar pocnitorile pe care le aud mi-ar fi semnalizat efe, dacă aș fi uitat, că ne aflăm în ajunul Crăciunului. îmi închipui cum arată colindătorii urbani și suburbani de care-mi vorbiți! Ei îți taie cheful de orice evlavie, probabil. Dacă adaug faptul că febra cumpărăturilor bate spre isterie, cum am văzut la televizor, și că, pe toate canalele, Coca-Cola ne urează sărbători fericite, există condiții excelente pentru o întoarcere afectivă în trecut!
 
-*24 decembrie*
+Mă grăbesc, deci, să dau curs propunerii dumneavoastră, amintindu-mi cu duioșie de o uliță troienită din Lisa de pe la sfârșitul deceniului al doilea (sau de la începutul deceniului al treilea) din secolul trecut, unde un mucos cu numele meu înainta vitejește prin zăpadă cu o sabie de lemn în mâna stângă. în dreapta, ținea o stea țuguiată, compusă din niște șipci de brad pe care fusese lipită cu pap hârtie colorată. De gât avea atârnată o traistă mai mari decât el, plină cu colăcei și mere. Mucosul împlinise patru ani, cred, sau cinci. Oricum, stâlcea cuvintele din colind, nu le putea pronunța bine. Îi anunța, cu mare convingere, pe cei colindați că trei crai de sărărit, spre-o stea au călătorit. Lumea zâmbea, dar lua în serios cât de pătruns era colindătorul de vestea pe care o comunica.
 
-*O.P.: N-am ieșit în oraș de câteva zile din cauza frigului, dar pocnitorile pe care le aud mi-ar fi semnalizat* efe,	f
+Dar în lumea înapoiată din Lisa (spun înapoiată deși știu că autenticitatea nu depinde nici de progres, nici de cultură),  exista ceva ce nu mai întâlnesc azi. O stare specială de Crăciun. O magie care dispare când locul sincerității e luat de agitație. Crăciunul de care îmi amintesc eu avea ceva tainic, ocult (adică ascuns, nu ceea ce înțelegem acum prin ocult). Crăciunul de azi e lipsit de mister. A devenit petrecere. [...] Ce taină, ce mister poți găsi în acest Crăciun împărțit	între urări convenționale și publicitate? Vă spun sincer, pe mine mă lasă indiferent. Sau, chiar, mă obosește.
 
-*dacă aș fi uitat, că ne aflăm în ajunul Crăciunului. îmi închipui cum arată colindătorii urbani și suburbani de care-nn*	I
+Nu cred că e vorba doar de faptul că la bătrânețe memoria înfrumusețează începuturile, dându-le un sens pe care nu l-au avut, poate, și că noutățile par terne. În Lisa existau colindători adevărați. Chiar dacă nu pronunțau bine cuvintele. Poate, mai există și acum. Nu știu. Dar mă îndoiesc.</i>
 
-*vorbiți! Ei îți taie cheful de orice evlavie, probabil. Dacă adaug faptul că febra cumpărăturilor bate spre isterie, cum am văzut la televizor, și că, pe toate canalele, Coca-Cola ne urează sărbători fericite, există condiții excelente pentru o întoarcere afectivă în trecut!*	**I ,**
+Daniel Cristea-Enache, <i>Convorbiri cu Octavian Paler</i>
 
-*Mă grăbesc, deci, să dau curs propunerii dumneavoastră, amintindu-mi cu duioșie de o uliță troienită din Lisa* de *pe la sfârșitul deceniului al doilea (sau de la începutul deceniului al treilea) din secolul trecut, unde un mucos co | numele meu înainta vitejește prin zăpadă cu o sabie de lemn în mâna stângă. în dreapta, ținea o stea țuguiată,	|*
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
+1. Indică sensul structurii <i>lua în serios.</i><span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+2. Menționează două obiecte pe care le avea copilul la colindat.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
+3. Precizează cum poate modifica bătrânețea percepția asupra trecutului, așa cum reiese din text.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+4. Explică, valorificând informațiile din text, motivul pentru care autorul preferă o întoarcere afectivă în trecut.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+5. Prezintă, în 30-50 de cuvinte, semnificația secvenței, evidențiind antiteza dintre trecut și prezent: <i>O stare specială
+de Crăciun. O magie care dispare când locul sincerității e luat de agitație. Crăciunul de care îmi amintesc eu avea ceva tainic, ocult (adică ascuns, nu ceea ce înțelegem acum prin ocult). Crăciunul de azi e lipsit de mister. A devenit < petrecere. [...] Ce taină, ce mister poți găsi în acest Crăciun împărțit între urări convenționale și publicitate?</i>
+<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-*compusă din niște șipci de brad pe care fusese lipită cu pap hârtie colorată. De gât avea atârnată o traistă mai mari*	î
+B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă evoluția tehnologică poate influența sau nu raportarea omului contemporan la datini și tradiții, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.<span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-*decât el, plină cu colăcei și mere. Mucosul împlinise patru ani, cred, sau cinci. Oricum, stâlcea cuvintele din colind,* **j** *nu le putea pronunța bine. îi anunța, cu mare convingere, pe cei colindați că trei crai de sărărit, spre-o stea* ao < *călătorit. Lumea zâmbea, dar lua în serios cât de pătruns era colindătorul de vestea pe care o comunica.*
+În redactarea textului, vei avea în vedere următoarele repere:
 
-*Dar în lumea înapoiată din Lisa (spun înapoiată deși știu că autenticitatea nu depinde nici de progres, nici de cultură}, ' exista ceva ce nu mai întâlnesc azi. O stare specială de Crăciun. O magie care dispare când locul sincerității e luat de | agitație. Crăciunul de care îmi amintesc eu avea ceva tainic, ocult (adică ascuns, nu ceea ce înțelegem acum prin ocult). Crăciunul de azi e lipsit de mister. A devenit petrecere. [...] Ce taină, ce mister poți găsi în acest Crăciun împărțit	(*
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-*între urări convenționale și publicitate? Vă spun sincer, pe mine mă lasă indiferent. Sau, chiar, mă obosește.*
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-*Nu cred că e vorba doar de faptul că la bătrânețe memoria înfrumusețează începuturile, dându-le un sens* pe 1 *care nu l-au avut, poate, și că noutățile par terne. în Lisa existau colindători adevărați. Chiar dacă nu pronunțau bine cuvintele. Poate, mai există și acum. Nu știu. Dar mă îndoiesc.*
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-Daniel Cristea-Enache, *Convorbiri cu Octavian Palei*
+<b>Subiectul al II-lea (10 puncte)</b>
 
-1. **Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
-1. Indică sensul structurii *lua în serios.*	**6 puncte**
-1. ` `TOC \o "1-5" \h \z Menționează două obiecte pe care le avea copilul la colindat.	**6	puncte	(**
-1. Precizează cum poate modifica bătrânețea percepția asupra trecutului, așa cum reiese din text. **6 puncte	J**
-1. Explică, valorificând informațiile din text, motivul pentru care autorul preferă o întoarcere afectivă în trecut. **6 puncte** j
-1. Prezintă, în 30-50 de cuvinte, semnificația secvenței, evidențiind antiteza dintre trecut și prezent: O *stare special	[*
+<b>Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind două trăsături specifice prozei romantice.</b>
 
-*de Crăciun. O magie care dispare când locul sincerității e luat de agitație. Crăciunul de care îmi amintesc eu avea*	**j**
+<i>Se făcuse noaptea. Stelele mari și albe tremurau pe cer și argintul lunii trecea, sfâșiind valurile transparente de nouri ce se-ncrețeau în drumu-i. Noaptea era caldă, îmbătată de mirosul snopurilor de flori; dealurile străluceau sub o pânză de neguri, apa molcomă a lacului ce-nconjura dumbrava era poleită și, tremurând, își arunca din când în când undele sclipitoare spre țărmii adormiți. Și-n mijlocul acestei feerii a nopții lăsate asupra unui rai înconjurat de mare trecea Cezara ca o-nchipuire de zăpadă, cu părul ei lung de aur ce-i ajungea la călcâie... Ea mergea încet... Toate visele, toată încântarea unei aromate nopți de vară îi cuprinsese sufletul ei virgin... ar fi plâns! își aducea aminte de amantul ei și-i părea că-i Eva-n paradis, singură cu durerea ei. Ea veni lângă lac și văzu cărare de prund pe sub apă. începu să treacă și apa fugea rotind împrejurul gleznelor ei... [...] Când ajunse în dumbravă umbra mirositoare a arborilor nalți arunca un reflect albastru asupra pieliței ei, încât părea o statuă de marmură în lumină viorie... Deodată ea văzu prin arbori o figură de om... gândea că-i o închipuire a ei, proiectată pe mrejele de frunze... si acel chip luă din ce în ce conture mai clare... era el.
 
-*ceva tainic, ocult (adică ascuns, nu ceea ce înțelegem acum prin ocult). Crăciunul de azi e lipsit de mister. A devenit < petrecere. [...] Ce taină, ce mister poți găsi în acest Crăciun împărțit între urări convenționale și publicitate?*
+„Ah! gândi ea zâmbind, ce nebună sunt... pretutindenea el, în frumusețea nopții, în tăcerea dumbrăvilor"... El s-apropie... El credea asemenea că are-o-nchipuire aievea înaintea lui...</i>
 
-**6 puncte**
+Mihai Eminescu, <i>Cezara</i>
 
-1. **Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă evoluția tehnologică poate**
+<b>Notă</b>
 
-**influența sau nu raportarea omului contemporan la datini și tradiții, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.	20 de puncte**
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-în redactarea textului, vei avea în vedere următoarele repere:
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
+<b>Subiectul al III-lea (30 de puncte)</b>
 
-argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+<b>Redactează un eseu de minimum 400 de cuvinte în care să prezinți direcția modernistă promovată de E. Lovinescu în cultura română, ilustrându-ți punctul de vedere prin referire la un text narativ/ poetic/ dramatic studiat.</b>
 
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
-
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
-
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
-
-**Subiectul al ll-lea(10 puncte) Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind două trăsături specifice prozei romantice.**
-
-*Se făcuse noaptea. Stelele mari și albe tremurau pe cer și argintul lunii trecea, sfâșiind valurile transparente de nouri ce se-ncrețeau în drumu-i. Noaptea era caldă, îmbătată de mirosul snopurilor de flori; dealurile străluceau sub o pânză de neguri, apa molcomă a lacului ce-nconjura dumbrava era poleită și, tremurând, își arunca din când în când undele sclipitoare spre țărmii adormiți. Și-n mijlocul acestei feerii a nopții lăsate asupra unui rai înconjurat de mare trecea Cezara ca o-nchipuire de zăpadă, cu părul ei lung de aur ce-i ajungea la călcâie... Ea mergea încet... Toate visele, toată încântarea unei aromate nopți de vară îi cuprinsese sufletul ei virgin... ar fi plâns! își aducea aminte de amantul ei și-i părea că-i Eva-n paradis, singură cu durerea ei. Ea veni lângă lac și văzu cărare de prund pe sub apă. începu să treacă și apa fugea rotind împrejurul gleznelor ei... [...] Când ajunse în dumbravă umbra mirositoare a arborilor nalți arunca un reflect albastru asupra pieliței ei, încât părea o statuă de marmură în lumină viorie... Deodată ea văzu prin arbori o figură de om... gândea că-i o închipuire a ei, proiectată pe mrejele de frunze... si acel chip luă din ce în ce conture mai clare... era el.*
-
-*„Ah! gândi ea zâmbind, ce nebună sunt... pretutindenea el, în frumusețea nopții, în tăcerea dumbrăvilor"... El s-apropie... El credea asemenea că are-o-nchipuire aievea înaintea lui...*
-
-Mihai Eminescu, *Cezara*
-
-**Notă**
-
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
-
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
-
-**Subiectul al lll-lea(30 de puncte)**
-
-**Redactează un eseu de minimum 400 de cuvinte în care să prezinți direcția modernistă promovată de E. Lovinescu în cultura română, ilustrându-ți punctul de vedere prin referire la un text narativ/ poetic/ dramatic studiat.**
-
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - prezentarea contextului istoric în care și-a desfășurat activitatea E. Lovinescu;
 - prezentarea ideilor promovate de criticul literar în studiile sale;
 - stabilirea unei relații între ideologia promovată de E. Lovinescu și opera literară aleasă.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**In vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul I(50 de puncte) Citește următorul fragment:**
+<b>Subiectul I (50 de puncte) 
 
-*Cum trebuia să arate noua literatură și ce urma să devină scriitorul în viziunea regimului comunist sunt întrebări cu răspuns simplu: literatura trebuia să fie propagandistică, iar scriitorul un agitator. Mai mult decât proza, poezh era chemată în primul rând să servească acestei cauze, deoarece prin volumul ei redus, putea fi mai ușqj memorizată, multiplicată și, deci, avea o capacitate mai mare de răspândire, de persuadare/ manipulare. Lozinci^ și idealurile revoluționare puteau fi ușor versificate, iar, pe de altă parte, controlul asupra unor astfel de producții era mai simplu.*
+Citește următorul fragment:</b>
 
-*Poezia agitatorică născută în primii ani după violul comunist respecta cu strictețe spiritul și litera esteticii normativa realist-socialiste. Se voia o renegare a trecutului, o desprindere de ermetism, estetism, intimism, dar nu oricum, ci prin înfierarea acestora. Se voia ca poezia să contribuie din plin la schimbarea radicală a mentalității, la făurirea „omului nou“. Literatura acționa la unison cu presa, radioul, școala, armata, cu orice instituție care putea servi la impunerea doctrinei comuniste, devenite unica credință.*
+<i>Cum trebuia să arate noua literatură și ce urma să devină scriitorul în viziunea regimului comunist sunt întrebări cu răspuns simplu: literatura trebuia să fie propagandistică, iar scriitorul un agitator. Mai mult decât proza, poezh era chemată în primul rând să servească acestei cauze, deoarece prin volumul ei redus, putea fi mai ușqj memorizată, multiplicată și, deci, avea o capacitate mai mare de răspândire, de persuadare/ manipulare. Lozinci și idealurile revoluționare puteau fi ușor versificate, iar, pe de altă parte, controlul asupra unor astfel de producții era mai simplu.
 
-*Tonul agresiv, instigarea la ură, damnarea și blamarea dușmanilor de clasă, adică a celor mai bogați sau a* ce/or *care nu se lăsau înregimentați au fost metode de creație care au prins mult mai bine la public decât ar fi prins cine știe ce dulcegării persuasive sau imnuri de slavă. Ba chiar unii, mai zeloși, s-au autoblamat pentru modul de a gândi dinainte de a vedea lumina de la răsărit. Mi-era rușine să mai scriu despre flori/Și stele -/Și iar auzeam în visele mele/Largi, zbuciumate,/Inima omenirii întregi cum se bate: «Vrem pâne, dreptate», mărturisea cu pocăință Magda Isanos.*
+Poezia agitatorică născută în primii ani după violul comunist respecta cu strictețe spiritul și litera esteticii normativa realist-socialiste. Se voia o renegare a trecutului, o desprindere de ermetism, estetism, intimism, dar nu oricum, ci prin înfierarea acestora. Se voia ca poezia să contribuie din plin la schimbarea radicală a mentalității, la făurirea „omului nou“. Literatura acționa la unison cu presa, radioul, școala, armata, cu orice instituție care putea servi la impunerea doctrinei comuniste, devenite unica credință.
 
-*Accesibilitatea era cuvântul de ordine în privința expresiei așa-zis poetice, poeziei pentru inițiați opunându-i-se acum o poezie pe înțelesul tuturor. Principiul clarității și al accesibilității devine un principiu absolut de judecare a „valorii1 poetice. Turnate mai ales în matrița baladei populare, temele amintite erau dezvoltate în adevărate poeme-fluviu care construiau, ca la orice începuturi, o întreagă mitologie. Eroul era însă ieșit din rândul colectivului, un om de jos cu care ceilalți se puteau identifica și, deci, pe care îl puteau imita. Tonalitatea seducătoare a poveștii lipsite de „perversiuni\* stilistice și terminată, evident, cu victoria binelui „nostru" nu avea cum să nu ajungă la inima tuturor.*
+Tonul agresiv, instigarea la ură, damnarea și blamarea dușmanilor de clasă, adică a celor mai bogați sau a celor care nu se lăsau înregimentați au fost metode de creație care au prins mult mai bine la public decât ar fi prins cine știe ce dulcegării persuasive sau imnuri de slavă. Ba chiar unii, mai zeloși, s-au autoblamat pentru modul de a gândi dinainte de a vedea lumina de la răsărit. Mi-era rușine să mai scriu despre flori/Și stele -/Și iar auzeam în visele mele/Largi, zbuciumate,/Inima omenirii întregi cum se bate: «Vrem pâne, dreptate», mărturisea cu pocăință Magda Isanos.
 
-*Dintre figurile de stil, autorul se putea servi de paralelism și de antiteză - pentru a releva și mai mult opoziția vechi-nou, de epitete și metafore cuminți, de câte o comparație tocită pentru a da concretețe faptelor și a le ancora astfel temeinic în mințile oamenilor. în plus, povestea putea fi asezonată cu invective și imprecații în cel mai denotații stil. Nu ambiguități, nu polisemantism, meditații ori limbaj sentențios, ci unul prietenos, spontan, sincer și melodios care să ungă la suflet omul, să-i adoarmă rațiunea.*
+Accesibilitatea era cuvântul de ordine în privința expresiei așa-zis poetice, poeziei pentru inițiați opunându-i-se acum o poezie pe înțelesul tuturor. Principiul clarității și al accesibilității devine un principiu absolut de judecare a „valorii1 poetice. Turnate mai ales în matrița baladei populare, temele amintite erau dezvoltate în adevărate poeme-fluviu care construiau, ca la orice începuturi, o întreagă mitologie. Eroul era însă ieșit din rândul colectivului, un om de jos cu care ceilalți se puteau identifica și, deci, pe care îl puteau imita. Tonalitatea seducătoare a poveștii lipsite de „perversiuni stilistice și terminată, evident, cu victoria binelui „nostru" nu avea cum să nu ajungă la inima tuturor.
 
-Carmen losif, *ESTETIC VS. IDEOLOGIC - bătălia pierdută în literatura din perioada comunista*
+Dintre figurile de stil, autorul se putea servi de paralelism și de antiteză - pentru a releva și mai mult opoziția vechi-nou, de epitete și metafore cuminți, de câte o comparație tocită pentru a da concretețe faptelor și a le ancora astfel temeinic în mințile oamenilor. în plus, povestea putea fi asezonată cu invective și imprecații în cel mai denotații stil. Nu ambiguități, nu polisemantism, meditații ori limbaj sentențios, ci unul prietenos, spontan, sincer și melodios care să ungă la suflet omul, să-i adoarmă rațiunea.i
+
+Carmen losif, <i>ESTETIC VS. IDEOLOGIC - bătălia pierdută în literatura din perioada comunista</i>
 
 ***A.* Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
 
