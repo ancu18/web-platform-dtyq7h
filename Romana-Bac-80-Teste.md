@@ -2986,13 +2986,13 @@ Si cum mergea Ivan, șovăind când la o margine de drum, când la alta, fără 
 
 Atunci Sfântul Petre se pune jos la un capăt de pod, iară Dumnezeu la celălalt și încep a cere de pomană.
 
-Ivan, cum ajunge în dreptul podului, scoate cele două carboave de unde le avea strânse și dă una lui Sfântul Petre și una lui Dumnezeu, zicând:
+Ivan, cum ajunge în dreptul podului, scoate cele două carboave<a id='a13' href='#f13'><sup>13</sup></a> de unde le avea strânse și dă una lui Sfântul Petre și una lui Dumnezeu, zicând:
 
 - Dar din dar se face raiul. Na-vă! Dumnezeu mi-a dat, eu dau, și Dumnezeu iar mi-a da, că are de unde.</i>
 
 Ion Creangă, <i>Ivan Turbincă</i>
 
-carboave - ruble de argint (veche monedă rusească)
+<a id='f13' href='#a13'>13.</a> carboave - ruble de argint (veche monedă rusească)
 
 <b>Notă</b>
 
@@ -3106,50 +3106,47 @@ Dintre figurile de stil, autorul se putea servi de paralelism și de antiteză -
 
 Carmen losif, <i>ESTETIC VS. IDEOLOGIC - bătălia pierdută în literatura din perioada comunista</i>
 
-A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 
-1. Indică sensul structurii *poezia era chemată [...] să servească acestei cauze.*	**6	puncte**
-1. Menționează două obiective pe care și le propune poezia agitatorică.	**6	puncte**
-1. Precizează, pe baza textului, două sentimente ce reies din versurile Magdei	Isanos.	**6	puncte**
-1. Explică de ce poezia este folosită mai mult decât proza pentru a servi cauzei propagandistice.	**6 puncte**
-1. Prezintă, în 30-50 de cuvinte, particularitățile stilistice ale noii poezii, așa cum reies din ultimul alineat. **6 puncte**
+1. Indică sensul structurii <i>poezia era chemată [...] să servească acestei cauze.</i>	<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+2. Menționează două obiective pe care și le propune poezia agitatorică.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
+3. Precizează, pe baza textului, două sentimente ce reies din versurile Magdei	Isanos.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
+4. Explică de ce poezia este folosită mai mult decât proza pentru a servi cauzei propagandistice.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+5. Prezintă, în 30-50 de cuvinte, particularitățile stilistice ale noii poezii, așa cum reies din ultimul alineat.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-**B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă literatura propagandistică îngrădește sau nu libertatea de creație a unui scriitor, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.	20 de puncte**
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă literatura propagandistică îngrădește sau nu libertatea de creație a unui scriitor, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-în redactarea textului, vei avea în vedere următoarele repere:
+În redactarea textului, vei avea în vedere următoarele repere:
 
-- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
-
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
-
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
 
-**g^țigcțul al ll-lea(10 puncte) Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind rolul stilistic al descrierii literare.**
+<b>Subiectul al II-lea (10 puncte)</b> 
+<b>Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind rolul stilistic al descrierii literare.</b>
 
-*pe marginea dunei, acolo unde forfotesc valurile în veșnic neastâmpăr, pescărușii iubitori de furtună își înalță gripele, rămân neclintiți plutitori între cer și apă ca și cum ar fi atârnați de un fir nevăzut, recad și se fac una cu o creastă de val, în stropi argintii se înalță din nou, se alungă în spațiu, se ajung înfrățindu-și zborul în rotocoale, cu cenușiu și alb pătează văzduhul și lămuresc cu țipete stridente anunțând îndepărtata primejdie ce călătorește pe creste. [■■■]*
+<i>Pe marginea dunei, acolo unde forfotesc valurile în veșnic neastâmpăr, pescărușii iubitori de furtună își înalță gripele, rămân neclintiți plutitori între cer și apă ca și cum ar fi atârnați de un fir nevăzut, recad și se fac una cu o creastă de val, în stropi argintii se înalță din nou, se alungă în spațiu, se ajung înfrățindu-și zborul în rotocoale, cu cenușiu și alb pătează văzduhul și lămuresc cu țipete stridente anunțând îndepărtata primejdie ce călătorește pe creste.
 
-*în cenușiul zbor, mai alb ca toți ceilalți, ca o închegare de spumă sau ca o bucată imaculată de zăpadă, din tot nebunul stol, unul singur se avânta mai sus, precum tot el știa să se lase mai bine furat de fluidul element în adâncuri, ca să răsară pe vârful unei creste, ca și cum ar fi fost reînsuflețit și dus de voia valurilor, ca apoi să se ridice ca o săgeată într-un praf de stropi argintii, urmărit de toate cenușiile aripi. [...]*
+În cenușiul zbor, mai alb ca toți ceilalți, ca o închegare de spumă sau ca o bucată imaculată de zăpadă, din tot nebunul stol, unul singur se avânta mai sus, precum tot el știa să se lase mai bine furat de fluidul element în adâncuri, ca să răsară pe vârful unei creste, ca și cum ar fi fost reînsuflețit și dus de voia valurilor, ca apoi să se ridice ca o săgeată într-un praf de stropi argintii, urmărit de toate cenușiile aripi. [...]
 
-*Om sunt ca și cei mulți. în minutul acela însă cu pescărușul iubitor de furtună am fost frate și neavând aripi să zbor, nici destulă energie să mă înalț și să mă pierd în furtună ca dânsul, deschizându-mi fereastra spre larg, mi-am luat albele file și le-am dat drumul în uragan.*
+Om sunt ca și cei mulți. în minutul acela însă cu pescărușul iubitor de furtună am fost frate și neavând aripi să zbor, nici destulă energie să mă înalț și să mă pierd în furtună ca dânsul, deschizându-mi fereastra spre larg, mi-am luat albele file și le-am dat drumul în uragan.
 
-*Si albele file au pornit, s-au dus fâlfâind, marginea crestelor au ras-o și mai sus s-au înălțat, ajungând albul pescăruș și amestecându-se cu dânsul în furtună.*
+Si albele file au pornit, s-au dus fâlfâind, marginea crestelor au ras-o și mai sus s-au înălțat, ajungând albul pescăruș și amestecându-se cu dânsul în furtună.</i>
 
-Dimitrie Anghel, *în furtună*
+Dimitrie Anghel, <i>În furtună</i>
 
-**Notă**
+<b>Notă</b>
 
-pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul al lll-lea(30 de puncte)**
+<b>Subiectul al III-lea (30 de puncte)</b>
 
-**Redactează un eseu de minimum 400 de cuvinte, în care în care să prezinți tema și viziunea despre lume într-o dramă postbelică.**
+<b>Redactează un eseu de minimum 400 de cuvinte, în care în care să prezinți tema și viziunea despre lume într-o dramă postbelică.</b>
 
 în elaborarea eseului, vei avea în vedere următoarele repere:
 
