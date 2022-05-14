@@ -2866,7 +2866,7 @@ Călăria, ca și scrima, nu era, la început, un sport, ci exercițiu utilitar.
 4. Explică motivul pentru care autorul face afirmația <i>Optica lumii e alta</i>, raportându-te la experiența mersului pe cal.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 5. Prezintă, în 30-50 de cuvinte, semnificația pe care o dobândește vânătoarea în viziunea lui Alexandru Paleologu, așa cum apare în ultimul alineat al textului.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă experiența de viață ne poate sau nu ajuta să înțelegem mai bine literatura, raportându-te atât la informațiile din interviul cu Alexandru Paleologu, cât și la experiența personală sau culturală.<span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă experiența de viață ne poate sau nu ajuta să înțelegem mai bine literatura, raportându-te atât la informațiile din interviul cu Alexandru Paleologu, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
 În redactarea textului, vei avea în vedere următoarele repere:
 
@@ -2877,23 +2877,25 @@ Călăria, ca și scrima, nu era, la început, un sport, ci exercițiu utilitar.
 <b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
 <b>Comentează, în minimum 50 de cuvinte, semnificațiile fragmentului următor, evidențiind particularitățile tradiționalismului:</b>
-<i>Prin iarna din cămara zăvorâtă
+
+<i>Prin iarna din cămara zăvorâtă<br>
  Se furișează cald miros de mere, 
  
- Readucând în vremea viscolită 
+ Readucând în vremea viscolită<br> 
  Iar toamna cu trecuta mângâiere, 
  
- Când sufletul împovărat venise, 
+ Când sufletul împovărat venise,<br> 
  Cu târna lui de poame și de vise, în casa amintirilor închise.
 
-Și-n inimi amorțite de-a lor strajă, 
+Și-n inimi amorțite de-a lor strajă,<br> 
 Străbat adânc, îmbălsămând gândirea,
 
-Cu seva lor fierbând din nou sub coajă, Copilărescul dor și amăgirea...
+Cu seva lor fierbând din nou sub coajă,<br> 
+Copilărescul dor și amăgirea...
 
 Și-n inimi, viu ca și întâia oară.
 
-Te scoli din somn, tu, cel de-odinioară, 
+Te scoli din somn, tu, cel de-odinioară,<br> 
 Din somnul tău, copil de-odinioară...</i>
 
 Ion Pillat, <i>Copil de-odinioară</i>
@@ -2924,7 +2926,7 @@ Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pe
 
 <b>Citește următorul fragment:</b>
 
-Abilitățile de lider sunt constant prezentate ca fiind un lucru la care se poate ajunge relativ ușor, pentru care i aproape ca la dietele alimentare - este necesar numai să respecți anumite reguli, mecanic, și apoi o să apară $ efectul.
+<i>Abilitățile de lider sunt constant prezentate ca fiind un lucru la care se poate ajunge relativ ușor, pentru care, aproape ca la dietele alimentare - este necesar numai să respecți anumite reguli, mecanic, și apoi o să apară  efectul.
 
 Din păcate, această prezentare nu este cea corectă, ba chiar poate vinde iluzii, remarcă George Chiriacescu psiholog și psihoterapeut adlerian.
 
@@ -2951,24 +2953,25 @@ Atunci când văd că managerul posedă anumite calități, angajații simt că 
 3. are curaj, adică acționează pentru binele echipei, nu în scop personal;
 4. responsabilizează angajații.
 
-Ideea este că angajații percep un manager care are un comportament altruist că fiind inovați v, ceea ce le dă impresia că poate crea lucruri noi și că poate lucra mai bine cu echipa sa. Mai mult, cei care sunt conduși de astfel de lideri au tendința de a se implica mai mult în proiectul pe care îl au de făcut, dar și să îi copieze comportamentul.
+Ideea este că angajații percep un manager care are un comportament altruist că fiind inovați v, ceea ce le dă impresia că poate crea lucruri noi și că poate lucra mai bine cu echipa sa. Mai mult, cei care sunt conduși de astfel de lideri au tendința de a se implica mai mult în proiectul pe care îl au de făcut, dar și să îi copieze comportamentul.</i>
 
 <i>Modestia în management: De ce un lider bun trebuie să fie umil</i>, Constantin Pescaru,  cariereonline.ro
 
-<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:<b>
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 1. Indică sensul expresiei <i>a fi cu nasul pe sus.</i><span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 2. Menționează, pe baza textului, care sunt calitățile necesare unui lider.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 3. Precizează, valorificând informațiile din text, o consecință a adoptării unei atitudini cu nasul pe sus.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 4. Explică motivul pentru care un manager altruist este perceput în mod pozitiv de angajații săi.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 5. Prezintă, în 30-50 de cuvinte, semnificația fragmentului: <i>Să ai o atitudine umilă, în acest context, nu are legătură cu umilința, cu pierderea statutului, ci cu modestia, cu păstrarea unei atitudini ferme și demne, fără a încerca însă să demonstrezi poziția de putere.</i><span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă modestia este sau nu o calitate importantă în practicarea unei profesii, raportându-te atât la informațiile din fragmentul citat aparținând lui Constantin Pescaru, cât și la experiența personală sau culturală.<span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă modestia este sau nu o calitate importantă în practicarea unei profesii, raportându-te atât la informațiile din fragmentul citat aparținând lui Constantin Pescaru, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
 În redactarea textului, vei avea în vedere următoarele repere:
 
 - formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
 - utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+
 <b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
 <b>Subiectul al II-lea	(10 puncte)</b>
@@ -2981,14 +2984,14 @@ Ivan atunci mulțumi mai-marilor săi și apoi, luându-și rămas bun de la tov
 
 Si cum mergea Ivan, șovăind când la o margine de drum, când la alta, fără să știe unde se duce, puțin mai înaintea lui mergeau din întâmplare, pe-o cărare lăuntrică, Dumnezeu și cu Sfântul Petre, vorbind ei știu ce. [...]
 
-- Doamne, zise atunci Sfântul Petre, speriat: ori hai să ne grăbim, ori să ne dăm într-o parte, nu cumva ostașul cela să aibă harțag, și să ne găsim beleaua cu dânsul. [...]
-- N-ai grijă, Petre, zise Dumnezeu. De drumețul care cântă să nu te temi. Ostașul acesta e un om bun la inimă și milostiv. [...]
+-Doamne, zise atunci Sfântul Petre, speriat: ori hai să ne grăbim, ori să ne dăm într-o parte, nu cumva ostașul cela să aibă harțag, și să ne găsim beleaua cu dânsul. [...]
+-N-ai grijă, Petre, zise Dumnezeu. De drumețul care cântă să nu te temi. Ostașul acesta e un om bun la inimă și milostiv. [...]
 
 Atunci Sfântul Petre se pune jos la un capăt de pod, iară Dumnezeu la celălalt și încep a cere de pomană.
 
 Ivan, cum ajunge în dreptul podului, scoate cele două carboave<a id='a13' href='#f13'><sup>13</sup></a> de unde le avea strânse și dă una lui Sfântul Petre și una lui Dumnezeu, zicând:
 
-- Dar din dar se face raiul. Na-vă! Dumnezeu mi-a dat, eu dau, și Dumnezeu iar mi-a da, că are de unde.</i>
+-Dar din dar se face raiul. Na-vă! Dumnezeu mi-a dat, eu dau, și Dumnezeu iar mi-a da, că are de unde.</i>
 
 Ion Creangă, <i>Ivan Turbincă</i>
 
@@ -3046,7 +3049,7 @@ Daniel Cristea-Enache, <i>Convorbiri cu Octavian Paler</i>
 de Crăciun. O magie care dispare când locul sincerității e luat de agitație. Crăciunul de care îmi amintesc eu avea ceva tainic, ocult (adică ascuns, nu ceea ce înțelegem acum prin ocult). Crăciunul de azi e lipsit de mister. A devenit < petrecere. [...] Ce taină, ce mister poți găsi în acest Crăciun împărțit între urări convenționale și publicitate?</i>
 <span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă evoluția tehnologică poate influența sau nu raportarea omului contemporan la datini și tradiții, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.<span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă evoluția tehnologică poate influența sau nu raportarea omului contemporan la datini și tradiții, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
 În redactarea textului, vei avea în vedere următoarele repere:
 
@@ -3148,59 +3151,52 @@ Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei pr
 
 <b>Redactează un eseu de minimum 400 de cuvinte, în care în care să prezinți tema și viziunea despre lume într-o dramă postbelică.</b>
 
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - evidențierea unei trăsături care face posibilă încadrarea textului într-o tipologie, într-un curent cultural/ literar, într-o perioadă sau într-o orientare tematică;
 - ilustrarea a două elemente de structură și de compoziție ale textului dramatic, semnificative pentru tema aleasă (acțiune, conflicte, relații temporale si spațiale, indicații scenice, moduri de expunere, modalități de construcție a personajului, incipit, final, limbaj etc.);
 - prezentarea protagonistului și rolul său în susținerea temei.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**în vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul I(50 de puncte] Citește următorul fragment:**
+<b>Subiectul I (50 de puncte)</b> 
 
-*în Germania, prietenul cel mai apropiat al lui Caragiale a fost Paul Zarifopol, ginerele lui Gherea. în tovărășia luit scriitorul și-a omorât urâtul care îl rodea departe de țară. Tânărul fililog era la antipodul erudiției pedante, o minte de o mobilitate extraordinară, cu disocieri ascuțite și un meloman cultivat, Caragiale îl vizita adesea la Lipsea, atras de concertele de la Gewandhaus. Zarifopol era un bun pianist, iar Caragiale, ajutat de o memorie muzicală puțin obișnuită, fluiera părți întregi din simfoniile și din operele preferate. Din bogata corespondență, păstrată în întregime,* a *lui Caragiale către Zarifopol, se poate reconstitui fizionomia familiară a celui dintâi. Este ceea ce lipsește pentru epoca de tinerețe și de maturitate a lui Caragiale din țară. Conservate numai în parte, misivele lui Zarifopol ne orientează asupra personalității sale, manifestată în publicistica noastră, mai ales după război. Prin disproporția vârstelor, tânărul corespondent își expune mai puțin ideile, primind cu modestie, rolul de second într-o prietenie* cu *un partener ilustru. Se observă touși, în favoarea lui, o mai mare spontaneitate în vehicularea impresiilor, decât la Caragiale, ale cărui reacțiuni intelectuale au căpătat oarecare automatism. [...] Zarifopol a fost, așadar, adevăratul confident al marelui scriitor din ultimii săi ani. Totodată, Caragiale față de dânsul, și-a dus la ultima expresie* a *rafinamentului calitățile epistolare. în personalitatea sa se învedera o ciudată sciziune: caracterul său sociabil* era *familiar până la trivialitate, în vorbire, fără nicio supraveghere sau frână, poate chiar cu o voită exagerare în timp* ce *scrisorile sale îl arată stilat, de o curtoazie aleasă a unei convenabilități desăvârșite. Nu ne dăm seama prin ce proces sufletesc respectul față de oameni scriitorul respingea orice convenție, în relațiile verbale, cultivându-le însă pe toate în cele epistolare. Poate că din respectul scrisului, care covârșea irespectul față de oameni. [...] Când este vorba de un tovarăș de calitatea lui Zarifopol, cu o inteligență în permanență veghetoare și lucidă, credem că nici în convorbire, Caragiale nu și-a găsit prilejurile să-l maltrateze, ca pe prieteni. Vom accepta deci o comportare egală, atât în întrevederile lor frecvente, ca și în așa de numeroasele scrisori, expediate la Lipsea. Prin vioiciunea sa intelectuală, prin mijloacele sale de judecată personală, prin irespectul său similar față de părerile comune, Zarifopol este tovarășul ideal pe care și-l poate dori scriitorul, în izolarea sa atât de nesuferită. [...] în ceasurile lungi de tăinuire, ale căror pause sunt umplute cu scrisorile migăloase ale unuia, iuți și nervoase ale celuilalt, se confruntă două structuri intelectuale înrudite. Mai întotdeauna sunt de accord în preferințe și în repulsiuni. [...] Cu Zarifopol și ai lui își lărgește parcă familia. Este un Caragiale mai uman, mai afectiv, ocrotitor ca un părinte.*
+<b>Citește următorul fragment:</b>
 
-Șerban Cioculescu, *Viața lui I. L. Caragiale*
+<i>În Germania, prietenul cel mai apropiat al lui Caragiale a fost Paul Zarifopol, ginerele lui Gherea. în tovărășia luit scriitorul și-a omorât urâtul care îl rodea departe de țară. Tânărul fililog era la antipodul erudiției pedante, o minte de o mobilitate extraordinară, cu disocieri ascuțite și un meloman cultivat, Caragiale îl vizita adesea la Lipsea, atras de concertele de la Gewandhaus. Zarifopol era un bun pianist, iar Caragiale, ajutat de o memorie muzicală puțin obișnuită, fluiera părți întregi din simfoniile și din operele preferate. Din bogata corespondență, păstrată în întregime, a lui Caragiale către Zarifopol, se poate reconstitui fizionomia familiară a celui dintâi. Este ceea ce lipsește pentru epoca de tinerețe și de maturitate a lui Caragiale din țară. Conservate numai în parte, misivele lui Zarifopol ne orientează asupra personalității sale, manifestată în publicistica noastră, mai ales după război. Prin disproporția vârstelor, tânărul corespondent își expune mai puțin ideile, primind cu modestie, rolul de second într-o prietenie cu un partener ilustru. Se observă touși, în favoarea lui, o mai mare spontaneitate în vehicularea impresiilor, decât la Caragiale, ale cărui reacțiuni intelectuale au căpătat oarecare automatism. [...] Zarifopol a fost, așadar, adevăratul confident al marelui scriitor din ultimii săi ani. Totodată, Caragiale față de dânsul, și-a dus la ultima expresie a rafinamentului calitățile epistolare. în personalitatea sa se învedera o ciudată sciziune: caracterul său sociabil era familiar până la trivialitate, în vorbire, fără nicio supraveghere sau frână, poate chiar cu o voită exagerare în timp ce scrisorile sale îl arată stilat, de o curtoazie aleasă a unei convenabilități desăvârșite. Nu ne dăm seama prin ce proces sufletesc respectul față de oameni scriitorul respingea orice convenție, în relațiile verbale, cultivându-le însă pe toate în cele epistolare. Poate că din respectul scrisului, care covârșea irespectul față de oameni. [...] Când este vorba de un tovarăș de calitatea lui Zarifopol, cu o inteligență în permanență veghetoare și lucidă, credem că nici în convorbire, Caragiale nu și-a găsit prilejurile să-l maltrateze, ca pe prieteni. Vom accepta deci o comportare egală, atât în întrevederile lor frecvente, ca și în așa de numeroasele scrisori, expediate la Lipsea. Prin vioiciunea sa intelectuală, prin mijloacele sale de judecată personală, prin irespectul său similar față de părerile comune, Zarifopol este tovarășul ideal pe care și-l poate dori scriitorul, în izolarea sa atât de nesuferită. [...] în ceasurile lungi de tăinuire, ale căror pause sunt umplute cu scrisorile migăloase ale unuia, iuți și nervoase ale celuilalt, se confruntă două structuri intelectuale înrudite. Mai întotdeauna sunt de accord în preferințe și în repulsiuni. [...] Cu Zarifopol și ai lui își lărgește parcă familia. Este un Caragiale mai uman, mai afectiv, ocrotitor ca un părinte.</i>
 
-1. **Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
-1. Indică sensul structurii *scriitorul și-a omorât urâtul care îl rodea departe de țară.*	**6 puncte**
-1. Menționează în ce domeniu se va face cunoscută personalitatea lui Zarifopol, mai ales după război. **6 puncte**
-1. Precizează două trăsături ale personalității lui Zarifopol, pe baza textului.	**6 puncte**
-1. Explică, valorificând informațiile din text, de ce I. L. Caragiale păstrează o atitudine respectuoasă față de Zarifopol,
+Șerban Cioculescu, <i>Viața lui I. L. Caragiale</i>
 
-și în vorbire, nu numai în scris.	**6 puncte**
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
+1. Indică sensul structurii <i>scriitorul și-a omorât urâtul care îl rodea departe de țară.</i><span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+2. Menționează în ce domeniu se va face cunoscută personalitatea lui Zarifopol, mai ales după război.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+3. Precizează două trăsături ale personalității lui Zarifopol, pe baza textului.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+4. Explică, valorificând informațiile din text, de ce I. L. Caragiale păstrează o atitudine respectuoasă față de Zarifopol, și în vorbire, nu numai în scris.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+5. Prezintă, în 30-50 de cuvinte, portretul scriitorului I. L. Caragiale, așa cum apare în secvența: <i>în personalitatea sa se învedera o ciudată sciziune: caracterul său sociabil era familiar până la trivialitate, în vorbire, fără nicio supraveghere sau frână, poate chiar cu o voită exagerare în timp ce scrisorile sale îl arată stilat, de o curtoazie aleasă a unei convenabilități desăvârșite.</i><span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-1. Prezintă, în 30-50 de cuvinte, portretul scriitorului I. L. Caragiale, așa cum apare în secvența: *în personalitatea sa*
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă relațiile de prietenie contribuie sau nu la evoluția spirituală a unui scriitor, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-*se învedera o ciudată sciziune: caracterul său sociabil era familiar până la trivialitate, în vorbire, fără nicio supraveghere sau frână, poate chiar cu o voită exagerare în timp ce scrisorile sale îl arată stilat, de o curtoazie aleasă a unei convenabilități desăvârșite.*	**6 puncte**
+În redactarea textului, vei avea în vedere următoarele repere:
 
-1. **Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă relațiile de prietenie**
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-**contribuie sau nu la evoluția spirituală a unui scriitor, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.	20 de puncte**
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-în redactarea textului, vei avea în vedere următoarele repere:
+<b>Subiectul al II-lea (10 puncte)</b> 
 
-- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
+<b>Comentează, în minimum 50 de cuvinte, semnificațiile textului fragmentul dat, evidențiind două procedee artistice diferite.</b>
 
-argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+<i>Față de noi Mama se purta într-un fel, și Tata într-altul. Nu vorbesc acum despre Mama, ca duh al rânduielii, ci despre ea ca o întrupare a duioșiei și a grijei. Tata nu-și da pe față bătăile inimii, ce le avea pentru noi. El se păstra la depărtare, într-o atitudine de asprime, ce părea domolită numai de-un oareșicare dezinteres. El își întindea veghea asupra noastră prin simpla sa prezență, fără a ne ține cu tot prețul sub uitătură. [...] Numai târziu putui să aflu - de la frații mei mai mari și de la alții care i s-au abătut prin apropiere - că Tata era de-o exuberanță și de o volubilitate deosebit de simpatică, atunci când se nimerea: să se simtă în largul său, între prieteni, ce-i arătau înțelegere. Mai aflam că era un liber-cugetător, deși preot. Nici una, nici cealaltă dintre aceste trăsături, nu l-au împiedicat totuși să-și îndeplinească din plin datoria față de altar, cădelniță și catapeteasmă. Prestigiul față de săteni, și l-a sporit și altfel, și mai ales ca mare sfetnic al Lancrămului, în care calitate el dăruia din prisosul minții sale întregului sat. Exemplul său prindea, căci era sugestiv și viu. „Ce face Popa, sau cel cu barbă de argint și cu mintea de aur?” se întrebau țăranii, iscodindu-i cărările și pașii, și-i urmau pilda. Cum popa își îndruma copiii spre carte, țăranii prinseră a face la fel, fără prea multă șovăire sau sfială. Anevoie se va găsi în tot cuprinsul transilvan un alt sat, care să fi azvârlit peste marginile lui pe podișurile mai înalte ale vieții naționale, un mai mare procent de intelectuali decât Lancrămul. [...]</i>
 
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
+Lucian Blaga, <i>Hronicul și cântecul vârstelor</i>
 
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
-
-**Subiectul al ll-lea(10 puncte) Comentează, în minimum 50 de cuvinte, semnificațiile textului fragmentul dat, evidențiind două procedee artistice diferite.**
-
-*Față de noi Mama se purta într-un fel, și Tata într-altul. Nu vorbesc acum despre Mama, ca duh al rânduielii, ci despre ea ca o întrupare a duioșiei și a grijei. Tata nu-și da pe față bătăile inimii, ce le avea pentru noi. El se păstra la depărtare, într-o atitudine de asprime, ce părea domolită numai de-un oareșicare dezinteres. El își întindea veghea asupra noastră prin simpla sa prezență, fără a ne ține cu tot prețul sub uitătură. [...] Numai târziu putui să aflu - de la frații mei mai mari și de la alții care i s-au abătut prin apropiere - că Tata era de-o exuberanță și de o volubilitate deosebit de simpatică, atunci când se nimerea: să se simtă în largul său, între prieteni, ce-i arătau înțelegere. Mai aflam că era un liber-cugetător, deși preot. Nici una, nici cealaltă dintre aceste trăsături, nu l-au împiedicat totuși să-și îndeplinească din plin datoria față de altar, cădelniță și catapeteasmă. Prestigiul față de săteni, și l-a sporit și altfel, și mai ales ca mare sfetnic al Lancrămului, în care calitate el dăruia din prisosul minții sale întregului sat. Exemplul său prindea, căci era sugestiv și viu. „Ce face Popa, sau cel cu barbă de argint și cu mintea de aur?” se întrebau țăranii, iscodindu-i cărările și pașii, și-i urmau pilda. Cum popa își îndruma copiii spre carte, țăranii prinseră a face la fel, fără prea multă șovăire sau sfială. Anevoie se va găsi în tot cuprinsul transilvan un alt sat, care să fi azvârlit peste marginile lui pe podișurile mai înalte ale vieții naționale, un mai mare procent de intelectuali decât Lancrămul. [...]*
-
-Lucian Blaga, *Hronicul și cântecul vârstelor*
-
-**Notă**
+<b>Notă</b>
 
 Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
