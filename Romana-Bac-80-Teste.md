@@ -3198,125 +3198,130 @@ Lucian Blaga, <i>Hronicul și cântecul vârstelor</i>
 
 <b>Notă</b>
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul al lll-lea(30 de puncte)**
+<b>Subiectul al III-lea (30 de puncte)</b>
 
-**Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-o comedie studiată.**
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-o comedie studiată.</b>
 
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - evidențierea unei trăsături care face posibilă încadrarea textului într-o tipologie, într-un curent cultural/ literar, într-o perioadă sau într-o orientare tematică;
 - ilustrarea a două elemente de structură și de compoziție ale textului dramatic, semnificative pentru tema aleasă (acțiune, conflicte, relații temporale și spațiale, indicații scenice, moduri de expunere, modalități de construcție a personajului, incipit, final, limbaj etc.);
 - prezentarea relației dintre două personaje importante în susținerea temei
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**In vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
-
-
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
 
-**Subiectul I(50 de punctgj Citește următorul fragment:**
+<b>Subiectul I (50 de puncte) 
 
-***Din Antarctica până în Papua Noua Guinee, de la Polul Sud până în Africa și Nepal, din India și Tibet pân^ în Europa, din America de Nord până în America de Sud și din Alaska până în Mongolia și Siberia cu Polul Nord, nimic nu a scăpat Măriei Marinescu\*. La 67 de ani, ea este hotărâtă ca explorările să nu se termic aici. Călătoriile sale sunt călătorii ale cunoașterii. Studiază civilizațiile vechi, populațiile care trăiesc în zor\^ îndepărtate, cu tradiții ancestrale.***
+Citește următorul fragment:</b>
 
-***Ce v-a îndemnat să faceți aceste călătorii?***
+<b><i>Din Antarctica până în Papua Noua Guinee, de la Polul Sud până în Africa și Nepal, din India și Tibet până în Europa, din America de Nord până în America de Sud și din Alaska până în Mongolia și Siberia cu Polul Nord, nimic nu a scăpat Măriei Marinescu\*. La 67 de ani, ea este hotărâtă ca explorările să nu se termic aici. Călătoriile sale sunt călătorii ale cunoașterii. Studiază civilizațiile vechi, populațiile care trăiesc în zone îndepărtate, cu tradiții ancestrale.</i></b>
 
-*Precedentul acestor călătorii l-au reprezentat drumețiile din țara mea. Eu sunt pasionată de istoria, cultura, filozofia de viață a popoarelor și atunci caut să călătoresc cât mai mult și să cunosc cât mai mulți oameni. înainte de ‘89 am făcut excursii cu elevii mei din Maramureș până în Dobrogea, din munții Călimani până pe Rarău-Giumalău, locul unde se păstrează relicve ale istoriei vechi a poporului român. în plus, de mică am fost pasionată de expedițiile celebre scrise de Jules Verne, pe care le-am citit în întregime și pe care chiar și acum le mai citesc.*
+<b><i>Ce v-a îndemnat să faceți aceste călătorii?</i></b>
 
-***Cum alegeți o destinație de călătorie?***
+<i>Precedentul acestor călătorii l-au reprezentat drumețiile din țara mea. Eu sunt pasionată de istoria, cultura, filozofia de viață a popoarelor și atunci caut să călătoresc cât mai mult și să cunosc cât mai mulți oameni. înainte de ‘89 am făcut excursii cu elevii mei din Maramureș până în Dobrogea, din munții Călimani până pe Rarău-Giumalău, locul unde se păstrează relicve ale istoriei vechi a poporului român. în plus, de mică am fost pasionată de expedițiile celebre scrise de Jules Verne, pe care le-am citit în întregime și pe care chiar și acum le mai citesc.</i>
 
-*Nu pot spune cu exactitate ce anume mă cheamă într-o direcție sau alta. Este ceva care apare în sufletul meu, eu spun că este o chemare care mă determină să plec cu gândul în direcția aceea. în clipa când acest gând s-a fixat, încep să construiesc: citesc foarte mult, mă documentez despre zona respectivă și despre tot ceea ce s-a întreprins deja în alte expediții acolo. [...]*
+<b><i>Cum alegeți o destinație de călătorie?</i></b>
 
-***Care este locul cel mai drag dintre cele vizitate?***
+<i>Nu pot spune cu exactitate ce anume mă cheamă într-o direcție sau alta. Este ceva care apare în sufletul meu, eu spun că este o chemare care mă determină să plec cu gândul în direcția aceea. în clipa când acest gând s-a fixat, încep să construiesc: citesc foarte mult, mă documentez despre zona respectivă și despre tot ceea ce s-a întreprins deja în alte expediții acolo. [...]</i>
 
-*Pentru mine, Mongolia este cel mai plăcut loc din lume. Este o țară imensă, cu zone de sute de kilometri nelocuite, întâlnești păstori care trăiesc în iurte. Sunt doar trei-patru orașe mai importante. în rest, mergi călare. [...] Este fantastic. Aici am simțit senzația de libertate și faptul că nu depinzi de absolut nimic și de nimeni. Poți să stai acolo o lună, te hrănești cu ce îți oferă natura, nu-ți trebuie altceva.*
+<b><i>Care este locul cel mai drag dintre cele vizitate?</i></b>
 
-***Ce alte sentimente vă încearcă de-a lungul călătoriilor?***
+<i>Pentru mine, Mongolia este cel mai plăcut loc din lume. Este o țară imensă, cu zone de sute de kilometri nelocuite, întâlnești păstori care trăiesc în iurte. Sunt doar trei-patru orașe mai importante. în rest, mergi călare. [...] Este fantastic. Aici am simțit senzația de libertate și faptul că nu depinzi de absolut nimic și de nimeni. Poți să stai acolo o lună, te hrănești cu ce îți oferă natura, nu-ți trebuie altceva.</i>
 
-*Dacă în Mongolia am simțit ce înseamnă libertatea cu adevărat, în Papua Noua Guinee și pe Insula Paștelui am conștientizat sentimentul fericirii depline. Am fost în 2003 în Australia și Oceania și doream foarte mult să ajung în Papua Noua Guinee, despre care lumea îmi spunea că este o țară periculoasă. Inițial am fost dusă pe o insulă așezată pe un recif de corali - o zonă absolut superbă. Apoi, fiindcă doream să călătoresc în zona montană, am primit doi ghizi - doi tineri papuași. Inițial îmi era nițel frică de ei [...], dar până la final ne-am împrietenit și am descoperit că sunt oameni foarte pașnici. M-au invitat să le vizitez satul de colibe și a fost o experiență extraordinară. Acolo am văzut pentru prima dată o pasăre unicat - kasoay- care are se pare reminiscențe din perioada glaciațiunii. [...] Ei bine, în mijlocul acestor oameni care seară de seară se adună în jurul focului pentru a mânca, dansa și cânta m-am simțit fericită. [...]*
+<b><i>Ce alte sentimente vă încearcă de-a lungul călătoriilor?</i></b>
 
-***Cum ați defini exploratorul?***
+<i>Dacă în Mongolia am simțit ce înseamnă libertatea cu adevărat, în Papua Noua Guinee și pe Insula Paștelui am conștientizat sentimentul fericirii depline. Am fost în 2003 în Australia și Oceania și doream foarte mult să ajung în Papua Noua Guinee, despre care lumea îmi spunea că este o țară periculoasă. Inițial am fost dusă pe o insulă așezată pe un recif de corali - o zonă absolut superbă. Apoi, fiindcă doream să călătoresc în zona montană, am primit doi ghizi - doi tineri papuași. Inițial îmi era nițel frică de ei [...], dar până la final ne-am împrietenit și am descoperit că sunt oameni foarte pașnici. M-au invitat să le vizitez satul de colibe și a fost o experiență extraordinară. Acolo am văzut pentru prima dată o pasăre unicat - kasoay- care are se pare reminiscențe din perioada glaciațiunii. [...] Ei bine, în mijlocul acestor oameni care seară de seară se adună în jurul focului pentru a mânca, dansa și cânta m-am simțit fericită. [...]</i>
 
-*A fi explorator înseamnă a-ți alege o viață pentru a cunoaște. Explorarea reprezintă o călătorie a cunoașterii, în special a cunoașterii oamenilor, a vedea cum trăiesc ei și a recunoaște că până la urmă ceilalți sunt tot oameni ca și noi. Nu există nicio diferență între boșimanii din deșertul Kalahari și un papuaș din Papua Noua Guinee. Există doar moduri diferite de a opta pentru o cale sau alta în viață.*
+<b><i>Cum ați defini exploratorul?</i></b>
 
-Alice-Claudia Gherman, *în jurul lumii,* interviu cu Uca Marinescu
+<i>A fi explorator înseamnă a-ți alege o viață pentru a cunoaște. Explorarea reprezintă o călătorie a cunoașterii, în special a cunoașterii oamenilor, a vedea cum trăiesc ei și a recunoaște că până la urmă ceilalți sunt tot oameni ca și noi. Nu există nicio diferență între boșimanii din deșertul Kalahari și un papuaș din Papua Noua Guinee. Există doar moduri diferite de a opta pentru o cale sau alta în viață.</i>
 
-*\*Maria Uca Marinescu (n. 15 mai 1940) este o exploratoare română, ce deține funcția de președinte al*
+Alice-Claudia Gherman, <i>În jurul lumii</i>, interviu cu Uca Marinescu
 
-**interviul cu Maria Uca Marinescu, cât și la experiența personală sau culturală.	20 de puncte**
+Maria Uca Marinescu (n. 15 mai 1940) este o exploratoare română, ce deține funcția de președinte al
 
-fn redactarea textului, vei avea în vedere următoarele repere:
 
-„formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;	14 **puncte**
+interviul cu Maria Uca Marinescu, cât și la experiența personală sau culturală.	<span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-„utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.	6 puncte
+În redactarea textului, vei avea în vedere următoarele repere:
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-**Subiectul al ll-lea(10 puncte)**
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-**Comentează, în minimum 50 de cuvinte, semnificațiile fragmentului următor, evidențiind două trăsături ale realismului.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-*Iorgovan se opri, și parcă-i venea să se întoarcă.*
+<b>Subiectul al II-lea (10 puncte)</b>
 
-*Aici era Simina.*
+<b>Comentează, în minimum 50 de cuvinte, semnificațiile fragmentului următor, evidențiind două trăsături ale realismului.</b>
 
-*Ce să-i zică? ce să-i facă? ce voia el cu dânsa?*
+<i>Iorgovan se opri, și parcă-i venea să se întoarcă.
 
-*Putea el, om în toată firea, să-i spună c-a venit atâta drum de dragul ei?! Ori putea să-i spună că numai din întâmplare a nimerit pe aici?!*
+Aici era Simina.
 
-*Dar de unde știa el ce poate și ce nu poate?! [...]*
+Ce să-i zică? ce să-i facă? ce voia el cu dânsa?
 
-*S-a nimerit așa. Pe când alți flăcăi se ațineau mereu după dânsa, feciorul lui Busuioc stetea departe și numai din când în când îi zicea câte-o vorbă, pe care numai dânsa putea s-o înțeleagă, și nici aceasta nu era vorbă de dragoste, ci vorbă scurtă, a omului ce vrea să-și ascundă durerea.*
+Putea el, om în toată firea, să-i spună c-a venit atâta drum de dragul ei?! Ori putea să-i spună că numai din întâmplare a nimerit pe aici?!
 
-*Văzându-I acum intrat pe portiță, ea își curmă lucrul, aruncă ochii la el, puse încet suveica pe pânza întinsă, apoi se ridică și-și făcu cruce.*
+Dar de unde știa el ce poate și ce nu poate?! [...]
 
-*Un fior, unul singur, îi trecu tot trupul și o aruncă cu un an în urmă: îi venea să închidă ochii și să se repeadă la el. [...]*
+S-a nimerit așa. Pe când alți flăcăi se ațineau mereu după dânsa, feciorul lui Busuioc stetea departe și numai din când în când îi zicea câte-o vorbă, pe care numai dânsa putea s-o înțeleagă, și nici aceasta nu era vorbă de dragoste, ci vorbă scurtă, a omului ce vrea să-și ascundă durerea.
 
-- *Așa-i că te miri? zise el oprindu-se în fața ei, însă fără de a privi drept la dânsa.*
-- *Nu știu - îi răspunse ea, începând să tremure - știu însă că-mi pare bine.*
-- *Am venit să te iau la seceriș!*
-- *Mai știu și eu?! zise ea. Taica n-avea de gând să meargă... [...]\oan* Slavici, *Pădureanca*
+Văzându-l acum intrat pe portiță, ea își curmă lucrul, aruncă ochii la el, puse încet suveica pe pânza întinsă, apoi se ridică și-și făcu cruce.
 
-**Notă**
+Un fior, unul singur, îi trecu tot trupul și o aruncă cu un an în urmă: îi venea să închidă ochii și să se repeadă la el. [...]
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+&ndash; Așa-i că te miri? zise el oprindu-se în fața ei, însă fără de a privi drept la dânsa.<br>
+&ndash; Nu știu - îi răspunse ea, începând să tremure - știu însă că-mi pare bine.<br>
+&ndash; Am venit să te iau la seceriș!<br>
+&ndash; Mai știu și eu?! zise ea. Taica n-avea de gând să meargă... [...]</i>
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+Ioan Slavici, <i>Pădureanca</i>
 
-**Subiectul al lll-lea(30 de puncte)**
+<b>Notă</b>
 
-**Redactează un eseu de minimum 400 de cuvinte, în care să prezinți particularitățile de construcție a unui personaj într-o comedie de I. L. Caragiale.**
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-în elaborarea eseului, vei avea în vedere următoarele repere:
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
+
+<b>Subiectul al III-lea (30 de puncte)</b>
+
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți particularitățile de construcție a unui personaj într-o comedie de I. L. Caragiale.</b>
+
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - prezentarea statutului social, psihologic, moral al personajului ales;
 - evidențierea a două trăsături ale personajului ales prin două scene/ secvențe comentate;
 - analiza, la alegere, a două elemente de structură: conflict, subiect, relații temporale și spațiale, construcția subiectului, perspectivă narativă, modalități de caracterizare, limbaj etc.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere - 1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere - 1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**în vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
 
-**Subiectul I(50 de puncte] Citește următorul fragment:**
+<b>Subiectul I (50 de puncte) 
 
-*în cele dintâi zile după întoarcerea mea în țară, tatăl meu mă conduse pe la toate rudele și pe la toți prietenii săi, precum și pe la alți bărbați influenți a căror prietenie sau bunăvoință putea să-mi fie de folos. în ziua de Sf. Mihai și Gavril, 8 noiembrie 1863, merserăm să felicităm mai multe persoane cu acest nume, și, între altele, făcurăm o vizită și căpitanului Mihai Cerkez, care pe departe se înrudea cu noi. Acest tânăr ofițer cu care m-am împrietenit mai târziu așa de mult, ale cărui succese militare în războiul de la 1877 mi-au făcut așa mare mulțumire, și al cărui nenorocit sfârșit m-a mâhnit foarte adânc, îmi făcu o prea bună impresiune și din întâiul moment a început prietenia noastră. Abia ne opriserăm vreun sfert de ceas la Cerkez, când veni în vizită la dânsul un personaj ce-mi produse efectul cel mai curios. Mic de statură, cu umerii cam ridicați, cu ochii mari și vii, vorbind despre lucrurile care îmi păreau cele mai importante cu ușurință și nepăsare, luând pe toată lumea în zeflemea, stând strâmb pe scaun, părăsind convorbirea în mijlocul vizitei, și deschizând cărți din bibliotecă, pentru a râde de Cerkez, care le cetea, luând peste picior toate obicieiurile sociale, acest om - Vasile Pogor - trebuia, fără îndoială să pară foarte ciudat unui tânăr ca mine, abia venit din Germania, unde mă deprinsesem cu un respect, poate exagerat, pentru formele și convențiile sociale. Eu rămesei uimit și pot zice că impresiunea întâi a lui Pogor mi-a fost puțin simpatică, de nu chiar displăcută.*
+Citește următorul fragment:</b>
 
-- *Curios om e acesta, zisei către tatăl meu, la plecare, mi s-a părut obraznic și cam într-o doagă.*
-- *Nu te uita la apucăturile aceste ale sale, e un tânăr inteligent, s-a deosebit ca judecător, printr-un mare sentiment de dreptate, ceea ce la noi este rar, are și avere, păcat însă că e cam leneș - nu-i prea place să lucreze și în aceasta se deosebește de tatăl său, cu care am fost prieten.*
+<i>În cele dintâi zile după întoarcerea mea în țară, tatăl meu mă conduse pe la toate rudele și pe la toți prietenii săi, precum și pe la alți bărbați influenți a căror prietenie sau bunăvoință putea să-mi fie de folos. în ziua de Sf. Mihai și Gavril, 8 noiembrie 1863, merserăm să felicităm mai multe persoane cu acest nume, și, între altele, făcurăm o vizită și căpitanului Mihai Cerkez, care pe departe se înrudea cu noi. Acest tânăr ofițer cu care m-am împrietenit mai târziu așa de mult, ale cărui succese militare în războiul de la 1877 mi-au făcut așa mare mulțumire, și al cărui nenorocit sfârșit m-a mâhnit foarte adânc, îmi făcu o prea bună impresiune și din întâiul moment a început prietenia noastră. Abia ne opriserăm vreun sfert de ceas la Cerkez, când veni în vizită la dânsul un personaj ce-mi produse efectul cel mai curios. Mic de statură, cu umerii cam ridicați, cu ochii mari și vii, vorbind despre lucrurile care îmi păreau cele mai importante cu ușurință și nepăsare, luând pe toată lumea în zeflemea, stând strâmb pe scaun, părăsind convorbirea în mijlocul vizitei, și deschizând cărți din bibliotecă, pentru a râde de Cerkez, care le cetea, luând peste picior toate obicieiurile sociale, acest om - Vasile Pogor - trebuia, fără îndoială să pară foarte ciudat unui tânăr ca mine, abia venit din Germania, unde mă deprinsesem cu un respect, poate exagerat, pentru formele și convențiile sociale. Eu rămesei uimit și pot zice că impresiunea întâi a lui Pogor mi-a fost puțin simpatică, de nu chiar displăcută.
+
+&ndash; Curios om e acesta, zisei către tatăl meu, la plecare, mi s-a părut obraznic și cam într-o doagă.
+- Nu te uita la apucăturile aceste ale sale, e un tânăr inteligent, s-a deosebit ca judecător, printr-un mare sentiment de dreptate, ceea ce la noi este rar, are și avere, păcat însă că e cam leneș - nu-i prea place să lucreze și în aceasta se deosebește de tatăl său, cu care am fost prieten.*
 
 *Auzind lăudându-se astfel calitățile lui Pogor, abia am lăsat să treacă o săptămână și m-am dus să-l văd acasă la el. Voiam să-i propun ca împreună să facem un șir de prelegeri publice cum le inaugurase Maiorescu la începutul aceluiași an. Eram doritor să mă fac cunoscut, să dau semne de viață, să fac ca lumea să vorbească de mine. Fie că dorința de a se deosebi este naturală tinereții, fie că eram pe atunci plin de asemenea aspirații, și m-am schimbat foarte mult mai târziu în această privință, nici, îmi puteam închipui că un tânăr inteligent și cu învățătură să nu împărtășească simțirile acelea. Care fu însă dezamăgirea mea, când Pogor îmi răspunse nu cu entuziam, precum mă așteptam eu, dar cu cea mai desăvârșită nepăsare:*
 
