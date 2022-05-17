@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="styles.css" />
+﻿<link rel="stylesheet" href="styles.css" />
 <div class="bf_toc_container">
   <div class="bf_toc_title">
     <center>Cuprins</center>
@@ -3320,16 +3320,16 @@ Citește următorul fragment:</b>
 
 <i>În cele dintâi zile după întoarcerea mea în țară, tatăl meu mă conduse pe la toate rudele și pe la toți prietenii săi, precum și pe la alți bărbați influenți a căror prietenie sau bunăvoință putea să-mi fie de folos. în ziua de Sf. Mihai și Gavril, 8 noiembrie 1863, merserăm să felicităm mai multe persoane cu acest nume, și, între altele, făcurăm o vizită și căpitanului Mihai Cerkez, care pe departe se înrudea cu noi. Acest tânăr ofițer cu care m-am împrietenit mai târziu așa de mult, ale cărui succese militare în războiul de la 1877 mi-au făcut așa mare mulțumire, și al cărui nenorocit sfârșit m-a mâhnit foarte adânc, îmi făcu o prea bună impresiune și din întâiul moment a început prietenia noastră. Abia ne opriserăm vreun sfert de ceas la Cerkez, când veni în vizită la dânsul un personaj ce-mi produse efectul cel mai curios. Mic de statură, cu umerii cam ridicați, cu ochii mari și vii, vorbind despre lucrurile care îmi păreau cele mai importante cu ușurință și nepăsare, luând pe toată lumea în zeflemea, stând strâmb pe scaun, părăsind convorbirea în mijlocul vizitei, și deschizând cărți din bibliotecă, pentru a râde de Cerkez, care le cetea, luând peste picior toate obicieiurile sociale, acest om - Vasile Pogor - trebuia, fără îndoială să pară foarte ciudat unui tânăr ca mine, abia venit din Germania, unde mă deprinsesem cu un respect, poate exagerat, pentru formele și convențiile sociale. Eu rămesei uimit și pot zice că impresiunea întâi a lui Pogor mi-a fost puțin simpatică, de nu chiar displăcută.
 
-&ndash; Curios om e acesta, zisei către tatăl meu, la plecare, mi s-a părut obraznic și cam într-o doagă.
-- Nu te uita la apucăturile aceste ale sale, e un tânăr inteligent, s-a deosebit ca judecător, printr-un mare sentiment de dreptate, ceea ce la noi este rar, are și avere, păcat însă că e cam leneș - nu-i prea place să lucreze și în aceasta se deosebește de tatăl său, cu care am fost prieten.*
+&ndash; Curios om e acesta, zisei către tatăl meu, la plecare, mi s-a părut obraznic și cam într-o doagă.<br>
+&ndash; Nu te uita la apucăturile aceste ale sale, e un tânăr inteligent, s-a deosebit ca judecător, printr-un mare sentiment de dreptate, ceea ce la noi este rar, are și avere, păcat însă că e cam leneș - nu-i prea place să lucreze și în aceasta se deosebește de tatăl său, cu care am fost prieten.
 
-*Auzind lăudându-se astfel calitățile lui Pogor, abia am lăsat să treacă o săptămână și m-am dus să-l văd acasă la el. Voiam să-i propun ca împreună să facem un șir de prelegeri publice cum le inaugurase Maiorescu la începutul aceluiași an. Eram doritor să mă fac cunoscut, să dau semne de viață, să fac ca lumea să vorbească de mine. Fie că dorința de a se deosebi este naturală tinereții, fie că eram pe atunci plin de asemenea aspirații, și m-am schimbat foarte mult mai târziu în această privință, nici, îmi puteam închipui că un tânăr inteligent și cu învățătură să nu împărtășească simțirile acelea. Care fu însă dezamăgirea mea, când Pogor îmi răspunse nu cu entuziam, precum mă așteptam eu, dar cu cea mai desăvârșită nepăsare:*
+Auzind lăudându-se astfel calitățile lui Pogor, abia am lăsat să treacă o săptămână și m-am dus să-l văd acasă la el. Voiam să-i propun ca împreună să facem un șir de prelegeri publice cum le inaugurase Maiorescu la începutul aceluiași an. Eram doritor să mă fac cunoscut, să dau semne de viață, să fac ca lumea să vorbească de mine. Fie că dorința de a se deosebi este naturală tinereții, fie că eram pe atunci plin de asemenea aspirații, și m-am schimbat foarte mult mai târziu în această privință, nici, îmi puteam închipui că un tânăr inteligent și cu învățătură să nu împărtășească simțirile acelea. Care fu însă dezamăgirea mea, când Pogor îmi răspunse nu cu entuziam, precum mă așteptam eu, dar cu cea mai desăvârșită nepăsare:
 
-- *A început asemenea cursuri Maiorescu, să așteptăm întoarcerea sa din străinătate.*
-- *De ce să pierdem vreme, întâmpinai eu, cam necăjit; când va reveni Maiorescu, el va putea urma cursurile începute; până atunci să facem noi; sunt și alte chestiuni interesante de tratat, nu este numai filosof ia...*
-- *Să vie Maiorescu, răspunse încă o dată Pogor scurt, rece, și schimbă vorba. [...]*
+&ndash; A început asemenea cursuri Maiorescu, să așteptăm întoarcerea sa din străinătate.<br>
+&ndash; De ce să pierdem vreme, întâmpinai eu, cam necăjit; când va reveni Maiorescu, el va putea urma cursurile începute; până atunci să facem noi; sunt și alte chestiuni interesante de tratat, nu este numai filosof ia...<br>
+&ndash; Să vie Maiorescu, răspunse încă o dată Pogor scurt, rece, și schimbă vorba. [...]</i>
 
-lacob Negruzzi, *Amintiri din Junimea*
+Iacob Negruzzi,  Amintiri din Junimea*
 
 **A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
 
