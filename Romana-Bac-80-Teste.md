@@ -3329,80 +3329,82 @@ Auzind lăudându-se astfel calitățile lui Pogor, abia am lăsat să treacă o
 &ndash; De ce să pierdem vreme, întâmpinai eu, cam necăjit; când va reveni Maiorescu, el va putea urma cursurile începute; până atunci să facem noi; sunt și alte chestiuni interesante de tratat, nu este numai filosof ia...<br>
 &ndash; Să vie Maiorescu, răspunse încă o dată Pogor scurt, rece, și schimbă vorba. [...]</i>
 
-Iacob Negruzzi,  Amintiri din Junimea*
+Iacob Negruzzi, <i>Amintiri din Junimea</i>
 
-**A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 
-1. Indică sensul din text al structurii a *lua în zeflemea.*	**6	puncte**
-1. Menționează ce impresie îi stârnește autorului întâlnirea cu	Mihai Cerkez.	**6	puncte**
-1. Precizează două ambiții ale autorului la vârsta tinereții.	**6	puncte**
-1. Explică ce atitudine are lacob Negruzzi când află răspunsul	lui Vasile Pogor la	inițiativa sa.	**6	puncte**
-1. Prezintă, în 30-50 de cuvinte, portretul lui Vasile Pogor, așa	cum reiese din textul	dat.	**6	puncte**
+1. Indică sensul din text al structurii <i>a lua în zeflemea</i>.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
+2. Menționează ce impresie îi stârnește autorului întâlnirea cu	Mihai Cerkez.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
+3. Precizează două ambiții ale autorului la vârsta tinereții.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
+4. Explică ce atitudine are Iacob Negruzzi când află răspunsul	lui Vasile Pogor la	inițiativa sa.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
+5. Prezintă, în 30-50 de cuvinte, portretul lui Vasile Pogor, așa	cum reiese din textul	dat.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-**B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă normele de bună conduită pot influența sau nu relațiile interumane, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.	20 de puncte**
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă normele de bună conduită pot influența sau nu relațiile interumane, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-în redactarea textului, vei avea în vedere următoarele repere:
+În redactarea textului, vei avea în vedere următoarele repere:
 
-- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
+<b>Subiectul al II-lea (10 puncte)</b>
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+<b>Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind două trăsături specifice prozei moderne subiective.</b>
 
-**șnhiectul al ll-lea(10 puncte) Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind două trăsături specifice prozei moderne subiective.**
+<i>Îndrăgostirea aceasta, unică în felul ei, nu fu treptată, cu încolțit și dat în pârg; ea izbucni dintr-o dată pârdalnică, pustiitoare și Pantazi nici nu încercă măcar să i se împotrivească, se lăsă să meargă cât mai adânc, până la fund, găsind o voluptate în a se ațâța și suferi. Tot timpul se gândea la dânsa, vorbea numai de dânsa, mă ruga să-i vorbesc de dânsa orice, rău chiar, dar să fie de dânsa. [...] Ce avea de gând a-i spune acesteia, lucruri minunate și bine aduse, adesea înduioșătoare, mi le spunea mie; pe dânsa o ocolea, când se afla în fața ei se fâstâcea, îngâna ceva neînțeles și fugea, fiindu-i frică și s-o privească. [...] Și fără îndoială nici n-ar fi mers mai departe dacă, îndemnat de prietenia cea mai curată pentru amândoi și convins că le fac cel mai mare bine, nu mi-aș fi pus eu în cap să-i unesc prin căsătorie.
 
-*îndrăgostirea aceasta, unică în felul ei, nu fu treptată, cu încolțit și dat în pârg; ea izbucni dintr-o dată pârdalnică, pustiitoare și Pantazi nici nu încercă măcar să i se împotrivească, se lăsă să meargă cât mai adânc, până la fund, găsind o voluptate în a se ațâța și suferi. Tot timpul se gândea la dânsa, vorbea numai de dânsa, mă ruga să-i vorbesc de dânsa orice, rău chiar, dar să fie de dânsa. [...] Ce avea de gând a-i spune acesteia, lucruri minunate și bine aduse, adesea înduioșătoare, mi le spunea mie; pe dânsa o ocolea, când se afla în fața ei se fâstâcea, îngâna ceva neînțeles și fugea, fiindu-i frică și s-o privească. [...] Și fără îndoială nici n-ar fi mers mai departe dacă, îndemnat de prietenia cea mai curată pentru amândoi și convins că le fac cel mai mare bine, nu mi-aș fi pus eu în cap să-i unesc prin căsătorie.*
+Într-o seară, pe trezie, cum se pornise iar să-mi îndruge cât de mult o iubește, i-am spus verde că mă îndoiam. I se părea numai; să fi fost adevărat, era până atunci măcar logodit. Ce aștepta să se dea pe față și să-i ceară deschis mâna? Găseam că nu știa să-și prețuiască norocul de a fi întâlnit din nou întrupat peste mai bine de treizeci de ani visul său de iubire, și de data asta desăvârșit, într-o ființă de aceeași teapă cu dânsul. [...] Auzind acestea, Pantazi, care până atunci mă ascultase ca prostit, mărginindu-se a mă îngâna uneori, papagalicește, tresări deodată, se reculese. Făcusem să-i zbârnâie în suflet coarda geloziei, deșteptasem simțimântul adânc omenesc că e mai puțin dureros să nu ai ceva decât să-l aibă altul, femeia mai ales. Pricina llincăi era astfel câștigată...</i>
 
-*într-o seară, pe trezie, cum se pornise iar să-mi îndruge cât de mult o iubește, i-am spus verde că mă îndoiam. I se părea numai; să fi fost adevărat, era până atunci măcar logodit. Ce aștepta să se dea pe față și să-i ceară deschis mâna? Găseam că nu știa să-și prețuiască norocul de a fi întâlnit din nou întrupat peste mai bine de treizeci de ani visul său de iubire, și de data asta desăvârșit, într-o ființă de aceeași teapă cu dânsul. [...] Auzind acestea, Pantazi, care până atunci mă ascultase ca prostit, mărginindu-se a mă îngâna uneori, papagalicește, tresări deodată, se reculese. Făcusem să-i zbârnâie în suflet coarda geloziei, deșteptasem simțimântul adânc omenesc că e mai puțin dureros să nu ai ceva decât să-l aibă altul, femeia mai ales. Pricina llincăi era astfel câștigată...*
+Mateiu I. Caragiale, <i>Craii de Curtea-Veche</i> 
 
-Mateiu I. Caragiale, *Craii de Curtea-Veche* **Notă**
+<b>Notă</b>
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul al lll-lea(30 de puncte)**
+<b>Subiectul al III-lea (30 de puncte)</b>
 
-**Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un roman studiat la clasă, aparținând perioadei postbelice, între anii 1960 și 1980.**
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un roman studiat la clasă, aparținând perioadei postbelice, între anii 1960 și 1980.</b>
 
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - evidențierea a două trăsături care fac posibilă încadrarea romanului studiat într-o perioadă sau într-o orientare tematică;
 - ilustrarea a două elemente de structură si de compoziție ale textului narativ, semnificative pentru tema aleasă (de exemplu: acțiune, conflicte, relații temporale și spațiale, perspectivă narativă, tehnici narative, incipit, final, limbaj etc.);
 - comentarea a două citate/ secvențe narative, semnificative pentru tema și viziunea despre lume.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**în vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
 
-**Subiectul I(50 de punctej Citește următorul fragment:**
+<b>Subiectul I (50 de puncte) 
 
-*Filmul „Ion - Blestemul pământului, blestemul iubirii" (1979), în regia lui Mircea Mureșan, după un scenariu semnat de Titus Popovici, reprezintă ecranizarea romanului „Ion", al prozatorului Liviu Rebreanu, care a marcat adevărata trecere către realismul obiectiv, cu tentă socială, din literatura română. E. Lovinescu aprecia acest roman drept „cea mai puternică creațiune obiectivă a literaturii române", potrivit site-ului crispedia.ro, iar G. Călinescu scria, în „Istoria literaturii române de la origini până în prezent", că „Ion" este o „pânza enormă [...], o epopee perfectă".*
+Citește următorul fragment:</b>
 
-*Filmul este compus, de fapt, din două serii autonome, „Blestemul pământului” și „Blestemul iubirii”, iar pentru obținerea acestei autonomii, cea de-a doua parte începe cu un montaj de secvențe din prima parte. în anul 1980, materialul filmat a fost remontat și s-au adăugat secvențe noi, realizându-se, astfel, un serial TV, în cinci episoade, ce a fost intitulat „Ion". în 1984, s-a realizat și o versiune scurtă a filmului, special pentru difuzare în Statele Unite al Americii și în Canada, notează site-ul aarc.ro.*
+<i>Filmul „Ion - Blestemul pământului, blestemul iubirii" (1979), în regia lui Mircea Mureșan, după un scenariu semnat de Titus Popovici, reprezintă ecranizarea romanului „Ion", al prozatorului Liviu Rebreanu, care a marcat adevărata trecere către realismul obiectiv, cu tentă socială, din literatura română. E. Lovinescu aprecia acest roman drept „cea mai puternică creațiune obiectivă a literaturii române", potrivit site-ului crispedia.ro, iar G. Călinescu scria, în „Istoria literaturii române de la origini până în prezent", că „Ion" este o „pânza enormă [...], o epopee perfectă".
 
-*„Ion - Blestemul pământului, blestemul iubirii" reprezintă filmul de debut al actorului Șerban lonescu, pe care îl regăsim în rolul principal. Alături de el, în film mai joacă actorii Petre Gheorghiu - în rolul lui Vasile Baciu, Ioana Crăciunescu - în rolul Anei, Sorina Stănculescu - în rolul Floricăi și Valentin Teodosiu - în rolul lui Gheorghe Bulbuc.*
+Filmul este compus, de fapt, din două serii autonome, „Blestemul pământului” și „Blestemul iubirii”, iar pentru obținerea acestei autonomii, cea de-a doua parte începe cu un montaj de secvențe din prima parte. în anul 1980, materialul filmat a fost remontat și s-au adăugat secvențe noi, realizându-se, astfel, un serial TV, în cinci episoade, ce a fost intitulat „Ion". în 1984, s-a realizat și o versiune scurtă a filmului, special pentru difuzare în Statele Unite al Americii și în Canada, notează site-ul aarc.ro.
 
-*Filmările au început în vara anului 1978, desfășurându-se în județul Sibiu, și s-au încheiat în februarie 1979. în 1980, filmul a primit, din partea Asociației Cineaștilor din România (ACIN), premiul special al juriului, premiile pentru imagine, pentru interpretare feminină, acordat Ioanei Crăciunescu și diploma de onoare, decernată actorului Șerban lonescu, menționează site-ul aarc.ro. [...]*
+„Ion - Blestemul pământului, blestemul iubirii" reprezintă filmul de debut al actorului Șerban lonescu, pe care îl regăsim în rolul principal. Alături de el, în film mai joacă actorii Petre Gheorghiu - în rolul lui Vasile Baciu, Ioana Crăciunescu - în rolul Anei, Sorina Stănculescu - în rolul Floricăi și Valentin Teodosiu - în rolul lui Gheorghe Bulbuc.
 
-*încă din titlul filmului, recunoaștem respectarea firului epic al romanului, căci prozatorul însuși l-a construit în două părți, respectiv „Glasul pământului" și „Glasul iubirii", surprinzând, astfel, cele două mari obsesii ale eroului, pământul și iubirea, acestea fiind și cele două teme principale. Pământul său, mai exact, posesia pământului determină poziția socială în lumea satului, poziție atât de râvnită de către personajul principal, pentru care este dispus să sacrifice iubirea, cea de-a doua temă a romanului și, implicit, a filmului. Destinul lui Ion este conturat de aceste două mari coordonate. [...]*
+Filmările au început în vara anului 1978, desfășurându-se în județul Sibiu, și s-au încheiat în februarie 1979. în 1980, filmul a primit, din partea Asociației Cineaștilor din România (ACIN), premiul special al juriului, premiile pentru imagine, pentru interpretare feminină, acordat Ioanei Crăciunescu și diploma de onoare, decernată actorului Șerban lonescu, menționează site-ul aarc.ro. [...]
 
-*în materialul „Ecranizări în serie. Anii 1976-1980“ și publicat pe site-ul [www.viataromaneasca.eu](http://www.viataromaneasca.eu), Călin Stănculescu aprecia filmul drept „o ecranizare ambițioasă", amintind, totodată, că „ampla frescă socială și psihologică imaginată de Liviu Rebreanu este și ea supusă rigorilor cenzurii comuniste, solicitându-se eliminarea textelor și imaginilor cu trimiteri la ritualuri religioase sau la conflicte etnice. “*
+Încă din titlul filmului, recunoaștem respectarea firului epic al romanului, căci prozatorul însuși l-a construit în două părți, respectiv „Glasul pământului" și „Glasul iubirii", surprinzând, astfel, cele două mari obsesii ale eroului, pământul și iubirea, acestea fiind și cele două teme principale. Pământul său, mai exact, posesia pământului determină poziția socială în lumea satului, poziție atât de râvnită de către personajul principal, pentru care este dispus să sacrifice iubirea, cea de-a doua temă a romanului și, implicit, a filmului. Destinul lui Ion este conturat de aceste două mari coordonate. [...]
 
-Andreea Onogea, *Teatru și filme românești: „Ion - blestemul pământului, blestemul iubirii" (1979),* Agerpres
+În materialul „Ecranizări în serie. Anii 1976-1980“ și publicat pe site-ul [www.viataromaneasca.eu](http://www.viataromaneasca.eu), Călin Stănculescu aprecia filmul drept „o ecranizare ambițioasă", amintind, totodată, că „ampla frescă socială și psihologică imaginată de Liviu Rebreanu este și ea supusă rigorilor cenzurii comuniste, solicitându-se eliminarea textelor și imaginilor cu trimiteri la ritualuri religioase sau la conflicte etnice."</i>
 
-**A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
+Andreea Onogea, <i>Teatru și filme românești: „Ion - blestemul pământului, blestemul iubirii" (1979)</i>, Agerpres
 
-1. Indică sensul structurii *a marcat adevărata trecere către realismul obiectiv.*	**6	puncte**
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
+
+1. Indică sensul structurii <i>a marcat adevărata trecere către realismul obiectiv.i	**6	puncte**
 1. Menționează numele regizorului și al scenaristului filmului prezentat.	**6	puncte**
 1. Precizează numele a două surse online, la care se face referire în articolul citat.	**6	puncte**
 1. Explică ce reprezintă pământul în societatea rurală din care face parte Ion.	**6	puncte**
