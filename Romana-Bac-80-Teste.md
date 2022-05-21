@@ -3405,72 +3405,71 @@ Andreea Onogea, <i>Teatru și filme românești: „Ion - blestemul pământului
 <b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 
 1. Indică sensul structurii <i>a marcat adevărata trecere către realismul obiectiv.</i><span style='background-color:yellow;float:right;font-weight:bold'>6	puncte**
-1. Menționează numele regizorului și al scenaristului filmului prezentat.	**6	puncte**
-1. Precizează numele a două surse online, la care se face referire în articolul citat.	**6	puncte**
-1. Explică ce reprezintă pământul în societatea rurală din care face parte Ion.	**6	puncte**
-1. Prezintă, în 30-50 de cuvinte, impactul regimului comunist asupra unor producții artistice, așa cum reiese din ultimul
+2. Menționează numele regizorului și al scenaristului filmului prezentat.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
+3. Precizează numele a două surse online, la care se face referire în articolul citat.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+4. Explică ce reprezintă pământul în societatea rurală din care face parte Ion.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
+5. Prezintă, în 30-50 de cuvinte, impactul regimului comunist asupra unor producții artistice, așa cum reiese din ultimul alineat al textului.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-alineat al textului.	**6 puncte**
+<b>B. Redactează un text, de minimum 150 de cuvinte, în care să argumentezi dacă ecranizările după opere literare pot înlocui sau nu lectura operei respective, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-**B. Redactează un text, de minimum 150 de cuvinte, în care să argumentezi dacă ecranizările după opere literare pot înlocui sau nu lectura operei respective, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.	20 de puncte**
+În redactarea textului, vei avea în vedere următoarele repere:
 
-în redactarea textului, vei avea în vedere următoarele repere:
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
-
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
-
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
-
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
 
-**gnhiectul al ll-lea(10 puncte) prezintă, în minimum 50 de cuvinte, caracterizarea personajului principal, evidențiind două mijloace de caracterizare folosite în text.**
+<b>Subiectul al II-lea (10 puncte) 
 
-*Deveneam un adolescent dificil, cu bizarerii și idei absurde. Sunt convins că fără apariția ei „în viața mea“, în anii ^0 liceu, aș fi pierdut definitiv contactul cu lumea reală. Citeam toată ziua și o mare parte din noapte, descoperind, din aproape în aproape, întregi familii de poeți (căci citeam în primul rând poezie), pe care îi exploram apoi individual, împrumutând cărți de la vreo patru biblioteci la care eram abonat. Tot ce-mi plăcea rețineam foarte ușor și, în pauze, pe când colegii mei jucau ping-pong pe catedră, eu umpleam tabla cu versuri din Verlaine sau Eluard. La franceză și latină alcătuiam fraze cu exemple bizare. Dacă trebuia să conjug un verb în propoziții, scriam de pildă „Floarea neagră văzu vulpea transparentă" sau „Eu lovesc verdele cu o vacă de piersici", având grijă ca, formal, exercițiul să fie corect. Bineînțeles că sărmanele profesoare înlemneau.*
+Prezintă, în minimum 50 de cuvinte, caracterizarea personajului principal, evidențiind două mijloace de caracterizare folosite în text.</b>
 
-*Dar învățam foarte bine și luasem niște premii la „concursurile de creație", așa că mă lăsau cu toții în pace. Mă socoteam uneori condamnat și îmi disprețuiam profund colegii. Scriam, desigur, și eu versuri în niște caiete, îmi începusem și un jurnal, pe care atâta l-am recitit încât aproape că îl știu și-acum pe dinafară.*
+<i>Deveneam un adolescent dificil, cu bizarerii și idei absurde. Sunt convins că fără apariția ei „în viața mea“, în anii ^0 liceu, aș fi pierdut definitiv contactul cu lumea reală. Citeam toată ziua și o mare parte din noapte, descoperind, din aproape în aproape, întregi familii de poeți (căci citeam în primul rând poezie), pe care îi exploram apoi individual, împrumutând cărți de la vreo patru biblioteci la care eram abonat. Tot ce-mi plăcea rețineam foarte ușor și, în pauze, pe când colegii mei jucau ping-pong pe catedră, eu umpleam tabla cu versuri din Verlaine sau Eluard. La franceză și latină alcătuiam fraze cu exemple bizare. Dacă trebuia să conjug un verb în propoziții, scriam de pildă „Floarea neagră văzu vulpea transparentă" sau „Eu lovesc verdele cu o vacă de piersici", având grijă ca, formal, exercițiul să fie corect. Bineînțeles că sărmanele profesoare înlemneau.
 
-*Fiecare lectură nouă era pentru mine o nouă viață. Am fost, pe rând, cu toată ființa mea, Camus, Kafka, Sartre, Celine, Bacovia, Voronca, Rimbaud și Valery. Abia observam ce se petrece în jurul meu. [...]*
+Dar învățam foarte bine și luasem niște premii la „concursurile de creație", așa că mă lăsau cu toții în pace. Mă socoteam uneori condamnat și îmi disprețuiam profund colegii. Scriam, desigur, și eu versuri în niște caiete, îmi începusem și un jurnal, pe care atâta l-am recitit încât aproape că îl știu și-acum pe dinafară.
 
-Mircea Cărtărescu, *Gemenii*
+Fiecare lectură nouă era pentru mine o nouă viață. Am fost, pe rând, cu toată ființa mea, Camus, Kafka, Sartre, Celine, Bacovia, Voronca, Rimbaud și Valery. Abia observam ce se petrece în jurul meu. [...]</i>
 
-**Notă**
+Mircea Cărtărescu, <i>Gemenii</i>
 
-pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+<b>Notă</b>
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-**Subiectul al lll-lea(30 de puncte) Redactează un eseu de minimum 400 de cuvinte, în care să prezinți ideile promovate de criticismul junimist,** în elaborarea eseului, vei avea în vedere următoarele repere:
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
+
+<b>Subiectul al III-lea (30 de puncte) 
+
+Redactează un eseu de minimum 400 de cuvinte, în care să prezinți ideile promovate de criticismul junimist, în elaborarea eseului, vei avea în vedere următoarele repere:</b>
 
 - încadrarea societății Junimea în contextul istorico-literar;
 - rolul lui Titu Maiorescu în promovarea obiectivelor suținute de societatea Junimea;
 - prezentarea a două articole/ studii critice de referință ale lui Titu Maiorescu.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**în vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
+<b>Subiectul I (50 de puncte) 
 
-**Subiectul I(50 de puncte) Citește următorul fragment:**
+Citește următorul fragment:</b>
 
-*[...] Consider că literatura nu este în opoziție cu computerul, ci e mai curând stră-străbunica lui. La fel ca rețeaua electronică, și în literatură se pleacă de la o interfață convențională care ea însăși rămâne mută și opacă până în momentul în care o comandă dată de o minte curioasă (sau, dimpotrivă, plictisită) nu o pune în mișcare. Odată trezită la viață de ochiul cititorului, de răsfoitul leneș ori febril al paginii sau - de ce nu? - de click-ul unui mouse, realitatea virtuală a operei se concretizează, deschide ferestre peste ferestre, activează programe subprograme și face să ruleze pe ecranul interior (acesta - este adevărat- mai puțin spectaculos, deși nu mai puțin animat decât ecranul monitorului) fascinante lumi posibile. Orice carte literară este un mic computer așezat în raft, care se pune în mișcare nu prin comenzi tastate pe claviatură, ci prin acel Enter încastrat în și declanșat de ochiul meu. Dacă avem în vedere o singură carte, s-ar putea spune că numărul programelor este limitat (deși ele sunt, în fond, inepuizabile), dar dacă ne raportăm la literatura ca întreg, atunci se poate spune că aceasta constituie* o *realitate virtuală care conține o infinitate de lumi posibile. Este un lucru pe care îl exprimă Bastian, eroul lui Michael Ende din **Poveste fără sfârșit,** atunci când i se cere să ducă toate basmele începute până la capăt: „Sunt nenumărate povești, strigă Bastian, și din fiecare răsar mereu altele noi". Tot Bastian descoperă nu doar că poveștile și lumile care se deschid odată cu ele sunt nenumărate, dar și că „orice poveste adevărată este o poveste fără sfârșit". Aceasta înseamnă că una și aceeași poveste își deschide lumea pentru fiecare din cititorii săi (utilizatorii, dacă preferați), reîncepe (mereu proaspătă) pentru fiecare în parte. La fel ca un joc pe computer, și textul literar are niveluri diferite care se dezvăluie treptat pentru cei destoinici sau rămân pentru multă vreme inaccesibile pentru cei grăbiți, speriați sau lipsiți de perseverență. Trecerea de la un nivel la altul aduce imagini mai complexe, un spor de putere și un plus de semnificații. La ce folosesc toate aceste câștiguri în fond virtuale și simbolice? Au același folos ca inimile suplimentare, claponii sau tăvile cu cartofi prăjiți dobândite în cursele și bătăliile din realitatea virtuală electronică, [...] ca stima, respectul, tandrețea și iubirea, care ele, toate, nu ajută la nimic, dar îți sporesc viața, îi dau intensitate și adâncime.*
+<i>[...] Consider că literatura nu este în opoziție cu computerul, ci e mai curând stră-străbunica lui. La fel ca rețeaua electronică, și în literatură se pleacă de la o interfață convențională care ea însăși rămâne mută și opacă până în momentul în care o comandă dată de o minte curioasă (sau, dimpotrivă, plictisită) nu o pune în mișcare. Odată trezită la viață de ochiul cititorului, de răsfoitul leneș ori febril al paginii sau - de ce nu? - de click-ul unui mouse, realitatea virtuală a operei se concretizează, deschide ferestre peste ferestre, activează programe subprograme și face să ruleze pe ecranul interior (acesta - este adevărat- mai puțin spectaculos, deși nu mai puțin animat decât ecranul monitorului) fascinante lumi posibile. Orice carte literară este un mic computer așezat în raft, care se pune în mișcare nu prin comenzi tastate pe claviatură, ci prin acel Enter încastrat în și declanșat de ochiul meu. Dacă avem în vedere o singură carte, s-ar putea spune că numărul programelor este limitat (deși ele sunt, în fond, inepuizabile), dar dacă ne raportăm la literatura ca întreg, atunci se poate spune că aceasta constituie o realitate virtuală care conține o infinitate de lumi posibile. Este un lucru pe care îl exprimă Bastian, eroul lui Michael Ende din <b>Poveste fără sfârșit</b>, atunci când i se cere să ducă toate basmele începute până la capăt: „Sunt nenumărate povești, strigă Bastian, și din fiecare răsar mereu altele noi". Tot Bastian descoperă nu doar că poveștile și lumile care se deschid odată cu ele sunt nenumărate, dar și că „orice poveste adevărată este o poveste fără sfârșit". Aceasta înseamnă că una și aceeași poveste își deschide lumea pentru fiecare din cititorii săi (utilizatorii, dacă preferați), reîncepe (mereu proaspătă) pentru fiecare în parte. La fel ca un joc pe computer, și textul literar are niveluri diferite care se dezvăluie treptat pentru cei destoinici sau rămân pentru multă vreme inaccesibile pentru cei grăbiți, speriați sau lipsiți de perseverență. Trecerea de la un nivel la altul aduce imagini mai complexe, un spor de putere și un plus de semnificații. La ce folosesc toate aceste câștiguri în fond virtuale și simbolice? Au același folos ca inimile suplimentare, claponii sau tăvile cu cartofi prăjiți dobândite în cursele și bătăliile din realitatea virtuală electronică, [...] ca stima, respectul, tandrețea și iubirea, care ele, toate, nu ajută la nimic, dar îți sporesc viața, îi dau intensitate și adâncime.</i>
 
-Sanda Cordoș, *Un loc în care viața este mai densă,* în „Dilema Veche", nr. 242, 28 septembrie 2008
+Sanda Cordoș, <i>Un loc în care viața este mai densă</i>, în „Dilema Veche", nr. 242, 28 septembrie 2008
 
-**A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 
-1. Indică două cuvinte/ structuri din câmpul lexical al cărții.	**6 puncte**
-1. Menționează o asemănare între literatură și computer, transcriind un pasaj relevant.	**6	puncte**
-1. Precizează care este semnificația enunțului *orice poveste adevărată este o poveste	fără sfârșit.*	**6 puncte**
-1. Explică relația dintre textul literar și jocul pe computer, utilizând informațiile din textul	dat.	**6	puncte**
-1. Prezintă, în 30-50 de cuvinte, opinia autoarei referitoare la impactul literaturii asupra	omului.	**6	puncte**
+1. Indică două cuvinte/ structuri din câmpul lexical al cărții.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+2. Menționează o asemănare între literatură și computer, transcriind un pasaj relevant.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
+3. Precizează care este semnificația enunțului <i>orice poveste adevărată este o poveste	fără sfârșit</i>.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+4. Explică relația dintre textul literar și jocul pe computer, utilizând informațiile din textul	dat.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+5. Prezintă, în 30-50 de cuvinte, opinia autoarei referitoare la impactul literaturii asupra	omului.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
 
 **B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă literatura, în epoca digitală, este sau nu în opoziție cu computerul, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.	20 de puncte**
 
