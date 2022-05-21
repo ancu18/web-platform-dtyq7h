@@ -3404,7 +3404,7 @@ Andreea Onogea, <i>Teatru și filme românești: „Ion - blestemul pământului
 
 <b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 
-1. Indică sensul structurii <i>a marcat adevărata trecere către realismul obiectiv.i	**6	puncte**
+1. Indică sensul structurii <i>a marcat adevărata trecere către realismul obiectiv.</i><span style='background-color:yellow;float:right;font-weight:bold'>6	puncte**
 1. Menționează numele regizorului și al scenaristului filmului prezentat.	**6	puncte**
 1. Precizează numele a două surse online, la care se face referire în articolul citat.	**6	puncte**
 1. Explică ce reprezintă pământul în societatea rurală din care face parte Ion.	**6	puncte**
