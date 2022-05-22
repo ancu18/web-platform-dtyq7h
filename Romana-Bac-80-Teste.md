@@ -3481,9 +3481,9 @@ Sanda Cordoș, <i>Un loc în care viața este mai densă</i>, în „Dilema Vech
 
 <b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 <b>Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind două trăsături ale modernismului.</b><p><i>C-un zâmbet îndrăzneț privesc în mine și inima </p><p>*mi-o prind în mână. Tremurând îmi strâng comoara la ureche și ascult.*</p>|
-| :- | :-
 
-*îmi pare*
+
+*îmi pare
 
 *că țin în mâini o scoică,*
 
