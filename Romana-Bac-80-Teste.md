@@ -3471,23 +3471,16 @@ Sanda Cordoș, <i>Un loc în care viața este mai densă</i>, în „Dilema Vech
 4. Explică relația dintre textul literar și jocul pe computer, utilizând informațiile din textul	dat.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 5. Prezintă, în 30-50 de cuvinte, opinia autoarei referitoare la impactul literaturii asupra	omului.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
 
-**B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă literatura, în epoca digitală, este sau nu în opoziție cu computerul, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.	20 de puncte**
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă literatura, în epoca digitală, este sau nu în opoziție cu computerul, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-în redactarea textului, vei avea în vedere următoarele repere:
+În redactarea textului, vei avea în vedere următoarele repere:
 
-- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.</span>6 puncte</span>
 
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
-
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
-
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
-
-**Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind două trăsături ale**
-
-|**modernismului.**|<p>*C-un zâmbet îndrăzneț privesc în mine și inima*</p><p>*mi-o prind în mână. Tremurând îmi strâng comoara la ureche și ascult.*</p>|
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
+<b>Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind două trăsături ale modernismului.</b><p><i>C-un zâmbet îndrăzneț privesc în mine și inima</p><p>*mi-o prind în mână. Tremurând îmi strâng comoara la ureche și ascult.*</p>|
 | :- | :- |
 
 *îmi pare*
