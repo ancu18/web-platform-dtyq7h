@@ -3483,116 +3483,109 @@ Sanda Cordoș, <i>Un loc în care viața este mai densă</i>, în „Dilema Vech
 
 <b>Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind două trăsături ale modernismului.
 
-</b><p><i>C-un zâmbet îndrăzneț privesc în mine și inima </p><p>*mi-o prind în mână. Tremurând îmi strâng comoara la ureche și ascult.*</p>|
+</b><p><i>C-un zâmbet îndrăzneț privesc în mine și inima</i></p><p><i>mi-o prind în mână. Tremurând îmi strâng comoara la ureche și ascult.</i></p>
 
+<i>Îmi pare
 
-*îmi pare
+că țin în mâini o scoică,
 
-*că țin în mâini o scoică,*
+în care
 
-*în care*
+prelung și neînțeles
 
-*prelung și neînțeles*
+răsună zvonul unei mări necunoscute.
 
-*răsună zvonul unei mări necunoscute.*
+O, voi ajunge, voi ajunge vreodat’ la malul acelei mări pe care azi o simt dar nu o văd?</i>
 
-*O, voi ajunge, voi ajunge vreodat’ la malul acelei mări pe care azi o simt dar nu o văd?*
+Lucian Blaga, <i>Scoica</i>
 
-Lucian Blaga, *Scoica*
+<b>Notă</b>
 
-**Notă**
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+<b>Subiectul al III-lea (30 de puncte)</b>
 
-**Subiectul al lll-lea(30 de puncte)**
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți condiția femeii, așa cum apare într-un roman din perioada interbelică studiat la clasă.</b>
 
-**Redactează un eseu de minimum 400 de cuvinte, în care să prezinți condiția femeii, așa cum apare într-un roman din perioada interbelică studiat la clasă.**
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
-în elaborarea eseului, vei avea în vedere următoarele repere:
+- prezentarea statutului social, psihologic, moral etc. al personajului ales;
 
--prezentarea statutului social, psihologic, moral etc. al personajului ales;
+- evidențierea a două trăsături ale personajului prin câte o secvență comentată;
 
-\- evidențierea a două trăsături ale personajului prin câte o secvență comentată;
+- analiza, la alegere, a două componente de structură și de limbaj ale textului studiat, semnificative pentru personaj, din seria: acțiune, conflict, modalități de caracterizare, limbaj.
 
--analiza, la alegere, a două componente de structură și de limbaj ale textului studiat, semnificative pentru personaj, din seria: acțiune, conflict, modalități de caracterizare, limbaj.
-
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**In vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
 
-**Subiectul I(50 de puncte;**
+<b>Subiectul I (50 de puncte)</b>
 
-**Citește următorul fragment:**
+<b>Citește următorul fragment:</b>
 
-*Darwin ne spune că multe soiuri de maimuțe au aplecare spre băutura ceaiului, a cafelei și a spirtoaselor;* „e/e *sunt în stare, zice el, să fumeze și tutun cu multă plăcere, precum însumi am văzut. Brehm povestește că locuitorii din Africa de miazănoapte prind pavianii cei sălbatici punându-le la locurile unde se adună vase pline cu bere, de care se îmbată. El a văzut mai multe maimuțe în această stare și ne dă o descriere foarte hazlie despre purtarea lor și despre grimasele ciudate ce le făceau. A doua zi erau foarte rău dispuse și mahmure, de durere își țineau capul cu amândouă mâinile și înfățișau o privire din cele mai duioase. Dacă li se oferea bere sau vin, se depărtau cu dezgust, darie plăcea mult zama de lămâie. O maimuță americană, un ateles, după ce se îmbătase o dată cu rachiu, n-a mai vrut să-l mai bea și a fost, prin urmare, mai cuminte decât mulți oameni" (Ch. Darwin, Descendența omului și selecțiunea sexuală, 1,1).*
+<i>Darwin ne spune că multe soiuri de maimuțe au aplecare spre băutura ceaiului, a cafelei și a spirtoaselor; „ele sunt în stare, zice el, să fumeze și tutun cu multă plăcere, precum însumi am văzut. Brehm povestește că locuitorii din Africa de miazănoapte prind pavianii cei sălbatici punându-le la locurile unde se adună vase pline cu bere, de care se îmbată. El a văzut mai multe maimuțe în această stare și ne dă o descriere foarte hazlie despre purtarea lor și despre grimasele ciudate ce le făceau. A doua zi erau foarte rău dispuse și mahmure, de durere își țineau capul cu amândouă mâinile și înfățișau o privire din cele mai duioase. Dacă li se oferea bere sau vin, se depărtau cu dezgust, darie plăcea mult zama de lămâie. O maimuță americană, un ateles, după ce se îmbătase o dată cu rachiu, n-a mai vrut să-l mai bea și a fost, prin urmare, mai cuminte decât mulți oameni" (Ch. Darwin, Descendența omului și selecțiunea sexuală, 1.1).
 
-*Va să zică plăcerea noastră pentru amețeala artificială, produsă prin plante și preparatele lor, este întemeiată pe o predispoziție strămoșească, comună nouă cu celelalte rudenii de aproape, cu maimuțele de exemplu, din al căror neam ne coborâm.*
+Va să zică plăcerea noastră pentru amețeala artificială, produsă prin plante și preparatele lor, este întemeiată pe o predispoziție strămoșească, comună nouă cu celelalte rudenii de aproape, cu maimuțele de exemplu, din al căror neam ne coborâm.
 
-*Nu ne vom mira dar de lățirea cea mare a acelui obicei și de feluritele mijloace pentru mulțumirea lui. Cânepa, macul, vița-de-vie, tutunul etc., etc. sunt producte ale naturii cu care omul își nutrește pasiunea lui pentru amețeală.*
+Nu ne vom mira dar de lățirea cea mare a acelui obicei și de feluritele mijloace pentru mulțumirea lui. Cânepa, macul, vița-de-vie, tutunul etc., etc. sunt producte ale naturii cu care omul își nutrește pasiunea lui pentru amețeală.
 
-*Există însă un fel de beție deosebită între toate prin mijlocul cel extraordinar al producerii ei, care se arată a fi privilegiul exclusiv al omului, în ciuda celorlalte animale: este beția de cuvinte.*
+Există însă un fel de beție deosebită între toate prin mijlocul cel extraordinar al producerii ei, care se arată a fi privilegiul exclusiv al omului, în ciuda celorlalte animale: este beția de cuvinte.
 
-*Cuvântul, ca și alte mijloace de beție, e, până la un grad oarecare, un stimulent al inteligenței. Consumat însă în cantități prea mari și mai ales preparat astfel încât să se prea eterizeze și să-și piardă cu totul cuprinsul intuitiv al realității, el devine un mijloc puternic pentru amețirea inteligenței. Efectele caracteristice ale oricărei beții sunt atunci și efectele lui. [...]*
+Cuvântul, ca și alte mijloace de beție, e, până la un grad oarecare, un stimulent al inteligenței. Consumat însă în cantități prea mari și mai ales preparat astfel încât să se prea eterizeze și să-și piardă cu totul cuprinsul intuitiv al realității, el devine un mijloc puternic pentru amețirea inteligenței. Efectele caracteristice ale oricărei beții sunt atunci și efectele lui. [...]
 
-*Simptomele patologice ale amețelei produse prin întrebuințarea nefirească a cuvintelor ni se înfățișează treptat după intensitatea îmbolnăvirii. Primul simptom este o cantitate nepotrivită a vorbelor în comparare cu spiritul căruia vor să-i servească de îmbrăcăminte.*
+Simptomele patologice ale amețelei produse prin întrebuințarea nefirească a cuvintelor ni se înfățișează treptat după intensitatea îmbolnăvirii. Primul simptom este o cantitate nepotrivită a vorbelor în comparare cu spiritul căruia vor să-i servească de îmbrăcăminte.
 
-*în curând se arată al doilea simptom în depărtarea oricărui spirit și întrebuințarea cuvintelor seci; atunci tonul gol al vocalelor și consonantelor a uimit mintea scriitorului sau vorbitorului, cuvintele curg într-o confuzie naivă și creierii sunt turburați numai de necontenita vibrare a nervilor acustici. Vine apoi slăbirea manifestă a inteligenței: pierderea oricărui șir logic, contrazicerea gândurilor puse lângăolaltă, violența nemotivată a limbajului.*
+În curând se arată al doilea simptom în depărtarea oricărui spirit și întrebuințarea cuvintelor seci; atunci tonul gol al vocalelor și consonantelor a uimit mintea scriitorului sau vorbitorului, cuvintele curg într-o confuzie naivă și creierii sunt turburați numai de necontenita vibrare a nervilor acustici. Vine apoi slăbirea manifestă a inteligenței: pierderea oricărui șir logic, contrazicerea gândurilor puse lângăolaltă, violența nemotivată a limbajului.</i>
 
-Titu Maiorescu, *Beția de cuvinte*
+Titu Maiorescu, <i>Beția de cuvinte</i>
 
-1. **Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
-1. Indică două cuvinte/ structuri din câmpul lexical al limbajului.	**6 puncte**
-1. Menționează care este definiția *cuvântului,* așa cum apare din textul dat.	**6 puncte**
-1. Precizează care este rolul citatului din *Descendența omului și selecțiunea sexuală,* de Ch. Darwin, în demonstrația
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
+1. Indică două cuvinte/ structuri din câmpul lexical al limbajului.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+2. Menționează care este definiția <i>cuvântului</i>, așa cum apare din textul dat.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+3. Precizează care este rolul citatului din <i>Descendența omului și selecțiunea sexuală</i>, de Ch. Darwin, în demonstrația lui Titu Maiorescu.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+4. Explică două simptome ale <i>beției de cuvinte</i>, utilizând informațiile din textul dat.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+5. Prezintă, în 30 - 50 de cuvinte, semnificațiile ultimului enunț al fragmentului dat.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-lui Titu Maiorescu.	**6 puncte**
+B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă „beția de cuvinte", așa cum este văzută de Titu Maiorescu, poate duce sau nu la manipularea omului prin discursuri, raportându-te atât la informațiile din text, cât și la experiența personală sau culturală.<span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-1. Explică două simptome ale *beției de cuvinte,* utilizând informațiile din textul dat.	**6 puncte**
-1. Prezintă, în 30 - 50 de cuvinte, semnificațiile ultimului enunț al fragmentului dat.	**6 puncte**
-1. **Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă „beția de cuvinte", așa cum**
+În redactarea textului, vei avea în vedere următoarele repere:
 
-**este văzută de Titu Maiorescu, poate duce sau nu la manipularea omului prin discursuri, raportându-te atât la informațiile din text, cât și la experiența personală sau culturală.	20 de puncte**
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-în redactarea textului, vei avea în vedere următoarele repere:
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+<b>Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind două trăsături ale prozei moderne.</b>
 
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
+<i>Continui să-i amintesc de tinerețea pierdută. Pentru ce fac acest lucru, nedelicat, între altele, și fiindcă vorbesc ^ereu despre mine? Ce se petrece sub conștiința mea? E mândria de a-i arăta că nu sunt un imbecil, care crede că mai e încă tânăr? E dorința de a o asigura că nu pot avea gânduri lăturalnice, fiindcă tocmai poate încep să le am? E regretul că sunt prea bătrân pentru ea și nevoia de a mă lamenta, fie chiar ei, poate mai ales ei? E dorința de a fi din nou combătut de ea? (Până acum încă nu mi-a „dovedit" că sunt tânăr.) Azi m-a întrebat cu asprime pentru ce țin atât de mult s-o conving că sunt bătrân. Mi-a plăcut tonul ei. Așa se bucură bolnavii închipuiți când medicii strigă la ei și-i dau afară, ca să-i convingă mai bine că sunt sănătoși. Și apoi tonul ei de mustrare dovedește că nu mă mai respectă atâta, ceea ce e încântător, și că și-a luat drepturi asupra mea, ceea ce e și mai încântător. Dar bag de seamă că filele jurnalului au ajuns niște adevărate „foi de observație". îmi iau pulsul și temperatura de câteva ori pe zi. E cel mai bun mijloc de a deveni bolnav, ori de a agrava o afecțiune contractată.
 
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
+...pentru ce s-a supărat când îi spuneam că sunt bătrân? O contrariez în ceva? Crede că vreau să-i zădărnicesc un gând? Dar iată-mă alunecând în cea mai ridiculă fatuitate.
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+Un acordor din piatră a adus, în sfârșit, pianul în stare normală. Adela mi-a cântat azi o bucată care știe că îmi place cu deosebire. Muzica corpului ei m-a impresionat însă mai mult decât muzica însăși. Mișcările brațelor, ale bustului la dreapta și la stânga, viforul dibaci al mâinii când întorcea pagina, mișcarea piciorului pe pedală, laitmotiv discret al muzicii de imagini, făceau pentru mine cea mai tulburătoare simfonie.
 
-**Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind două trăsături ale prozei moderne.**
+Valsul lui Chopin acompania muzica corpului ei... (Cam emfatic, iubitul meu!) La sfârșit, după o linie trasă cu degetul cel mare, parcă mânios, peste toate clapele de la stânga la dreapta, ca o parafă energică a unei iscălituri sub un text, care făcu pianul să strige cu toate vocile lui alarmate, Adela se ridică aproape cu violență de pe scaun, întrebându-mă: „îți place ca și atunci?", l-am sărutat mâna și pentru „atunci", și pentru acum. Am văzut pe fața ei o nedumerire, căci nu e obișnuită din partea mea cu expansiuni de natura asta. Dar n-a spus nimic și, trecându-și mâna pe frunte ca pentru a se dezmetici, m-a întrebat ce vreau să mai cânte, l-am răspuns, firește, că acum e rândul ei să aleagă.
 
-*Continui să-i amintesc de tinerețea pierdută. Pentru ce fac acest lucru, nedelicat, între altele, și fiindcă vorbesc ^ereu despre mine? Ce se petrece sub conștiința mea? E mândria de a-i arăta că nu sunt un imbecil, care crede că mai e încă tânăr? E dorința de a o asigura că nu pot avea gânduri lăturalnice, fiindcă tocmai poate încep să le am? E regretul că sunt prea bătrân pentru ea și nevoia de a mă lamenta, fie chiar ei, poate mai ales ei? E dorința (je a fi din nou combătut de ea? (Până acum încă nu mi-a „dovedit" că sunt tânăr.) Azi m-a întrebat cu asprime pentru ce țin atât de mult s-o conving că sunt bătrân. Mi-a plăcut tonul ei. Așa se bucură bolnavii închipuiți când medicii strigă la ei și-i dau afară, ca să-i convingă mai bine că sunt sănătoși. Și apoi tonul ei de mustrare dovedește că nu mă mai respectă atâta, ceea ce e încântător, și că și-a luat drepturi asupra mea, ceea ce e și mai încântător. Dar bag de seamă că filele jurnalului au ajuns niște adevărate „foi de observație". îmi iau pulsul și temperatura de câteva ori pe zi. E cel mai bun mijloc de a deveni bolnav, ori de a agrava o afecțiune contractată.*
+... Ipocrizia e inutilă. Nu am temperatura normală. Dar sper că e un accident trecător. Efectul muzicii...</i>
 
-*...pentru ce s-a supărat când îi spuneam că sunt bătrân? O contrariez în ceva? Crede că vreau să-i zădărnicesc un gând? Dar iată-mă alunecând în cea mai ridiculă fatuitate.*
+Garabet Ibrăileanu, <i>Adela</i>
 
-*Un acordor din piatră a adus, în sfârșit, pianul în stare normală. Adela mi-a cântat azi o bucată care știe că îmi place cu deosebire. Muzica corpului ei m-a impresionat însă mai mult decât muzica însăși. Mișcările brațelor, ale bustului la dreapta și la stânga, viforul dibaci al mâinii când întorcea pagina, mișcarea piciorului pe pedală, laitmotiv discret al muzicii de imagini, făceau pentru mine cea mai tulburătoare simfonie.*
+<b>Notă</b>
 
-*Valsul lui Chopin acompania muzica corpului ei... (Cam emfatic, iubitul meu!) La sfârșit, după o linie trasă cu degetul cel mare, parcă mânios, peste toate clapele de la stânga la dreapta, ca o parafă energică a unei iscălituri sub un text, care făcu pianul să strige cu toate vocile lui alarmate, Adela se ridică aproape cu violență de pe scaun, întrebându-mă: „îți place ca și atunci?", l-am sărutat mâna și pentru „atunci", și pentru acum. Am văzut pe fața ei o nedumerire, căci nu e obișnuită din partea mea cu expansiuni de natura asta. Dar n-a spus nimic și, trecându-și mâna pe frunte ca pentru a se dezmetici, m-a întrebat ce vreau să mai cânte, l-am răspuns, firește, că acum e rândul ei să aleagă.*
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-*... Ipocrizia e inutilă. Nu am temperatura normală. Dar sper că e un accident trecător. Efectul muzicii...*
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-Garabet Ibrăileanu, *Adela*
+<b>Subiectul al III-lea (30 de puncte)b 
 
-**Notă**
-
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
-
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
-
-**Subiectul al lll-lea(30 de puncte) Redactează un eseu, de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un text poetic studiat la clasă, aparținând perioadei interbelice, la alegere, din opera unuia dintre autorii: Tudor Arghezi, Lucian Blaga sau Ion Barbu.**
+Redactează un eseu, de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un text poetic studiat la clasă, aparținând perioadei interbelice, la alegere, din opera unuia dintre autorii: Tudor Arghezi, Lucian Blaga sau Ion Barbu.**
 
 In elaborarea eseului, vei avea în vedere următoarele repere:
 
