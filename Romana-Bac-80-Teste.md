@@ -3583,9 +3583,9 @@ Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei pr
 
 <b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-<b>Subiectul al III-lea (30 de puncte)b 
+<b>Subiectul al III-lea (30 de puncte)</b> 
 
-Redactează un eseu, de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un text poetic studiat la clasă, aparținând perioadei interbelice, la alegere, din opera unuia dintre autorii: Tudor Arghezi, Lucian Blaga sau Ion Barbu.**
+<b>Redactează un eseu, de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un text poetic studiat la clasă, aparținând perioadei interbelice, la alegere, din opera unuia dintre autorii: Tudor Arghezi, Lucian Blaga sau Ion Barbu.**
 
 In elaborarea eseului, vei avea în vedere următoarele repere:
 
