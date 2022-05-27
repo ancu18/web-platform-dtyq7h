@@ -3585,43 +3585,39 @@ Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei pr
 
 <b>Subiectul al III-lea (30 de puncte)</b> 
 
-<b>Redactează un eseu, de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un text poetic studiat la clasă, aparținând perioadei interbelice, la alegere, din opera unuia dintre autorii: Tudor Arghezi, Lucian Blaga sau Ion Barbu.**
+<b>Redactează un eseu, de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un text poetic studiat la clasă, aparținând perioadei interbelice, la alegere, din opera unuia dintre autorii: Tudor Arghezi, Lucian Blaga sau Ion Barbu.</b>
 
-In elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - evidențierea a două trăsături care fac posibilă încadrarea textului într-un curent literar, într-o perioadă sau într-o orientare tematică;
 - prezentarea a două idei/ imagini poetice relevante pentru tema și viziunea despre lume;
+- prezentarea a două elemente de compoziție și limbaj (de exemplu: temă, motiv literar, secvențe lirice, elemente de prozodie, relații de simetrie/ opoziție, arii semantice, laitmotiv, figuri semantice-tropi etc.) prin referire la opera poetică studiată.
 
-“ prezentarea a două elemente de compoziție și limbaj (de exemplu: temă, motiv literar, secvențe lirice, elemente de prozodie, relații de simetrie/ opoziție, arii semantice, laitmotiv, figuri semantice-tropi etc.) prin referire la opera poetică studiată.
-
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**In vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul I(50 de puncțd**
+<b>Subiectul I (50 de puncte)</b>
 
-**Citește următorul fragment:**
+<b>Citește următorul fragment:</b>
 
-*Pe Aleea Alexandru 1-3 colț cu Bd. Aviatorilor se află una dintre cele mai luxoase clădiri bucureștene, care atrage atenția nu numai prin armonia liniilor și volumelor, ci și prin strălucirea țipătoare a reliefurilor aurite care-i împodobea fațada.*
+<i>Pe Aleea Alexandru 1-3 colț cu Bd. Aviatorilor se află una dintre cele mai luxoase clădiri bucureștene, care atrage atenția nu numai prin armonia liniilor și volumelor, ci și prin strălucirea țipătoare a reliefurilor aurite care-i împodobea fațada.
 
-*Clădirea monumentală, de stil Ludovic al XlV-lea, este copia conformă a Palatului Biron din Paris. Cunoscutul edificiu, care adăpostește astăzi Muzeul Rodin, a fost construit între 1728 și 1731 de arhitectul Jean Aubty (1680-1741), membru al Academiei Regale de Arhitectură, în acea variantă târzie a stilului baroc francez care poartă numele „rocaille“. Lăsând exteriorului sobrietatea arhitecturii clasice, exuberanța acestui stil se manifestă* cu *precădere în decorul interior al clădirilor. Aceeași particularitate de stil caracterizează și copia din București* a *Palatului Biron, Casa Mânu, al cărei exterior se menține în haremurile clasicului, cu adaosul reliefurilor de deasupra deschiderilor și de pe fronton, dar al cărei interior poartă pecetea apartenenței la unul dintre cele mai complicate* șj *mai stufoase stiluri ale decorului arhitectural.*
+Clădirea monumentală, de stil Ludovic al XlV-lea, este copia conformă a Palatului Biron din Paris. Cunoscutul edificiu, care adăpostește astăzi Muzeul Rodin, a fost construit între 1728 și 1731 de arhitectul Jean Aubty (1680-1741), membru al Academiei Regale de Arhitectură, în acea variantă târzie a stilului baroc francez care poartă numele „rocaille“. Lăsând exteriorului sobrietatea arhitecturii clasice, exuberanța acestui stil se manifestă cu precădere în decorul interior al clădirilor. Aceeași particularitate de stil caracterizează și copia din București a Palatului Biron, Casa Mânu, al cărei exterior se menține în haremurile clasicului, cu adaosul reliefurilor de deasupra deschiderilor și de pe fronton, dar al cărei interior poartă pecetea apartenenței la unul dintre cele mai complicate și mai stufoase stiluri ale decorului arhitectural.
 
-*Clădirea din București, cu fațada principală desfășurându-se pe Bulevardul Aviatorilor, în retragere față de aliniament, a fost construită în 1915 de arhitectul Grigore Cerkez, pentru magistratul loan (lancu) Mânu (1872-1959[ căsătorit cu Elisabeta (Zetta) Cantacuzino, nepoată de frate a omului politic Grigore Gh. Cantacuzino „Nababul", prim-ministru, primar al Bucureștilor, membru al uneia dintre cele mai de vază familii boierești ale țării, lancu Mane făcea, de asemenea, parte dintr-o mare familie boierească, unul dintre cei mai notabili membri ai ei fiind tatăl său, generalul Gheorghe Mânu (1833-1911), erou al Războiului de Independență și prim-ministru sub domnia regelui Carol I, primar al Bucureștilor, senator, lancu și Zetta Mânu sunt părinții marelui fizician George Mânu, om de știință genial, al cărui destin frământat oglindește contorsiunile istoriei secolului XX.*
+Clădirea din București, cu fațada principală desfășurându-se pe Bulevardul Aviatorilor, în retragere față de aliniament, a fost construită în 1915 de arhitectul Grigore Cerkez, pentru magistratul Ioan (Iancu) Mânu (1872-1959) căsătorit cu Elisabeta (Zetta) Cantacuzino, nepoată de frate a omului politic Grigore Gh. Cantacuzino „Nababul", prim-ministru, primar al Bucureștilor, membru al uneia dintre cele mai de vază familii boierești ale țării, lancu Mane făcea, de asemenea, parte dintr-o mare familie boierească, unul dintre cei mai notabili membri ai ei fiind tatăl său, generalul Gheorghe Mânu (1833-1911), erou al Războiului de Independență și prim-ministru sub domnia regelui Carol I, primar al Bucureștilor, senator, lancu și Zetta Mânu sunt părinții marelui fizician George Mânu, om de știință genial, al cărui destin frământat oglindește contorsiunile istoriei secolului XX.</i>
 
-Silvia *Colfescu, Casa Mânu - Un secol de piscuri și prăbușiri,* Literomania.ro
+Silvia Colfescu, <i>Casa Mânu - Un secol de piscuri și prăbușiri</i>, Literomania.ro
 
-1. **Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
-1. Indică două cuvinte/ structuri din câmpul lexical al arhitecturii.	**6 puncte**
-1. Menționează numele primului proprietar al Casei Mânu, utilizând informațiile din textul dat.	**6 puncte**
-1. Precizează o particularitate a fizicianului Gheorghe Mânu, desprinsă din următoarea secvență: om *de știință genial,*
-
-*al cărui destin frământat oglindește contorsiunile istoriei secolului XX.*	**6 puncte**
-
-1. Explică cele două stiluri arhitectonice care se regăsesc în construcție.	**6 puncte**
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
+1. Indică două cuvinte/ structuri din câmpul lexical al arhitecturii.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+2. Menționează numele primului proprietar al Casei Mânu, utilizând informațiile din textul dat.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+3. Precizează o particularitate a fizicianului Gheorghe Mânu, desprinsă din următoarea secvență: <i>om de știință genial, al cărui destin frământat oglindește contorsiunile istoriei secolului XX.</i><span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+4. Explică cele două stiluri arhitectonice care se regăsesc în construcție.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 1. Prezintă, în 30-50 de cuvinte, semnificația titlului articolului.	**6 puncte**
 1. **Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă monumentele istorice de**
 
