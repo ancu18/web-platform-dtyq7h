@@ -3618,20 +3618,18 @@ Silvia Colfescu, <i>Casa Mânu - Un secol de piscuri și prăbușiri</i>, Litero
 2. Menționează numele primului proprietar al Casei Mânu, utilizând informațiile din textul dat.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 3. Precizează o particularitate a fizicianului Gheorghe Mânu, desprinsă din următoarea secvență: <i>om de știință genial, al cărui destin frământat oglindește contorsiunile istoriei secolului XX.</i><span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 4. Explică cele două stiluri arhitectonice care se regăsesc în construcție.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
-1. Prezintă, în 30-50 de cuvinte, semnificația titlului articolului.	**6 puncte**
-1. **Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă monumentele istorice de**
+5. Prezintă, în 30-50 de cuvinte, semnificația titlului articolului.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă monumentele istorice de arhitectură sunt importante sau nu pentru istoria unui oraș, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-**arhitectură sunt importante sau nu pentru istoria unui oraș, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.	20 de puncte**
+În redactarea textului, vei avea în vedere următoarele repere:
 
-în redactarea textului, vei avea în vedere următoarele repere:
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
--formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-\- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
-
-**Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind două trăsături ale prozei literare.**
+Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind două trăsături ale prozei literare.**
 
 *O femeie tânără nu poate face o plimbare pe câmp fără să culeagă flori. Adela le alege metodic, cu ochiul atent, cu gesturi de preciziune, parcă ar urmări vietăți iuți și viclene.*
 
