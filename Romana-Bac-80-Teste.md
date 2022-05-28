@@ -3629,62 +3629,64 @@ Silvia Colfescu, <i>Casa Mânu - Un secol de piscuri și prăbușiri</i>, Litero
 
 <b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind două trăsături ale prozei literare.**
+<b>Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind două trăsături ale prozei literare.</b>
 
-*O femeie tânără nu poate face o plimbare pe câmp fără să culeagă flori. Adela le alege metodic, cu ochiul atent, cu gesturi de preciziune, parcă ar urmări vietăți iuți și viclene.*
+<i>O femeie tânără nu poate face o plimbare pe câmp fără să culeagă flori. Adela le alege metodic, cu ochiul atent, cu gesturi de preciziune, parcă ar urmări vietăți iuți și viclene.
 
-*Cu părul auriu, cu fața albă și roză, cu ochii albaștri, Adela, printre flori, e o floare mare, strălucitoare, mai vie decât toate, irezistibil atrăgătoare. Comparația, banală de adevărată ce e, între femeie și floare este mai mult decât constatarea unei asemănări exterioare. E intuiția unei identități profund naturale.*
+Cu părul auriu, cu fața albă și roză, cu ochii albaștri, Adela, printre flori, e o floare mare, strălucitoare, mai vie decât toate, irezistibil atrăgătoare. Comparația, banală de adevărată ce e, între femeie și floare este mai mult decât constatarea unei asemănări exterioare. E intuiția unei identități profund naturale.
 
-*Spectator neocupat (nu pot să culeg și eu flori; îmi lipsește cu desăvârșire convingerea!), mișcându-mă fără rost încolo și încoace (în fața unei femei nu pot să mă întind pe iarbă, singura soluție onorabilă a problemei), situația mea e dificilă. Dar Adela, concentrată în vânătoarea ei, nu observă nimic.*
+Spectator neocupat (nu pot să culeg și eu flori; îmi lipsește cu desăvârșire convingerea!), mișcându-mă fără rost încolo și încoace (în fața unei femei nu pot să mă întind pe iarbă, singura soluție onorabilă a problemei), situația mea e dificilă. Dar Adela, concentrată în vânătoarea ei, nu observă nimic.
 
-*pentru ea, florile au personalitate: unele sunt „sentimentale", altele „impertinente", altele „copii" ori „cucoane mici", și așa mai departe. Observațiile astea le face cu umor, cu o comică dezmierdare. Cu sentimentul distanței în același timp, parcă ar fi vorba de niște copii pe care-i alintă, dar nu vrea să îi scoată la obraz. (Viziunea comică și ușor dezmierdătoare este de altfel atitudinea ei obișnuită în viață.)*
+Pentru ea, florile au personalitate: unele sunt „sentimentale", altele „impertinente", altele „copii" ori „cucoane mici", și așa mai departe. Observațiile astea le face cu umor, cu o comică dezmierdare. Cu sentimentul distanței în același timp, parcă ar fi vorba de niște copii pe care-i alintă, dar nu vrea să îi scoată la obraz. (Viziunea comică și ușor dezmierdătoare este de altfel atitudinea ei obișnuită în viață.)
 
-*... după ce culege florile, vine la drum cu brațul încărcat, se așază pe dâmbul șanțului, le clasifică în grupuri după criterii subiective și fanteziste, le întocmește într-un buchet mare, își pune una în păr (la plimbările afară din sat iese aproape întotdeauna cu capul gol), alta în butoniera mea. („Să n-o zvârli! S-o ții toată ziua!")*
+... după ce culege florile, vine la drum cu brațul încărcat, se așază pe dâmbul șanțului, le clasifică în grupuri după criterii subiective și fanteziste, le întocmește într-un buchet mare, își pune una în păr (la plimbările afară din sat iese aproape întotdeauna cu capul gol), alta în butoniera mea. („Să n-o zvârli! S-o ții toată ziua!")
 
-*Toate acestea se repetă exact, afară de floarea de la butonieră, care variază de fiecare dată, dar o alege mică întotdeauna, concesie teroarei mele de a mă da în spectacol cu floarea în piept.*
+Toate acestea se repetă exact, afară de floarea de la butonieră, care variază de fiecare dată, dar o alege mică întotdeauna, concesie teroarei mele de a mă da în spectacol cu floarea în piept.
 
-*Floarea asta mică se adaugă la celelalte din alte zile, mărind colecția presată în paginile lui Diogen Laertiul, între venerabilii Crates și Metrocle!....*
+Floarea asta mică se adaugă la celelalte din alte zile, mărind colecția presată în paginile lui Diogen Laertiul, între venerabilii Crates și Metrocle!....</i>
 
-Garabet Ibrăileanu, *Adela*
+Garabet Ibrăileanu, <i>Adela</i>
 
-**Notă**
+<b>Notă</b>
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul al lll-lea(30 de puncte)**
+<b>Subiectul al III-lea (30 de puncte)</b>
 
-**Redactează un eseu, de minimum 400 de cuvinte, în care să argumentezi apartenența la simbolism a unui text poetic studiat la clasă.**
+<b>Redactează un eseu, de minimum 400 de cuvinte, în care să argumentezi apartenența la simbolism a unui text poetic studiat la clasă.</b>
 
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - evidențierea a două trăsături care fac posibilă încadrarea textului în simbolism;
 - prezentarea a două idei/ imagini poetice relevante pentru imaginarul simbolist;
 - prezentarea a două elemente de compoziție și limbaj (de exemplu: temă, motiv literar, secvențe lirice, elemente de prozodie, relații de simetrie/opoziție, arii semantice, laitmotiv, figuri semantice-tropi etc.) prin referire la opera poetică studiată.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**In vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
 
-**Subiectul I(50 de puncțgj Citește următorul fragment:**
+<b>Subiectul I (50 de puncte)</b> 
 
-*Cotroceni, martie 1910*
+<b>Citește următorul fragment:</b>
 
-*Simt dorința de a-mi așterne pe hârtie amintirile, ca să mi le pot rechema în minte în anii ce vor urma; sunt atâtea lucruri pe care mă tem să nu le uit, dar nu știu câtuși de puțin în ce ordine am să le povestesc. Acesta nu se vrea a fi un jurnal și va fi prost scris. Niciodată n-am fost în stare să scriu cum trebuie - se pare, vai, că multe capete regale suferă de slăbiciunea aceasta -, cu toate că am fost educată cu grijă și am avut toate șansele pe care le-au avutșj alte fete. Acum am aproape 35 de ani și trăiesc deja de 17 ani în țara aceasta - uneori mi se pare că au fost foarte lungi, dar alteori parcă ieri am sosit aici, în țara aceasta necunoscută. Acum a devenit casa mea și o iubesc, dar primii ani au fost plini de greutăți, pe care am să le povestesc, una câte una. Cred că, privind înapoi, avem tendința de a vedea lucrurile în timp ce le suferim, suntem înclinați, poate, să le exagerăm, sau poate să rămânem orbi cu desăvârșire la cealaltă parte a situației.*
+<i>Cotroceni, martie 1910
 
-*M-am căsătorit la doar 17 ani. Am avut o copilărie minunat de fericită, din care voi mai povesti din când în când, cu inima plină de recunoștință. Am fost cea mai mare dintre cele patru surori, dar Alfred, singurul nostru frate, era cu un an mai mare decât mine. M-am născut în Anglia, la Eastwell Park, unde mi-am petrecut primii ani din viață, dar am și călătorit mult cu familia, căci tata era în Marină, iar mama - mare ducesă, singura fiică a țarului Alexandru II, care a fost, după cum se știe, ucis în împrejurări atât de cumplite tocmai când era pe cale, probabil, să dea țării o constituție. Așadar, din fragedă copilărie am călătorit din Anglia în Rusia și înapoi de mai multe ori, dar nu am decât amintiri foarte încețoșate despre bunicii mei din Rusia. (...)*
+Simt dorința de a-mi așterne pe hârtie amintirile, ca să mi le pot rechema în minte în anii ce vor urma; sunt atâtea lucruri pe care mă tem să nu le uit, dar nu știu câtuși de puțin în ce ordine am să le povestesc. Acesta nu se vrea a fi un jurnal și va fi prost scris. Niciodată n-am fost în stare să scriu cum trebuie - se pare, vai, că multe capete regale suferă de slăbiciunea aceasta -, cu toate că am fost educată cu grijă și am avut toate șansele pe care le-au avutșj alte fete. Acum am aproape 35 de ani și trăiesc deja de 17 ani în țara aceasta - uneori mi se pare că au fost foarte lungi, dar alteori parcă ieri am sosit aici, în țara aceasta necunoscută. Acum a devenit casa mea și o iubesc, dar primii ani au fost plini de greutăți, pe care am să le povestesc, una câte una. Cred că, privind înapoi, avem tendința de a vedea lucrurile în timp ce le suferim, suntem înclinați, poate, să le exagerăm, sau poate să rămânem orbi cu desăvârșire la cealaltă parte a situației.
 
-*Firește, pentru restul lumii cea mai interesantă de departe este bunica mea, Regina Victoria. îmi amintesc că, pentru a deosebi bunicile una de alta, pe când eram foarte mici, le numeam Bunica-regină și Bunica-țarină. Totuși, ce aer de interes respectuos domnea întotdeauna în jurul Bunicii-regină! Și câtă demnitate în femeia aceea micuță.*
+M-am căsătorit la doar 17 ani. Am avut o copilărie minunat de fericită, din care voi mai povesti din când în când, cu inima plină de recunoștință. Am fost cea mai mare dintre cele patru surori, dar Alfred, singurul nostru frate, era cu un an mai mare decât mine. M-am născut în Anglia, la Eastwell Park, unde mi-am petrecut primii ani din viață, dar am și călătorit mult cu familia, căci tata era în Marină, iar mama - mare ducesă, singura fiică a țarului Alexandru II, care a fost, după cum se știe, ucis în împrejurări atât de cumplite tocmai când era pe cale, probabil, să dea țării o constituție. Așadar, din fragedă copilărie am călătorit din Anglia în Rusia și înapoi de mai multe ori, dar nu am decât amintiri foarte încețoșate despre bunicii mei din Rusia. (...)
 
-Maria, Regina României, *Jurnal de război 1916-1917, precedat de însemnări în 1910-1916*
+Firește, pentru restul lumii cea mai interesantă de departe este bunica mea, Regina Victoria. îmi amintesc că, pentru a deosebi bunicile una de alta, pe când eram foarte mici, le numeam Bunica-regină și Bunica-țarină. Totuși, ce aer de interes respectuos domnea întotdeauna în jurul Bunicii-regină! Și câtă demnitate în femeia aceea micuță.</i>
 
-1. **Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
+Maria, Regina României, <i>Jurnal de război 1916-1917, precedat de însemnări în 1910-1916</i>
+
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 1. Indică două cuvinte/ structuri care sunt mărci ale subiectivității în textul dat.	**6 puncte**
 1. Menționează care este enunțul în care autoarea jurnalului își exprimă sentimentele față de țara în care a ajuns
 
