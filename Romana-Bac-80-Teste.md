@@ -3775,9 +3775,9 @@ Orice emoțiune estetică, fie deșteptată prin sculptură, fie prin poezie, fi
 
 Dacă izvorul a tot ce este rău este egoismul și egoismul exagerat, atunci o stare sufletească în care egoismul este nimicit pentru moment, fiindcă interesele individuale sunt uitate, este o combatere indirectă a răului, și astfel o înălțare morală. Și cu cât cineva va fi mai capabil prin dispoziția sa naturală sau prin educație a avea asemenea momente de emoțiune impersonală, cu atât va fi mai întărită în el partea cea bună a naturei omenești.</i>
 
-Titu Maiorescu, <i>Comediile d-lui Caragiale </i>
+Titu Maiorescu, <i>Comediile d-lui Caragiale</i>
 
-**A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
+A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
 
 1. Indică, în urma lecturii textului, conceptul-cheie al fragmentului.	**6 puncte**
 1. Menționează care este enunțul care conține reproșuri ce i s-au adus operei lui Caragiale, așa cum reiese din textul
