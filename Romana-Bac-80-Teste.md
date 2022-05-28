@@ -3732,48 +3732,50 @@ Pe veci pierduto, vecinie adorato!</i>
 
 Mihai Eminescu, <i>Când însuși glasul</i>
 
-Notă**
+<b>Notă</b>
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul al lll-lea(30 de puncte)**
+<b>Subiectul al III-lea (30 de puncte)</b>
 
-**Redactează un eseu, de minimum 400 de cuvinte, în care să prezinți drama omului modern într-un text dramatic postbelic, studiat la clasă, urmărind construcția personajului.**
+<b>Redactează un eseu, de minimum 400 de cuvinte, în care să prezinți drama omului modern într-un text dramatic postbelic, studiat la clasă, urmărind construcția personajului.</b>
 
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - prezentarea a două dintre caracteristicile textului dramatic, semnificative pentru realizarea personajului ales (de exemplu: formula estetică, temă, conflict, acțiune, relații temporale și spațiale, moduri de expunere, indicații scenice, discurs dramatic, final etc.) prin referire la textul studiat;
 - statutul social, moral și psihologic, relevarea trăsăturilor personajului, evidențiate în contextul teatrului modern;
 - comentarea a două citate/ scene, semnificative pentru construcția personajului.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**In vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
 
-**Subiectul I(50 de puncte} Citește următorul fragment:**
+<b>Subiectul I (50 de puncte)</b> 
 
-*Comediile d-lui Caragiale, se zice, sunt triviale și imorale; tipurile sunt toate alese dintre oameni sau vițioși, sau proști; situațiile sunt adeseori scabroase; amorul e totdeauna nelegiuit; și încă aceste figuri și situații se prezintă într-un mod firesc, parcă s-ar înțelege de la sine că nu poate fi altfel; nicăiri nu se vede pedepsirea celor răi șj răsplătirea celor buni.*
+<b>Citește următorul fragment:</b>
 
-*Pentru cei ce cunosc multele discuții deșteptate și în literatura altor țări asupra acestor întrebări, ne-am putea mărgini să răspundem: există aceste tipuri în lumea noastră? sunt adevărate aceste situații? Dacă sunt, atunci de ce la autorul dramatic trebuie să cerem numai ca să ni le prezinte în mod artistic; iar valoarea lor morală este afară din chestie. (...)*
+<i>Comediile d-lui Caragiale, se zice, sunt triviale și imorale; tipurile sunt toate alese dintre oameni sau vițioși, sau proști; situațiile sunt adeseori scabroase; amorul e totdeauna nelegiuit; și încă aceste figuri și situații se prezintă într-un mod firesc, parcă s-ar înțelege de la sine că nu poate fi altfel; nicăiri nu se vede pedepsirea celor răi șj răsplătirea celor buni.
 
-*Dacă ni se pune întrebarea: arta în genere și în special arta dramatică are sau nu are și o misiune morală? Contribuie ea la educarea și înălțarea poporului? Noi răspundem fără șovăire: da, arta a avut totdeauna o înaltă misiune morală, și orice adevărată operă artistică o îndeplinește.(...)*
+Pentru cei ce cunosc multele discuții deșteptate și în literatura altor țări asupra acestor întrebări, ne-am putea mărgini să răspundem: există aceste tipuri în lumea noastră? sunt adevărate aceste situații? Dacă sunt, atunci de ce la autorul dramatic trebuie să cerem numai ca să ni le prezinte în mod artistic; iar valoarea lor morală este afară din chestie. (...)
 
-*Și aici trebuie să stabilim mai întâi un punct de plecare elementar: influența morală a unei lucrări literare nu poate să fie alta decât influența morală a artei în genere. Dacă arta în genere are un element esențial moralizator, același element va trebui să-l găsim și în orice artă deosebită, prin urmare și în arta dramatică. (...)*
+Dacă ni se pune întrebarea: arta în genere și în special arta dramatică are sau nu are și o misiune morală? Contribuie ea la educarea și înălțarea poporului? Noi răspundem fără șovăire: da, arta a avut totdeauna o înaltă misiune morală, și orice adevărată operă artistică o îndeplinește.(...)
 
-*în ce consistă dar moralitatea artei?*
+Și aici trebuie să stabilim mai întâi un punct de plecare elementar: influența morală a unei lucrări literare nu poate să fie alta decât influența morală a artei în genere. Dacă arta în genere are un element esențial moralizator, același element va trebui să-l găsim și în orice artă deosebită, prin urmare și în arta dramatică. (...)
 
-*Orice emoțiune estetică, fie deșteptată prin sculptură, fie prin poezie, fie prin celelalte arte, face pe omul stăpânit de ea, pe câtă vreme este stăpânit, să se uite pe sine ca persoană și să se înalțe în lumea ficțiunii ideale.*
+În ce consistă dar moralitatea artei?
 
-*Dacă izvorul a tot ce este rău este egoismul și egoismul exagerat, atunci o stare sufletească în care egoismul este nimicit pentru moment, fiindcă interesele individuale sunt uitate, este o combatere indirectă a răului, și astfel* o *înălțare morală. Și cu cât cineva va fi mai capabil prin dispoziția sa naturală sau prin educație a avea asemenea momente de emoțiune impersonală, cu atât va fi mai întărită în el partea cea bună a naturei omenești.*
+Orice emoțiune estetică, fie deșteptată prin sculptură, fie prin poezie, fie prin celelalte arte, face pe omul stăpânit de ea, pe câtă vreme este stăpânit, să se uite pe sine ca persoană și să se înalțe în lumea ficțiunii ideale.
 
-Titu Maiorescu, *Comediile d-lui Caragiale*
+Dacă izvorul a tot ce este rău este egoismul și egoismul exagerat, atunci o stare sufletească în care egoismul este nimicit pentru moment, fiindcă interesele individuale sunt uitate, este o combatere indirectă a răului, și astfel o înălțare morală. Și cu cât cineva va fi mai capabil prin dispoziția sa naturală sau prin educație a avea asemenea momente de emoțiune impersonală, cu atât va fi mai întărită în el partea cea bună a naturei omenești.</i>
+
+Titu Maiorescu, <i>Comediile d-lui Caragiale </i>
 
 **A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
 
