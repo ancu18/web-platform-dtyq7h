@@ -3730,9 +3730,9 @@ Să simt fiorii strângerii în brață,
 
 Pe veci pierduto, vecinie adorato!</i>
 
-Mihai Eminescu, <i>Când însuși glasul </i>
+Mihai Eminescu, <i>Când însuși glasul</i>
 
-**Notă**
+Notă**
 
 Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
