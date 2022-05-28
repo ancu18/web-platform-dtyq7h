@@ -3687,47 +3687,50 @@ Firește, pentru restul lumii cea mai interesantă de departe este bunica mea, R
 Maria, Regina României, <i>Jurnal de război 1916-1917, precedat de însemnări în 1910-1916</i>
 
 <b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
-1. Indică două cuvinte/ structuri care sunt mărci ale subiectivității în textul dat.	**6 puncte**
-1. Menționează care este enunțul în care autoarea jurnalului își exprimă sentimentele față de țara în care a ajuns
+1. Indică două cuvinte/ structuri care sunt mărci ale subiectivității în textul dat.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+2. Menționează care este enunțul în care autoarea jurnalului își exprimă sentimentele față de țara în care a ajuns regină.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+3. Precizează atitudinea reginei în fața suferinței, așa cum se desprinde din următoarea secvență: <i>Cred că, privind înapoi, avem tendința de a vedea lucrurile în timp ce le suferim, suntem înclinați, poate, să le exagerăm, sau poate să rămânem orbi cu desăvârșire la cealaltă parte a situației.</i><span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+4. Explică ascendența Reginei Maria a României, utilizând informațiile din textul dat.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+5. Prezintă, în 30-50 de cuvinte, opinia reginei referitoare scopul jurnalului.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-regină.	**6 puncte**
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă rolul lecturii jurnalului unor personalități aparținând caselor regale din Europa este sau nu important, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-1. Precizează atitudinea reginei în fața suferinței, așa cum se desprinde din următoarea secvență: *Cred că, privind*
+În redactarea textului, vei avea în vedere următoarele repere:
 
-*înapoi, avem tendința de a vedea lucrurile în timp ce le suferim, suntem înclinați, poate, să le exagerăm, sau poate să rămânem orbi cu desăvârșire la cealaltă parte a situației.*	**6 puncte**
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-1. Explică ascendența Reginei Maria a României, utilizând informațiile din textul dat.	**6 puncte**
-1. Prezintă, în 30-50 de cuvinte, opinia reginei referitoare scopul jurnalului.	**6 puncte**
-1. **Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă rolul lecturii jurnalului unor**
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-**personalități aparținând caselor regale din Europa este sau nu important, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.	20 de puncte**
-
-în redactarea textului, vei avea în vedere următoarele repere:
-
-- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
-
-argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
-
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
-
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
-
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
 
-**șijhiectul al ll-lea(10 puncte) Comentează, în minimum 50 de cuvinte, textul poetic dat, evidențiind două trăsături ale romantismului:**
+<b>Subiectul al II-lea (10 puncte)</b>
 
-*Din neguri reci plutind te vei desface?*
+<b>Comentează, în minimum 50 de cuvinte, textul poetic dat, evidențiind două trăsături ale romantismului:</b>
 
-*Puterea nopții blând însenina-vei Cu ochii mari și purtători de pace? Răsai din umbra vremilor încoace Ca să te văd venind - ca-n vis, așa vii.*
+<i>Din neguri reci plutind te vei desface?
 
-*Cobori încet... aproape, mai aproape, Te pleacă iar, zâmbind, peste-a mea față, A ta iubire c-un suspin arat-o.*
+Puterea nopții blând însenina-vei 
 
-*Cu geana ta m-atinge pe pleoape, Să simt fiorii strângerii în brață,*
+Cu ochii mari și purtători de pace? 
 
-*Pe veci pierduto, vecinie adorato!*
+Răsai din umbra vremilor încoace 
 
-Mihai Eminescu, *Când însuși glasul*
+Ca să te văd venind - ca-n vis, așa vii.
+
+Cobori încet... aproape, mai aproape, 
+
+Te pleacă iar, zâmbind, peste-a mea față, 
+
+A ta iubire c-un suspin arat-o.
+
+Cu geana ta m-atinge pe pleoape, 
+
+Să simt fiorii strângerii în brață,
+
+Pe veci pierduto, vecinie adorato!</i>
+
+Mihai Eminescu, <i>Când însuși glasul </i>
 
 **Notă**
 
