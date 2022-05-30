@@ -3797,9 +3797,9 @@ Titu Maiorescu, <i>Comediile d-lui Caragiale</i>
 
 <b>Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind două trăsături ale comediei:</b>
 
-<div class='a'>VETA (a ascultat cu mult interes toată tirada lui Rică și-l întrerupe izbucnind de râs): <i>Ha! ha! ha! Acu înțeleg eu tot! ha! ha! ha!</i></d>
+<div class='a'>VETA (a ascultat cu mult interes toată tirada lui Rică și-l întrerupe izbucnind de râs): <i>Ha! ha! ha! Acu înțeleg eu tot! ha! ha! ha!</i></div>
 
-RICĂ: *Râzi, râzi, ingrato, de amoarea mea?*
+RICĂ: Râzi, râzi, ingrato, de amoarea mea?*
 
 VETA: *Da cum, Doamne, iartă-mă! să nu râz?...vezi bine că râz. Apoi știi dumneata cu cine vorbești?...mă cunoști?...știi bine cine sunt?...*
 
