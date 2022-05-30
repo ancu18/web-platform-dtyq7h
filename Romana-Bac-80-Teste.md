@@ -3777,30 +3777,27 @@ Dacă izvorul a tot ce este rău este egoismul și egoismul exagerat, atunci o s
 
 Titu Maiorescu, <i>Comediile d-lui Caragiale</i>
 
-A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 
-1. Indică, în urma lecturii textului, conceptul-cheie al fragmentului.	**6 puncte**
-1. Menționează care este enunțul care conține reproșuri ce i s-au adus operei lui Caragiale, așa cum reiese din textul
+1. Indică, în urma lecturii textului, conceptul-cheie al fragmentului.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+2. Menționează care este enunțul care conține reproșuri ce i s-au adus operei lui Caragiale, așa cum reiese din textul dat.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+3. Precizează care este argumentul pe care îl aduce Maiorescu împotriva detractorilor lui Caragiale.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+4. Explică ce rol au întrebările retorice în argumentarea lui Titu Maiorescu.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+5. Prezintă, în 30-50 de cuvinte, în ce constă moralitatea artei conform fragmentului citat.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-dat.	**6 puncte**
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă arta are sau nu o misiune morală, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span> 
 
-1. Precizează care este argumentul pe care îl aduce Maiorescu împotriva detractorilor lui Caragiale. **6 puncte**
-1. Explică ce rol au întrebările retorice în argumentarea lui Titu Maiorescu.	**6 puncte**
-1. Prezintă, în 30-50 de cuvinte, în ce constă moralitatea artei conform fragmentului citat.	**6 puncte**
+În redactarea textului, vei avea în vedere următoarele repere:
 
-**B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă arta are sau nu o misiune morală, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.**
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-**20 de puncte** în redactarea textului, vei avea în vedere următoarele repere:
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
--formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-\- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
+<b>Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind două trăsături ale comediei:</b>
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
-
-**Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind două trăsături ale comediei:**
-
-VETA(a ascultat cu mult interes toată tirada lui Rică și-l întrerupe izbucnind de râs): *Ha! ha! ha! Acu înțeleg eu tot! ha! ha! ha!*
+<style>div.b{padding-left:2em; text-indent:-2em}</styleVETA (a ascultat cu mult interes toată tirada lui Rică și-l întrerupe izbucnind de râs): *Ha! ha! ha! Acu înțeleg eu tot! ha! ha! ha!*
 
 RICĂ: *Râzi, râzi, ingrato, de amoarea mea?*
 
