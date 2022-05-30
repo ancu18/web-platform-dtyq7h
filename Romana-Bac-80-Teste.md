@@ -3795,9 +3795,9 @@ Titu Maiorescu, <i>Comediile d-lui Caragiale</i>
 
 <b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-<b>Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind două trăsături ale comediei:b
+<b>Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind două trăsături ale comediei:</b>
 
-VETA (a ascultat cu mult interes toată tirada lui Rică și-l întrerupe izbucnind de râs): *Ha! ha! ha! Acu înțeleg eu tot! ha! ha! ha!*
+VETA (a ascultat cu mult interes toată tirada lui Rică și-l întrerupe izbucnind de râs): <i>Ha! ha! ha! Acu înțeleg eu tot! ha! ha! ha!</i>
 
 RICĂ: *Râzi, râzi, ingrato, de amoarea mea?*
 
