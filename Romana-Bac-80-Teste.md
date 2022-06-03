@@ -3619,6 +3619,7 @@ Silvia Colfescu, <i>Casa Mânu - Un secol de piscuri și prăbușiri</i>, Litero
 3. Precizează o particularitate a fizicianului Gheorghe Mânu, desprinsă din următoarea secvență: <i>om de știință genial, al cărui destin frământat oglindește contorsiunile istoriei secolului XX.</i><span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 4. Explică cele două stiluri arhitectonice care se regăsesc în construcție.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 5. Prezintă, în 30-50 de cuvinte, semnificația titlului articolului.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+
 <b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă monumentele istorice de arhitectură sunt importante sau nu pentru istoria unui oraș, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
 În redactarea textului, vei avea în vedere următoarele repere:
@@ -3798,34 +3799,27 @@ Titu Maiorescu, <i>Comediile d-lui Caragiale</i>
 <b>Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind două trăsături ale comediei:</b>
 
 <div class='a'>VETA (a ascultat cu mult interes toată tirada lui Rică și-l întrerupe izbucnind de râs): <i>Ha! ha! ha! Acu înțeleg eu tot! ha! ha! ha!</i></div>
+RICĂ: <i>Râzi, râzi, ingrato, de amoarea mea?</i>
+<div class='a'>VETA: <i>Da cum, Doamne, iartă-mă! să nu râz?...vezi bine că râz. Apoi știi dumneata cu cine vorbești?...mă cunoști?...știi bine cine sunt?...</i></div>
+<div class='a'>RICĂ: <i>Cum să nu știu! Tu ești angelul visurilor mele, tu ești steaua, pot pentru care să zic chiar luceafărul, care strălucește sublim în noaptea tenebroasă a existenței mele, tu ești...</i></div>
+<div class='a'>VETA (care trece la lampă, îi mărește focul și se pune cu chipul în bătaia luminii): <i>Zău? la uite-te bine!</i> (râde)</div><div class='a'>RICĂ (foarte încurcat, se scoală de jos și dă înapoi împiedicându-se): <i>Madam! Să am pardon! Scuzați! Cocoană! Considerând că ... adică, vreau să zic, respectul... pardon... sub pretext că și pe motivul... scuzați... pardon...</i></div>
+<div class='a'>VETA (râzând): <i>Bine, pardonul ca pardonul, dar te rog, dacă ții la pielea dumitale, să te duci mai degrabă, să ieși curând din casa asta, că, Doamne ferește! De te-o călca aici bărbatu-meu</i> (accentuând) <i>mitocanul...de!...</i></div>
+RICĂ: <i>Scuzați... pardon...</i>
+<div class='a'>VETA: <i>Apoi zău nu știu ce s-o mai alege de dumneata. Bărbatu-meu suferă grozav de gelozie și e în stare a fi capabil de orice.</i></div>
 
-RICĂ: Râzi, râzi, ingrato, de amoarea mea?*
+I. L. Caragiale, <i>O noapte furtunoasă</i>
 
-VETA: *Da cum, Doamne, iartă-mă! să nu râz?...vezi bine că râz. Apoi știi dumneata cu cine vorbești?...mă cunoști?...știi bine cine sunt?...*
+<b>Notă</b>
 
-RICĂ: *Cum să nu știu! Tu ești angelul visurilor mele, tu ești steaua, pot pentru care să zic chiar luceafărul, care strălucește sublim în noaptea tenebroasă a existenței mele, tu ești...*
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-VETA (care trece la lampă, îi mărește focul și se pune cu chipul în bătaia luminii): *Zău? la uite-te bine!* (râde) RICĂ (foarte încurcat, se scoală de jos și dă înapoi împiedicându-se): *Madam! Să am pardon! Scuzați! Cocoană! Considerând că ... adică, vreau să zic, respectul... pardon... sub pretext că și pe motivul... scuzați... pardon...*
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-VETA (râzând): *Bine, pardonul ca pardonul, dar te rog, dacă ții la pielea dumitale, să te duci mai degrabă, să ieși curând din casa asta, că, Doamne ferește! De te-o călca aici bărbatu-meu* (accentuând) *mitocanul...de!...*
+<b>Subiectul al III-lea (30 de puncte)</b>
 
-RICĂ: *Scuzați... pardon...*
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un text poetic studiat la clasă aparținând, la alegere, lui Mihai Eminescu sau lui Tudor Arghezi.</b>
 
-VETA: *Apoi zău nu știu ce s-o mai alege de dumneata. Bărbatu-meu suferă grozav de gelozie și e în stare a fi capabil de orice.*
-
-LL. Caragiale, O *noapte furtunoasă*
-
-**Notă**
-
-pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
-
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
-
-**Subiectul al lll-lea(30 de puncte)**
-
-**Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un text poetic studiat la clasă aparținând, la alegere, lui Mihai Eminescu sau lui Tudor Arghezi.**
-
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - evidențierea a două trăsături care fac posibilă încadrarea textului într-un curent literar, într-o perioadă sau într-o orientare tematică;
 - prezentarea a două idei/ imagini poetice relevante pentru tema și viziunea despre lume;
