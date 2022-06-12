@@ -3940,7 +3940,7 @@ Viorica Marin, <i>Proiectul unei Europe cu mai multe viteze</i>, adevarul.ro, 6 
 
 În redactarea textului, vei avea în vedere următoarele repere:
 
-- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a douăargumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;	14 puncte**
 
 - utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
 
