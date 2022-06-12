@@ -3825,123 +3825,122 @@ Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei pr
 - prezentarea a două idei/ imagini poetice relevante pentru tema și viziunea despre lume;
 - prezentarea a două elemente de compoziție și limbaj (de exemplu: temă, motiv literar, secvențe lirice, elemente de prozodie, relații de simetrie/ opoziție, arii semantice, laitmotiv, figuri semantice-tropi etc.) prin referire la opera poetică studiată.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**In vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
-
-
-**Subiectul I(50 de puncte) Citește următorul fragment:**
-
-*De curând și, în sfârșit, Asociația Parcul Național Văcărești (APNV) a fost declarată câștigătoare pentru administrarea parcului cu același nume. **Dan Bărbulescu,** membru fondator și director executiv al APNV, declam că: „Vom deveni și administratori. încă nu am semnat contractul, așteptăm să fim chemați de Ministerul Mediului, Va fi un contract pe zece ani în care vom avea obligații importante. Se încheie o etapă pentru noi și ne pregătim pentru administrarea propriu-zisă a parcului, pentru punerea în practică a proiectului la care lucrăm de mult. Acela de a construi aici o școală dedicată naturii și un centru care să îmbine obiectivele de cercetare cu cele de protecție\* de educație, de vizitare sau de recreere sănătoasă. Din martie, când semnăm contractul, începem treaba efectiv. Vom iniția în parc acțiuni de vizitare. în săptămâna „Școala altfel“ vrem să facem un traseu tematic, o cărare cu câteva panouri de informare, două hide-uri de birdwatching, lecții de biologie și ecologie, activitate de conștientizare cu copii. Deja am început evaluarea și monitorizarea habitatului.*
-
-*în doi-trei ani, vom crea o infrastructură de vizitare, unde cei interesați pot intra și observa, învăța. Vor fi și zone de protecție integrală, în care accesul va fi interzis, zone de vizitare, în care vor fi permise doar observarea și fotografierea, și zone de dezvoltare durabilă, în care vor putea fi practicate ciclismul și alergarea. Ne gândim să amplasăm un traseu de cicloturism, fără să construim nimic, se va intra în parc cu bicicleta. O să direcționăm cicliștii care intră în parc pe poteci în care riscul de a călca tritonii pe care-i observă colegul nostru herpetolog Vlad Cioflec este zero. Pe coama digului, de exemplu, putem amplasa chiar de anul ăsta un traseu de cicloturism în care cicliștii antrenați și nu numai pot da un tur de parc și pot face fotografii de la înălțime.*
-
-*Parcul nu se va schimba din punct de vedere natural, ca peisaj, ci doar în ce privește conceptul. Va fi mult mai vizibil pe partea de educație, de conștientizare, de informare, pentru București, pentru comunitate. începem să construim profilul parcului, acela de școală dedicată ecologiei, biologiei, și de laborator, de cercetare pentru natură."* laromira Popovici, *Epopeea Parcului Național Văcărești,* în „Dilema veche11, 10 martie 2017
-
-**A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
-
-1. Indică două neologisme **din** textul dat	**6	puncte**
-1. Menționează o arie semantică dominantă	în text.	**6	puncte**
-1. Precizează două elemente definitorii care	vor schimba	profilul	parcului Văcărești.	**6	puncte**
-1. Explică opinia intervievatului referitoare la	impactul	asupra	educației.	**6	puncte**
-1. Prezintă, în 30-50 de cuvinte, semnificațiile enunțului: *Parcul nu se va schimba din punct de vedere natural, ca*
-
-*peisaj, ci doar în ce privește conceptul.*	**6 puncte**
-
-**B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă un parc natural este sau nu important într-o aglomerare urbană, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.	20 de puncte**
-
-în redactarea textului, vei avea în vedere următoarele repere:
-
-- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
-
-argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
-
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
-
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
-
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
 
-**giihiectul al ll-lea(10 puncte) Comentează, în minimum 50 de cuvinte, versurile date, evidențiind faptul că textul poetic aparține romantismului.**
+<b>Subiectul I (50 de puncte) 
 
-*De câte ori, iubito, de noi mi-aduc aminte, Oceanul cel de gheață mi-apare înainte:*
+Citește următorul fragment:</b>
 
-*Pe bolta alburie o stea nu se arată,*
+<i>De curând și, în sfârșit, Asociația Parcul Național Văcărești (APNV) a fost declarată câștigătoare pentru administrarea parcului cu același nume. <b>Dan Bărbulescu</b>, membru fondator și director executiv al APNV, declam că: „Vom deveni și administratori. încă nu am semnat contractul, așteptăm să fim chemați de Ministerul Mediului, Va fi un contract pe zece ani în care vom avea obligații importante. Se încheie o etapă pentru noi și ne pregătim pentru administrarea propriu-zisă a parcului, pentru punerea în practică a proiectului la care lucrăm de mult. Acela de a construi aici o școală dedicată naturii și un centru care să îmbine obiectivele de cercetare cu cele de protecție, de educație, de vizitare sau de recreere sănătoasă. Din martie, când semnăm contractul, începem treaba efectiv. Vom iniția în parc acțiuni de vizitare. în săptămâna „Școala altfel“ vrem să facem un traseu tematic, o cărare cu câteva panouri de informare, două hide-uri de birdwatching, lecții de biologie și ecologie, activitate de conștientizare cu copii. Deja am început evaluarea și monitorizarea habitatului.
 
-*Departe doară luna cea galbenă - o pată;*
+În doi-trei ani, vom crea o infrastructură de vizitare, unde cei interesați pot intra și observa, învăța. Vor fi și zone de protecție integrală, în care accesul va fi interzis, zone de vizitare, în care vor fi permise doar observarea și fotografierea, și zone de dezvoltare durabilă, în care vor putea fi practicate ciclismul și alergarea. Ne gândim să amplasăm un traseu de cicloturism, fără să construim nimic, se va intra în parc cu bicicleta. O să direcționăm cicliștii care intră în parc pe poteci în care riscul de a călca tritonii pe care-i observă colegul nostru herpetolog Vlad Cioflec este zero. Pe coama digului, de exemplu, putem amplasa chiar de anul ăsta un traseu de cicloturism în care cicliștii antrenați și nu numai pot da un tur de parc și pot face fotografii de la înălțime.
 
-*Iar peste mii de sloiuri de valuri repezite O pasăre plutește cu aripi ostenite,*
+Parcul nu se va schimba din punct de vedere natural, ca peisaj, ci doar în ce privește conceptul. Va fi mult mai vizibil pe partea de educație, de conștientizare, de informare, pentru București, pentru comunitate. începem să construim profilul parcului, acela de școală dedicată ecologiei, biologiei, și de laborator, de cercetare pentru natură."</i>
 
-*Pe când a ei pereche nainte tot s-a dus*
+Iaromira Popovici, <i>Epopeea Parcului Național Văcărești</i>, în "Dilema veche", 10 martie 2017
 
-*C-un pâlc întreg de păsări, pierzându-se-n apus.*
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 
-*Aruncă pe-a ei urmă priviri suferitoare,*
+1. Indică două neologisme din textul dat.	<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+2. Menționează o arie semantică dominantă	în text. <span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
+3. Precizează două elemente definitorii care	vor schimba	profilul	parcului Văcărești.	<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+4. Explică opinia intervievatului referitoare la	impactul	asupra	educației. <span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
+5. Prezintă, în 30-50 de cuvinte, semnificațiile enunțului: <i>Parcul nu se va schimba din punct de vedere natural, ca peisaj, ci doar în ce privește conceptul.</i>	<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-*Nici rău nu-i pare-acuma, nici bine nu... ea moare, Visându-se-ntr-o clipă cu anii înapoi.*
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă un parc natural este sau nu important într-o aglomerare urbană, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-*Suntem tot mai departe deolaltă amândoi,*
+În redactarea textului, vei avea în vedere următoarele repere:
 
-*Din ce în ce mai singur mă-ntunec și îngheț,*
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;	<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-*Când tu te pierzi în zarea eternei dimineți.*
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.	<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-Mi hai Eminescu, *De câte ori, iubito...*
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Notă**
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+<b>Subiectul al II-lea (10 puncte) 
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+Comentează, în minimum 50 de cuvinte, versurile date, evidențiind faptul că textul poetic aparține romantismului.</b>
 
-**Subiectul al lll-lea(30 de puncte)**
+<i>De câte ori, iubito, de noi mi-aduc aminte, 
 
-**Redactează un eseu de minimum 400 de cuvinte, în care să prezinți condiția intelectualului așa cum apare într-un roman studiat la clasă.**
+Oceanul cel de gheață mi-apare înainte:
 
-în elaborarea eseului, vei avea în vedere următoarele repere:
+Pe bolta alburie o stea nu se arată,
+
+Departe doară luna cea galbenă - o pată;
+
+Iar peste mii de sloiuri de valuri repezite O pasăre plutește cu aripi ostenite,
+
+Pe când a ei pereche nainte tot s-a dus
+
+C-un pâlc întreg de păsări, pierzându-se-n apus.
+
+Aruncă pe-a ei urmă priviri suferitoare,
+
+Nici rău nu-i pare-acuma, nici bine nu... ea moare, Visându-se-ntr-o clipă cu anii înapoi.
+
+Suntem tot mai departe deolaltă amândoi,
+
+Din ce în ce mai singur mă-ntunec și îngheț,
+
+Când tu te pierzi în zarea eternei dimineți.</i>
+
+Mihai Eminescu, <i>De câte ori, iubito...</i>
+
+<b>Notă</b>
+
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
+
+<b>Subiectul al III-lea (30 de puncte)</b>
+
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți condiția intelectualului așa cum apare într-un roman studiat la clasă.</b>
+
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - prezentarea a două dintre caracteristicile textului narativ, semnificative pentru realizarea personajelor alese (de exemplu: formula estetică, temă, motiv literar, perspectivă narativă, acțiune, conflict, relații temporale și spațiale, momentele subiectului, tehnici de caracterizare, discurs narativ, incipit, final etc.), prin referire la romanul studiat;
 - statutul social, moral și psihologic, relevarea trăsăturilor personajului, evidențiate în contextul social și de mentalități al lumii românești;
 - comentarea a două citate/ secvențe narative, semnificative pentru construcția personajului.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**în vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
 
-**Subiectul I(50 de puncte) Citește următorul fragment:**
+<b>Subiectul I (50 de puncte) 
 
-*Liderii Franței, Germaniei, Spaniei și Italiei se întâlnesc, astăzi, la Versailles, pentru a discuta despre relansare^ proiectului european. Din surse diplomatice franceze se arată că acest mini-summit își propune să dea un nou elan politic Uniunii Europene înainte de summit-ul european de pe 25 martie de la Roma dedicat împlinirii a 60 de ani de la lansarea proiectului comunitar. „Ideea este să încercăm să dăm un impuls politic celor patru țări", a declarat* o *sursă diplomatică franceză. Ieșirea Marii Britanii din Uniunea Europeană, creșterea curentului populist și eurosceptic, presiunea migratorie, atitudinea unor țări din Europa centrală și de răsărit care nu se mai recunosc în proiectul pluricultural al Bruxelles-ului, iată doar câteva dintre motivațiile acestui mini-summit de la Versailles. Criza economică declanșată în 2008, politica anti-europeană a lui Vladimir Puțin și tentația izolaționistă a lui Donald Trump completează tabloul. înaintea acestei reuniuni, președintele Franței, Franșois Hollande, a declarat că nu există alternativă la o Europă cu mai multe viteze, pentru a evita explozia Uniunii Europene. El a declarat că „saltul european presupune o alegere clară privind forma sa de organizare”. „Europa în 27 nu poate să fie Europa uniformă în 27. De mult timp, această idee a unei Europe diferențiate, cu viteze diferite, ritmuri distincte pentru a progresa, a generat multă rezistență. însă, în prezent, este o idee care se impune. în caz contrar, Europa va exploda”, a insistat șeful statului francez într-un interviu publicat, luni, de mai multe cotidiene europene, relateaza AFP. întrebat dacă, din punctul său de vedere, nu există alternativă la această Europă cu mai multe viteze, Hollande a răspuns: „Nu. Fie facem lucrurile diferit, fie nu le vom mai face împreună”.*
+Citește următorul fragment:</b>
 
-Viorica Marin, *Proiectul unei Europe cu mai multe viteze,* adevarul.ro, 6 martie 2017
+<i>Liderii Franței, Germaniei, Spaniei și Italiei se întâlnesc, astăzi, la Versailles, pentru a discuta despre relansarea proiectului european. Din surse diplomatice franceze se arată că acest mini-summit își propune să dea un nou elan politic Uniunii Europene înainte de summit-ul european de pe 25 martie de la Roma dedicat împlinirii a 60 de ani de la lansarea proiectului comunitar. „Ideea este să încercăm să dăm un impuls politic celor patru țări", a declarat o sursă diplomatică franceză. Ieșirea Marii Britanii din Uniunea Europeană, creșterea curentului populist și eurosceptic, presiunea migratorie, atitudinea unor țări din Europa centrală și de răsărit care nu se mai recunosc în proiectul pluricultural al Bruxelles-ului, iată doar câteva dintre motivațiile acestui mini-summit de la Versailles. Criza economică declanșată în 2008, politica anti-europeană a lui Vladimir Puțin și tentația izolaționistă a lui Donald Trump completează tabloul. înaintea acestei reuniuni, președintele Franței, Franșois Hollande, a declarat că nu există alternativă la o Europă cu mai multe viteze, pentru a evita explozia Uniunii Europene. El a declarat că „saltul european presupune o alegere clară privind forma sa de organizare”. „Europa în 27 nu poate să fie Europa uniformă în 27. De mult timp, această idee a unei Europe diferențiate, cu viteze diferite, ritmuri distincte pentru a progresa, a generat multă rezistență. însă, în prezent, este o idee care se impune. În caz contrar, Europa va exploda”, a insistat șeful statului francez într-un interviu publicat, luni, de mai multe cotidiene europene, relateaza AFP. întrebat dacă, din punctul său de vedere, nu există alternativă la această Europă cu mai multe viteze, Hollande a răspuns: „Nu. Fie facem lucrurile diferit, fie nu le vom mai face împreună”.</i>
 
-1. **Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
-1. Indică cele două cuvinte/ structuri din text, aflate în raport de antonimie.	**6 puncte**
-1. Menționează, din text, o idee/ opinie referitoare la evoluția Uniunii Europene.	**6 puncte**
-1. Precizează, într-un enunț, care este legătura dintre întâlnirea de la Versailles și summit-ul de la Roma. **6 puncte**
-1. Explică motivele pentru care se organizează minisummit-ul de la Versailles.	**6 puncte**
-1. Prezintă, în 30-50 de cuvinte, semnificațiile enunțului: *Fie facem lucrurile diferit, fie nu le vom mai face împreună.*
+Viorica Marin, <i>Proiectul unei Europe cu mai multe viteze</i>, adevarul.ro, 6 martie 2017
 
-**6 puncte**
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 
-1. **Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă Uniunea Europeană are sau**
+1. Indică cele două cuvinte/ structuri din text, aflate în raport de antonimie.	<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+2. Menționează, din text, o idee/ opinie referitoare la evoluția Uniunii Europene.	<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+3. Precizează, într-un enunț, care este legătura dintre întâlnirea de la Versailles și summit-ul de la Roma. <span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+4. Explică motivele pentru care se organizează minisummit-ul de la Versailles. <span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+5. Prezintă, în 30-50 de cuvinte, semnificațiile enunțului: <i>Fie facem lucrurile diferit, fie nu le vom mai face împreună.</i><span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-**nu nevoie de un proiect de relansare, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.	20 de puncte**
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă Uniunea Europeană are sau nu nevoie de un proiect de relansare, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-în redactarea textului, vei avea în vedere următoarele repere:
+În redactarea textului, vei avea în vedere următoarele repere:
 
-- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
-
-argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a douăargumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
 
 - utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
 
