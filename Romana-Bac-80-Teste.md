@@ -3940,48 +3940,45 @@ Viorica Marin, <i>Proiectul unei Europe cu mai multe viteze</i>, adevarul.ro, 6 
 
 În redactarea textului, vei avea în vedere următoarele repere:
 
-- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;	14 puncte**
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente; <span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.	<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+<b>Subiectul al II-lea (10 puncte)</b>
 
+<b>Comentează, în minimum 50 de cuvinte, fragmentul dat, evidențiind rolul expresiv al utilizării imperfectului.</b>
 
-**g^hiectul al ll-lea(10 puncte)**
+<i>O! Sala cinematografului B lungă și întunecoasă ca un submarin scufundat! Ușile de la intrare erau acoperite cu oalinzi de cristal în care se reflecta o parte din stradă. Era astfel la intrare un spectacol gratuit, înaintea celui din sală, un ecran uimitor în care strada apărea într-o lumină verzuie de vis cu oameni și trăsuri ce se mișcau somnambulic în apele ei.
 
-**Comentează, în minimum 50 de cuvinte, fragmentul dat, evidențiind rolul expresiv al utilizării imperfectului.**
+În sală domnea o căldură puturoasă și acidă de baie publică. Podeaua era cimentată și scaunele când se mișcau scoteau niște scârțâitori ca niște țipete scurte și disperate. în fața ecranului o galerie de covrigari și pușlamale pocnea semințe și comenta cu voce tare filmul. Titlurile erau silabisite de câteva zeci de guri în același timp, ca niște texte la o școală de adulți. Chiar sub ecran cânta orchestra compusă dintr-o pianistă, un violonist și un bătrân ovreu care trăgea de zor contrabasul. Bătrânul acesta mai avea și misiunea de a emite diferite zgomote corespunzătoare acțiunilor de pe ecran. El striga „cucurigu11 când la începutul filmului apărea cocoșul firmei cinematografice [...]
 
-*O! Sala cinematografului B lungă și întunecoasă ca un submarin scufundat! Ușile de la intrare erau acoperite cu oalinzi de cristal în care se reflecta o parte din stradă. Era astfel la intrare un spectacol gratuit, înaintea celui din sală, un ecran uimitor în care strada apărea într-o lumină verzuie de vis cu oameni și trăsuri ce se mișcau somnambulic în apele ei.*
+Trăiam episoadele din film cu o intensitate extraordinară, integrându-mă acțiunii ca un veritabil personagiu al dramei. Mi se întâmpla de multe ori ca filmul să-mi absoarbă într-atâta atenția încât să-mi închipui dintr-o dată că mă plimb prin parcurile de pe ecran [...] în definitiv nu există nicio diferență bine stabilită între persoana noastră reală și diferitele noastre personagii interioare imaginare.</i>
 
-*în sală domnea o căldură puturoasă și acidă de baie publică. Podeaua era cimentată și scaunele când se mișcau scoteau niște scârțâitori ca niște țipete scurte și disperate. în fața ecranului o galerie de covrigari și pușlamale pocnea semințe și comenta cu voce tare filmul. Titlurile erau silabisite de câteva zeci de guri în același timp, ca niște texte la o școală de adulți. Chiar sub ecran cânta orchestra compusă dintr-o pianistă, un violonist și un bătrân ovreu care trăgea de zor contrabasul. Bătrânul acesta mai avea și misiunea de a emite diferite zgomote corespunzătoare acțiunilor de pe ecran. El striga „cucurigu11 când la începutul filmului apărea cocoșul firmei cinematografice [...]*
+Max Blecher, <i>Întâmplări în irealitatea imediată </i>
 
-*Trăiam episoadele din film cu o intensitate extraordinară, integrându-mă acțiunii ca un veritabil personagiu al dramei. Mi se întâmpla de multe ori ca filmul să-mi absoarbă într-atâta atenția încât să-mi închipui dintr-o dată că mă plimb prin parcurile de pe ecran [...] în definitiv nu există nicio diferență bine stabilită între persoana noastră reală și diferitele noastre personagii interioare imaginare.*
+<b>Notă</b>
 
-Max Blecher, *întâmplări în irealitatea imediată*
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-**Notă**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+<b>Subiectul al III-lea (30 de puncte)</b>
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un roman al experienței studiat la clasă.</b>
 
-**Subiectul al lll-lea(30 de puncte)**
-
-**Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un roman al experienței studiat la clasă.**
-
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - evidențierea a două trăsături care fac posibilă încadrarea romanului studiat într-o tipologie/ într-o orientare tematică/ într-un curent;
 - prezentarea a două dintre caracteristicile textului narativ, semnificative pentru tema și viziunea despre lume (de exemplu: formula estetică, temă, motiv literar, perspectivă narativă, acțiune, conflict, relații temporale și spațiale, tehnici narative, discurs narativ, incipit, final etc.), prin referire la romanul studiat;
 - comentarea a două citate/ secvențe narative, semnificative pentru tema și viziunea despre lume.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
 **In vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
 
