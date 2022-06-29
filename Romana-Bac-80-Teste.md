@@ -3978,67 +3978,77 @@ Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei pr
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 punct</b>(existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**In vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul I(50 de puncte) Citește următorul fragment:**
+<b>Subiectul I (50 de puncte) 
 
-*în articolul anterior despre ediția 2017 a Festivalului de Film de la Berlin, am încercat să argumentez că filmele din competiție sunt cu atât mai subtile și solicitante cu cât vorbesc despre problemele unor personaje din clasa mijlocie, cu care publicul berlinez empatiza, probabil, mai ușor. în acest peisaj a fost receptat și Ana, mon amour de Călin Peter Netzer- răsplătit cu un Urs de Argint, acordat Danei Bunescu, pentru montaj.*
+Citește următorul fragment:</b>
 
-*Așadar, e o dramă sufocantă de cuplu într-un context care încurajează reprezentarea ei la o cât mai mare intensitate, mizând pe faptul că spectatorii o vor urmări cu implicare. în acești termeni, filmul are destule calități, care țin atât de dramaturgie - scenariul fiind structurat într-un mare flashback și sărind, în cadrul lui, în timp înainte și înapoi-, cât și de aspectele cinematografice - imaginea și montajul îi sprijină pe cei doi actori din rolurile principale în comunicarea instabilității personajelor.*
+<i>În articolul anterior despre ediția 2017 a Festivalului de Film de la Berlin, am încercat să argumentez că filmele din competiție sunt cu atât mai subtile și solicitante cu cât vorbesc despre problemele unor personaje din clasa mijlocie, cu care publicul berlinez empatiza, probabil, mai ușor. în acest peisaj a fost receptat și Ana, mon amour de Călin Peter Netzer- răsplătit cu un Urs de Argint, acordat Danei Bunescu, pentru montaj.
 
-*Prima parte a filmului (și cea mai puternică) arată dificultatea de a trăi alături de o persoană cu tulburări emoționale. Toma (Mircea Postelnicu) și Ana (Diana Cavaliotti) se cunosc când sunt amândoi studenți la Facultatea de Litere și când ea deja are un trecut familial complicat și o dependență de antidepresive. Prima fază a relației* e *redată în mod insistent din perspectiva lui, ceea ce înseamnă că toate episoadele de criză prin care trece ea sunt o surpriză nu numai pentru Toma, ci și pentru privitor. [...]*
+Așadar, e o dramă sufocantă de cuplu într-un context care încurajează reprezentarea ei la o cât mai mare intensitate, mizând pe faptul că spectatorii o vor urmări cu implicare. în acești termeni, filmul are destule calități, care țin atât de dramaturgie - scenariul fiind structurat într-un mare flashback și sărind, în cadrul lui, în timp înainte și înapoi-, cât și de aspectele cinematografice - imaginea și montajul îi sprijină pe cei doi actori din rolurile principale în comunicarea instabilității personajelor.
 
-*Stilul regizoral - montajul abrupt, compoziția de multe ori sugestivă a cadrelor și insistența pe chipurile actorilor, mult mai accentuată ca în alte filme din Noul Cinema Românesc - încadrează Ana, mon amour într-un cinema impresionist (în sensul mai vast al termenului), mai aproape de ceea ce fac Arnaud Desplechin și Abdel Kechiche decât de regizorul Cristi Puiu.*
+Prima parte a filmului (și cea mai puternică) arată dificultatea de a trăi alături de o persoană cu tulburări emoționale. Toma (Mircea Postelnicu) și Ana (Diana Cavaliotti) se cunosc când sunt amândoi studenți la Facultatea de Litere și când ea deja are un trecut familial complicat și o dependență de antidepresive. Prima fază a relației e redată în mod insistent din perspectiva lui, ceea ce înseamnă că toate episoadele de criză prin care trece ea sunt o surpriză nu numai pentru Toma, ci și pentru privitor. [...]
 
-Irina Trocan, *Ana, mon amour, granițe și intimități,* în „Observator cultural”, 3 martie, 2017
+Stilul regizoral - montajul abrupt, compoziția de multe ori sugestivă a cadrelor și insistența pe chipurile actorilor, mult mai accentuată ca în alte filme din Noul Cinema Românesc - încadrează Ana, mon amour într-un cinema impresionist (în sensul mai vast al termenului), mai aproape de ceea ce fac Arnaud Desplechin și Abdel Kechiche decât de regizorul Cristi Puiu.</i>
 
-**A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
+Irina Trocan, <i>Ana, mon amour, granițe și intimități</i>, în „Observator cultural”, 3 martie, 2017
 
-1. Indică două neologisme din textul dat. '	**6 puncte**
-1. Menționează o arie semantică dominantă în text.	**6 puncte**
-1. Precizează, din text, două nume de regizori români contemporani.	**6 puncte**
-1. Explică, într-un enunț, care este opinia autoarei referitoare la tipologia filmelor din competiția de la Berlin. **6 puncte**
-1. Prezintă două argumente care pot convinge publicul să vizioneze filmul.	**6 puncte**
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 
-**B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă cinematografia românească este, azi, relevantă sau nu pentru cinematografia europeană, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.	20 de puncte**
+1. Indică două neologisme din textul dat.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+2. Menționează o arie semantică dominantă în text.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+3. Precizează, din text, două nume de regizori români contemporani.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+4. Explică, într-un enunț, care este opinia autoarei referitoare la tipologia filmelor din competiția de la Berlin.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+5. Prezintă două argumente care pot convinge publicul să vizioneze filmul.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-în redactarea textului, vei avea în vedere următoarele repere:
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă cinematografia românească este, azi, relevantă sau nu pentru cinematografia europeană, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
+<b>În redactarea textului, vei avea în vedere următoarele repere:</b>
 
-argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+<b>Subiectul al II-lea (10 puncte)</b>
 
-**guhigctul al ll-lea(10 puncte)**
+<b>Comentează, în minimum 50 de cuvinte, versurile date, evidențiind că textul poetic aparține simbolismului.</b>
 
-**COfTientează, în minimum 50 de cuvinte, versurile date, evidențiind că textul poetic aparține simbolismului.**
+<i>Primăvară...
 
-*Primăvară...*
+O pictură parfumată cu vibrări de violet, 
 
-*O pictură parfumată cu vibrări de violet, în vitrine, versuri de un nou poet, în oraș, suspină un vals de fanfară.*
+În vitrine, versuri de un nou poet, 
 
-*O lungă primăvară de visuri și păreri...*
+În oraș, suspină un vals de fanfară.
 
-O *lungă deșteptare zvonește împrejur, E clar și numai soare.*
+O lungă primăvară de visuri și păreri...
 
-*La geamul unei fabrici o pală lucrătoare Aruncă o privire în zarea de azur.*
+O lungă deșteptare zvonește împrejur, 
 
-*O nouă primăvară pe vechile dureri...*
+E clar și numai soare.
 
-*Apar din nou țăranii pe hăul de câmpie, în infinit pământul se simte tresâltând:*
+La geamul unei fabrici o pală lucrătoare 
 
-*Vor fi acum de toate cum este orișicând, Dar iar rămâne totul o lungă teorie.*
+Aruncă o privire în zarea de azur.
 
-*O, când va fi un cântec de alte primăveri?...*
+O nouă primăvară pe vechile dureri...
 
-George Bacovia, *Nervi de primăvară*
+Apar din nou țăranii pe hăul de câmpie, 
+
+În infinit pământul se simte tresâltând:
+
+Vor fi acum de toate cum este orișicând, 
+
+Dar iar rămâne totul o lungă teorie.
+
+O, când va fi un cântec de alte primăveri?...</i>
+
+George Bacovia, <i>Nervi de primăvară</i>
 
 **Notă**
 
