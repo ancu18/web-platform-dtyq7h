@@ -4050,47 +4050,47 @@ O, când va fi un cântec de alte primăveri?...</i>
 
 George Bacovia, <i>Nervi de primăvară</i>
 
-**Notă**
+<b>Notă</b>
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul al lll-lea(30 de puncte)**
+<b>Subiectul al III-lea (30 de puncte)</b>
 
-**Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un roman aparținând, la alegere, lui Liviu Rebreanu sau lui G. Călinescu.**
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un roman aparținând, la alegere, lui Liviu Rebreanu sau lui G. Călinescu.</b>
 
-în elaborarea eseului, vei avea în vedere următoarele repere:
+<b>În elaborarea eseului, vei avea în vedere următoarele repere:</b>
 
 - evidențierea a două trăsături care fac posibilă încadrarea romanului studiat într-o tipologie/într-o orientare tematică/ într-un curent;
 - prezentarea a două dintre caracteristicile textului narativ, semnificative pentru tema și viziunea despre lume (de exemplu: perspectivă narativă, acțiune, conflict, relații temporale și spațiale, tehnici narative, incipit, final etc.) prin referire la romanul studiat;
 - comentarea a două citate/ secvențe narative, semnificative pentru tema și viziunea despre lume.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**In vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul I(50 de puncta**
+<b>Subiectul I (50 de puncte)</b>
 
-**Citește următorul fragment:**
+<b>Citește următorul fragment:</b>
 
-*Dislocare adesea traumatică și deposedare psihică și materială, exilul este o experiență umană esențială Narațiunea religioasă a înregistrat de timpuriu fenomenul și i-a conferit o rezonanță istorică amplă. Abraham în Biblia și Ulysses în mitologia greacă au personificat, fiecare, această extremă aventură; și nu sunt singurii care au simbolizat-o pentru posteritate. Epoca modernă a amplificat centrifuga conflictelor de largă amploare și a catastrofelor globale, fie din cauza accidentelor naturale, fie în virtutea intenselor conflagrații militare. Odată cu intensificarea circulației între țări și civilizații, ca și a vitezei de deplasare, înstrăinarea de locul natal - voită sau forțată - și exilul în depărtările cele mai depărtate au devenit fenomene curente.*
+<i>Dislocare adesea traumatică și deposedare psihică și materială, exilul este o experiență umană esențială Narațiunea religioasă a înregistrat de timpuriu fenomenul și i-a conferit o rezonanță istorică amplă. Abraham în Biblia și Ulysses în mitologia greacă au personificat, fiecare, această extremă aventură; și nu sunt singurii care au simbolizat-o pentru posteritate. Epoca modernă a amplificat centrifuga conflictelor de largă amploare și a catastrofelor globale, fie din cauza accidentelor naturale, fie în virtutea intenselor conflagrații militare. Odată cu intensificarea circulației între țări și civilizații, ca și a vitezei de deplasare, înstrăinarea de locul natal - voită sau forțată - și exilul în depărtările cele mai depărtate au devenit fenomene curente.
 
-*Dureroasă cum este și uneori chiar fatală, încercarea la care sunt supuși sau se supun semenii noștri nu este, însă, doar o năruire, ci și, uneori, o renaștere în necunoscut, după șocul și revelația pe care necunoscutul le produce. Nu este chiar o întâmplare că printre exilații deveniți celebri sunt nume marcante, de care cultura universală nu* se *poate lipsi. A transforma un handicap într-o reafirmare implică repercusiuni asupra destinului uman și asupra istoriei umanității. Am putea cita numeroase nume de savanți și de scriitori, de artiști și de gânditori care au marcat, în exil, o spectaculoasă înnoire în gândirea și sensibilitatea timpului. Picasso și Brâncuși, Einstein și Mărie Curie, Bartok și Rahmaninov sunt doar câteva exemple dintre numeroasele care s-ar putea menționa.*
+Dureroasă cum este și uneori chiar fatală, încercarea la care sunt supuși sau se supun semenii noștri nu este, însă, doar o năruire, ci și, uneori, o renaștere în necunoscut, după șocul și revelația pe care necunoscutul le produce. Nu este chiar o întâmplare că printre exilații deveniți celebri sunt nume marcante, de care cultura universală nu se poate lipsi. A transforma un handicap într-o reafirmare implică repercusiuni asupra destinului uman și asupra istoriei umanității. Am putea cita numeroase nume de savanți și de scriitori, de artiști și de gânditori care au marcat, în exil, o spectaculoasă înnoire în gândirea și sensibilitatea timpului. Picasso și Brâncuși, Einstein și Mărie Curie, Bartok și Rahmaninov sunt doar câteva exemple dintre numeroasele care s-ar putea menționa.</i>
 
-Norman Manea, *Exil și creativitate,* în „Observator cultural”, 5 mai 2017
+Norman Manea, <i>Exil și creativitate</i>, în „Observator cultural”, 5 mai 2017
 
-**A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
+<i>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</i>
 
-1. Indică două neologisme din textul dat.	**6	puncte**
-1. Menționează, din text, patru nume de exilați celebri.	**6	puncte**
-1. Precizează ideea de la care autorul pornește când scrie	eseul	despre	exil.	**6	puncte**
-1. Explică, pe baza textului, care este motivul amplificării exilului	în	lumea modernă.	**6	puncte**
-1. Prezintă, în 30-50 de cuvinte, semnificațiile enunțului: *Dureroasă cum este și uneori chiar fatală, încercarea la care*
+1. Indică două neologisme din textul dat.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
+2. Menționează, din text, patru nume de exilați celebri.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+3. Precizează ideea de la care autorul pornește când scrie	eseul	despre	exil.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
+4. Explică, pe baza textului, care este motivul amplificării exilului	în	lumea modernă.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+5. Prezintă, în 30-50 de cuvinte, semnificațiile enunțului: <i>Dureroasă cum este și uneori chiar fatală, încercarea la care
 
 *sunt supuși sau se supun semenii noștri nu este, însă, doar o năruire, ci și, uneori, o renaștere în necunoscut, după șocul și revelația pe care necunoscutul le produce.*	**6 puncte**
 
