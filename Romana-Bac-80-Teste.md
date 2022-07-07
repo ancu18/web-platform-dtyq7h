@@ -4090,152 +4090,146 @@ Norman Manea, <i>Exil și creativitate</i>, în „Observator cultural”, 5 mai
 2. Menționează, din text, patru nume de exilați celebri.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 3. Precizează ideea de la care autorul pornește când scrie	eseul	despre	exil.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
 4. Explică, pe baza textului, care este motivul amplificării exilului	în	lumea modernă.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
-5. Prezintă, în 30-50 de cuvinte, semnificațiile enunțului: <i>Dureroasă cum este și uneori chiar fatală, încercarea la care
+5. Prezintă, în 30-50 de cuvinte, semnificațiile enunțului: <i>Dureroasă cum este și uneori chiar fatală, încercarea la care sunt supuși sau se supun semenii noștri nu este, însă, doar o năruire, ci și, uneori, o renaștere în necunoscut, după șocul și revelația pe care necunoscutul le produce.</i><span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-*sunt supuși sau se supun semenii noștri nu este, însă, doar o năruire, ci și, uneori, o renaștere în necunoscut, după șocul și revelația pe care necunoscutul le produce.*	**6 puncte**
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă experiența exilului are sau nu mare impact în viața unui creator, raportându-te atât la informațiile din fragmentul extras din articolul <i>Exil și creativitate</i>, publicat în <i>Observatorul Cultural</i>, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-**B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă experiența exilului are sau nu mare impact în viața unui creator, raportându-te atât la informațiile din fragmentul extras din articolul *Exil și creativitate,* publicat în *Observatorul Cultural,* cât și la experiența personală sau culturală.**
+În redactarea textului, vei avea în vedere următoarele repere:
 
-**20 de puncte** în redactarea textului, vei avea în vedere următoarele repere:
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
+<b>Comentează, în minimum 50 de cuvinte, versurile de mai jos, evidențiind două trăsături ale liricii tradiționaliste.</b>
 
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
+<i>Nu s-a clintit nimica și recunosc iatacul
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+Bunicului pe care, viu, nu l-am cunoscut.
 
-**Comentează, în minimum 50 de cuvinte, versurile de mai jos, evidențiind două trăsături ale liricii tradiționaliste.**
+Rămase patu-i simplu și azi nedesfăcut,
 
-*Nu s-a clintit nimica și recunosc iatacul*
+Și ceasul lui pe masă și-a mai păstrat tic-tacul.
 
-*Bunicului pe care, viu, nu l-am cunoscut.*
+Văd rochia bunicii cu șal și malacov,
 
-*Râmase patu-i simplu și azi nedesfăcut,*
+Văd uniforma veche de „ofițer“ la modă
 
-*Și ceasul lui pe masă și-a mai păstrat tic-tacul.*
+Pe când era el Junker - demult - sub Ghica-vodă
 
-*Văd rochia bunicii cu șal și malacov,*
+Când mai mergeau boierii în butcă la Brașov.
 
-*Văd uniforma veche de „ofițer“ la modă*
+Și lângă bățu-i rustic, tăiat în lemn de vie, 
 
-*Pe când era el Junker- demult - sub Ghica-vodă*
+Văd putina lui unde lua băi de foi de nuc. 
 
-*Când mai mergeau boierii în butcă la Brașov.*
+A scârțâit o ușă... un pas... și-aștept năuc 
 
-*Și lângă bățu-i rustic, tăiat în lemn de vie, Văd putina lui unde lua băi de foi de nuc. A scârțâit o ușă... un pas... și-aștept năuc Să intre-aci bunicul dus numai până-n vie.*
+Să intre-aci bunicul dus numai până-n vie.
 
-*Un ronțăit de șoarec sau ceasul mă trezi?*
+Un ronțăit de șoarec sau ceasul mă trezi?
 
-*Ecou își fac, în taină, ca rimele poem ii...*
+Ecou își fac, în taină, ca rimele poemii...
 
-*Și ceasul vechi tot bate, tic-tic, la poarta vremii,*
+Și ceasul vechi tot bate, tic-tic, la poarta vremii,
 
-*Și șoricelul roade trecutul zi cu zi.*
+Și șoricelul roade trecutul zi cu zi.</i>
 
-Ion Pillat, *Odaia bunicului*
+Ion Pillat, <i>Odaia bunicului</i>
 
-**Notă**
+<b>Notă</b>
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul al lll-lea(30 de puncte)**
+<b>Subiectul al III-lea (30 de puncte)</b>
 
-**Redactează un eseu de minimum 400 de cuvinte, în care să prezinți relația dintre două personaje, așa cum apare într-o nuvelă studiată la clasă.**
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți relația dintre două personaje, așa cum apare într-o nuvelă studiată la clasă.</b>
 
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - prezentarea a două trăsături ale textului narativ, semnificative pentru construcția personajelor alese (de exemplu: tema, perspectiva narativă, acțiune, conflict, relații temporale și spațiale, construcția subiectului, modalități de caracterizare, limbaj etc.);
 - evidențierea situației inițiale și finale a celor două personaje, din perspectiva tipologiei în care se încadrează, a statutului lor psihologic, moral, social etc.;
 - relevarea trăsăturilor celor două personaje, semnificative pentru ilustrarea relațiilor, prin raportare la două episoade/ secvențe narative ale textului narativ ales.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi  <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**In vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
-
-
-**Subiectul I(50 de puncte) Citește următorul fragment:**
-
-*Ultimii trei ani de liceu la Cluj mi-au fost plini aproape numai de literatură [...] și în acest răstimp am devenit, treptat, dar sigur, cu adevărat eu. Multe dintre trăsăturile fixate atunci în sensibilitatea mea au rezistat de-a lungul întregii mele vieți: în poezie, în critică deopotrivă. Mai ales ultimul an, în care procesul de cristalizare s-a desăvârșit, cristalul intelectului meu delimitându-și toate fețele, când muzica modernă și pictura modernă au intrat în plămada mea spirituală, când am început să mă pasionez de filosofic, când am devenit suprarealist, când am asimilat cu extraordinară sete critica lui E. Lovinescu și când l-am cunoscut personal pe Blaga. Marea aventură, AVENTURA, îmi surâdea, viitorul apărându-mi încărcat de promisiuni, tentații garantate de configurația astrelor. Melancolia fundamentală a sensibilității și destinului meu era purtată pe culmile unor vârtejuri de lumină. Mi se părea că am toate motivele să mă cred un «ales». Și poate că nu atât «creația» mea [...] eu nu aveam proiecte fixe, credeam în surprizele inspirației - farmecul viitorului consta tocmai în enigmele lui, în care partea de umbră ține de însăși natura luminii), cât cultura de la care porneam, ca adolescent încă, și care însemna orizontul însuși deschis larg și ferm, fermă fiind doar deschiderea (o cultură prin care am izbutit să bag în sperieți pe Blaga, apoi pe Lovinescu, și pe care n-o ostentam niciodată, ci țâșnea din mine ca ceva al firii mele), mă făcea să mă simt atât de sus.*
-
-Ion Negoițescu, *Straja dragonilor*
-
-**A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
-
-1. Indică două structuri/ mărci ale subiectivității.	**6 puncte**
-1. Menționează care sunt cele două personalități culturale care au	fost	mentori	ai autorului.	**6 puncte**
-1. Precizează care este profilul de adolescent al memorialistului.	**6 puncte**
-1. Explică scrierea cu majuscule a cuvântului AVENTURA.	**6 puncte**
-1. Prezintă, în 30-50 de cuvinte, semnificațiile enunțului: *în acest răstimp am devenit,	treptat, dar sigur, cu adevărat*
-
-*eu.*	**6 puncte**
-
-**B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă modelele sunt sau nu importante în formarea unui adolescent, raportându-te atât la informațiile din fragmentul extras din *Straja Dragonilor,* de Ion Negoițescu, cât și la experiența personală sau culturală.	20 de puncte**
-
-în redactarea textului, vei avea în vedere următoarele repere:
-
-- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
-
-argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
-
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
-
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
-
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
 
+<b>Subiectul I (50 de puncte) 
 
-**Comentează, în minimum 50 de cuvinte, textul de mai jos, evidențiind faptul că aparține genului dramatic/** comediei-
+Citește următorul fragment:</b>
 
-MIȚA: *Eu am o presimțire...*
+<i>Ultimii trei ani de liceu la Cluj mi-au fost plini aproape numai de literatură [...] și în acest răstimp am devenit, treptat, dar sigur, cu adevărat eu. Multe dintre trăsăturile fixate atunci în sensibilitatea mea au rezistat de-a lungul întregii mele vieți: în poezie, în critică deopotrivă. Mai ales ultimul an, în care procesul de cristalizare s-a desăvârșit, cristalul intelectului meu delimitându-și toate fețele, când muzica modernă și pictura modernă au intrat în plămada mea spirituală, când am început să mă pasionez de filosofic, când am devenit suprarealist, când am asimilat cu extraordinară sete critica lui E. Lovinescu și când l-am cunoscut personal pe Blaga. Marea aventură, AVENTURA, îmi surâdea, viitorul apărându-mi încărcat de promisiuni, tentații garantate de configurația astrelor. Melancolia fundamentală a sensibilității și destinului meu era purtată pe culmile unor vârtejuri de lumină. Mi se părea că am toate motivele să mă cred un «ales». Și poate că nu atât «creația» mea [...] eu nu aveam proiecte fixe, credeam în surprizele inspirației - farmecul viitorului consta tocmai în enigmele lui, în care partea de umbră ține de însăși natura luminii), cât cultura de la care porneam, ca adolescent încă, și care însemna orizontul însuși deschis larg și ferm, fermă fiind doar deschiderea (o cultură prin care am izbutit să bag în sperieți pe Blaga, apoi pe Lovinescu, și pe care n-o ostentam niciodată, ci țâșnea din mine ca ceva al firii mele), mă făcea să mă simt atât de sus.</i>
 
-PAMPON: *Care?*
+Ion Negoițescu, <i>Straja dragonilor</i>
 
-IViiȚA: *Cum este amanta dumitale?*
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 
-PAMPON: *Cum să fie adică?*
+1. Indică două structuri/ mărci ale subiectivității.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+2. Menționează care sunt cele două personalități culturale care au	fost	mentori	ai autorului.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+3. Precizează care este profilul de adolescent al memorialistului.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+4. Explică scrierea cu majuscule a cuvântului AVENTURA.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+5. Prezintă, în 30-50 de cuvinte, semnificațiile enunțului: <i>În acest răstimp am devenit,	treptat, dar sigur, cu adevărat eu.</i><span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-MIȚA: *De roșu, de ghindă, de tobă ori de verde?*
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă modelele sunt sau nu importante în formarea unui adolescent, raportându-te atât la informațiile din fragmentul extras din <i>Straja Dragonilor</i>, de Ion Negoițescu, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-PAMPON: *De verde...*
+În redactarea textului, vei avea în vedere următoarele repere:
 
-MIȚA: *De verde?*
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-PAMPON: *Da.*
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-MIȚA: *Și ai la dumneata biletul către „Bibicul“, pe care zici că l-ai găsit în odaia damii de verde?*
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-PAMPON: *Da.*
+<b>Comentează, în minimum 50 de cuvinte, textul de mai jos, evidențiind faptul că aparține genului dramatic/ comediei.</b>
 
-MIȚA: *A’să-l văz degrabă...*
+MIȚA: <i>Eu am o presimțire...</i>
 
-PAMPON (dându-i biletul): *lacătă-l.*
+PAMPON: <i>Care?</i>
 
-MIȚA (ia biletul, îl privește și face o mutră grozav de disperată): *A! Am să-mi* răzbun/...(solemnă) *Domnule, nu te juca cu inima unei femei nenorocite... Spune drept: biletul ăsta l-ai găsit în odaia amantii dumitale? Jură...*
+MiȚA: <i>Cum este amanta dumitale?</i>
 
-PAMPON: (grav) *Pe onoarea mea!*
+PAMPON: <i>Cum să fie adică?</i>
 
-MIȚA: *Uite-te la biletul ăsta...L-ai citit?* (citind nervos) *„Bibicule, mangafaua pleacă mâine miercuri la Ploiești, rămâi singură și ambetată; sunt foarte rău bolnavă; vino negreșit, am poftă să-i tragem un chef... A ta adorantă, Mița...“Ai văzut biletul?...Acuma uite-te la mine bine...*
+MIȚA: <i>De roșu, de ghindă, de tobă ori de verde?</i>
 
-PAMPON: *Ei?* (îi ia înapoi biletul)
+PAMPON: <i>De verde...</i>
 
-MIȚA: *Ei! Eu sunt nenorocita care am scris biletul ăsta...*
+MIȚA: <i>De verde?</i>
 
-PAMPON: *Se poate?*
+PAMPON: <i>Da.</i>
 
-MIȚA: *Da, se* poate...(dezolată) Ș/ *omul care a fost la Didina dumitale este amantul meu!...*
+MIȚA: <i>Și ai la dumneata biletul către „Bibicul“, pe care zici că l-ai găsit în odaia damii de verde?</i>
 
-1. L. Caragiale, *D’ale carnavalului*
+PAMPON: <i>Da.</i>
+
+MIȚA: <i>A... să-l văz degrabă...</i>
+
+PAMPON (dându-i biletul): <i>Iacătă-l.</i>
+
+MIȚA (ia biletul, îl privește și face o mutră grozav de disperată): <i>A! Am să-mi răzbun...</i>(solemnă) <i>Domnule, nu te juca cu inima unei femei nenorocite... Spune drept: biletul ăsta l-ai găsit în odaia amantii dumitale? Jură...</i>
+
+PAMPON: (grav) <i>Pe onoarea mea!</i>
+
+MIȚA: <i>Uite-te la biletul ăsta... L-ai citit?</i> (citind nervos) <i>"Bibicule, mangafaua pleacă mâine miercuri la Ploiești, rămâi singură și ambetată; sunt foarte rău bolnavă; vino negreșit, am poftă să-i tragem un chef... A ta adorantă, Mița..." Ai văzut biletul?...Acuma uite-te la mine bine...</i>
+
+PAMPON: <i>Ei?</i> (îi ia înapoi biletul)
+
+MIȚA: <i>Ei! Eu sunt nenorocita care am scris biletul ăsta...</i>
+
+PAMPON: <i>Se poate?</i>
+
+MIȚA: <i>Da, se poate...</i> (dezolată) <i>Și omul care a fost la Didina dumitale este amantul meu!...</i>
+
+I. L. Caragiale, <i>D’ale carnavalului</i>
 
 Notă
 
