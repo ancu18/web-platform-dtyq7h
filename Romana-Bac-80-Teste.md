@@ -4233,139 +4233,119 @@ I. L. Caragiale, <i>D’ale carnavalului</i>
 
 Notă
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte** subiectul **propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul al lll-lea(30 de puncte)**
+<b>Subiectul al III-lea (30 de puncte)</b>
 
-**Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un text poetic studiat la clasă aparținând lui Nichita Stănescu.**
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un text poetic studiat la clasă aparținând lui Nichita Stănescu.</b>
 
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - evidențierea a două trăsături care fac posibilă încadrarea textului într-un curent literar, într-o perioadă sau într-o orientare tematică;
 
-~ prezentarea a două idei/ imagini poetice relevante pentru tema și viziunea despre lume;
+- prezentarea a două idei/ imagini poetice relevante pentru tema și viziunea despre lume;
 
 - prezentarea a două elemente de compoziție și limbaj (de exemplu: temă, motiv literar, secvențe lirice, elemente de prozodie, relații de simetrie/opoziție, arii semantice, laitmotiv, figuri semantice-tropi etc.), prin referire la opera poetică studiată.
 
-Notă!
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 Puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 Puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**,n vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul I(50 de punctaj Citește următorul fragment:**
+<b>Subiectul I (50 de puncte)
 
-*Ziua mondială a libertății presei nu e, anul acesta, un prilej de sărbătoare. Dimpotrivă: e un moment sumbru* care *obligă la o reflecție serioasă despre viitorul democrației. Ce s-a întâmplat de-am ajuns în această situație? Și, ales, ce avem de făcut?*
+Citește următorul fragment:</b>
 
-*Raportul despre libertatea presei, prezentat anual de organizația Reporteri Fără Frontiere, ne arată o imagi^ cât se poate de îngrijorătoare. Libertatea presei nu a fost niciodată mai amenințată ca acum. Mai mult de două trei^ dintre țările analizate au cunoscut o agravare a situației față de ultimul an. în 72 din cele 180 de țări analizate, situat^ e considerată dificilă sau foarte gravă. Implicit e nesocotit și dreptul cetățenilor de a se informa corect.*
+<i>Ziua mondială a libertății presei nu e, anul acesta, un prilej de sărbătoare. Dimpotrivă: e un moment sumbru care obligă la o reflecție serioasă despre viitorul democrației. Ce s-a întâmplat de-am ajuns în această situație? Și, ales, ce avem de făcut?
 
-*Presa e considerată „liberă" doar în 50 de state, în America de Nord, Europa, Australia și în sudul Africii. în topul țărilor în care presa este considerată liberă se află statele scandinave (Norvegia, Suedia, Finlanda, Danemarca). Pe ultimele locuri în clasament se află Sudanul, Vietnam, China, Eritreea, Coreea de Nord. Printre statele unde presa e cea mai amenințată se numără Egipt și Bahrein (considerate „închisori pentru jurnaliști"), Turkmenistan („una din cele mai crunte dictaturi ale lumii"), Siria (o țară „criminală" cu jurnaliștii), Iran (un stat în care jurnaliști sunt încarcerați „cu zecile" și condamnați la ani grei de pușcărie ori la pedepse fizice, cu biciul).*
+Raportul despre libertatea presei, prezentat anual de organizația Reporteri Fără Frontiere, ne arată o imagine cât se poate de îngrijorătoare. Libertatea presei nu a fost niciodată mai amenințată ca acum. Mai mult de două trei dintre țările analizate au cunoscut o agravare a situației față de ultimul an. În 72 din cele 180 de țări analizate, situația e considerată dificilă sau foarte gravă. Implicit e nesocotit și dreptul cetățenilor de a se informa corect.
 
-Matei Martin, Se *poate și mai rău,* în „Dilema Veche", nr. 689, 4-10 mai 2016
+Presa e considerată „liberă" doar în 50 de state, în America de Nord, Europa, Australia și în sudul Africii. în topul țărilor în care presa este considerată liberă se află statele scandinave (Norvegia, Suedia, Finlanda, Danemarca). Pe ultimele locuri în clasament se află Sudanul, Vietnam, China, Eritreea, Coreea de Nord. Printre statele unde presa e cea mai amenințată se numără Egipt și Bahrein (considerate „închisori pentru jurnaliști"), Turkmenistan („una din cele mai crunte dictaturi ale lumii"), Siria (o țară „criminală" cu jurnaliștii), Iran (un stat în care jurnaliști sunt încarcerați „cu zecile" și condamnați la ani grei de pușcărie ori la pedepse fizice, cu biciul).</i>
 
-1. **Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
-1. Indică două cuvinte-cheie din text.	**6 puncte**
-1. Menționează o interogație retorică din textul dat.	**6 puncte**
-1. Precizează, într-un enunț, opinia referitoare la numărul de state analizate din punctul de vedere al libertății de
+Matei Martin, <i>Se poate și mai rău</i>, în „Dilema Veche", nr. 689, 4-10 mai 2016
 
-exprimare.	**6 puncte**
+A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:
 
-1. Explică situația libertății de exprimare în lumea de azi.	**6 puncte**
-1. ` `TOC \o "1-5" \h \z Prezintă, în 30-50 de cuvinte, semnificațiile titlului articolului.	**6 puncte	|**
-1. **Redactează un text de minimum 150 de cuvinte, în care să argumentezi	dacă	libertatea	presei	este sau**
+1. Indică două cuvinte-cheie din text.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+2. Menționează o interogație retorică din textul dat.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+3. Precizează, într-un enunț, opinia referitoare la numărul de state analizate din punctul de vedere al libertății de exprimare.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+4. Explică situația libertății de exprimare în lumea de azi.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+5. Prezintă, în 30-50 de cuvinte, semnificațiile titlului articolului.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-**nu importantă în lumea contemporană, raportându-te atât la informațiile	din	articolul	Se *poate	și mai rău,*	I**
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi	dacă	libertatea	presei	este sau nu importantă în lumea contemporană, raportându-te atât la informațiile	din	articolul	<i>Se poate	și mai rău</i>, publicat în Dilema Veche, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-**publicat în Dilema Veche, cât și la experiența personală sau culturală.	20 de puncte**
+În redactarea textului, vei avea în vedere următoarele repere:	
 
-în redactarea textului, vei avea în vedere următoarele repere:	<
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
--formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-\- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte . subiectul propus.**
+<b>Comentează, în minimum 50 de cuvinte, textul de mai jos, evidențiind rolul expresiv al alternanței timpurilor verbale.</b>
 
-**F**
+<i>Cam p-atunci începuse să se ducă pe la cliente p-acasă, că de-nchis le închisese prăvălia, și ea ce să facă? putea să intre la cooperativă, da nu i-a plăcut să aibă stăpân pe cap. Mai bine s-a dus la cliente, o zi la una, o zi la alta. [...] Cucoane mari fusese, da acu le ajunsese greu: mai și îmbătrânise, le scosese din casile lor, de unde-avea niște palate ajunsese de sta și pân pivnițe, și pân poduri, vai de capu lor ajunsese. Era una de fusese ditamai prințesa, ș-acu spăla rufe într-un garaj, uite-așa boccele de rufe spăla, adunate, ea știa de unde le aduna. Și mai avea și trei copii, stătea și-ăia printre picioarele ei, și ea dă-i și dă-i, le turuia franțuzește, nemțește. Și dup-un timp așa se-nvățase, de lua și copii străini, doi lei ora, și dă-i și freacă rufele, opărește-le, apretează-le, ce le-o fi făcut, si dă-i și turuie franțuzește, și care vrea să-nvețe, ce să vezi? învăța. Și la loazele de copii uite-așa le mergea gura -pe nemțește, pe englezește, dracu să-iia...
 
-€ ii
+Asta tot de la madam Ioaniu o știe, cu ochii ei a văzut-o baba, pe Cantacuzinească, la albia de rufe. O femeie foarte cumsecade și foarte bine cică era prințesa, o doamnă fusese, și tot o doamnă era ș-acu, chiar dacă freca jegu la toți nespălații. Și bărba-su prințesei vrusese să-l împuște comuniștii, da pân la urmă a scăpat după vreo dooj-de ani, vezi că și-aici e dacă ai sau n-ai zile. Că loaniu s-a curățat în nici doi ani, de nici n-a apucat să-i facă proces și să-l judece. Și care-a fost să trăiască, a stat și dooj-de ani, și-a mâncat clorură de var care-o turna în latrine, și așa a scăpat. Că era o dezenterie la Jilava, la Sighet, unde era ei, și ăia de-a mâncat clorură de var a scăpat, n-a murit de pântecăraie. O fi fost, n-o fi fost, ea o vinde cum a cumpărat-o...</i>
 
-î
+Gabriela Adameșteanu, <i>Dimineață pierdută</i>
 
+<b>Notă</b>
 
-—-—
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-**Comentează, în minimum 50 de cuvinte, textul de mai jos, evidențiind rolul expresiv al alternanței timpurilor verbale.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-*Cam p-atunci începuse să se ducă pe la cliente p-acasă, că de-nchis le închisese prăvălia, și ea ce să facă? putea să intre la cooperativă, da nu i-a plăcut să aibă stăpân pe cap. Mai bine s-a dus la cliente, o zi la una, o zi la alta. [■■■] Cucoane mari fusese, da acu le ajunsese greu: mai și îmbătrânise, le scosese din casile lor, de unde-avea niște palate ajunsese de sta și pân pivnițe, și pân poduri, vai de capu lor ajunsese. Era una de fusese ditamai prințesa, ș-acu spăla rufe într-un garaj, uite-așa boccele de rufe spăla, adunate, ea știa de unde le aduna. Și mai avea și trei copii, stătea și-ăia printre picioarele ei, și ea dă-i și dă-i, le turuia franțuzește, nemțește. Și dup-un timp așa se-nvățase, de lua și copii străini, doi lei ora, și dă-i și freacă rufele, opărește-le, apretează-le, ce le-o fi făcut, si dă-i și turuie franțuzește, și care vrea să-nvețe, ce să vezi? învăța. Și la loazele de copii uite-așa le mergea gura -pe nemțește, pe englezește, dracu să-iia...*
+<b>Subiectul al III-lea (30 de puncte)</b>
 
-*Asta tot de la madam loaniu o știe, cu ochii ei a văzut-o baba, pe Cantacuzinească, la albia de rufe. O femeie foarte cumsecade și foarte bine cică era prințesa, o doamnă fusese, și tot o doamnă era ș-acu, chiar dacă freca jegu la toți nespălații. Și bărba-su prințesei vrusese să-l împuște comuniștii, da pân la urmă a scăpat după vreo dooj-de ani, vezi că și-aici e dacă ai sau n-ai zile. Că loaniu s-a curățat în nici doi ani, de nici n-a apucat să-i facă proces și să-l judece. Și care-a fost să trăiască, a stat și dooj-de ani, și-a mâncat clorură de var care-o turna în latrine, și așa a scăpat. Că era o dezenterie la Jilava, la Sighet, unde era ei, și ăia de-a mâncat clorură de var a scăpat, n-a murit de pântecăraie. O fi fost, n-o fi fost, ea o vinde cum a cumpărat-o...*
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți relația dintre două personaje într-un text dramatic aparținând lui I. L. Caragiale.</b>
 
-Gabriela Adameșteanu, *Dimineață pierdută*
-
-**Notă**
-
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
-
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
-
-**Subiectul al lli-lea,(30 de puncte)**
-
-**Redactează un eseu de minimum 400 de cuvinte, în care să prezinți relația dintre două personaje într-un text dramatic aparținând lui I. L. Caragiale.**
-
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - prezentarea a două dintre caracteristicile textului dramatic, semnificative pentru realizarea personajelor alese (de exemplu: formula estetică, temă, conflict, acțiune, relații temporale și spațiale, tipuri de comic, indicații scenice, discurs dramatic, final etc.) prin referire la textul studiat;
 - statutul social, moral și psihologic, relevarea trăsăturilor celor două personaje;
 - comentarea a două citate/ scene dramatice, semnificative pentru relația dintre cele două personaje.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**In vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul I(50 de puncte) Citește următorul fragment:**
+<b>Subiectul I (50 de puncte) 
 
-*Cea mai nouă apariție în cadrul editurii Vremea, „Capitala sub ocupația dușmanului 1916-1918’’ este o rememorare a unuia dintre momentele cele mai dureroase din istoria contemporană a orașului București: Primul Război Mondial.*
+Citește următorul fragment:</b>
 
-*Stilul cărții „Capitala sub ocupația dușmanului 1916-1918”, publicată de Editura Vremea, depășește bariera unei evocări istorice, surprinzând clipe, personaje, emoții ce asigură o lectură pasionantă. Nu o luați ca pe o carte de istorie contemporană, ci ca pe o invitație la o călătorie în timp - veți descoperi un oraș viu prin oamenii care astăzi nu mai sunt, dar care au înfruntat greutățile războiului chiar pe străzile pe care noi astăzi ne plimbăm în pace §/ libertate. Eroii cărții sunt dintre cei mai diverși: populația anonimă a Bucureștiului sub ocupație germană și reacțiile cele mai pitorești (de spaimă, de teamă, de inconștiență, de naivitate uneori), personajele cheie ale scenei politice și militare românești (culise neștiute, eroi politici portretizați fără urmă de ipocrizie), și dușmanii - ocupanții germani, cei care au reprezentat preț de doi ani de zile sursa suferințelor bucureștenilor. Cunoscut memorialist și om politic, Constantin Bacalbașa nu se teme să redea în modul cel mai sincer, adeseori critic, toate aceste portrete ale personajelor deja enumerate. Acțiunea nu stagnează nicio clipă, personajele se perindă prin fața ochilor noștri, grăbite, preocupate, animate de dorința de supraviețuire și eliberare. Este o carte de citit cu sufletul la gură, dar care ne ajută la final să prețuim mai mult perioada de pace în care ne aflăm. începând cu 6 decembrie 1916, când feldmareșalul von Mackensen intră în București în fruntea trupelor Puterilor Centrale (Germania, Austro-Ungaria, Bulgaria și Imperiul Otoman), și până la 12 noiembrie 1918, când acestea au părăsit Capitala, la o zi după semnarea armistițiului între Antanta și Puterile Centrale, Bucureștii au fost nevoiți să îndure o ocupație umilitoare și plină de tot felul de privațiuni. Capitala sub ocupația dușmanului - 1916-1918 reflectă în amănunt întregul tablou al acestei ocupații, de la comunicatele militare care confiscă și raționalizează, la lipsurile înfiorătoare, mai ales pe timpul iernii, de la arestări și abuzuri, la atitudinea și manevrele oamenilor politici germanofili, de la comportamentul soldaților ocupanți de diferite nații până la cel al populației, mai mult sau mai puțin „vinovată” de colaboraționismul cu ocupantul.*
+<i>Cea mai nouă apariție în cadrul editurii Vremea, „Capitala sub ocupația dușmanului 1916-1918’’ este o rememorare a unuia dintre momentele cele mai dureroase din istoria contemporană a orașului București: Primul Război Mondial.
 
-Florin Ghioca, *Capitala sub ocupația dușmanului 1916-1918, de Constantin Bacalbașa,* cronică de carte, în adevărul.ro
+Stilul cărții „Capitala sub ocupația dușmanului 1916-1918”, publicată de Editura Vremea, depășește bariera unei evocări istorice, surprinzând clipe, personaje, emoții ce asigură o lectură pasionantă. Nu o luați ca pe o carte de istorie contemporană, ci ca pe o invitație la o călătorie în timp - veți descoperi un oraș viu prin oamenii care astăzi nu mai sunt, dar care au înfruntat greutățile războiului chiar pe străzile pe care noi astăzi ne plimbăm în pace §/ libertate. Eroii cărții sunt dintre cei mai diverși: populația anonimă a Bucureștiului sub ocupație germană și reacțiile cele mai pitorești (de spaimă, de teamă, de inconștiență, de naivitate uneori), personajele cheie ale scenei politice și militare românești (culise neștiute, eroi politici portretizați fără urmă de ipocrizie), și dușmanii - ocupanții germani, cei care au reprezentat preț de doi ani de zile sursa suferințelor bucureștenilor. Cunoscut memorialist și om politic, Constantin Bacalbașa nu se teme să redea în modul cel mai sincer, adeseori critic, toate aceste portrete ale personajelor deja enumerate. Acțiunea nu stagnează nicio clipă, personajele se perindă prin fața ochilor noștri, grăbite, preocupate, animate de dorința de supraviețuire și eliberare. Este o carte de citit cu sufletul la gură, dar care ne ajută la final să prețuim mai mult perioada de pace în care ne aflăm. începând cu 6 decembrie 1916, când feldmareșalul von Mackensen intră în București în fruntea trupelor Puterilor Centrale (Germania, Austro-Ungaria, Bulgaria și Imperiul Otoman), și până la 12 noiembrie 1918, când acestea au părăsit Capitala, la o zi după semnarea armistițiului între Antanta și Puterile Centrale, Bucureștii au fost nevoiți să îndure o ocupație umilitoare și plină de tot felul de privațiuni. Capitala sub ocupația dușmanului - 1916-1918 reflectă în amănunt întregul tablou al acestei ocupații, de la comunicatele militare care confiscă și raționalizează, la lipsurile înfiorătoare, mai ales pe timpul iernii, de la arestări și abuzuri, la atitudinea și manevrele oamenilor politici germanofili, de la comportamentul soldaților ocupanți de diferite nații până la cel al populației, mai mult sau mai puțin „vinovată” de colaboraționismul cu ocupantul.</i>
 
-1. **Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
-1. Indică, din textul dat, doi termeni din aria semantică a războiului.	**6 puncte**
-1. Menționează perioada prezentată în cartea de memorialistică.	**6 puncte**
-1. Precizează titlul cărții recenzate și numele autorului acesteia.	**6 puncte**
-1. Explică, într-un enunț, care este spațiul geografic și cultural despre care se vorbește în cartea prezentată.
+Florin Ghioca, <i>Capitala sub ocupația dușmanului 1916-1918, de Constantin Bacalbașa</i>, cronică de carte, în adevărul.ro
 
-**6 puncte**
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 
-1. Prezintă, în 30-50 de cuvinte, semnificațiile enunțului: *Nu o luați ca pe o carte de istorie contemporană, ci ca pe o*
+1. Indică, din textul dat, doi termeni din aria semantică a războiului.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+2. Menționează perioada prezentată în cartea de memorialistică.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+3. Precizează titlul cărții recenzate și numele autorului acesteia.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+4. Explică, într-un enunț, care este spațiul geografic și cultural despre care se vorbește în cartea prezentată.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+5. Prezintă, în 30-50 de cuvinte, semnificațiile enunțului: <i>Nu o luați ca pe o carte de istorie contemporană, ci ca pe o invitație la o călătorie în timp.</i><span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-*invitație la o călătorie în timp.*	**6 puncte**
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă au sau nu cărțile de memorialistică un rol important pentru înțelegerea unei epoci, raportându-te atât la informațiile din fragmentul extras din articolul <i>Capitala sub ocupația dușmanului 1916-1918</i>, de Florin Ghioca, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-1. **Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă au sau nu cărțile de**
+În redactarea textului, vei avea în vedere următoarele repere:
 
-**memorialistică un rol important pentru înțelegerea unei epoci, raportându-te atât la informațiile din fragmentul extras din articolul *Capitala sub ocupația dușmanului 1916-1918,* de Florin Ghioca, cât și la experiența personală sau culturală.	20 de puncte**
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-în redactarea textului, vei avea în vedere următoarele repere:
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
-
-argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
-
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
-
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
-
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
 
 **Comentează, în minimum 50 de cuvinte, versurile de mai jos, evidențiind două trăsături ale neomodernismului.**
