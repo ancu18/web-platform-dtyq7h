@@ -4348,41 +4348,41 @@ Florin Ghioca, <i>Capitala sub ocupația dușmanului 1916-1918, de Constantin Ba
 <b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
 
-**Comentează, în minimum 50 de cuvinte, versurile de mai jos, evidențiind două trăsături ale neomodernismului.**
+<b>Comentează, în minimum 50 de cuvinte, versurile de mai jos, evidențiind două trăsături ale neomodernismului.</b>
 
-*Nu îndrăznesc să-nchid o clipă ochii de teamă*
+<i>Nu îndrăznesc să-nchid o clipă ochii de teamă
 
-*să nu zdrobesc între pleoape lumea, să n-o aud sfărmându-se cu zgomot ca o alună între dinți.*
+să nu zdrobesc între pleoape lumea, să n-o aud sfărmându-se cu zgomot ca o alună între dinți.
 
-*Cât timp voi mai putea fura din somn?*
+Cât timp voi mai putea fura din somn?
 
-*Cât timp o voi mai ține-n viață?*
+Cât timp o voi mai ține-n viață?
 
-*Privesc cu disperare și mi-e câinește milă de universul fără apărare ce va pieri în ochiul meu închis.*
+Privesc cu disperare și mi-e câinește milă de universul fără apărare ce va pieri în ochiul meu închis.</i>
 
-Ana Blandiana, *Ochiul închis*
+Ana Blandiana, <i>Ochiul închis</i>
 
-**Notă**
+<b>Notă</b>
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul al lll-lea(30 de puncte)**
+<b>Subiectul al III-lea (30 de puncte)</b>
 
-**Redactează un eseu, de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un roman scris după 1980.**
+<b>Redactează un eseu, de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un roman scris după 1980.</b>
 
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - evidențierea a două trăsături care fac posibilă încadrarea romanului studiat într-o tipologie/ într-o orientare tematică/ într-un curent;
 - prezentarea a două dintre caracteristicile textului narativ, semnificative pentru tema și viziunea despre lume (de exemplu: formula estetică, temă, motiv literar, perspectivă narativă, acțiune, conflict, relații temporale și spațiale, tehnici narative, discurs narativ, incipit, final etc.) prin referire la romanul studiat;
 - comentarea a două citate/ secvențe narative, semnificative pentru tema și viziunea despre lume.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
 **în vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
 
