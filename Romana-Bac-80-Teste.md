@@ -4382,98 +4382,104 @@ Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei pr
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**în vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
-
-
-**Subiectul I(50 de puncte) Citește următorul fragment:**
-
-*De ce, totuși, e nevoie de latină? Ce-i oferă unui elev de 14-15 ani?*
-
-*La ce este bună latina? Un tânăr la 14-15 ani trebuie format dintr-o perspectivă generală: el încă nu știe ce va face în viață, deci trebuie să-i oferi cât mai multe căi. Unuia îi place matematica, altuia fenomenele naturii, altuia îi place să stea în podul casei și să citească. Or, dacă orientezi un tânăr doar către zona de profit pe care o cere societatea, înseamnă să contribui la formarea sa strâmbă, ciungă. Pentru că îi oferi ce crezi tu că îi trebuie în viață. Obligația noastră este să oferim alegeri, nu un drum cu sens unic. Latina ajută la dezvoltarea personalității în primul rând pentru că este o disciplină umanistă, este un vehicul pentru formarea mentală, intelectuală, spirituală. Antichitatea e ca un fel de carte de înțelepciune. La clasa a Vlll-a se studiază multe proverbe și maxime, de pildă, care le plac copiilor. Latura formativă este o replică a științelor exacte: tot rigoare, tot exactitate, tot gândire în paradigme logice, dar exprimate altfel, nu prin cifre.*
-
-*Unora li se pare însă complicat să învețe desinențele, declinările, conjugările...*
-
-*Da, dar trebuie învățate. Poți să faci algebră fără aritmetică? Poți să faci matematică fără tabla înmulțirii?*
-
-*Există și argumente culturale în favoarea latinei. Europa e întemeiată pe civilizația greco-latină. Poți fi un bun cetățean european (și român) fără să fi făcut vreodată o oră de latină sau să fi învățat ceva despre cultura antică? Și cum poți vibra la frumusețea ruinelor și a monumentelor de patrimoniu când pentru tine nu e nicio deosebire între romani, franci, burgunzi, cruciați, până în epoca actuală, și pentru tine istoria e un tăvălug? Europa stă pe un trecut comun, realizat pe baza unei civilizații unificatoare. Mutațiile interetnice au dus la dispariția acelei civilizații unificatoare, dar acele unități mentale s-au conservat sub forma vestigiilor antice, în spații culturale și etnice care poate nu mai continuă moștenirea romană. Cum poți să spui că ești cetățean european dacă nu știi ce înseamnă Europa? Și nu ai cum să știi ce este Europa dacă te limitezi la aspectele sincroniei culturale și nu mergi înapoi, spre rădăcini.*
-
-*Limba latină îi ajută pe elevi să învețe mai bine limba română,* Mircea Vasilescu în dialog cu prof. univ dr. Liviu Franga, în „Dilema veche", 14-20 ianuarie 2016
-
-**A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
-
-1. Indică două neologisme din text.	**6	puncte**
-1. Menționează, din text, o interogație retorică.	**6	puncte**
-1. Precizează, într-un enunț, ce înseamnă, în viziunea intervievatului,	un	bun cetățean european.	**6 puncte**
-1. Explică motivul pentru care Antichitatea este asemănată cu o carte	de	înțelepciune.	**6	puncte**
-1. Prezintă, în 30-50 de cuvinte, semnificațiile ultimelor două enunțuri	din	text.	**6	puncte**
-
-**B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă rolul studierii limbilor clasice/ latinei este sau nu important, raportându-te atât la informațiile din articolul *Limba latină îi ajută pe elevi să învețe mai bine limba română,* publicat în *Dilema veche,* cât și la experiența personală sau culturală.**
-
-**20 de puncte**
-
-în redactarea textului, vei avea în vedere următoarele repere:
-
--formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
-
-\- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
-
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
 
-**gybtecțiil al ll-lea(10 puncte) Comentează, în minimum 50 de cuvinte, ideea centrală a textului poetic, evidențiind relația dintre ideea poetică și mijloacele artistice:**
+<b>Subiectul I(50 de puncte) 
 
-*ce iarnă tăcută*
+Citește următorul fragment:</b>
 
-*și ce voluptoasă singurătatea acestui suflet*
+<i>De ce, totuși, e nevoie de latină? Ce-i oferă unui elev de 14-15 ani?
 
-*- felinarele felinarele -*
+La ce este bună latina? Un tânăr la 14-15 ani trebuie format dintr-o perspectivă generală: el încă nu știe ce va face în viață, deci trebuie să-i oferi cât mai multe căi. Unuia îi place matematica, altuia fenomenele naturii, altuia îi place să stea în podul casei și să citească. Or, dacă orientezi un tânăr doar către zona de profit pe care o cere societatea, înseamnă să contribui la formarea sa strâmbă, ciungă. Pentru că îi oferi ce crezi tu că îi trebuie în viață. Obligația noastră este să oferim alegeri, nu un drum cu sens unic. Latina ajută la dezvoltarea personalității în primul rând pentru că este o disciplină umanistă, este un vehicul pentru formarea mentală, intelectuală, spirituală. Antichitatea e ca un fel de carte de înțelepciune. La clasa a Vlll-a se studiază multe proverbe și maxime, de pildă, care le plac copiilor. Latura formativă este o replică a științelor exacte: tot rigoare, tot exactitate, tot gândire în paradigme logice, dar exprimate altfel, nu prin cifre.
 
-*cu lacrima înghețată pe sticlă*
+Unora li se pare însă complicat să învețe desinențele, declinările, conjugările...
 
-*aș vrea să alerg*
+Da, dar trebuie învățate. Poți să faci algebră fără aritmetică? Poți să faci matematică fără tabla înmulțirii?
 
-*până la strada cu numele meu*
+Există și argumente culturale în favoarea latinei. Europa e întemeiată pe civilizația greco-latină. Poți fi un bun cetățean european (și român) fără să fi făcut vreodată o oră de latină sau să fi învățat ceva despre cultura antică? Și cum poți vibra la frumusețea ruinelor și a monumentelor de patrimoniu când pentru tine nu e nicio deosebire între romani, franci, burgunzi, cruciați, până în epoca actuală, și pentru tine istoria e un tăvălug? Europa stă pe un trecut comun, realizat pe baza unei civilizații unificatoare. Mutațiile interetnice au dus la dispariția acelei civilizații unificatoare, dar acele unități mentale s-au conservat sub forma vestigiilor antice, în spații culturale și etnice care poate nu mai continuă moștenirea romană. Cum poți să spui că ești cetățean european dacă nu știi ce înseamnă Europa? Și nu ai cum să știi ce este Europa dacă te limitezi la aspectele sincroniei culturale și nu mergi înapoi, spre rădăcini.</i>
 
-*să-i sparg caldarâmul*
+<i>Limba latină îi ajută pe elevi să învețe mai bine limba română</i>, Mircea Vasilescu în dialog cu prof. univ dr. Liviu Franga, în „Dilema veche", 14-20 ianuarie 2016
 
-*și să dezgrop un copil*
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 
-*pentru că e iarnă*
+1. Indică două neologisme din text.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
+2. Menționează, din text, o interogație retorică.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
+3. Precizează, într-un enunț, ce înseamnă, în viziunea intervievatului,	un	bun cetățean european.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+4. Explică motivul pentru care Antichitatea este asemănată cu o carte	de	înțelepciune.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
+5. Prezintă, în 30-50 de cuvinte, semnificațiile ultimelor două enunțuri	din	text.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
 
-*și copacii ridică-n picioare*
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă rolul studierii limbilor clasice/ latinei este sau nu important, raportându-te atât la informațiile din articolul <i>Limba latină îi ajută pe elevi să învețe mai bine limba română</i>, publicat în <i>Dilema veche</i>, cât și la experiența personală sau culturală.</b>
 
-*atâtea schelete*
+<b>20 de puncte</b>
 
-Nora luga, *Felinarele, felinarele*
+În redactarea textului, vei avea în vedere următoarele repere:
+
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
+
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
+
+
+<b><u>Subiectul al II-lea</u><span style='float:right;font-weight:bold;text-decoration:underline'>(10 puncte)</span></u></b> 
+
+<b>Comentează, în minimum 50 de cuvinte, ideea centrală a textului poetic, evidențiind relația dintre ideea poetică și mijloacele artistice:</b>
+
+<i>ce iarnă tăcută
+
+și ce voluptoasă singurătatea acestui suflet
+
+- felinarele felinarele -
+
+cu lacrima înghețată pe sticlă
+
+aș vrea să alerg
+
+până la strada cu numele meu
+
+să-i sparg caldarâmul
+
+și să dezgrop un copil
+
+pentru că e iarnă
+
+și copacii ridică-n picioare
+
+atâtea schelete</i>
+
+Nora Iuga, <i>Felinarele, felinarele</i>
 
 Notă
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul al lll-lea(30 de puncte)**
+<p style="border-bottom:1px solid black;"><b>Subiectul al III-lea</b><span style='float:right;font-weight:bold'>(30 de puncte)</span></p>
 
-**Redactează un eseu, de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un roman aparținând lui Camil Petrescu.**
+<b>Redactează un eseu, de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un roman aparținând lui Camil Petrescu.</b>
 
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - evidențierea a două trăsături care fac posibilă încadrarea romanului studiat într-o tipologie/ într-o orientare tematică/ într-un curent;
 - prezentarea a două dintre caracteristicile textului narativ, semnificative pentru tema și viziunea despre lume (de exemplu: formula estetică, temă, motiv literar, perspectivă narativă, acțiune, conflict, relații temporale și spațiale, tehnici narative, discurs narativ, incipit, final etc.) prin referire la romanul studiat.
 - comentarea a două citate/ secvențe narative, semnificative pentru tema și viziunea despre lume.
 
-Notă!
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**In vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
 
-**Subiectul I(50 de punctaj Citește următorul fragment:**
+<b>Subiectul I (50 de puncte) 
+
+Citește următorul fragment:**
 
 *Povestea locului începe, absurd, pe vremea lui Ceaușescu: „Ne aflăm pe fundul lacului. Ceaușescu, k grandomania lui, și în planurile lui de a schimba Bucureștiul, a proiectat un lac. Lac care a rămas nefinalizat.* 4 *început să-l construiască prin 1984-1985, an în care a început să și demoleze Mănăstirea Văcărești, monument arhitectură brâncovenească, cred că cea mai mare mănăstire din zona asta a Europei. Au construit cam în proporția de 90%, pentru că au venit evenimentele din decembrie ’89 și zona a rămas nefinalizată. Au pus apă în lac, dar '^ din lacul Mihăilești, cum proiectaseră inițial, ci din Dâmbovița, pentru că venea Nea Nicu în vizită și trebuia* $3 *găsească lucrurile cât mai aproape de final. Au tras ca nebunii apă cu motoare din Dâmbovița, două săptămâni, 9 fost așa, o peliculă de un metru înălțime, dar apa n-a stat, pentru că, parcul nefiind finalizat, s-a infiltrat. A inundat cartiere, Ceaușescu a fost nemulțumit, a oprit lucrările, cred că în vara lui ’89, și oprite au rămas. Și zona a rămas așa. Nu exista atunci vegetație, nu era pic de arbore, nu erau nici alte specii", spune Dan Bărbulescu. Și continua miraculos: „Imaginați-vă un lac gol, o cuvă. Era excavat, zona era goală. Era un peisaj selenar, industrial, abandonat. Datorită digului și a prezenței apei (bălțile de acum existau, erau excavate, se luase pământ din interior ca să* se *construiască digul), oamenii nu știau ce se afla dincolo de dig. Zona având apă, foarte multă apă dulce, toată apa care vine aici -e o întreagă rețea de bălți. E interesant, pentru că vegetația asta, specifică zonelor umede, și toată rețeaua de bălți permit sosirea păsărilor, acestea se simt în siguranță aici. Nu mai au contact cu omul. Se bagă în stuf. Ingredientul principal - apa -, protecția datorată digului și neputința noastră din ultimii 25 ani au construit, practic, parcul. Neputință, pentru că nu s-a mai băgat nimeni în nici un fel, în acte este obiectiv hidro, zona a devenit un* no man’s land. *Astfel încât în ultimii 25 de ani a apărut un ecosistem viabil din toate punctele de vedere, de la microorganisme la specii complexe, păsări de talie mare cum e lebăda și mamifere cum e vidra.*
 
