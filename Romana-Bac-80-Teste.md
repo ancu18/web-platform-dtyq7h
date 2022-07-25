@@ -4458,7 +4458,7 @@ Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei pr
 
 <b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-<p style="border-bottom:1px solid black;"><b>Subiectul al III-lea</b><span style='float:right;font-weight:bold'>(30 de puncte)</span></p>
+<p style="border-bottom:1px solid black;font-weight:bold">Subiectul al III-lea<span style='float:right;'>(30 de puncte)</span></p>
 
 <b>Redactează un eseu, de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un roman aparținând lui Camil Petrescu.</b>
 
@@ -4477,7 +4477,7 @@ Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pe
 <b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
 
-<b>Subiectul I (50 de puncte) 
+<p style='border-bottom:1px solid black;'><b>Subiectul I (50 de puncte) 
 
 Citește următorul fragment:**
 
