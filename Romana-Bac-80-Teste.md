@@ -4477,126 +4477,132 @@ Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pe
 <b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
 
-<p style='border-bottom:1px solid black;'><b>Subiectul I (50 de puncte) 
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul I<span style = 'float:right'>(50 de puncte)</span></p> 
 
-Citește următorul fragment:**
+<b>Citește următorul fragment:</b>
 
-*Povestea locului începe, absurd, pe vremea lui Ceaușescu: „Ne aflăm pe fundul lacului. Ceaușescu, k grandomania lui, și în planurile lui de a schimba Bucureștiul, a proiectat un lac. Lac care a rămas nefinalizat.* 4 *început să-l construiască prin 1984-1985, an în care a început să și demoleze Mănăstirea Văcărești, monument arhitectură brâncovenească, cred că cea mai mare mănăstire din zona asta a Europei. Au construit cam în proporția de 90%, pentru că au venit evenimentele din decembrie ’89 și zona a rămas nefinalizată. Au pus apă în lac, dar '^ din lacul Mihăilești, cum proiectaseră inițial, ci din Dâmbovița, pentru că venea Nea Nicu în vizită și trebuia* $3 *găsească lucrurile cât mai aproape de final. Au tras ca nebunii apă cu motoare din Dâmbovița, două săptămâni, 9 fost așa, o peliculă de un metru înălțime, dar apa n-a stat, pentru că, parcul nefiind finalizat, s-a infiltrat. A inundat cartiere, Ceaușescu a fost nemulțumit, a oprit lucrările, cred că în vara lui ’89, și oprite au rămas. Și zona a rămas așa. Nu exista atunci vegetație, nu era pic de arbore, nu erau nici alte specii", spune Dan Bărbulescu. Și continua miraculos: „Imaginați-vă un lac gol, o cuvă. Era excavat, zona era goală. Era un peisaj selenar, industrial, abandonat. Datorită digului și a prezenței apei (bălțile de acum existau, erau excavate, se luase pământ din interior ca să* se *construiască digul), oamenii nu știau ce se afla dincolo de dig. Zona având apă, foarte multă apă dulce, toată apa care vine aici -e o întreagă rețea de bălți. E interesant, pentru că vegetația asta, specifică zonelor umede, și toată rețeaua de bălți permit sosirea păsărilor, acestea se simt în siguranță aici. Nu mai au contact cu omul. Se bagă în stuf. Ingredientul principal - apa -, protecția datorată digului și neputința noastră din ultimii 25 ani au construit, practic, parcul. Neputință, pentru că nu s-a mai băgat nimeni în nici un fel, în acte este obiectiv hidro, zona a devenit un* no man’s land. *Astfel încât în ultimii 25 de ani a apărut un ecosistem viabil din toate punctele de vedere, de la microorganisme la specii complexe, păsări de talie mare cum e lebăda și mamifere cum e vidra.*
+<i>Povestea locului începe, absurd, pe vremea lui Ceaușescu: „Ne aflăm pe fundul lacului. Ceaușescu, cu grandomania lui, și în planurile lui de a schimba Bucureștiul, a proiectat un lac. Lac care a rămas nefinalizat. A început să-l construiască prin 1984-1985, an în care a început să și demoleze Mănăstirea Văcărești, monument arhitectură brâncovenească, cred că cea mai mare mănăstire din zona asta a Europei. Au construit cam în proporția de 90%, pentru că au venit evenimentele din decembrie ’89 și zona a rămas nefinalizată. Au pus apă în lac, dar nu din lacul Mihăilești, cum proiectaseră inițial, ci din Dâmbovița, pentru că venea Nea Nicu în vizită și trebuia să găsească lucrurile cât mai aproape de final. Au tras ca nebunii apă cu motoare din Dâmbovița, două săptămâni, a fost așa, o peliculă de un metru înălțime, dar apa n-a stat, pentru că, parcul nefiind finalizat, s-a infiltrat. A inundat cartiere, Ceaușescu a fost nemulțumit, a oprit lucrările, cred că în vara lui ’89, și oprite au rămas. Și zona a rămas așa. Nu exista atunci vegetație, nu era pic de arbore, nu erau nici alte specii", spune Dan Bărbulescu. Și continua miraculos: „Imaginați-vă un lac gol, o cuvă. Era excavat, zona era goală. Era un peisaj selenar, industrial, abandonat. Datorită digului și a prezenței apei (bălțile de acum existau, erau excavate, se luase pământ din interior ca să* se *construiască digul), oamenii nu știau ce se afla dincolo de dig. Zona având apă, foarte multă apă dulce, toată apa care vine aici -e o întreagă rețea de bălți. E interesant, pentru că vegetația asta, specifică zonelor umede, și toată rețeaua de bălți permit sosirea păsărilor, acestea se simt în siguranță aici. Nu mai au contact cu omul. Se bagă în stuf. Ingredientul principal - apa -, protecția datorată digului și neputința noastră din ultimii 25 ani au construit, practic, parcul. Neputință, pentru că nu s-a mai băgat nimeni în nici un fel, în acte este obiectiv hidro, zona a devenit un no man’s land. Astfel încât în ultimii 25 de ani a apărut un ecosistem viabil din toate punctele de vedere, de la microorganisme la specii complexe, păsări de talie mare cum e lebăda și mamifere cum e vidra.</i>
 
-laromira Popovici, *Epopeea Parcului Național Văcărești,* în „Dilema veche”, 10 martie 2017
+Iaromira Popovici, <i>Epopeea Parcului Național Văcărești</i>, în „Dilema veche”, 10 martie 2017
 
-**A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 
-1. Indică sensul structurii din text *au tras ca nebunii.*	6 puncte
-1. Menționează rolul citatului în textul dat.	6	puncte
-1. Precizează, într-un enunț, ce clădire a fost demolată înainte de a se începe construcția lacului.	**6 puncte**
-1. Explică, în 30-50 de cuvinte, titlul articolului.	**6	puncte**
-1. Prezintă, așa cum reiese din text, istoria lacului Văcărești.	**6	puncte**
+1. Indică sensul structurii din text <i>au tras ca nebunii</i>.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte </span>
+2. Menționează rolul citatului în textul dat.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
+3. Precizează, într-un enunț, ce clădire a fost demolată înainte de a se începe construcția lacului.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+4. Explică, în 30-50 de cuvinte, titlul articolului.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+5. Prezintă, așa cum reiese din text, istoria lacului Văcărești.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-**B. Redactează un text, de minimum 150 de cuvinte, în care să argumentezi dacă peisajul urban a evoluat sau a involuat în ultimii 25 de ani, raportându-te atât la informațiile din fragmentul extras din articolul *Epopeea Parcului Național Văcărești,* de laromira Popovici, cât și la experiența personală sau culturală.**
+<b>B. Redactează un text, de minimum 150 de cuvinte, în care să argumentezi dacă peisajul urban a evoluat sau a involuat în ultimii 25 de ani, raportându-te atât la informațiile din fragmentul extras din articolul <i>Epopeea Parcului Național Văcărești</i>, de Iaromira Popovici, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span> 
 
-**20 de puncte** în redactarea textului, vei avea în vedere următoarele repere:
+În redactarea textului, vei avea în vedere următoarele repere:
 
 - formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
+argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul al II-lea<span style = 'float:right'>(10 puncte)</span></p> 
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+<b>Motivează, în minimum 50 de cuvinte, apartenența fragmentului la genul epic, valorificând două trăsături.</b>
 
+&ndash; Cărțile sunt timp concentrat, vorbi puțin obosit Balaban. Fiecare carte, ca și fiecare monument de artă, un tablou, un templu, o piramidă, înseamnă o vastă curgere de timp din care s-a putut smulge autorul. A renunțat să trăiască, și a scris, sau a pictat, sau a sculptat. Nicio altă muncă omenească nu-ți dă mai precis sentimentul acesta demoniac: revolta împotriva vieții, a timpului care curge. Poate de aceea mă emoționează opera vastă a câtorva scriitori. Mă gândesc, atunci, la miile de ceasuri pe care el nu le-a trăit, la diminețile și nopțile frumoase pe care nu le-a cunoscut, la femeile pe care le-a refuzat. Atâta curgere de viață, suprimată brusc, prin simplul act al creației!... Gândiți-vă la restul oamenilor, care au trăit și s-au desfătat, în timp ce un creator muncea. Unde sunt ei, acum? Unde e timpul lor, ce-au făcut cu el?
 
-**subiectul al ll-lea(10 puncte) Motivează, în minimum 50 de cuvinte, apartenența fragmentului la genul epic, valorificând două trăsături.**
+Șovăi câteva clipe, apoi adăugă:
 
-- *Cărțile sunt timp concentrat, vorbi puțin obosit Balaban. Fiecare carte, ca și fiecare monument de artă, un tablou, un templu, o piramidă, înseamnă o vastă curgere de timp din care s-a putut smulge autorul. A renunțat să trăiască, și a scris, sau a pictat, sau a sculptat. Nicio altă muncă omenească nu-ți dă mai precis sentimentul acesta demoniac: revolta împotriva vieții, a timpului care curge. Poate de aceea mă emoționează opera vastă a câtorva scriitori. Mă gândesc, atunci, la miile de ceasuri pe care el nu le-a trăit, la diminețile și nopțile frumoase pe care nu le-a cunoscut, la femeile pe care le-a refuzat. Atâta curgere de viață, suprimată brusc, prin simplul act al creației!... Gândiți-vă la restul oamenilor, care au trăit și s-au desfătat, în timp ce un creator muncea. Unde sunt ei, acum? Unde e timpul lor, ce-au făcut cu el?*
+&ndash; Nu mai știu ce vorbesc. Voiam să precizez ceva, o idee care mi-a venit acum, și am pierdut-o, s-a rătăcit...
 
-*Șovăi câteva clipe, apoi adăugă:*
+Băuse multă șampanie, e drept, și dansase tot timpul. Se întorcea din sfert în sfert de ceas în colțul scriitorilor, ca să dea o replică, să audă o glumă. Cu cât se apropia dimineața, însă, cu atât căldura animală devenise mai compactă, oamenii mai apropiați unii de alții, mai familiari, mai libertini. Șampania, poate, își spuse Balaban, sau jazzul.</i>
 
-- *Nu mai știu ce vorbesc. Voiam să precizez ceva, o idee care mi-a venit acum, și am pierdut-o, s-a rătăcit...*
+Mircea Eliade, <i>Huliganii</i>
 
-*Băuse multă șampanie, e drept, și dansase tot timpul. Se întorcea din sfert în sfert de ceas în colțul scriitorilor, ca să dea o replică, să audă o glumă. Cu cât se apropia dimineața, însă, cu atât căldura animală devenise mai compactă, oamenii mai apropiați unii de alții, mai familiari, mai libertini. Șampania, poate, își spuse Balaban, sau jazzul.*
+<b>Notă</b>
 
-Mircea Eliade, *Huliganii* **Notă**
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul al III-lea<span style = 'float:right'>(30 de puncte)</span></p>
 
-**Subiectul al lll-lea(30 de puncte)**
+<b>Redactează un eseu de minimum 400 de cuvinte, despre construcția personajului într-o dramă studiată la clasă, aparținând, la alegere, unuia dintre autorii: Lucian Blaga, Camil Petrescu, Marin Sorescu.</b>
 
-**Redactează un eseu de minimum 400 de cuvinte, despre construcția personajului într-o dramă studiată la clasă, aparținând, la alegere, unuia dintre autorii: Lucian Blaga, Camil Petrescu, Marin Sorescu.**
-
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - prezentarea a două dintre caracteristicile textului dramatic, semnificative pentru realizarea personajului ales (de exemplu: formula estetică, temă, conflict, acțiune, relații temporale și spațiale, moduri de expunere, indicații scenice, discurs dramatic, final etc.) prin referire la textul studiat;
 - statutul social, moral și psihologic, relevarea trăsăturilor personajului;
 - comentarea a două citate/ scene dramatice, semnificative pentru construcția personajului.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**în vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul I(50 de puncte] Citește următorul fragment:**
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul I<span style = 'float:right'>(50 de puncte)</span></p>
 
-*Cel mai important festival de film al planetei, cel de la Cannes, și-a sărbătorit cea de-a 70-a ediție între 17-28 mai a.c. A fost o ediție plină de evenimente și de staruri, încheiată cu un palmares surprinzător.*
+<b>Citește următorul fragment:</b>
 
-*Chiar dacă, anul acesta, niciun film românesc nu a intrat în selecția oficială a Festivalului, cineaștii români nu au lipsit nici acum de pe Croazetă. Mai întâi, Cristian Mungiu a primit onoranta misiune de a prezida juriul comun al competiției de scurtmetraje și al secțiunii studențești„Cinefondation". în cadrul galei de premiere din ultima seară - desfășurată, ca de obicei, pe scena uriașei săli Grand Theâtre Lumiere și prezentată de către actrița italiană Monica Bellucci-, regizorul, scenaristul și producătorul român a înmânat, având-o alături pe actrița americană Urna Thurman (președinta juriului secțiunii „Un Certain Regard“), Palme d’Or-ul pentru Scurtmetraj și Mențiunea Specială a juriului acestei competiții unor filme din China și, respectiv, Finlanda. Mungiu este deja un invitat obișnuit al Cannesului, cu trei lungmetraje consecutive selecționate și distinse (inclusiv cu Palme d’Or, acum un deceniu) în competiția principală a Festivalului, dar și cu o prezență în juriul aceleiași competiții, prezidat atunci de Steven Spielberg, la ediția din 2013.* O *altă invitată este producătoarea luliana Tarnovețchi (fondatoarea casei Alien Film), care, după aproape 20 de ani de experiență, inclusiv în coproducții internaționale semnificative, a fost inclusă de către organizația European Film Promotion, printre cei 20 de promițători producători europeni care au participat, în acest an, la un program devenit tradițional pe Croazetă, „Producers on the Move“ („Producători în mișcare“).*
+<i>Cel mai important festival de film al planetei, cel de la Cannes, și-a sărbătorit cea de-a 70-a ediție între 17-28 mai a.c. A fost o ediție plină de evenimente și de staruri, încheiată cu un palmares surprinzător.
 
-Mihai Fulger, *Art can save Cannes\*,* în „Observator cultural”, nr. 874, 2017 *\*Arta poate salva Cannes-ul*
+Chiar dacă, anul acesta, niciun film românesc nu a intrat în selecția oficială a Festivalului, cineaștii români nu au lipsit nici acum de pe Croazetă. Mai întâi, Cristian Mungiu a primit onoranta misiune de a prezida juriul comun al competiției de scurtmetraje și al secțiunii studențești „Cinefondation". în cadrul galei de premiere din ultima seară - desfășurată, ca de obicei, pe scena uriașei săli Grand Theâtre Lumiere și prezentată de către actrița italiană Monica Bellucci-, regizorul, scenaristul și producătorul român a înmânat, având-o alături pe actrița americană Urna Thurman (președinta juriului secțiunii „Un Certain Regard“), Palme d’Or-ul pentru Scurtmetraj și Mențiunea Specială a juriului acestei competiții unor filme din China și, respectiv, Finlanda. Mungiu este deja un invitat obișnuit al Cannesului, cu trei lungmetraje consecutive selecționate și distinse (inclusiv cu Palme d’Or, acum un deceniu) în competiția principală a Festivalului, dar și cu o prezență în juriul aceleiași competiții, prezidat atunci de Steven Spielberg, la ediția din 2013. O altă invitată este producătoarea luliana Tarnovețchi (fondatoarea casei Alien Film), care, după aproape 20 de ani de experiență, inclusiv în coproducții internaționale semnificative, a fost inclusă de către organizația European Film Promotion, printre cei 20 de promițători producători europeni care au participat, în acest an, la un program devenit tradițional pe Croazetă, „Producers on the Move“ („Producători în mișcare“).</i>
 
-***A.* Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
+Mihai Fulger, <i>Art can save Cannes</i>, în „Observator cultural”, nr. 874, 2017 
 
-1. Indică doi termeni din aria semantică a cinematografiei din textul dat.	**6	puncte**
-1. Menționează, din text, numele unei actrițe și denumirea unei case	de	producție.	**6	puncte**
-1. Precizează numele a doi invitați români la festival.	**6	puncte**
-1. Explică, așa cum reiese din text, care este rolul festivalului de film	de	la	Cannes.	**6	puncte**
-1. Prezintă, în 30-50 de cuvinte, semnificațiile titlului articolului.	**6	puncte**
+<i>Arta poate salva Cannes-ul</i>
 
-**B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă cineaștii români sunt sau nu o prezență constantă în cadrul festivalului anual de la Cannes, raportându-te atât la informațiile din fragmentul extras din articolul *Art can save Cannes,* semnat de Mihai Fulger, cât și la experiența personală sau culturală.	20 de puncte**
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 
-în redactarea textului, vei avea în vedere următoarele repere:
+1. Indică doi termeni din aria semantică a cinematografiei din textul dat.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
+2. Menționează, din text, numele unei actrițe și denumirea unei case	de	producție.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+3. Precizează numele a doi invitați români la festival.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
+4. Explică, așa cum reiese din text, care este rolul festivalului de film	de	la	Cannes.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
+5. Prezintă, în 30-50 de cuvinte, semnificațiile titlului articolului.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă cineaștii români sunt sau nu o prezență constantă în cadrul festivalului anual de la Cannes, raportându-te atât la informațiile din fragmentul extras din articolul <i>Art can save Cannes</i>, semnat de Mihai Fulger, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+În redactarea textului, vei avea în vedere următoarele repere:
 
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-**g,ihiecțui al ll-lea(10 puncte) Comentează, în minimum 50 de cuvinte, fragmentul dat, evidențiind alternanța timpurilor verbale:**
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul al II-lea<span style = 'float:right'>(10 puncte)</span></p> 
 
-*Erninescu și Veronica Micle s-au cunoscut la Viena și nu în lașul prăfuit sau plin de hârtoape în care, înainte (je a coborî din trăsură, trebuie să fii cu mare băgare de seamă (oh! ah!) ca să nu-ți rupi piciorușele, și mai grav, să calci cu botinuțele cu fundă de catifea, noi-nouțe, într-o baltă (uuf!). Se întâlniră la Viena, orașul prospețimii și al strălucirii, chiar la acea vârstă dulce și ingrată a primei mari iubiri. Ea îi știa poeziile, el auzise de profesorul Ștefan Micle. Făcând cunoștință, Veronica intui în toată ființa lui ceva necuprins radios și înfricoșător. înspre acea strălucire hipnotică, astrală, sufletul ei îmbătat de vise și amor se îndrepta năuc, asemeni unui fluture de noapte ce caută bezmetic lumina. El n-o respinse, din contră, îi acordă un loc special în inima și în versurile lui. Ochiul poetului, adaptat la rigoarea geometriei pure a ideilor eterne și absolute, o purtă într-o lume de frumuseți intangibile, nemaiumblate până atunci, [această frază o găsise într-o carte, dar Elisabetei îi plăcuse atât de mult încât o copiase cuvânt cu cuvânt în notă fără să citeze sursa]. Citindu-i versurile, Veronica Micle nu se mai considera doar o femeie cu orizonturi casnice modeste, asemeni celorlalte cucoane din lași pe care le frecventa, ci, dimpotrivă, poeziile lui o promovau într-o existență în care, în fața frumuseții nemuritoare a absolutului poetic legile lumii (fidelitatea conjugală, datoria maternă etc.) își pierdeau caracterul sacral și, mai ales, influența [nici exprimarea de mai sus nu-i aparține Elisabetei, dar, pur și simplu, nu se putea abține să nu introducă în notă și astfel de fraze frumoase, luate de aiurea].*
+<b>Comentează, în minimum 50 de cuvinte, fragmentul dat, evidențiind alternanța timpurilor verbale:</b>
 
-Florina llis, *Viețile paralele* Notă
+<i>Eminescu și Veronica Micle s-au cunoscut la Viena și nu în lașul prăfuit sau plin de hârtoape în care, înainte (je a coborî din trăsură, trebuie să fii cu mare băgare de seamă (oh! ah!) ca să nu-ți rupi piciorușele, și mai grav, să calci cu botinuțele cu fundă de catifea, noi-nouțe, într-o baltă (uuf!). Se întâlniră la Viena, orașul prospețimii și al strălucirii, chiar la acea vârstă dulce și ingrată a primei mari iubiri. Ea îi știa poeziile, el auzise de profesorul Ștefan Micle. Făcând cunoștință, Veronica intui în toată ființa lui ceva necuprins radios și înfricoșător. înspre acea strălucire hipnotică, astrală, sufletul ei îmbătat de vise și amor se îndrepta năuc, asemeni unui fluture de noapte ce caută bezmetic lumina. El n-o respinse, din contră, îi acordă un loc special în inima și în versurile lui. Ochiul poetului, adaptat la rigoarea geometriei pure a ideilor eterne și absolute, o purtă într-o lume de frumuseți intangibile, nemaiumblate până atunci, [această frază o găsise într-o carte, dar Elisabetei îi plăcuse atât de mult încât o copiase cuvânt cu cuvânt în notă fără să citeze sursa]. Citindu-i versurile, Veronica Micle nu se mai considera doar o femeie cu orizonturi casnice modeste, asemeni celorlalte cucoane din lași pe care le frecventa, ci, dimpotrivă, poeziile lui o promovau într-o existență în care, în fața frumuseții nemuritoare a absolutului poetic legile lumii (fidelitatea conjugală, datoria maternă etc.) își pierdeau caracterul sacral și, mai ales, influența [nici exprimarea de mai sus nu-i aparține Elisabetei, dar, pur și simplu, nu se putea abține să nu introducă în notă și astfel de fraze frumoase, luate de aiurea].</i>
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+Florina Ilis, <i>Viețile paralele</i> 
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+<b>Notă</b>
 
-**Subiectul al lll-lea(30 de puncte) Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un text narativ aparținând lui Mihail Sadoveanu. ■**
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-în elaborarea eseului, vei avea în vedere următoarele repere:
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
+
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul al III-lea<span style = 'float:right'>(30 de puncte)</span></p> 
+
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un text narativ aparținând lui Mihail Sadoveanu.</b>
+
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - evidențierea a două trăsături care fac posibilă încadrarea textului studiat într-o tipologie/ într-o orientare tematică/ într-un curent;
 - prezentarea a două dintre caracteristicile textului narativ, semnificative pentru tema și viziunea despre lume (de exemplu: formula estetică, temă, motiv literar, perspectivă narativă, acțiune, conflict, relații temporale și spațiale, tehnici narative, discurs narativ, incipit, final etc.) prin referire la textul narativ studiat;
 - comentarea a două citate/ secvențe narative, semnificative pentru tema și viziunea despre lume.
 
-Notă!
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**în vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
 
 
