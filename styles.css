@@ -3,7 +3,7 @@ body {
 }
 <!-- @page { margin-top: 0.30cm; margin-bottom: 0.30cm; margin-left: 0.20cm; margin-right: 0.20cm; } 
   -->
-div.b {padding-left:2em;} div.a{text-indent:-5em; padding-left:5em;} 
+div.b {padding-left:2em;} div.a{text-indent:-10em; padding-left:10em;} 
   h1 {
     text-align: center;
   }
