@@ -4604,110 +4604,111 @@ Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pe
 
 <b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul I<span style = 'float:right'>(50 de puncte)</span></p>
 
+<b>Citește următorul fragment:</b>
 
+<i>Multe și frumoase discuții au mai avut loc la „Junimea”. Când era de față dl Maiorescu și venea din întâmplare și dl Carp, discuția era mai totdeauna pe tema socialo-filosofică, la care noi cei tineri nu participam decât incident^ - fiindcă față de profesori elevii trebuie mai mult să asculte decât să vorbească.
 
-**Subiectul I(50 de punct^ Citește următorul fragment:**
+Dl Carp era și atunci, ca și acum, ca să mă exprim printr-un cuvânt franțuzesc, tranchant. Intra cu monoclul în ochi, făcea o roată cu privirea-i disprețuitoare, în tot cazul indiferentă pentru cei nou veniți, pentru caracudă, și apojt cu ocazia cetirei vreunei lucrări, arunca vreun aforism sau formula vreo teorie, pe tema căreia se năștea discuția cu dnii Maiorescu, Pogor și Iacob Negruzzi.
 
-*Multe și frumoase discuții au mai avut loc la „Junimea”. Când era de față dl Maiorescu și venea din întâmpla^ și dl Carp, discuția era mai totdeauna pe tema socialo-filosofică, la care noi cei tineri nu participam decât incident^ - fiindcă față de profesori elevii trebuie mai mult să asculte decât să vorbească.*
+Noi formăm galeria.
 
-*Dl Carp era și atunci, ca și acum, ca să mă exprim printr-un cuvânt franțuzesc, tranchant. Intra cu monoclul în ochi, făcea o roată cu privirea-i disprețuitoare, în tot cazul indiferentă pentru cei nou veniți, pentru caracudă, și apojt cu ocazia cetirei vreunei lucrări, arunca vreun aforism sau formula vreo teorie, pe tema căreia se năștea discuția cu dnii Maiorescu, Pogor și lacob Negruzzi.*
+Unul care era mai totdeauna de altă părere era dl Iacob Negruzzi. Dl Negruzzi combătea sistematic pe dl Carp în teoriile sale, și mi-aduc aminte că de multe ori l-am auzit zicându-i dlui Carp:
 
-*Noi formăm galeria.*
+&ndash; Sistemul tău e foarte simplu și comod: vii din șase în șase luni la Junimea, scoți sabia din teacă, formulezi sau mai bine inventezi o teorie, tranșezi toate chestiile cu vârful săbiei, condamni și reprobi tot ce nu-ți convine și apoi pleci. Apoi nu se discută așa!...
 
-*Unul care era mai totdeauna de altă părere era dl lacob Negruzzi. Dl Negruzzi combătea sistematic pe dl Carp în teoriile sale, și mi-aduc aminte că de multe ori l-am auzit zicându-i dlui Carp:*
+&ndash; Taci, gogomanule, tu nu știi să discuți, îi replica dl Carp.
 
-*— Sistemul tău e foarte simplu și comod: vii din șase în șase luni la Junimea, scoți sabia din teacă, formulezi sau mai bine inventezi o teorie, tranșezi toate chestiile cu vârful săbiei, condamni și reprobi tot ce nu-ți convine și apoi pleci. Apoi nu se discută așa!...*
+Iar dl Negruzzi ridica din umeri, se uita la noi, îl arăta pe dl Carp și tăcea, dând de înțeles că e de prisos să mai vorbească.
 
-*—Taci, gogomanule, tu nu știi să discuți, îi replica dl Carp.*
+Din contră, felul de discuție al dlui Maiorescu era cu totul altul. D-sa își expunea părerea, pe urmă asculta pe contrazicător cu mare atenție și cu multă bunăvoință, chiar dacă acela era unul din cei noi sau vreo caracudă. După ce contrazicătorul sfârșea, dl Maiorescu, cu un aer foarte liniștit, lua cuvântul și răspundea la toate punctele arătate și astfel discuția urma cu regulă și cu șir. N-am văzut niciodată pe dl Maiorescu impacientându-se, sau făcând o exclamație, sau luând un aer desprețuitor față de orice și de oricine.</i>
 
-*Iar dl Negruzzi ridica din umeri, se uita la noi, îl arăta pe dl Carp și tăcea, dând de înțeles că e de prisos să mai vorbească.*
+George Panu, <i>Amintiri de la Junimea din Iași</i>
 
-*Din contră, felul de discuție al dlui Maiorescu era cu totul altul. D-sa își expunea părerea, pe urmă asculta pe contrazicător cu mare atenție și cu multă bunăvoință, chiar dacă acela era unul din cei noi sau vreo caracudă. După ce contrazicătorul sfârșea, dl Maiorescu, cu un aer foarte liniștit, lua cuvântul și răspundea la toate punctele arătate și astfel discuția urma cu regulă și cu șir. N-am văzut niciodată pe dl Maiorescu impacientându-se, sau făcând o exclamație, sau luând un aer desprețuitor față de orice și de oricine.*
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 
-George Panu, *Amintiri de la Junimea din lași*
+1. Indică sensul structurii <i>și astfel discuția urma cu regulă și cu șir</i>.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+2. Menționează patru personalități ale Junimii ale căror nume se regăsesc	mai sus.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+3. Precizează într-un enunț o caracteristică a vorbitorului Carp.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
+4. Explică cele două modalități de a argumenta, folosite la Junimea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+5. Prezintă, în 30-50 de cuvinte, semnificațiile ultimului enunț al fragmentului.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
 
-***A.* Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
+<b>B. Redactează un text minimum de 150 de cuvinte, în care să argumentezi dacă atitudinea este sau nu importantă într-un discurs public, raportându-te atât la informațiile din fragmentul dat, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-1. Indică sensul structurii *și astfel discuția urma cu regulă și cu șir.*	**6 puncte**
-1. Menționează patru personalități ale Junimii ale căror nume se regăsesc	mai sus.	**6	puncte**
-1. Precizează într-un enunț o caracteristică a vorbitorului Carp.	**6	puncte**
-1. Explică cele două modalități de a argumenta, folosite la Junimea.	**6	puncte**
-1. Prezintă, în 30-50 de cuvinte, semnificațiile ultimului enunț al fragmentului.	**6	puncte**
-
-**B. Redactează un text minimum de 150 de cuvinte, în care să argumentezi dacă atitudinea este sau nu importantă într-un discurs public, raportându-te atât la informațiile din fragmentul dat, cât și la experiența personală sau culturală.	20 de puncte**
-
-în redactarea textului, vei avea în vedere următoarele repere:
+În redactarea textului, vei avea în vedere următoarele repere:
 
 - formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
+argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
+<b>Comentează, în minimum 50 de cuvinte, fragmentul dat, evidențiind rolul descrierii:</b>
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+<i>Locuiam, de fapt, în Berkeley și-n fiecare dimineață părăseam mica mea suburbie ca să iau metroul ce mă ducea, e sub brațul de ocean, drept în inima Frisco-ului. [...] Metroul, faimosul The Bart, e de o deosebită eleganță el însuși- Câtă deosebire față de mizerul metrou new-yorkez, care pare, jegos de uleiuri și funingine, un lugubru peisaj! Suplu și alb ca laptele, Bart-ul trece pe sub ocean atât de lin, încât parcă tot tavanul lui devine treptat de sticlă și poți vedea prin el lumina verde, tulbure a mării și forfota peștilor argintii. într-o dimineață, moțăind pe un scaun de plastic în metrou, deodată am văzut-o. Nu eram singurul. [...] Dar, pur și simplu, fata de care nu mi-am putut dezlipi ochii de-a lungul a două stații întregi de metrou (exact în porțiunea cât vagoanele s-au târât pe fundul oceanului) s-a întâmplat să fie negresă și să aibă aproximativ șaisprezece ani. Și să poarte un sari de mătase albă cu foarte palide flori neidentificabile presărate, în ușor relief. [...] Iar pe cap să poarte, din același material, un mic turban ce-i alungea tâmplele în felul frumuseților egiptene. Și s-a întâmplat, de asemenea, ca fata să aibă fire de Walkman șerpuindu-i afară din urechi și pierzându-se, subțiri și duble, sub pânza sari-ului, detaliu tehnologic într-un contrast atât de necontrastant cu tradiționalul vestmânt, încât te-ntrebai dacă nu cumva toți strămoșii ei africani purtaseră walkmanuri la cingătoare, din noaptea istoriei și până atunci. La glezna unui picior, o brățară de piele cu un citat arab, din Coran, poate. Fata nu era frumoasă, ci era însăși imaginea sensibilă a frumuseții.</i>
 
-**Comentează, în minimum 50 de cuvinte, fragmentul dat, evidențiind rolul descrierii:**
+Mircea Cărtărescu, <i>De ce iubim femeile</i> 
 
-*Locuiam, de fapt, în Berkeley și-n fiecare dimineață părăseam mica mea suburbie ca să iau metroul ce mă ducea, e sub brațul de ocean, drept în inima Frisco-ului. [...] Metroul, faimosul The Bart, e de o deosebită eleganță el însuși- Câtă deosebire față de mizerul metrou new-yorkez, care pare, jegos de uleiuri și funingine, un lugubru peisaj! Suplu și alb ca laptele, Bart-ul trece pe sub ocean atât de lin, încât parcă tot tavanul lui devine treptat de sticlă și poți vedea prin el lumina verde, tulbure a mării și forfota peștilor argintii. într-o dimineață, moțăind pe un scaun de plastic în metrou, deodată am văzut-o. Nu eram singurul. [...] Dar, pur și simplu, fata de care nu mi-am putut dezlipi ochii de-a lungul a două stații întregi de metrou (exact în porțiunea cât vagoanele s-au târât pe fundul oceanului) s.g întâmplat să fie negresă și să aibă aproximativ șaisprezece ani. Și să poarte un sari de mătase albă cu foarte palide flori neidentificabile presărate, în ușor relief. [...] Iar pe cap să poarte, din același material, un mic turban ce-i alungea tâmplele în felul frumuseților egiptene. Și s-a întâmplat, de asemenea, ca fata să aibă fire de Walkman șerpuindu-i afară din urechi și pierzându-se, subțiri și duble, sub pânza sari-ului, detaliu tehnologic într-un contrast atât de necontrastant cu tradiționalul vestmânt, încât te-ntrebai dacă nu cumva toți strămoșii ei africani purtaseră walkmanuri la cingătoare, din noaptea istoriei și până atunci. La glezna unui picior, o brățară de piele cu un citat arab, din Coran, poate. Fata nu era frumoasă, ci era însăși imaginea sensibilă a frumuseții.*
+<b>Notă</b>
 
-Mircea Cărtărescu, *De ce iubim femeile* Notă
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul al III-lea<span style = 'float:right'>(30 de puncte)</span></p>
 
-**Subiectul al lll-lea(30 de puncte)**
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un text poetic studiat la clasă aparținând tradiționalismului.</b>
 
-**Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un text poetic studiat la clasă aparținând tradiționalismului.**
-
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - evidențierea a două trăsături care fac posibilă încadrarea textului într-un curent literar, într-o perioadă sau într-o orientare tematică;
 - prezentarea a două idei/ imagini poetice relevante pentru tema și viziunea despre lume;
 - prezentarea a două elemente de compoziție și limbaj (de exemplu: temă, motiv literar, secvențe lirice, elemente de prozodie, relații de simetrie/ opoziție, arii semantice, laitmotiv, figuri semantice-tropi etc.) prin referire la opera poetică studiată.
 
-Notă!
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru  <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**în vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul I(50 de punctg Citește următorul fragment:**
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul I<span style = 'float:right'>(50 de puncte)</span></p> 
 
-*Terminologia teoriei literaturii și în mod special denumirile genurilor literare suferă în ultima vreme, sub influența englezei colocviale, unele schimbări de întrebuințare: sensurilor tradiționale li se adaugă unele mult mai vagi subiective, evaluative, propuse mai ales de textele publicitare și aplicate celor mai banale realități cotidiene. Arii scris acum câțiva ani despre utilizarea neobișnuită, derutantă, a adverbului și a adjectivului „dramatic1', cu sensul „spectaculos". Termenul „dramatic" era folosit în română și în sens figurat, în afara strictei caracterizări a unui gen literar, dar conotațiile sale erau în acest caz predominant negative. Definiția de dicționar - („despre întâmplări împrejurări, situații, momente etc.) bogat în contraste și în conflicte; zguduitor, impresionant" - DEX) - nu indică suficient de clar orientarea evaluativă a cuvântului. Mai edificatoare sunt contextele sale tipice de apariție, în care întâmplările, situațiile, schimbările își dezvăluie caracterul profund negativ: „localitățile din județul Constanța în care, în urma unor întâmplări dramatice, 118 persoane, civili și militari, și-au pierdut viața sau au fost răni[î‘ (ziuaconstanta.ro); „inundațiile fac ravagii: situații dramatice în 3 județe din țară" (dcnews.ro); „alcoolul produce schimbări dramatice în corp și creier: sunt afectate memoria, judecata, emoția" (adevarul.ro) etc. Unele mesaje publicitare vorbesc însă, fără nici o intenție de a produce un oximoron - figura de stil a asocierii contradictorii -, de „îmbunătățiri dramatice": „Acest sistem de albire utilizează același ingredient activ cum este utilizat de către medicul stomatolog pentru o îmbunătățire dramatică a dinților" (whiteglo.ro); „De la o oră la alta observ îmbunătățiri dramatice în ceea ce privește claritatea vederii" (bzi.ro). în cele mai multe cazuri, efectul derutant și chiar absurd este produs de traducerea stângace din engleză a adjectivului „dramatic" (ca în exemplele de mai sus) și a adverbului „dramatically" („brusc, radical, spectaculos"): „pierderea în greutate reduce dramatic problemele de sănătate în cazul copiilor obezi" (viataverdeviu.ro).*
+<b>Citește următorul fragment:</b>
 
-Rodica Zafiu, *Păcatele limbii, în* „Dilema veche“, nr. 682, 16-22 martie 2017
+<i>Terminologia teoriei literaturii și în mod special denumirile genurilor literare suferă în ultima vreme, sub influența englezei colocviale, unele schimbări de întrebuințare: sensurilor tradiționale li se adaugă unele mult mai vagi subiective, evaluative, propuse mai ales de textele publicitare și aplicate celor mai banale realități cotidiene. Arii scris acum câțiva ani despre utilizarea neobișnuită, derutantă, a adverbului și a adjectivului „dramatic", cu sensul „spectaculos". Termenul „dramatic" era folosit în română și în sens figurat, în afara strictei caracterizări a unui gen literar, dar conotațiile sale erau în acest caz predominant negative. Definiția de dicționar - („despre întâmplări împrejurări, situații, momente etc.) bogat în contraste și în conflicte; zguduitor, impresionant" - DEX) - nu indică suficient de clar orientarea evaluativă a cuvântului. Mai edificatoare sunt contextele sale tipice de apariție, în care întâmplările, situațiile, schimbările își dezvăluie caracterul profund negativ: „localitățile din județul Constanța în care, în urma unor întâmplări dramatice, 118 persoane, civili și militari, și-au pierdut viața sau au fost răni[î‘ (ziuaconstanta.ro); „inundațiile fac ravagii: situații dramatice în 3 județe din țară" (dcnews.ro); „alcoolul produce schimbări dramatice în corp și creier: sunt afectate memoria, judecata, emoția" (adevarul.ro) etc. Unele mesaje publicitare vorbesc însă, fără nici o intenție de a produce un oximoron - figura de stil a asocierii contradictorii -, de „îmbunătățiri dramatice": „Acest sistem de albire utilizează același ingredient activ cum este utilizat de către medicul stomatolog pentru o îmbunătățire dramatică a dinților" (whiteglo.ro); „De la o oră la alta observ îmbunătățiri dramatice în ceea ce privește claritatea vederii" (bzi.ro). în cele mai multe cazuri, efectul derutant și chiar absurd este produs de traducerea stângace din engleză a adjectivului „dramatic" (ca în exemplele de mai sus) și a adverbului „dramatically" („brusc, radical, spectaculos"): „pierderea în greutate reduce dramatic problemele de sănătate în cazul copiilor obezi" (viataverdeviu.ro).</i>
 
-**A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
+Rodica Zafiu, <i>Păcatele limbii</i>, în „Dilema veche“, nr. 682, 16-22 martie 2017
 
-**• 1.** Indică o eroare în utilizarea cuvântului *dramatic.*	**6 puncte**
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 
-2. Menționează două surse jurnalistice din care autoarea își ia exemplele.	**6 puncte**
-2. Precizează, într-un enunț, titlul publicației în care apare articolul de mai sus.	**6 puncte**
-2. Explică ideea de la care pornește articolul.	**6 puncte**
-2. Prezintă, în 30-50 de cuvinte, semnificațiile titlului articolului.	**6 puncte**
+1. Indică o eroare în utilizarea cuvântului <i>dramatic</i>.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+2. Menționează două surse jurnalistice din care autoarea își ia exemplele.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+3. Precizează, într-un enunț, titlul publicației în care apare articolul de mai sus.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+4. Explică ideea de la care pornește articolul.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+5. Prezintă, în 30-50 de cuvinte, semnificațiile titlului articolului.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-**B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă influența englezei colocviale afectează sau nu sensul cuvintelor în limba română contemporană, raportându-te atât la informațiile din fragmentul extras din articolul *Păcatele limbii,* semnat de Rodica Zafiu și publicat în Dilema Veche, cât și la experiența personală sau culturală.	20 de puncte**
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă influența englezei colocviale afectează sau nu sensul cuvintelor în limba română contemporană, raportându-te atât la informațiile din fragmentul extras din articolul <i>Păcatele limbii</i>, semnat de Rodica Zafiu și publicat în Dilema Veche, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-în redactarea textului, vei avea în vedere următoarele repere:
+În redactarea textului, vei avea în vedere următoarele repere:
 
--formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-\- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
 
-**șiibiectul al ll-lea(10 puncte) Comentează, în minimum 50 de cuvinte, fragmentul dat, evidențiind rolul indicațiilor scenice:**
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul al II-lea<span style = 'float:right'>(10 puncte)</span></p>
 
-Actul IH. scena 5
+<b>Comentează, în minimum 50 de cuvinte, fragmentul dat, evidențiind rolul indicațiilor scenice:</b>
 
-MATEI (s-a plimbat zbuciumat prin cameră, vine spre el, dezlănțuit, într-o furie colcăitoare): *Mișelule, pânâ-ntr-atât aj corupt inima fetei mele, încât a putut să facă pasul de azi? Prin ce mijloace, prin ce taină te-ai insinuat în sufletul ei? Ce ai sperat? Ce nebunii au încolțit în capul d-tale de descreierat?*
+Actul III, scena 5
+
+<div class='a'>MATEI (s-a plimbat zbuciumat prin cameră, vine spre el, dezlănțuit, într-o furie colcăitoare): Mișelule, pânâ-ntr-atât aj corupt inima fetei mele, încât a putut să facă pasul de azi? Prin ce mijloace, prin ce taină te-ai insinuat în sufletul ei? Ce ai sperat? Ce nebunii au încolțit în capul d-tale de descreierat?</div>
 
 ANDREI (pătimaș): *Am iubit-o... asta-i totul.... și ea m-a înțeles, a înțeles că sunt un suflet deosebit...*
 
