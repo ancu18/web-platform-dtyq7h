@@ -4925,90 +4925,90 @@ Octavian Goga, <i>În mine câteodată</i>
 
 <b>Notă</b>
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul al lll-lea(30 de puncte) Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un text poetic studiat la clasă din perioada interbelică, aparținând perioadei cunoscute ca „prelungiri ale romantismului și clasicismului".**
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul al III-lea<span style = 'float:right'>(30 de puncte)</span></p>
 
-în elaborarea eseului, vei avea în vedere următoarele repere:
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un text poetic studiat la clasă din perioada interbelică, aparținând perioadei cunoscute ca „prelungiri ale romantismului și clasicismului".</b>
+
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - evidențierea a două trăsături care fac posibilă încadrarea textului într-un curent literar, într-o perioadă sau într-o orientare tematică;
 - prezentarea a două idei/ imagini poetice relevante pentru tema și viziunea despre lume;
 - prezentarea a două elemente de compoziție și limbaj (de exemplu: temă, motiv literar, secvențe lirice, elemente de prozodie, relații de simetrie/ opoziție, arii semantice, laitmotiv, figuri semantice-tropi etc.) prin referire la opera poetică studiată.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere - 1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**In vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul I(50 de puncte] Citește următorul fragment:**
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul I<span style = 'float:right'>(50 de puncte)</span></p>
 
-*Constantin Brâncuși a fost un sculptor român cu contribuții covârșitoare la înnoirea limbajului și a viziunii plastice în sculptura contemporană. Constantin Brâncuși a fost ales postum membru al Academiei Române. Viziunea lui Brâncuși asupra vieții era influențată atât de Platon, cât și de conceptele filosofilor orientali. Constantin Brâncuși* a *eliberat sculptura de preponderența imitației mecanice a naturii, a refuzat reprezentarea figurativă a realității,* a *preconizat exprimarea esenței lucrurilor, a dinamismului formei, a unit sensibilul cu spiritualul. în opera sa, Brâncuși a oglindit felul de a gândi lumea al țăranului român. Prin obârșia sa țărănească, și-a aflat rădăcinile adânci ale operei sale în tradițiile, miturile și funcția magică a artei populare românești. Brâncuși este, neîndoielnic, un asemenea moment al conștiinței artei moderne, care concentrează sensurile unei întregi ere a evoluției spiritului creator.*
+<b>Citește următorul fragment:</b>
 
-*Reprezentant al mișcării artistice moderne, Constantin Brâncuși este considerat de mulți ca fiind cel mai important sculptor al secolului al XX-lea. Sculpturile sale se remarcă prin eleganța formei și prin utilizarea sensibilă a materialelor, combinând simplitatea artei populare românești cu rafinamentul avangardei pariziene. Brâncuși a dat veacului nostru conștiința formei pure, a asigurat trecerea de la reprezentarea figurativă a realității la exprimarea esenței lucrurilor și a reînnoit în mod revoluționar limbajul plastic, îmbogățindu-l cu o dimensiune spirituală. Verticalitatea, orizontalitatea, greutatea și importanța acordată luminii și spațiului sunt trăsăturile caracteristice ale creației lui Brâncuși.*
+<i>Constantin Brâncuși a fost un sculptor român cu contribuții covârșitoare la înnoirea limbajului și a viziunii plastice în sculptura contemporană. Constantin Brâncuși a fost ales postum membru al Academiei Române. Viziunea lui Brâncuși asupra vieții era influențată atât de Platon, cât și de conceptele filosofilor orientali. Constantin Brâncuși a eliberat sculptura de preponderența imitației mecanice a naturii, a refuzat reprezentarea figurativă a realității, a preconizat exprimarea esenței lucrurilor, a dinamismului formei, a unit sensibilul cu spiritualul. În opera sa, Brâncuși a oglindit felul de a gândi lumea al țăranului român. Prin obârșia sa țărănească, și-a aflat rădăcinile adânci ale operei sale în tradițiile, miturile și funcția magică a artei populare românești. Brâncuși este, neîndoielnic, un asemenea moment al conștiinței artei moderne, care concentrează sensurile unei întregi ere a evoluției spiritului creator.
 
-[www.brancusi](http://www.brancusi). 1 dez.com
+Reprezentant al mișcării artistice moderne, Constantin Brâncuși este considerat de mulți ca fiind cel mai important sculptor al secolului al XX-lea. Sculpturile sale se remarcă prin eleganța formei și prin utilizarea sensibilă a materialelor, combinând simplitatea artei populare românești cu rafinamentul avangardei pariziene. Brâncuși a dat veacului nostru conștiința formei pure, a asigurat trecerea de la reprezentarea figurativă a realității la exprimarea esenței lucrurilor și a reînnoit în mod revoluționar limbajul plastic, îmbogățindu-l cu o dimensiune spirituală. Verticalitatea, orizontalitatea, greutatea și importanța acordată luminii și spațiului sunt trăsăturile caracteristice ale creației lui Brâncuși.</i>
 
-1. **Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
-1. Indică doi termeni/ două structuri din aria semantică a artei din textul dat.	**6	puncte**
-1. Menționează două trăsături caracteristice creației lui Brâncuși, așa cum reies din text.	**6	puncte**
-1. Precizează numele unui filosof care l-a influențat pe Brâncuși.	**6	puncte**
-1. Explică, așa cum reiese din text, care este locul artei lui Brâncuși în lume.	**6	puncte**
-1. Prezintă, în 30-50 de cuvinte, semnificațiile enunțului: *Brâncuși a dat veacului nostru	conștiința	formei pure, a*
+<div style='text-align:right'><a href='http://www.brancusi.1dez.com'>Brâncuși</a></div><br>
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 
-*asigurat trecerea de la reprezentarea figurativă a realității la exprimarea esenței lucrurilor	și a	reînnoit în mod*
+1. Indică doi termeni/ două structuri din aria semantică a artei din textul dat.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+2. Menționează două trăsături caracteristice creației lui Brâncuși, așa cum reies din text.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
+3. Precizează numele unui filosof care l-a influențat pe Brâncuși.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+4. Explică, așa cum reiese din text, care este locul artei lui Brâncuși în lume.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+5. Prezintă, în 30-50 de cuvinte, semnificațiile enunțului: <i>Brâncuși a dat veacului nostru	conștiința	formei pure, a
+asigurat trecerea de la reprezentarea figurativă a realității la exprimarea esenței lucrurilor	și a	reînnoit în mod revoluționar limbajul plastic, îmbogățindu-l cu o dimensiune spirituală.</i><span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-*revoluționar limbajul plastic, îmbogățindu-l cu o dimensiune spirituală.*	**6	puncte**
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă sculptorul Constantin Brâncuși a contribuit sau nu la evoluția artei moderne mondiale, raportându-te atât la informațiile din fragmentul publicat pe site-ul <a href='http://www.brancusi.1dez.com'>http://www.brancusi.1dez.com</a>, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-1. **Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă sculptorul Constantin Brâncuși a contribuit sau nu la evoluția artei moderne mondiale, raportându-te atât la informațiile din fragmentul publicat pe site-ul [www.brancusi.1dez.com](http://www.brancusi.1dez.com), cât și la experiența personală sau culturală.**
-
-**20 de puncte**
-
-în redactarea textului, vei avea în vedere următoarele repere:
+În redactarea textului, vei avea în vedere următoarele repere:
 
 - formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
+argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul al II-lea<span style = 'float:right'>(10 puncte)</span></p> 
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+<b>Comentează, în minimum 50 de cuvinte, fragmentul dat, evidențiind caracterul de proză modernă al textului, prin exemplificarea a două trăsături:</b>
 
-**gnhiectul al ll-lea(10 puncte) Comentează, în minimum 50 de cuvinte, fragmentul dat, evidențiind caracterul de proză modernă al textului, prin exemplificarea a două trăsături:**
+<i>Moartea e un fenomen simplu în natură, numai oamenii îl fac înspăimântător. Vorbesc de moartea naturală, care adesea e o dulce ispită. înainte de a fi depus aici în această celulă, din care nu voi mai ieși decât pentru a intra Intr-o captivitate perpetuă, în plimbările mele solitare pe la marginea orașului, pe poteci, uitându-mă în jos și privind pământul, un sentiment senin se insinua în sufletul meu, la început de dragoste pentru el, pământul negru, tăcut, liniștit, apoi de atracție, de dorință, un fel de melancolie, de nostalgie blândă, de a mă culca pe el și a rămâne acolo întins pentru totdeauna. Ceea ce și făceam, stând cu ochii spre cer, până ce adormeam. Mă trezeam copleșit de un adânc sentiment de regret: de ce m-am mai trezit?
 
-*Moartea e un fenomen simplu în natură, numai oamenii îl fac înspăimântător. Vorbesc de moartea naturală, care adesea e o dulce ispită. înainte de a fi depus aici în această celulă, din care nu voi mai ieși decât pentru a intra Intr-o captivitate perpetuă, în plimbările mele solitare pe la marginea orașului, pe poteci, uitându-mă în jos și privind pământul, un sentiment senin se insinua în sufletul meu, la început de dragoste pentru el, pământul negru, tăcut, liniștit, apoi de atracție, de dorință, un fel de melancolie, de nostalgie blândă, de a mă culca pe el și a rămâne acolo întins pentru totdeauna. Ceea ce și făceam, stând cu ochii spre cer, până ce adormeam. Mă trezeam copleșit de un adânc sentiment de regret: de ce m-am mai trezit?*
+Dar moartea violentă, sinuciderea, la care ești împins de către oameni? Tandra nepăsare față de lume te poate stăpâni într-adevăr numai când te simți străin de propria-ți ființă, dar când, dimpotrivă, ai conștiința că ea este totul? Și știi cu certitudine că acest totul nu va mai fi liber niciodată? închisoarea pe viață! Oricât m-aș strădui, mi-este cu neputință să-mi imaginez că, odată verdictul pronunțat, voi putea adresa lumii un tandru adio nepăsător.
 
-*Dar moartea violentă, sinuciderea, la care ești împins de către oameni? Tandra nepăsare față de lume te poate stăpâni într-adevăr numai când te simți străin de propria-ți ființă, dar când, dimpotrivă, ai conștiința că ea este totul? Și știi cu certitudine că acest totul nu va mai fi liber niciodată? închisoarea pe viață! Oricât m-aș strădui, mi-este cu neputință să-mi imaginez că, odată verdictul pronunțat, voi putea adresa lumii un tandru adio nepăsător.*
+Am mai avut de a face cu anchetele și justiția și am mai fost condamnat, dar nu pe viață și nu fără speranța de a ieși curând. Nu fusese chiar curând, dar nici prea târziu ca să nu pot uita. Acum însă descopăr cu groază că ei, cei care mă interogau, erau liberi (și asta se vedea din pofta cu care îmi consemnau depoziția, acele infame gesturi ale ființei animalice care se simte trăind fără opreliști, gestul cu care aplicau o ștampilă, răsfoitul hârtiilor, mâncatul unui sendvici, înghiorțăitul unui pahar cu apă, scârțâitul scaunului sub trupul voinic, ancorat bine în realitate, uitatul pe fereastră, căscatul, râgâitul, gândul la muierea tânără pe care o vor strânge în brațe la noapte), iar eu nu voi mai fi niciodată ca ei, toate gesturile mele vor fi sau îmi vor reaminti că sunt condamnat să nu mai fiu liber până la moarte...</i>
 
-*Am mai avut de a face cu anchetele și justiția și am mai fost condamnat, dar nu pe viață și nu fără speranța de a ieși curând. Nu fusese chiar curând, dar nici prea târziu ca să nu pot uita. Acum însă descopăr cu groază că ei, cei care mă interogau, erau liberi (și asta se vedea din pofta cu care îmi consemnau depoziția, acele infame gesturi ale ființei animalice care se simte trăind fără opreliști, gestul cu care aplicau o ștampilă, răsfoitul hârtiilor, mâncatul unui sendvici, înghiorțăitul unui pahar cu apă, scârțâitul scaunului sub trupul voinic, ancorat bine în realitate, uitatul pe fereastră, căscatul, râgâitul, gândul la muierea tânără pe care o vor strânge în brațe la noapte), iar eu nu voi mai fi niciodată ca ei, toate gesturile mele vor fi sau îmi vor reaminti că sunt condamnat să nu mai fiu liber până la moarte...*
+Marin Preda, <i>Cel mai iubit dintre pământeni</i> 
 
-Marin Preda, *Cel mai iubit dintre pământeni* **Notă**
+<b>Notă</b>
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul al lll-lea(30 de puncte)**
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul al III-lea<span style = 'float:right'>(30 de puncte)</span></p>
 
-**Redactează un eseu, de minimum 400 de cuvinte, în care să prezinți o artă poetică modernistă.**
+<b>Redactează un eseu, de minimum 400 de cuvinte, în care să prezinți o artă poetică modernistă.</b>
 
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - evidențierea a două trăsături care fac posibilă încadrarea textului într-un curent literar, într-o perioadă sau într-o orientare tematică;
 - prezentarea a două idei/ imagini poetice relevante pentru arta poetică modernistă;
 - prezentarea a două elemente de compoziție și limbaj (de exemplu: temă, motiv literar, secvențe lirice, elemente de prozodie, relații de simetrie/ opoziție, arii semantice, laitmotiv, figuri semantice-tropi etc.) prin referire la opera poetică studiată.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
 **In vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
 
