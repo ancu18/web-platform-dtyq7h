@@ -1994,7 +1994,7 @@ O ploaie miniaturală de-accente, virgule și puncte -
 
 Sau numai mâna mea distrată le zugrăvește pe hârtie.
 
-În ea, tăcute și smerite, stau viitoarele regrete*
+În ea, tăcute și smerite, stau viitoarele regrete
 
 Alături de bilanțul zilei și de adresa unei fete;</i>
 
@@ -2246,7 +2246,7 @@ B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă
 
 Scena 11
 
-Dacia (intrând): <i>Bine c-a dat Dumnezeu! Ei, așa da! Unde să scriu că te-ai hotărât să-ți iei pălărie?!...</i> (îl contemplă) <i>Și să știi că nu-ți vine chiar așa de rău... Vezi?</i>
+<div class='a'>Dacia (intrând): <i>Bine c-a dat Dumnezeu! Ei, așa da! Unde să scriu că te-ai hotărât să-ți iei pălărie?!...</i> (îl contemplă) <i>Și să știi că nu-ți vine chiar așa de rău... Vezi?</i>
 
 <i>Așa-mi place să fii! Ghigăl și simțit...</i>
 
@@ -2270,7 +2270,7 @@ Chiriachița (trece la el): <i>E verde, sau mi se pare mie?... la aprinde lumina
 
 Spirache: (ca să-i facă plăcere): <i>Verde... verde...</i>
 
-Chiriachița: <i>E, cum îți vine, om bătrân, c-o casă de copii, să umbli cu pălărie verde în cap?...</i>
+Chiriachița: <i>E, cum îți vine, om bătrân, c-o casă de copii, să umbli cu pălărie verde în cap?...</i></div>
 
 Tudor Mușatescu, <i>Titanic Vals</i>
 
@@ -2592,7 +2592,7 @@ B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă
 
 SCENA XIV
 
-GROZEA (calm, rugător):<i>Anișoaro, te rog, ascultă-mă acuma ... Spune-mi și tu o minciună mai plauzibilă, fiindcă, vezi bine, vreau să te cred! ...O minciună, Anișoaro! Ce-i la tine o minciună? Pe când toată fericirea mea atârnă acuma de minciuna ta!...</i>
+<div class='a'>GROZEA (calm, rugător):<i>Anișoaro, te rog, ascultă-mă acuma ... Spune-mi și tu o minciună mai plauzibilă, fiindcă, vezi bine, vreau să te cred! ...O minciună, Anișoaro! Ce-i la tine o minciună? Pe când toată fericirea mea atârnă acuma de minciuna ta!...</i>
 
 ANISOARA: <i>Eu nu mint niciodată.</i>
 
@@ -2618,7 +2618,7 @@ GROZEA (lângă tablou, privindu-l cu superioritate, frecându-și mâinile): <i
 
 ANIȘOARA (lui Grozea): <i>Acuma cred că ești mulțumit?</i>
 
-GROZEA (vesel): <i>Acuma sunt mulțumit!...</i>
+GROZEA (vesel): <i>Acuma sunt mulțumit!...</i></div>
 
 <a href='#bac10' id='liviu_rebreanu_cadrilul'><div style='text-align:right'>Liviu Rebreanu, <i>Cadrilul</i></div></a>
 
@@ -4708,212 +4708,222 @@ Rodica Zafiu, <i>Păcatele limbii</i>, în „Dilema veche“, nr. 682, 16-22 ma
 
 Actul III, scena 5
 
-<div class='a'>MATEI (s-a plimbat zbuciumat prin cameră, vine spre el, dezlănțuit, într-o furie colcăitoare): Mișelule, pânâ-ntr-atât aj corupt inima fetei mele, încât a putut să facă pasul de azi? Prin ce mijloace, prin ce taină te-ai insinuat în sufletul ei? Ce ai sperat? Ce nebunii au încolțit în capul d-tale de descreierat?</div>
+<div class='a'>MATEI (s-a plimbat zbuciumat prin cameră, vine spre el, dezlănțuit, într-o furie colcăitoare): <i>Mișelule, pânâ-ntr-atât aj corupt inima fetei mele, încât a putut să facă pasul de azi? Prin ce mijloace, prin ce taină te-ai insinuat în sufletul ei? Ce ai sperat? Ce nebunii au încolțit în capul d-tale de descreierat?</i>
 
-ANDREI (pătimaș): *Am iubit-o... asta-i totul.... și ea m-a înțeles, a înțeles că sunt un suflet deosebit...*
+ANDREI (pătimaș): <i>Am iubit-o... asta-i totul.... și ea m-a înțeles, a înțeles că sunt un suflet deosebit...</i>
 
-MATEI: *„Suflet deosebit"* (ridicând din umeri furios). *De ce ești deosebit? Ce ești d-ta mai mult decât orice om cu carte ieșit de la țară? Un student întârziat.*
+MATEI: <i>„Suflet deosebit"</i> (ridicând din umeri furios). <i>De ce ești deosebit? Ce ești d-ta mai mult decât orice om cu carte ieșit de la țară? Un student întârziat.</i>
 
-ANDREI: *Până acum...* (E întrerupt.)
+ANDREI: <i>Până acum...</i> (E întrerupt.)
 
-MATEI: *Ai 30 de ani, ca să devii un erudit mare e cam târziu... Și nu orice speranță cam trezită va fi un mare erudit... în sfârșit, cel puțin dacă ai fi devenit un dascăl de istorie cumsecade... dar așa? De ce „deosebit”?* (Deodată crispat.) *Ești pur și simplu un ticălos.*
+MATEI: <i>Ai 30 de ani, ca să devii un erudit mare e cam târziu... Și nu orice speranță cam trezită va fi un mare erudit... în sfârșit, cel puțin dacă ai fi devenit un dascăl de istorie cumsecade... dar așa? De ce „deosebit”?</i> (Deodată crispat.) <i>Ești pur și simplu un ticălos.</i>
 
-ANDREI (excesiv de împăciuitor): *Biruiți în d-voastră o judecată făcută gata... Priviți cu ochii limpezi.*
+ANDREI (excesiv de împăciuitor): <i>Biruiți în d-voastră o judecată făcută gata... Priviți cu ochii limpezi.</i>
 
-MATEI (nerevenindu-și): *Cum de-ai îndrăznit să vorbești fetei mele de dragoste?* (zdrobit) *Și ea care te-a ascultat!...*
+MATEI (nerevenindu-și): <i>Cum de-ai îndrăznit să vorbești fetei mele de dragoste?</i> (zdrobit) <i>Și ea care te-a ascultat!...</i>
 
 (Iar se plimbă agitat.)
 
-ANDREI: *Dacă ați vrea și dumneavoastră să mă ascultați.*
+ANDREI: <i>Dacă ați vrea și dumneavoastră să mă ascultați.</i>
 
-MATEI (tresărind se oprește): *Să te ascult? Dar vorbele dumitale îmi picură plumb fierbinte în urechi... Cum îți închipui că am să consimt vreodată la nelegiuirea asta?*
+MATEI (tresărind se oprește): <i>Să te ascult? Dar vorbele dumitale îmi picură plumb fierbinte în urechi... Cum îți închipui că am să consimt vreodată la nelegiuirea asta?</i>
 
-ANDREI: *Am să aștept să vă treacă mânia de acum...*
+ANDREI: <i>Am să aștept să vă treacă mânia de acum...</i></div>
 
-Camil Petrescu, *Suflete tari*
+Camil Petrescu, <i>Suflete tari</i>
 
-**Notă**
+<b>Notă</b>
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru   <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare - 1 punct; logica înlănțuirii ideilor - 1 punct; ortografia - 1 punct; punctuația - 1 punct)
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul al lll-lea(30 de puncte)**
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul al III-lea <span style='background-color:yellow;float:right;font-weight:bold'>(30 de puncte)</span></p>
 
-**Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un basm cult aparținând lui Ion Creangă.**
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un basm cult aparținând lui Ion Creangă.</b>
 
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - evidențierea a două trăsături care fac posibilă încadrarea textului studiat într-o tipologie/ într-o orientare tematică;
 - prezentarea a două dintre caracteristicile textului narativ, semnificative pentru tema și viziunea despre lume (de exemplu: formula estetică, temă, motiv literar, perspectivă narativă, acțiune, conflict, relații temporale și spațiale, tehnici narative, discurs narativ, incipit, final etc.) prin referire la basmul cult studiat;
 - comentarea a două citate/ secvențe narative, semnificative pentru tema și viziunea despre lume.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere - 1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere - 1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**în vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul I(50 de puncte} Citește următorul fragment:**
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul I<span style = 'float:right'>(50 de puncte)</span></p>
 
-*Competiția Internațională a celei de-a 16-a ediții a Festivalului Internațional de Film Transilvania, dedicată excluși]/ regizorilor aflați la primul sau la al doilea film, pare să oglindească îndeaproape conflictele sociale ale lumii actuale Dintre cele 12 filme care au concurat pentru Trofeul Transilvania, 8 dintre acestea au fost debuturi. Directorul artistic al Festivalului, Mihai Chirilov, s-a arătat interesat să găsească „acele voci singulare și curajoase care nu joace precaut și preferă să riște totul pe o carte. în selecția din acest an, șocul vine de unde te aștepți mai puțin, emoție arde la foc mic, dar efectele ei sunt devastatoare, dilemele morale și pariurile formale te scot din zona de confort, iar relațiile de familie sunt puse la grea încercare înainte ca situația să se stabilizeze". Cu siguranță, provocările de tot felul nu au lipsit din filmele care au concurat în acest an, dar acestea s-au concentrat în special asupra demontării tabuurilor morale și sociale din societățile patriarhale sau au prezentat conflicte și crize care se desfășoară în spații unde violența și intoleranța sunt omniprezente. Filmele curajoase din punct de vedere formal, în care domină spiritul de inovare a limbajului cinematografic, au fost mai puțin reprezentate în selecția competiției internaționale. în mod excepțional, m-a impresionat filmul Nemurire, debutul în lungmetraj al regizorului iranian Mehdi Fard Ghaderi. Deși nu a fost selectat în competiția internațională, fiind inclus în secțiunea „Fără limită", includerea sa în programul TIFF a confirmat o realitate cu care cinematografia mondială recentă ne-a obișnuit deja: regizorii iranieni reușesc din* ce *în ce mai des să vină cu filme curajoase din punct de vedere formal, cu viziuni regizorale pe măsură. Nemurire este apropiat de Fish and cat, al lui Shakram Mokri, selectat și acesta la TIFF în 2014. Cele două filme au în comun faptul că ele sunt realizate dintr-un singur plan-secvență cu o durată de peste două ore, reușind să realizeze o construcție narativă extrem de bine articulată și de complexă în absența totală a montajului. [...] Reușita filmului este însă construcția narativă ingenioasă. Acesta prezintă șase povești care se întâmplă într-un tren ce traversează Iranul într-o noapte ploioasă. Inovația constă în faptul că poveștile se petrec în planuri temporale diferite, structurate de perspectiva unui personaj-narator și legate fluid într un singur plan-secvență. Tranzițiile între planurile temporale, trecerile de la o poveste la alta sunt realizate prin mișcarea continuă în interiorul trenului, în parcursul realizat de protagoniști de la un compartiment la altul și de la un vagon la altul, făcându-se astfel salturile necesare între diferitele scene și situații narative. Așadar, un tren care „călătorește" în timp.*
+<b>Citește următorul fragment:</b>
 
-Cezar Gheorghe, *Filme LGBT și critica familiei tradiționale în competiția TIFF 2017,* în „Observator cultural", 876, 2017
+<i>Competiția Internațională a celei de-a 16-a ediții a Festivalului Internațional de Film Transilvania, dedicată excluși]/ regizorilor aflați la primul sau la al doilea film, pare să oglindească îndeaproape conflictele sociale ale lumii actuale Dintre cele 12 filme care au concurat pentru Trofeul Transilvania, 8 dintre acestea au fost debuturi. Directorul artistic al Festivalului, Mihai Chirilov, s-a arătat interesat să găsească „acele voci singulare și curajoase care nu joace precaut și preferă să riște totul pe o carte. în selecția din acest an, șocul vine de unde te aștepți mai puțin, emoție arde la foc mic, dar efectele ei sunt devastatoare, dilemele morale și pariurile formale te scot din zona de confort, iar relațiile de familie sunt puse la grea încercare înainte ca situația să se stabilizeze". Cu siguranță, provocările de tot felul nu au lipsit din filmele care au concurat în acest an, dar acestea s-au concentrat în special asupra demontării tabuurilor morale și sociale din societățile patriarhale sau au prezentat conflicte și crize care se desfășoară în spații unde violența și intoleranța sunt omniprezente. Filmele curajoase din punct de vedere formal, în care domină spiritul de inovare a limbajului cinematografic, au fost mai puțin reprezentate în selecția competiției internaționale. în mod excepțional, m-a impresionat filmul Nemurire, debutul în lungmetraj al regizorului iranian Mehdi Fard Ghaderi. Deși nu a fost selectat în competiția internațională, fiind inclus în secțiunea „Fără limită", includerea sa în programul TIFF a confirmat o realitate cu care cinematografia mondială recentă ne-a obișnuit deja: regizorii iranieni reușesc din ce în ce mai des să vină cu filme curajoase din punct de vedere formal, cu viziuni regizorale pe măsură. Nemurire este apropiat de Fish and cat, al lui Shakram Mokri, selectat și acesta la TIFF în 2014. Cele două filme au în comun faptul că ele sunt realizate dintr-un singur plan-secvență cu o durată de peste două ore, reușind să realizeze o construcție narativă extrem de bine articulată și de complexă în absența totală a montajului. [...] Reușita filmului este însă construcția narativă ingenioasă. Acesta prezintă șase povești care se întâmplă într-un tren ce traversează Iranul într-o noapte ploioasă. Inovația constă în faptul că poveștile se petrec în planuri temporale diferite, structurate de perspectiva unui personaj-narator și legate fluid într un singur plan-secvență. Tranzițiile între planurile temporale, trecerile de la o poveste la alta sunt realizate prin mișcarea continuă în interiorul trenului, în parcursul realizat de protagoniști de la un compartiment la altul și de la un vagon la altul, făcându-se astfel salturile necesare între diferitele scene și situații narative. Așadar, un tren care „călătorește" în timp.</i>
 
-**A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
+Cezar Gheorghe, <i>Filme LGBT și critica familiei tradiționale în competiția TIFF 2017</i>, în „Observator cultural", 876, 2017
 
-1. Indică doi termeni din aria semantică a cinematografiei din textul dat.	**6 puncte**
-1. Menționează, din text, două neologisme.	**6 puncte**
-1. Precizează numele directorului artistic al festivalului.	**6 puncte**
-1. Explică, așa cum reies din text, care sunt provocările filmelor prezentate în festival.	**6 puncte**
-1. Prezintă, în 30-50 de cuvinte, în ce constă noutatea filmelor iraniene.	**6 puncte**
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 
-**B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă filmele/ arta contemporană trebuie sau nu să reflecte conflictele sociale ale lumii de azi, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.	20 de puncte**
+1. Indică doi termeni din aria semantică a cinematografiei din textul dat.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+2. Menționează, din text, două neologisme.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+3. Precizează numele directorului artistic al festivalului.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+4. Explică, așa cum reies din text, care sunt provocările filmelor prezentate în festival.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+5. Prezintă, în 30-50 de cuvinte, în ce constă noutatea filmelor iraniene.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-în redactarea textului, vei avea în vedere următoarele repere:
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă filmele/ arta contemporană trebuie sau nu să reflecte conflictele sociale ale lumii de azi, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte </span>
+
+În redactarea textului, vei avea în vedere următoarele repere:
 
 - formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
+argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul II<span style = 'float:right'>(10 puncte)</span></p>
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+<b>Comentează, în minimum 50 de cuvinte, textul poetic, evidențiind faptul că aparține simbolismului:</b>
 
-**5ubjgglul a\*1,-163	(10 puncte)**
+<i>Iubire, bibelou de porțelan, 
 
-**COfnentează, în minimum 50 de cuvinte, textul poetic, evidențiind faptul că aparține simbolismului:**
+Obiect cu existența efemeră, 
 
-*Iubire, bibelou de porțelan, Obiect cu existența efemeră, Te regăsesc pe-aceeași etajeră Pe care te-am lăsat acum un an...*
+Te regăsesc pe-aceeași etajeră 
 
-*îți mulțumesc!...*
+Pe care te-am lăsat acum un an...
 
-*Dar cum?... Ce s-a-ntâmplat?...*
+Îți mulțumesc!...
 
-*Ce suflet caritabil te-a păstrat în lipsa mea, în lipsa ei, în lipsa noastră?...*
+Dar cum?... Ce s-a-ntâmplat?...
 
-*Ce demon alb,*
+Ce suflet caritabil te-a păstrat în lipsa mea, în lipsa ei, în lipsa noastră?...
 
-*Ce pasăre albastră*
+Ce demon alb,
 
-*Ți-a stat de veghe-atâta timp*
+Ce pasăre albastră
 
-*Și te-a-ngrijit*
+Ți-a stat de veghe-atâta timp
 
-*De nu te-ai spart*
+Și te-a-ngrijit
 
-*Și nu te-ai prăfuit?...*
+De nu te-ai spart
 
-*Iubire, bibelou de porțelan,*
+Și nu te-ai prăfuit?...
 
-*Obiect de preț cu smalțul nepătat, Rămâi pe loc acolo unde ești... Să nu te miști...*
+Iubire, bibelou de porțelan,
 
-*Și dacă ne iubești -*
+Obiect de preț cu smalțul nepătat, 
 
-*Ol... dacă ne iubești cu-adevărat- Așteaptă-ne la fel încă un an...*
+Rămâi pe loc acolo unde ești... Să nu te miști...
 
-*Un an măcar...*
+Și dacă ne iubești -
 
-*Atât...*
+O!... dacă ne iubești cu-adevărat- Așteaptă-ne la fel încă un an...
 
-*Un singur an...*
+Un an măcar...
 
-*Iubire, bibelou de porțelan!...*
+Atât...
 
-Ion Minulescu, *Romanță fără ecou*
+Un singur an...
 
-Notă
+Iubire, bibelou de porțelan!...</i>
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+Ion Minulescu, <i>Romanță fără ecou</i>
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+<b>Notă</b>
 
-**Subiectul al lll-lea(30 de puncte) Redactează un eseu de minimum 400 de cuvinte, în care să prezinți relația dintre două personaje, așa cum apare într-un roman aparținând lui Liviu Rebreanu.**
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-In elaborarea eseului, vei avea în vedere următoarele repere:
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-prezentarea a două elemente ale textului narativ, semnificative pentru construcția personajelor alese (de exemplu: tema, perspectiva narativă, acțiune, conflict, relații temporale și spațiale, construcția subiectului, modalități de caracterizare, limbaj etc.);
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul al III-lea<span style = 'float:right'>(30 de puncte)</span></p>
 
-~ evidențierea situației inițiale a celor două personaje, din perspectiva tipologiei în care se încadrează, a statutului lor psihologic, moral, social etc.;
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți relația dintre două personaje, așa cum apare într-un roman aparținând lui Liviu Rebreanu.</b>
 
-~ relevarea trăsăturilor celor două personaje, semnificative pentru ilustrarea relațiilor, prin raportare la două episoade/ secvențe narative ale romanului ales.
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
-Notă!
+- prezentarea a două elemente ale textului narativ, semnificative pentru construcția personajelor alese (de exemplu: tema, perspectiva narativă, acțiune, conflict, relații temporale și spațiale, construcția subiectului, modalități de caracterizare, limbaj etc.);
+
+- evidențierea situației inițiale a celor două personaje, din perspectiva tipologiei în care se încadrează, a statutului lor psihologic, moral, social etc.;
+
+- relevarea trăsăturilor celor două personaje, semnificative pentru ilustrarea relațiilor, prin raportare la două episoade/ secvențe narative ale romanului ales.
+
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii beilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 Puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere - 1 punct; logica înlănțuirii beilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 Puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**Subiectul I(50 de puncțgj Citește următorul fragment:**
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul I<span style = 'float:right'>(50 de puncte)</span></p>
 
-***Ați ales, pentru noul dvs. film, un subiect cu o încărcătură puternic optimistă, cu un mesaj umanist,* de *redescoperire a frumuseții și bunătății din om, indiferent de context. De ce v-ați oprit la* Istoria iubirii de *Nicole Krauss? Credeți în continuare în puterea iubirii?***
+<b>Citește următorul fragment:</b>
 
-*Da, dovada e că am făcut filmul. Cartea mi-a oferit-o cineva în 2006, când a fost lansată, în Franța, știind că îmj plăcea acest tip de subiect. Bineînțeles că m-au înnebunit subiectele, personajele, stilul narativ al cărții, lipsit de* o *linie cronologică, daria acea vreme nu m-am gândit o secundă să fac un film, din multe cauze, una fiind că acțiunea se petrece în multe locuri, mi se părea prea scump pentru a-l produce, mai ales în Statele Unite. Apoi, era complexitatea narativă, atât de specific literară, nu aveam încredere să o pot eu transforma într-o gramatică cinematografică. Coincidența face că, în 2013, doi producători francezi, care cumpăraseră drepturile cărții și care erau și ei înnebuniți după ea, au aflat că o citisem și că îmi plăcea la nebunie și au spus că singurul care poate* să *vorbească bine și despre o poveste evreiască în timpul războiului, și la New York, și în engleză, și cu actori venind de peste tot sunt eu. Au venit să mă vadă și le-am spus: „O clipă, o clipă, cartea e foarte complicată". Am recitit-o și m-a izbit din nou forța poveștii. Bineînțeles, problemele tot acolo erau, dar am găsit niște soluții și le-am spus că trebuie să facem neapărat filmul dintr-un alt punct de vedere, care nu mă izbise cu șapte ani înainte, anume contextul mondial: crize, cinism, violență, șomaj, (...), și povestea asta mise părea căzută din cer spunând: „uite, e o poveste care ne dă un pic de speranță", care ne spune că nu suntem doar răi, disperați, poate că mai avem niște calități. Marea criză a omenirii este că nu mai știm să iubim. Deși vrem, nu mai știm, ne e frică, suntem ca în niște închisori, în spatele unui ecran, nu mai avem curajul să ne uităm ochi în ochi și să spunem „te iubesc". Așadar, în ciuda acestui romantism excesiv al cărții, propunerea de a o ecraniza mi s-a părut oportună în zilele de azi. (...)*
+<b><i>Ați ales, pentru noul dvs. film, un subiect cu o încărcătură puternic optimistă, cu un mesaj umanist, de redescoperire a frumuseții și bunătății din om, indiferent de context. De ce v-ați oprit la <i>Istoria iubirii</i> de Nicole Krauss? Credeți în continuare în puterea iubirii?</i></b>
 
-***Care este firul roșu care leagă personajele din Polonia anilor ’30 cu cele din Brooklynul din prezent?***
+<i>Da, dovada e că am făcut filmul. Cartea mi-a oferit-o cineva în 2006, când a fost lansată, în Franța, știind că îmj plăcea acest tip de subiect. Bineînțeles că m-au înnebunit subiectele, personajele, stilul narativ al cărții, lipsit de o linie cronologică, daria acea vreme nu m-am gândit o secundă să fac un film, din multe cauze, una fiind că acțiunea se petrece în multe locuri, mi se părea prea scump pentru a-l produce, mai ales în Statele Unite. Apoi, era complexitatea narativă, atât de specific literară, nu aveam încredere să o pot eu transforma într-o gramatică cinematografică. Coincidența face că, în 2013, doi producători francezi, care cumpăraseră drepturile cărții și care erau și ei înnebuniți după ea, au aflat că o citisem și că îmi plăcea la nebunie și au spus că singurul care poate să vorbească bine și despre o poveste evreiască în timpul războiului, și la New York, și în engleză, și cu actori venind de peste tot sunt eu. Au venit să mă vadă și le-am spus: „O clipă, o clipă, cartea e foarte complicată". Am recitit-o și m-a izbit din nou forța poveștii. Bineînțeles, problemele tot acolo erau, dar am găsit niște soluții și le-am spus că trebuie să facem neapărat filmul dintr-un alt punct de vedere, care nu mă izbise cu șapte ani înainte, anume contextul mondial: crize, cinism, violență, șomaj, (...), și povestea asta mise părea căzută din cer spunând: „uite, e o poveste care ne dă un pic de speranță", care ne spune că nu suntem doar răi, disperați, poate că mai avem niște calități. Marea criză a omenirii este că nu mai știm să iubim. Deși vrem, nu mai știm, ne e frică, suntem ca în niște închisori, în spatele unui ecran, nu mai avem curajul să ne uităm ochi în ochi și să spunem „te iubesc". Așadar, în ciuda acestui romantism excesiv al cărții, propunerea de a o ecraniza mi s-a părut oportună în zilele de azi. (...)</i>
 
-*Singurul fir este dat de carte (cartea numită „Istoria iubirii", pe care personajul o scrie ca pe o lungă declarație de dragoste) - deci de cultură și de forța cuvântului - și de iubire, acest virus formidabil. Cartea călătorește în epoci și pe continente diferite, pleacă din Europa, trece prin America de Sud, pentru a ajunge în America de Nord, și îi contaminează, în drumul ei, pe toți, inclusiv pe adolescenții din Brooklyn, care nu au nimic de-a face cu personajele de la început, cele dintr-un sătuc din Polonia, în timpul războiului. E un mesaj foarte puternic, legat de funcția culturii, cultura care transmite nu numai cunoaștere, dar și dragoste, un îndemn de a fi mai buni și mai puternici, o legătură între generații. Prin dragoste, generațiile se încheagă între ele.*
+<b><i>Care este firul roșu care leagă personajele din Polonia anilor ’30 cu cele din Brooklynul din prezent?</i></b>
 
-Silvia Dumitrache, *Marea criză a omenirii este că nu mai știm să iubim,* interviu cu Radu Mihăileanu, în „Observator cultural1’, 876, 2017
+<i>Singurul fir este dat de carte (cartea numită „Istoria iubirii", pe care personajul o scrie ca pe o lungă declarație de dragoste) - deci de cultură și de forța cuvântului - și de iubire, acest virus formidabil. Cartea călătorește în epoci și pe continente diferite, pleacă din Europa, trece prin America de Sud, pentru a ajunge în America de Nord, și îi contaminează, în drumul ei, pe toți, inclusiv pe adolescenții din Brooklyn, care nu au nimic de-a face cu personajele de la început, cele dintr-un sătuc din Polonia, în timpul războiului. E un mesaj foarte puternic, legat de funcția culturii, cultura care transmite nu numai cunoaștere, dar și dragoste, un îndemn de a fi mai buni și mai puternici, o legătură între generații. Prin dragoste, generațiile se încheagă între ele.</i>
 
-**A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
+Silvia Dumitrache, <i>Marea criză a omenirii este că nu mai știm să iubim</i>, interviu cu Radu Mihăileanu, în „Observator cultural1", 876, 2017
 
-1. Indică patru neologisme din textul dat.	**6	puncte**
-1. Menționează tema filmului despre care se vorbește în interviu.	**6	puncte**
-1. Precizează titlul cărții ecranizate și numele autorului ei.	**6	puncte**
-1. Explică, așa cum reiese din text, care este istoria ecranizării cărții.	**6	puncte**
-1. Prezintă, în 30-50 de cuvinte, semnificațiile titlului articolului.	**6	puncte**
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 
-**B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă rolul cărților/ filmelor cu subiect istoric este sau nu relevant în lumea de azi, raportându-te atât la informațiile din fragmentul extras din articolul *Marea criză a omenirii este că nu mai știm să iubim,* publicat în *Observator cultural,* cât și la experiența personală sau culturală.	20 de puncte**
+1. Indică patru neologisme din textul dat.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
+2. Menționează tema filmului despre care se vorbește în interviu.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
+3. Precizează titlul cărții ecranizate și numele autorului ei.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
+4. Explică, așa cum reiese din text, care este istoria ecranizării cărții.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+5. Prezintă, în 30-50 de cuvinte, semnificațiile titlului articolului.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-în redactarea textului, vei avea în vedere următoarele repere:
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă rolul cărților/ filmelor cu subiect istoric este sau nu relevant în lumea de azi, raportându-te atât la informațiile din fragmentul extras din articolul <i>Marea criză a omenirii este că nu mai știm să iubim</i>, publicat în <i>Observator cultural</i>, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
+
+În redactarea textului, vei avea în vedere următoarele repere:
 
 - formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
+argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
-
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
-
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
 
-**șnbjectul al ll-lea(10 puncte) Comentează, în minimum 50 de cuvinte, primele două strofe ale poeziei, evidențiind relația dintre ideea poetică și mijloacele artistice folosite.**
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul al II-lea<span style = 'float:right'>(10 puncte)</span></p>
 
-*în mine câteodată eu simt: se face noapte,*
+<b>Comentează, în minimum 50 de cuvinte, primele două strofe ale poeziei, evidențiind relația dintre ideea poetică și mijloacele artistice folosite.</b>
 
-*Din netrăite vremuri vin neguri să mă prindă,*
+<i>În mine câteodată eu simt: se face noapte,
 
-*Strigări necunoscute și cântece și șoapte*
+Din netrăite vremuri vin neguri să mă prindă,
 
-*La casa mea colindă.*
+Strigări necunoscute și cântece și șoapte
 
-*în mine câteodată țărani cu zeghea\* sură*
+La casa mea colindă.
 
-*Și glume și ispite și tot ce știe satul*
+În mine câteodată țărani cu zeghea<a id='a15' href='#f15'><sup>15</sup></a> sură
 
-*S-amestecă de-a valma roind în bătătură*
+Și glume și ispite și tot ce știe satul
 
-*Și vin să-și ție sfatul...*
+S-amestecă de-a valma roind în bătătură
 
-*în mine câteodată grea liniștea se lasă,*
+Și vin să-și ție sfatul...
 
-*Miroase-a izmă creață și-a flori de iasomie,*
+În mine câteodată grea liniștea se lasă,
 
-*în vreme ce un popă cu barba cuvioasă*
+Miroase-a izmă creață și-a flori de iasomie,
 
-*Slujește-o liturghie...*
+în vreme ce un popă cu barba cuvioasă
 
-Octavian Goga, *în mine câteodată*
+Slujește-o liturghie...</i>
 
-*\*zeghe - s.f. Haină țărănească lungă, împodobită uneori cu găitane negre, care se poartă în ținuturile muntoase; haină făcută din piele de oaie cu care se îmbracă ciobanii; șubă; dimie*
+Octavian Goga, <i>În mine câteodată</i>
 
-**Notă**
+<a id='f15' href='#a15'>15.</a> <i>zeghe - s.f. Haină țărănească lungă, împodobită uneori cu găitane negre, care se poartă în ținuturile muntoase; haină făcută din piele de oaie cu care se îmbracă ciobanii; șubă; dimie</i>
+
+<b>Notă</b>
 
 Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
