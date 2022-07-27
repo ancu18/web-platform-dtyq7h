@@ -4,7 +4,7 @@
     <center>Cuprins</center>
   </div>
   <nav>
-    <ol><li><a id='bac1' href='#limba_si_literatura_romana'>Limba și literatura română</a><ul><li><a id='bac2' href='#ghid_complet_pentru_bacalaureat'>GHID COMPLET PENTRU BACALAUREAT</a><ol><li><a id='bac3' href='#curente_literare_romanesti_in_context_european'>CURENTE LITERARE ROMÂNEȘTI ÎN CONTEXT EUROPEAN</a><ol><li><a id='bac4' href='#umanismul_european'>UMANISMUL EUROPEAN</a></li></ol><li><a id='bac10' href='#liviu_rebreanu_cadrilul'>Liviu Rebreanu, Cadrilul</a></li><li><a id='20' href='#onisifor_ghibu_lucian_blaga_in_oameni_intre_oameni'> Onisifor Ghibu, <i>Lucian Blaga</i>, în „Oameni între oameni"</a></li><li><a id='21' href='#mihai_eminescu_gelozie'>Mihai Eminescu, <i>Gelozie</i></a></li></ol></nav></div>
+    <ol><li><a id='bac1' href='#limba_si_literatura_romana'>Limba și literatura română</a><ul><li><a id='bac2' href='#ghid_complet_pentru_bacalaureat'>GHID COMPLET PENTRU BACALAUREAT</a><ol><li><a id='bac3' href='#curente_literare_romanesti_in_context_european'>CURENTE LITERARE ROMÂNEȘTI ÎN CONTEXT EUROPEAN</a><ol><li><a id='bac4' href='#umanismul_european'>UMANISMUL EUROPEAN</a></li></ol><li><a id='bac10' href='#liviu_rebreanu_cadrilul'>Liviu Rebreanu, Cadrilul</a></li><li><a id='20' href='#onisifor_ghibu_lucian_blaga_in_oameni_intre_oameni'> Onisifor Ghibu, <i>Lucian Blaga</i>, în „Oameni între oameni"</a></li><li><a id='21' href='#mihai_eminescu_gelozie'>Mihai Eminescu, <i>Gelozie</i></a></li><li><a id='22' href='#am_simtit_nevoia_foarte_acuta_sa_nu_mi_mai_pun_limite_interviu_cu_aurora_kiraly_de_daria_ghiu'><i>Am simțit nevoia foarte acută să nu-mi mai pun limite</i> - interviu cu Aurora KIRÂLY, de Daria Ghiu</a></li></ol></nav></div>
 
 <a href='#bac1' id='limba_si_literatura_romana'><h1 id='limba_si_literatura_romana'>Limba și literatura română</h1></a>
 
@@ -5092,38 +5092,29 @@ Iar brațele-mi s-aruncă ca valurile mării
 - prezentarea ideilor promovate de criticul literar în studiile sale;
 - stabilirea unei relații între ideile identificate în programul revistei și o operă literară studiată (text narativ sau text poetic).
 
-**Notă!**
+&emsp;&emsp;&emsp;<b>Notă!</b>
 
-Ordinea integrării reperelor în cuprinsul eseului este la alegere.
+&emsp;&emsp;&emsp;Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+&emsp;&emsp;&emsp;Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**în vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+&emsp;&emsp;&emsp;<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul I<span style = 'float:right'>(50 de puncte)</span></p>
 
-**Subiectul I		(50 de puncțg**
+<b>Citește următorul fragment:</b>
 
-**Citește următorul fragment:**
+<pre class='border'>&emsp;&emsp;&emsp;<i>„Geometrii construite. Spațiu/ Timp/ Memorie", la Galeria „Anca Poterașu" din București, a fost cea mai recent expoziție personală a artistei Aurora Kirăly. [...]
+&emsp;&emsp;&emsp;<b>E o expoziție care are aerul unei retrospective. [...] Cum v-ați simțit săpând prin toată această memorie personală?</b>
+&emsp;&emsp;&emsp;Fotografiile din expoziție încep în 1998, dar eu am lucrat în acest mediu și în timpul facultății, și după. Deși terminat pictură monumentală, după absolvire m-am apropiat mult de mediul fotografic. Mă caracterizează acest proces de întoarcere la proiecte mai vechi, de reanalizare a lor. Propriu-zis, seria* „Melancholia" *e o resursă în expoziție. E jurnal vizual, punctează modul cum mă vedeam eu în anii aceia, cum mă descopeream și încerca^ să-mi dau seama de locul meu în lume. Un jurnal care lua fie forma unor autoportrete, fie pe aceea a unor situații pe care le întâlneam în spațiul atelierului ori acasă, dar și în călătorii, rezidențe. E un fel de arhivă pe care o pot prezenta sub diferite forme, de exemplu foto-instalații.
+&emsp;&emsp;&emsp;<b>Îmi amintesc că am văzut la MNAC, în expoziția „Good Girls" (2013; curator: Bojana Pejic), o instalație a dvs. cu fotografii, dar și cu fragmente de jurnal alături.</b>
+&emsp;&emsp;&emsp;Când mi-am reluat activitatea artistică în 2012, m-am întors la sursa asta și am privit-o cu alți ochi, am pus-o în noi contexte, i-am creat un traseu: cum mă raportez față de o creație de tinerețe și cum o văd acum? Pe atunci nu aveam așa de multe inhibiții, lucram lejer, aveam o prospețime a privirii. Astăzi cântăresc mult mai mult ce fotografiez. O observație interesantă pe care am făcut-o e să realizez că traseul meu a fost într-un fel de cerc. Acum revin la teme abordate în urmă cu douăzeci de ani, cu o privire în profunzime.
+&emsp;&emsp;&emsp;<b>Acest jurnal vizual continuă?</b>
+&emsp;&emsp;&emsp;Da, sunt notații vizuale pe care încă le fac. Cum spuneam, e o arhivă care ia diferite forme, de exemplu seria „Reconnections": la doi-trei ani după realizarea fotografiilor am completat-o cu asocieri de cuvinte care funcționau bine cu acele imagini, texte pe care le-am gravat apoi pe niște geamuri. [...] Multă vreme am respins mediile tradiționale, după facultate nu am mai vrut să pictez sau să desenez, eram fascinată doar de fotografie și de mediul digital. Dar când am revenit, în 2012, am simțit nevoia foarte acută să nu îmi mai pun limite, să renunț la clișee și la false granițe. Am început să desenez cu cărbune, creioane colorate, să lipesc, să mă interesez de zona tactilă.
+&emsp;&emsp;&emsp;<b>O altă serie pe care eu am văzut-o pentru prima oară în cadrul Nopții Albe este [...] o serie de colaje-tăieturi din presa națională și internațională contemporană. Cum au apărut acestea și cum continuă?</b>
+&emsp;&emsp;&emsp;Circulăm prin diferite spații fizice, din care ne rămân crâmpeie de informații- de la radio, de pe tejgheaua cu ziare, de la televizor ori vorbind cu lumea. De la aceste frânturi am pornit o cercetare și am ieșit la vânătoare de materiale din presă, am încercat să îmi fixez niște teme care apar foarte frecvent în lumea de astăzi și sunt controversate. [...] Așa cum media ne manipulează pe noi, eu fac o anumită selecție din acest tot. Dar fiecare vizitator nu face aceeași înlănțuire ca mine, face propriile sale conexiuni.</i></pre>
 
-*„Geometrii construite. Spațiu/ Timp/ Memorie", la Galeria „Anca Poterașu" din București, a fost cea mai recent^ expoziție personală a artistei **Aurora Kirăly. [...]***
-
-***E o expoziție care are aerul unei retrospective. [...] Cum v-ați simțit săpând prin toată această memorie personaj***
-
-*Fotografiile din expoziție încep în 1998, dar eu am lucrat în acest mediu și în timpul facultății, și după. Deși terminat pictură monumentală, după absolvire m-am apropiat mult de mediul fotografic. Mă caracterizează acest proces de întoarcere la proiecte mai vechi, de reanalizare a lor. Propriu-zis, seria* „Melancholia" *e o resursă în expoziție. E jurnal vizual, punctează modul cum mă vedeam eu în anii aceia, cum mă descopeream și încerca^ să-mi dau seama de locul meu în lume. Un jurnal care lua fie forma unor autoportrete, fie pe aceea a unor situații pe care le întâlneam în spațiul atelierului ori acasă, dar și în călătorii, rezidențe. E un fel de arhivă pe care o pot prezenta sub diferite forme, de exemplu foto-instalații.*
-
-***îmi amintesc că am văzut la MNAC, în expoziția „Good Girls" (2013; curator: Bojana Pejic), o instalație*** a ***dvs. cu fotografii, dar și cu fragmente de jurnal alături.***
-
-*Când mi-am reluat activitatea artistică în 2012, m-am întors la sursa asta și am privit-o cu alți ochi, am pus-o în noi contexte, i-am creat un traseu: cum mă raportez față de o creație de tinerețe și cum o văd acum? Pe atunci nu aveam așa de multe inhibiții, lucram lejer, aveam o prospețime a privirii. Astăzi cântăresc mult mai mult ce fotografiez. O observație interesantă pe care am făcut-o e să realizez că traseul meu a fost într-un fel de cerc. Acum revin la teme abordate în urmă cu douăzeci de ani, cu o privire în profunzime.*
-
-***Acest jurnal vizual continuă?***
-
-*Da, sunt notații vizuale pe care încă le fac. Cum spuneam, e o arhivă care ia diferite forme, de exemplu seria* „Reconnections": *la doi-trei ani după realizarea fotografiilor am completat-o cu asocieri de cuvinte care funcționau bine cu acele imagini, texte pe care le-am gravat apoi pe niște geamuri. [...] Multă vreme am respins mediile tradiționale, după facultate nu am mai vrut să pictez sau să desenez, eram fascinată doar de fotografie și de mediul digital. Dar când am revenit, în 2012, am simțit nevoia foarte acută să nu îmi mai pun limite, să renunț la clișee și la false granițe. Am început să desenez cu cărbune, creioane colorate, să lipesc, să mă interesez de zona tactilă.*
-
-***O altă serie pe care eu am văzut-o pentru prima oară în cadrul Nopții Albe este [...] o serie de colaje-tăieturi din presa națională și internațională contemporană. Cum au apărut acestea și cum continuă?***
-
-*Circulăm prin diferite spații fizice, din care ne rămân crâmpeie de informații- de la radio, de pe tejgheaua cu ziare, de la televizor ori vorbind cu lumea. De la aceste frânturi am pornit o cercetare și am ieșit la vânătoare de materiale din presă, am încercat să îmi fixez niște teme care apar foarte frecvent în lumea de astăzi și sunt controversate. [...] Așa cum media ne manipulează pe noi, eu fac o anumită selecție din acest tot. Dar fiecare vizitator nu face aceeași înlănțuire ca mine, face propriile sale conexiuni.*
-
-*Am simțit nevoia foarte acută să nu-mi mai pun limite* - interviu cu Aurora KIRÂLY, de Daria Ghiu
+<code><a style='font-weight:bold' href='#22' id='am_simtit_nevoia_foarte_acuta_sa_nu_mi_mai_pun_limite_interviu_cu_aurora_kiraly_de_daria_ghiu'><i>Am simțit nevoia foarte acută să nu-mi mai pun limite</i> - interviu cu Aurora KIRÂLY, de Daria Ghiu</a></code>
 
 **A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
 
