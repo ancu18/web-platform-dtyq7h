@@ -4,7 +4,7 @@
     <center>Cuprins</center>
   </div>
   <nav>
-    <ol><li><a id='bac1' href='#limba_si_literatura_romana'>Limba și literatura română</a><ul><li><a id='bac2' href='#ghid_complet_pentru_bacalaureat'>GHID COMPLET PENTRU BACALAUREAT</a><ol><li><a id='bac3' href='#curente_literare_romanesti_in_context_european'>CURENTE LITERARE ROMÂNEȘTI ÎN CONTEXT EUROPEAN</a><ol><li><a id='bac4' href='#umanismul_european'>UMANISMUL EUROPEAN</a></li></ol><li><a id='bac10' href='#liviu_rebreanu_cadrilul'>Liviu Rebreanu, Cadrilul</a></li></ol></nav></div>
+    <ol><li><a id='bac1' href='#limba_si_literatura_romana'>Limba și literatura română</a><ul><li><a id='bac2' href='#ghid_complet_pentru_bacalaureat'>GHID COMPLET PENTRU BACALAUREAT</a><ol><li><a id='bac3' href='#curente_literare_romanesti_in_context_european'>CURENTE LITERARE ROMÂNEȘTI ÎN CONTEXT EUROPEAN</a><ol><li><a id='bac4' href='#umanismul_european'>UMANISMUL EUROPEAN</a></li></ol><li><a id='bac10' href='#liviu_rebreanu_cadrilul'>Liviu Rebreanu, Cadrilul</a></li><li><a id='20' href='#onisifor_ghibu_lucian_blaga_in_oameni_intre_oameni'> Onisifor Ghibu, <i>Lucian Blaga</i>, în „Oameni între oameni"</a></li></ol></nav></div>
 
 <a href='#bac1' id='limba_si_literatura_romana'><h1 id='limba_si_literatura_romana'>Limba și literatura română</h1></a>
 
@@ -2620,7 +2620,7 @@ ANIȘOARA (lui Grozea): <i>Acuma cred că ești mulțumit?</i>
 
 GROZEA (vesel): <i>Acuma sunt mulțumit!...</i></div>
 
-<a href='#bac10' id='liviu_rebreanu_cadrilul'><div style='text-align:right'>Liviu Rebreanu, <i>Cadrilul</i></div></a>
+<code><a href='#bac10' id='liviu_rebreanu_cadrilul'>Liviu Rebreanu, <i>Cadrilul</i></a></code>
 
 <b>Notă</b>
 
@@ -5008,38 +5008,32 @@ Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei pr
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere - 1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**In vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul I(50 de punctaj Citește următorul fragment:**
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul I<span style = 'float:right'>(50 de puncte)</span></p>
 
-*L-am cunoscut în primăvara anului 1914, într-o zi de început de iunie. Era duminecă, la Sibiu. După terminare^ slujbei religioase am trecut, ca în toate celelalte dumineci, pe la birou, să văd dacă s-a întâmplat ceva deosebit. Abia am intrat înlăuntru și a bătut cineva la ușă. A intrat un băiețandru slab, palid, care făcea impresia unui bolnav.*
+<b>Citește următorul fragment:</b>
 
-- *Caut pe domnul profesor Ghibu - mi s-a adresat tânărul. [...]*
-- *Va să zică vrei să studiezi filozofia?*
-- *Da!*
-- *Si-ai vrea să mergi la Jena?*
-- *Da!*
+<pre class='border'><i>&emsp;&emsp;&emsp; L-am cunoscut în primăvara anului 1914, într-o zi de început de iunie. Era duminecă, la Sibiu. După terminarea slujbei religioase am trecut, ca în toate celelalte dumineci, pe la birou, să văd dacă s-a întâmplat ceva deosebit. Abia am intrat înlăuntru și a bătut cineva la ușă. A intrat un băiețandru slab, palid, care făcea impresia unui bolnav.
+&emsp;&emsp;&emsp;&ndash; Caut pe domnul profesor Ghibu - mi s-a adresat tânărul. [...]
+&emsp;&emsp;&emsp;&ndash; Va să zică vrei să studiezi filozofia?
+&emsp;&emsp;&emsp;&ndash; Da!
+&emsp;&emsp;&emsp;&ndash; Si-ai vrea să mergi la Jena?
+&emsp;&emsp;&emsp;&ndash; Da!
+&emsp;&emsp;&emsp; Răspundea monosilabic, respectuos, dar cu un ton care exprima hotărâre.
+&emsp;&emsp;&emsp;&ndash; Dragul meu, după câte văd, ai terminat abia liceul. E frumoasă dorința dumitale, dar cred că este bine să-ti spun că nu socotesc că Jena ar fi locul potrivit pentru un tânăr începător în ale filozofiei. Catedra de filozofie de acolo e ocupată, după cum văd că știi deja, de unul dintre marii filozofi ai timpului nostru, un mare filozof, dar care plutește oarecum în stratosferă cu ideile lui. E reprezentantul neo-idealismului, cunoscut în toată lumea ca gânditor de primă mărime; a fost distins cu premiul Nobel, a fost invitat la Universitatea din Pecking să țină cursuri în care să-și prezinte filozofia. Vara asta sau vara viitoare va și pleca la Pecking în acest scop. Cred că deocamdată el nu ți-ar fi de niciun folos dumitale, căci, pentru a ajunge a-l înțelege pe el ar trebui să faci în prealabil o inițiere în problemele de filozofie, de câțiva ani. Eu îți recomand să mergi mai întâi la Viena, unde te vei putea foarte bine iniția în filozofie, și abia după aceea să mergi la Jena.
+&emsp;&emsp;&emsp; Mă asculta cu atenție, liniștit. După ce i-am spus părerea, mi-a răspuns, cu siguranță în glas:
+&emsp;&emsp;&emsp;&ndash; Să știți că eu nu mă simt nepregătit pentru a-l studia pe Eucken. Eu l-am citit pe Eucken. [...]
+&emsp;&emsp;&emsp;&ndash; L-ai citit pe Eucken? Ce ai citit din el?
+&emsp;&emsp;&emsp; Mi-a înșirat vreo patru titluri de lucrări, pe care le cunoșteam și pe care le aveam chiar în biblioteca mea. [...]
+&emsp;&emsp;&emsp; Am intrat într-o convorbire, nu de prea mare adâncime, dar destul de interesantă. Urmăream să văd dacă tânărul rămăsese într-adevăr cu ceva, și cu ce anume, din filozofia lui Eucken. Pe măsură ce-mi vorbea și îmi răspundea la întrebări, eram tot mai surprins de orientarea, aș putea spune desăvârșită, a tânărului Blaga asupra acestei filozofii.
+&emsp;&emsp;&emsp;&ndash; Dar cum ai ajuns dumneata la Eucken?
+&emsp;&emsp;&emsp;&ndash; Am citit multă filozofie, domnule profesor; am citit și pe Kant, și pe Hegel și pe Fichte și pe Schopenhauer și pe Herbart. [...]
+&emsp;&emsp;&emsp;&ndash; Dragul meu, îmi pare bine de această întâlnire și, după cele ce am auzit, trebuie să-ți spun că trebuie să corectez ceea ce ți-am spus la început, Dumneata poți merge la Jena,cu pregătirea dumitale. [...]</i></pre>
 
-*Răspundea monosilabic, respectuos, dar cu un ton care exprima hotărâre.*
-
-- *Dragul meu, după câte văd, ai terminat abia liceul. E frumoasă dorința dumitale, dar cred că este bine să-ti spun că nu socotesc că Jena ar fi locul potrivit pentru un tânăr începător în ale filozofiei. Catedra de filozofie de acolo e ocupată, după cum văd că știi deja, de unul dintre marii filozofi ai timpului nostru, un mare filozof, dar care plutește oarecum în stratosferă cu ideile lui. E reprezentantul neo-idealismului, cunoscut în toată lumea ca gânditor de primă mărime; a fost distins cu premiul Nobel, a fost invitat la Universitatea din Pecking să țină cursuri în care să-și prezinte filozofia. Vara asta sau vara viitoare va și pleca la Pecking în acest scop. Cred că deocamdată el nu ți-ar fi de niciun folos dumitale, căci, pentru a ajunge a-l înțelege pe el ar trebui să faci în prealabil o inițiere în problemele de filozofie, de câțiva ani. Eu îți recomand să mergi mai întâi la Viena, unde te vei putea foarte bine iniția în filozofie, și abia după aceea să mergi la Jena.*
-
-*Mă asculta cu atenție, liniștit. După ce i-am spus părerea, mi-a răspuns, cu siguranță în glas:*
-
-- *Să știți că eu nu mă simt nepregătit pentru a-l studia pe Eucken. Eu l-am citit pe Eucken. [...]*
-- *L-ai citit pe Eucken? Ce ai citit din el?*
-
-*Mi-a înșirat vreo patru titluri de lucrări, pe care le cunoșteam și pe care le aveam chiar în biblioteca mea. [...]*
-
-*Am intrat într-o convorbire, nu de prea mare adâncime, dar destul de interesantă. Urmăream să văd dacă tânărul rămăsese într-adevăr cu ceva, și cu ce anume, din filozofia lui Eucken. Pe măsură ce-mi vorbea și îmi răspundea la întrebări, eram tot mai surprins de orientarea, aș putea spune desăvârșită, a tânărului Blaga asupra acestei filozofii.*
-
-- *Dar cum ai ajuns dumneata la Eucken?*
-- *Am citit multă filozofie, domnule profesor; am citit și pe Kant, și pe Hegel și pe Fichte și pe Schopenhauer și pe Herbart. [...]*
-- *Dragul meu, îmi pare bine de această întâlnire și, după cele ce am auzit, trebuie să-ți spun că trebuie să corectez ceea ce ți-am spus la început, Dumneata poți merge la Jena,cu pregătirea dumitale. [...]*
-
-Onisifor Ghibu, *Lucian Blaga,* în *„Oameni între oameni"*
+<code><a href='#20' id='onisifor_ghibu_lucian_blaga_in_oameni_intre_oameni'>Onisifor Ghibu, <i>Lucian Blaga</i>, în „Oameni între oameni"</a></code>
 
 **A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
 
