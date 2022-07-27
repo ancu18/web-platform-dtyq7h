@@ -19,7 +19,8 @@ div.b {padding-left:2em;} div.a{text-indent:-2em; padding-left:2em;}
   h4 {
     text-align: center;
   }
-  a {font-weight: bold}
+  a, a:visited {font-weight: bold;
+  }
   pre,
   code {
     white-space: pre-wrap;
