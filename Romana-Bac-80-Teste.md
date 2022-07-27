@@ -4,7 +4,7 @@
     <center>Cuprins</center>
   </div>
   <nav>
-    <ol><li><a id='bac1' href='#limba_si_literatura_romana'>Limba și literatura română</a><ul><li><a id='bac2' href='#ghid_complet_pentru_bacalaureat'>GHID COMPLET PENTRU BACALAUREAT</a><ol><li><a id='bac3' href='#curente_literare_romanesti_in_context_european'>CURENTE LITERARE ROMÂNEȘTI ÎN CONTEXT EUROPEAN</a><ol><li><a id='bac4' href='#umanismul_european'>UMANISMUL EUROPEAN</a></li></ol><li><a id='bac10' href='#liviu_rebreanu_cadrilul'>Liviu Rebreanu, Cadrilul</a></li><li><a id='20' href='#onisifor_ghibu_lucian_blaga_in_oameni_intre_oameni'> Onisifor Ghibu, <i>Lucian Blaga</i>, în „Oameni între oameni"</a></li></ol></nav></div>
+    <ol><li><a id='bac1' href='#limba_si_literatura_romana'>Limba și literatura română</a><ul><li><a id='bac2' href='#ghid_complet_pentru_bacalaureat'>GHID COMPLET PENTRU BACALAUREAT</a><ol><li><a id='bac3' href='#curente_literare_romanesti_in_context_european'>CURENTE LITERARE ROMÂNEȘTI ÎN CONTEXT EUROPEAN</a><ol><li><a id='bac4' href='#umanismul_european'>UMANISMUL EUROPEAN</a></li></ol><li><a id='bac10' href='#liviu_rebreanu_cadrilul'>Liviu Rebreanu, Cadrilul</a></li><li><a id='20' href='#onisifor_ghibu_lucian_blaga_in_oameni_intre_oameni'> Onisifor Ghibu, <i>Lucian Blaga</i>, în „Oameni între oameni"</a></li><li><a id='21' href='#mihai_eminescu_gelozie'>Mihai Eminescu, <i>Gelozie</i></a></li></ol></nav></div>
 
 <a href='#bac1' id='limba_si_literatura_romana'><h1 id='limba_si_literatura_romana'>Limba și literatura română</h1></a>
 
@@ -5033,77 +5033,60 @@ Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pe
 &emsp;&emsp;&emsp;&ndash; Am citit multă filozofie, domnule profesor; am citit și pe Kant, și pe Hegel și pe Fichte și pe Schopenhauer și pe Herbart. [...]
 &emsp;&emsp;&emsp;&ndash; Dragul meu, îmi pare bine de această întâlnire și, după cele ce am auzit, trebuie să-ți spun că trebuie să corectez ceea ce ți-am spus la început, Dumneata poți merge la Jena,cu pregătirea dumitale. [...]</i></pre>
 
-<code><a href='#20' id='onisifor_ghibu_lucian_blaga_in_oameni_intre_oameni'>Onisifor Ghibu, <i>Lucian Blaga</i>, în „Oameni între oameni"</a></code>
+<code><a style="font-weight:bold" href='#20' id='onisifor_ghibu_lucian_blaga_in_oameni_intre_oameni'>Onisifor Ghibu, <i>Lucian Blaga</i>, în „Oameni între oameni"</a></code>
 
-**A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 
-1. Indică sensul din text al secvenței *nu ți-ar fi de niciun folos.*	**6	puncte**
-1. Menționează numele celor patru filosofi pe care i-a	citit tânărul înainte de a ajunge la Eucken.	**6	puncte**
-1. Precizează ce sfat îi dă profesorul lui Lucian Blaga înainte de a discuta despre cărțile filosofului din Jena. **6 puncte**
-1. Explică de ce domnul Ghibu se arată neîncrezător,	la început, față de tânărul pe care-l întâlnește.	**6	puncte**
-1. Prezintă, în 30-50 de cuvinte, portretul profesorului	Eucken, așa cum reiese acesta din text.	**6	puncte**
+1. Indică sensul din text al secvenței <i>nu ți-ar fi de niciun folos</i>.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+2. Menționează numele celor patru filosofi pe care i-a	citit tânărul înainte de a ajunge la Eucken.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+3. Precizează ce sfat îi dă profesorul lui Lucian Blaga înainte de a discuta despre cărțile filosofului din Jena.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+4. Explică de ce domnul Ghibu se arată neîncrezător,	la început, față de tânărul pe care-l întâlnește.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
+5. Prezintă, în 30-50 de cuvinte, portretul profesorului	Eucken, așa cum reiese acesta din text.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
 
-**B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă relația dintre un dascăl și elevii săi poate influența sau nu destinul acestora din urmă, raportându-te atât la informațiile din fragmentul extras din volumul *Oameni între oameni,* cât și la experiența personală sau culturală.**
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă relația dintre un dascăl și elevii săi poate influența sau nu destinul acestora din urmă, raportându-te atât la informațiile din fragmentul extras din volumul <i>Oameni între oameni</i>, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span> 
 
-**20 de puncte** în redactarea textului, vei avea în vedere următoarele repere:
+&emsp;&emsp;&emsp; În redactarea textului, vei avea în vedere următoarele repere:
 
--formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-\- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind două trăsături specifice liricii romantice.**
+<b>Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind două trăsături specifice liricii romantice.</b>
 
-*N-ai să pătrunzi vreodată înluntrul astei inemi.*
+<div style='width: 600px;overflow:auto;margin-left:auto;margin-right:auto'><pre class='border'><div style='padding-left:70px;'><i>N-ai să pătrunzi vreodată înluntrul astei inemi.
+Voi pune ușii mele zăvoare grele, lacăt,
+Să nu pătrunză-n casă-mi zâmbirea ta din treacăt. [...]
+Dar m-ai învins... Pătruns-ai a inimei cămări
+Ș-acum lucești ca steaua fatală peste mări
+Pe gândurile mele... și treci așa frumoasă
+Ca marmura de albă, cu gene lăcrămoase,
+Și cum plutești n-atinge piciorul de pământ...
+Atârni precum atârnă nădejdile... de vânt.
+Mă mise ca oceanul cu suferinti adânci,
+Ce bratele-i de valuri le-atârnă trist de stânci.
+Se naltă si recade si murmură întruna
+Când lunecă pe negre păduri de paltin luna:
+Pătruns el e de jalea luminei celei reci... [...]
+Astfel domnești pe visu-mi și pe singurătate-mi
+Și miști în al meu suflet un ocean de paterni.
+Iar brațele-mi s-aruncă ca valurile mării
+&ndash; Ah, în deșert nici nu pot ca să te dau uitării...</i></pre></div>
 
-*Voi pune ușii mele zăvoare grele, lacăt,*
+<code><a style='font-weight:bold' href='#21' id='mihai_eminescu_gelozie'>Mihai Eminescu, <i>Gelozie</i></a></code>
 
-*Să nu pătrunză-n casă-mi zâmbirea ta din treacăt. [...]*
+&emsp;&emsp;&emsp;<b>Notă</b>
 
-*Dar m-ai învins... Pătruns-ai a inimei cămări*
+&emsp;&emsp;&emsp;Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare - 1 punct; logica înlănțuirii ideilor - 1 punct; ortografia - 1 punct; punctuația - 1 punct)
 
-*Ș-acum lucești ca steaua fatală peste mări*
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-*Pe gândurile mele... și treci așa frumoasă*
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul al lll-lea<span style = 'float:right'>(30 de puncte)</span></p>
 
-*Ca marmura de albă, cu gene lăcrămoase,*
+&emsp;&emsp;&emsp;<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți direcția modernistă, promovată de E. Lovinescu în cultura română, ilustrându-ți punctul de vedere prin referire la un text narativ/ poetic/ dramatic adecvat, aparținând unuia dintre autorii canonici Tudor Arghezi, Ion Barbu sau Camil Petrescu.</b>
 
-*Și cum plutești n-atinge piciorul de pământ...*
-
-*Atârni precum atârnă nădejdile... de vânt.*
-
-*Mă mise ca oceanul cu suferinti adânci,*
-
-*Ce bratele-i de valuri le-atârnă trist de stânci.*
-
-*Se naltă si recade si murmură întruna*
-
-*Când lunecă pe negre păduri de paltin luna:*
-
-*Pătruns el e de jalea luminei celei reci... [...]*
-
-*Astfel domnești pe visu-mi și pe singurătate-mi*
-
-*Și miști în al meu suflet un ocean de paterni.*
-
-*Iar brațele-mi s-aruncă ca valurile mării*
-
-*— Ah, în deșert nici nu pot ca să te dau uitării...*
-
-Mihai Eminescu, *Gelozie*
-
-**Notă**
-
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
-
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
-
-**Subiectul al lll-lea(30 de puncte)**
-
-**Redactează un eseu de minimum 400 de cuvinte, în care să prezinți direcția modernistă, promovată de E. Lovinescu în cultura română, ilustrându-ți punctul de vedere prin referire la un text narativ/ poetic/ dramatic adecvat, aparținând unuia dintre autorii canonici Tudor Arghezi, Ion Barbu sau Camil Petrescu.**
-
-în elaborarea eseului, vei avea în vedere următoarele repere:
+&emsp;&emsp;&emsp;În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - descrierea contextului istoric în care și-a desfășurat activitatea E. Lovinescu;
 - prezentarea ideilor promovate de criticul literar în studiile sale;
