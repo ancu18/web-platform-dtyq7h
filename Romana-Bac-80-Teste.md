@@ -4,7 +4,7 @@
     <center>Cuprins</center>
   </div>
   <nav>
-    <ol><li><a id='bac1' href='#limba_si_literatura_romana'>Limba și literatura română</a><ul><li><a id='bac2' href='#ghid_complet_pentru_bacalaureat'>GHID COMPLET PENTRU BACALAUREAT</a><ol><li><a id='bac3' href='#curente_literare_romanesti_in_context_european'>CURENTE LITERARE ROMÂNEȘTI ÎN CONTEXT EUROPEAN</a><ol><li><a id='bac4' href='#umanismul_european'>UMANISMUL EUROPEAN</a></li></ol><li><a id='bac10' href='#liviu_rebreanu_cadrilul'>Liviu Rebreanu, Cadrilul</a></li><li><a id='20' href='#onisifor_ghibu_lucian_blaga_in_oameni_intre_oameni'> Onisifor Ghibu, <i>Lucian Blaga</i>, în „Oameni între oameni"</a></li><li><a id='21' href='#mihai_eminescu_gelozie'>Mihai Eminescu, <i>Gelozie</i></a></li><li><a id='22' href='#am_simtit_nevoia_foarte_acuta_sa_nu_mi_mai_pun_limite_interviu_cu_aurora_kiraly_de_daria_ghiu'><i>Am simțit nevoia foarte acută să nu-mi mai pun limite</i> - interviu cu Aurora KIRÂLY, de Daria Ghiu</a></li></ol></nav></div>
+    <ol><li><a id='bac1' href='#limba_si_literatura_romana'>Limba și literatura română</a><ul><li><a id='bac2' href='#ghid_complet_pentru_bacalaureat'>GHID COMPLET PENTRU BACALAUREAT</a><ol><li><a id='bac3' href='#curente_literare_romanesti_in_context_european'>CURENTE LITERARE ROMÂNEȘTI ÎN CONTEXT EUROPEAN</a><ol><li><a id='bac4' href='#umanismul_european'>UMANISMUL EUROPEAN</a></li></ol><li><a id='bac10' href='#liviu_rebreanu_cadrilul'>Liviu Rebreanu, Cadrilul</a></li><li><a id='20' href='#onisifor_ghibu_lucian_blaga_in_oameni_intre_oameni'> Onisifor Ghibu, <i>Lucian Blaga</i>, în „Oameni între oameni"</a></li><li><a id='21' href='#mihai_eminescu_gelozie'>Mihai Eminescu, <i>Gelozie</i></a></li><li><a id='22' href='#am_simtit_nevoia_foarte_acuta_sa_nu_mi_mai_pun_limite_interviu_cu_aurora_kiraly_de_daria_ghiu'><i>Am simțit nevoia foarte acută să nu-mi mai pun limite</i> - interviu cu Aurora KIRÂLY, de Daria Ghiu</a></li><li><a id='23' href='#barbu_stefanescu_delavrancea_apus_de_soare'>Barbu Ștefănescu-Delavrancea, <i>Apus de soare</i></a></li><li><a id='24' href='#eugen_negriei_literatura_romana_sub_comunism'>Eugen Negriei, <i>Literatura română sub comunism</i></a></li><li><a id='25' href='#lucian_blaga_portret'>Lucian Blaga, <i>Portret</i></a></li><li><a id='26' href='#bogdan_romaniuc_livius_ciocarlie_la_foc_marunt'>Bogdan Romaniuc, <i>Livius Ciocârlie, La foc mărunt</i></a></li><li><a id='27' href='#marin_preda_intrusul'>Marin Preda, Intrusul</a></li></ol></nav></div>
 
 <a href='#bac1' id='limba_si_literatura_romana'><h1 id='limba_si_literatura_romana'>Limba și literatura română</h1></a>
 
@@ -5116,218 +5116,193 @@ Iar brațele-mi s-aruncă ca valurile mării
 
 <code><a style='font-weight:bold' href='#22' id='am_simtit_nevoia_foarte_acuta_sa_nu_mi_mai_pun_limite_interviu_cu_aurora_kiraly_de_daria_ghiu'><i>Am simțit nevoia foarte acută să nu-mi mai pun limite</i> - interviu cu Aurora KIRÂLY, de Daria Ghiu</a></code>
 
-**A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 
-1. Indică sensul din text al structurii *are aerul unei retrospective.*	**6	puncte**
-1. Menționează ce prezintă piesele din seria *Melancholia.*	**6	puncte**
-1. Precizează ce reprezintă un jurnal vizual pentru Aurora Kirăly.	**6	puncte**
-1. Explică de ce a renunțat autoarea la pictură și la desen, după terminarea	facultății.	**6	puncte**
-1. Prezintă, în 30-50 de cuvinte, obiectivele expoziției autoarei, folosind informațiile	din textul dat.	**6	puncte**
+1. Indică sensul din text al structurii <i>are aerul unei retrospective</i>.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+2. Menționează ce prezintă piesele din seria <i>Melancholia</i>.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+3. Precizează ce reprezintă un jurnal vizual pentru Aurora Kirăly.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+4. Explică de ce a renunțat autoarea la pictură și la desen, după terminarea	facultății.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
+5. Prezintă, în 30-50 de cuvinte, obiectivele expoziției autoarei, folosind informațiile	din textul dat.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
 
-**B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă fotografiile pot deveni sau nu un document al unei epoci istorice, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.	20 de puncte**
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă fotografiile pot deveni sau nu un document al unei epoci istorice, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-în redactarea textului, vei avea în vedere următoarele repere:
+În redactarea textului, vei avea în vedere următoarele repere:
 
--formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-\- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-`	`*~~ '*
+<b>Comentează, în minimum 50 de cuvinte, fragmentul dat, prezentând caracterizarea personajului doamna Maria și evidențiind două mijloace de caracterizare folosite.</b>
 
-**Comentează, în minimum 50 de cuvinte, fragmentul dat, prezentând caracterizarea personajului doamna IViaria și evidențiind două mijloace de caracterizare folosite.**
+&emsp;&emsp;&emsp;Actul II
 
-Actul II
+&emsp;&emsp;&emsp;Același tablou ca în actul întâi, cu deosebire că e vară și arborii încărcați cu fructe, unele coapte, altele pârguite, altele verzi. S-aud păsările cântând.
 
-Același tablou ca în actul întâi, cu deosebire că e vară și arborii încărcați cu fructe, unele coapte, altele pârguite, altele verzi. S-aud păsările cântând.
+&emsp;&emsp;&emsp;Scena I
 
-Scena I
+<div class='a'>DOAMNA MARIA: <i>O, fetele mele iubite, mai lăsați lucrul... De-o lună Ștefan nu dă semn de viață... Ce-a putut să i se întâmple?... Dar ce n-a putut?... Bolnav... Abia se sculă din pat, și porni cu iarna-n cap... Doamne!</i>
 
-DOAMNA MARIA: O, *fetele mele iubite, mai lăsați lucrul... De-o lună Ștefan nu dă semn de viață... Ce-a putut să i se întâmple?... Dar ce n-a putut?... Bolnav... Abia se sculă din pat, și porni cu iarna-n cap... Doamne!*
+IRINA: <i>Frumoasa mea doamnă...</i>
 
-IRINA: *Frumoasa mea doamnă...*
+DOAMNA MARIA: <i>Până acum o lună primeam vești peste vești... Bine... sănătos... zdravăn... așază țara... întocmește Pocuția... va sosi... biruitor ca totdeauna... îmi creștea inima... Și de</i> (înnumără pe dește)... <i>da... de treizeci de zile, nimic...</i>
 
-DOAMNA MARIA: *Până acum o lună primeam vești peste vești... Bine... sănătos... zdravăn... așază țara... întocmește Pocuția... va sosi... biruitor ca totdeauna... îmi creștea inima... Și de* (înnumără pe dește)... *da... de treizeci de zile, nimic...*
+IRINA: <i>Frumoasa mea doamnă...</i>
 
-IRINA: *Frumoasa mea doamnă...*
+DOAMNA MARIA: <i>S-a dus frumusețea. Uită-te la părul meu. S-a lățit șuvița albă cu două dește de când nici o veste... Auziți cum cântă de te slăvesc... Sunt aceleași... Cântați, păsări ale cerului, nepăsătoare la durerile noastre. A căzut omătul, a suflat vântul de primăvară, au încolțit mugurii, a dat frunza, au spuzit florile, a legat iarăși rodul... Și toate numai pentru voi. Partea noastră? Răbdări și lacrimi. De ce omul n-a fi putând a fire ca stejarul? Iarna să-l scuture, vara să-i puie la loc mândrețea și bărbăția!</i>
 
-DOAMNA MARIA: *S-a dus frumusețea. Uită-te la părul meu. S-a lățit șuvița albă cu două dește de când nici o veste... Auziți cum cântă de te slăvesc... Sunt aceleași... Cântați, păsări ale cerului, nepăsătoare la durerile noastre. A căzut omătul, a suflat vântul de primăvară, au încolțit mugurii, a dat frunza, au spuzit florile, a legat iarăși rodul... Și toate numai pentru voi. Partea noastră? Răbdări și lacrimi. De ce omul n-a fi putând a fire ca stejarul? Iarna să-l scuture, vara să-i puie la loc mândrețea și bărbăția!*
+REVECA: <i>Ce nu se schimbă, stăpâna mea a bună! Frunzele cresc și nu sunt aceleași. Stejarul are și el o margine. Grâul e tot grâu, dar nu mai e același. Doar glasurile rămân la păsări; ele se duc, altele vin... Și noi trăim cu părerea că numai omul îmbătrânește, se scutură și cade.</i>
 
-REVECA: *Ce nu se schimbă, stăpâna mea a bună! Frunzele cresc și nu sunt aceleași. Stejarul are și el o margine. Grâul e tot grâu, dar nu mai e același. Doar glasurile rămân la păsări; ele se duc, altele vin... Și noi trăim cu părerea că numai omul îmbătrânește, se scutură și cade.*
+DOAMNA MARIA: <i>Da, Reveca, gânduri, nimicuri. Să-I văd pe viteazul meu... să-i fac patul... să-l culc... „Adormi, măria-ta, n-a fost nimic. O gâză bate în geamuri“... Ce somn ușor în grijile grele... î, muiere rea! Uitasem pe Bogdan, odorul meu. Pe urmele tată-său calcă. Păcat că și-a pierdut ochiul. Eu am doi. La ce-mi slujește? Și cu unul v-aș vedea pe lângă mine. Am două picioare zdravene. Să împart: un ochi lui Bogdan, un picior lui Ștefan... Aș întineri...</i></div>
 
-DOAMNA MARIA: *Da, Reveca, gânduri, nimicuri. Să-I văd pe viteazul meu... să-i fac patul... să-l culc... „Adormi, măria-ta, n-a fost nimic. O gâză bate în geamuri“... Ce somn ușor în grijile grele... î, muiere rea! Uitasem pe Bogdan, odorul meu. Pe urmele tată-său calcă. Păcat că și-a pierdut ochiul. Eu am doi. La ce-mi slujește? Și cu unul v-aș vedea pe lângă mine. Am două picioare zdravene. Să împart: un ochi lui Bogdan, un picior lui Ștefan... Aș întineri...*
+<code><a style='font-weight:bold' href='#23' id='barbu_stefanescu_delavrancea_apus_de_soare'>Barbu Ștefănescu-Delavrancea, <i>Apus de soare</i></a></code> 
 
-Barbu Ștefănescu-Delavrancea, *Apus de soare* **Notă**
+<b>Notă!</b>
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru  <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul al lll-lea(30 de puncte)**
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul al III-lea<span style = 'float:right'>(30 de puncte)</span></p>
 
-**Redactează un eseu de minimum 400 de cuvinte, în care să prezinți relația dintre două personaje așa cum apare într-un text de Mihail Sadoveanu.**
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți relația dintre două personaje așa cum apare într-un text de Mihail Sadoveanu.</b>
 
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - prezentarea a două elemente ale textului narativ, semnificative pentru construcția personajelor alese (de exemplu: tema, perspectiva narativă, acțiune, conflict, relații temporale și spațiale, construcția subiectului, modalități de caracterizare, limbaj etc.);
 - evidențierea situației inițiale a celor două personaje, din perspectiva tipologiei în care se încadrează, a statutului lor psihologic, moral, social etc.;
 - relevarea trăsăturilor celor două personaje, semnificative pentru ilustrarea relațiilor, prin raportare la două episoade/ secvențe narative ale textului narativ ales.
 
-**Notă!**
+&emsp;&emsp;&emsp;<b>Notă!</b>
+
+&emsp;&emsp;&emsp;Ordinea integrării reperelor în cuprinsul eseului este la alegere.
+
+&emsp;&emsp;&emsp;Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere - 1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+
+&emsp;&emsp;&emsp;<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
+
+
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul I<span style = 'float:right'>(50 de puncte)</span></p> 
+
+<b>Citește următorul fragment:</b>
+
+<pre class='border'>Etapa stalinismului integral (1948-1953)
+&emsp;&emsp;&emsp;În prima etapă se declanșează lupta împotriva „culturii în putrefacție" cum era numită moștenirea civilizației europene occidentale. Din cauza impactului mediatic asupra maselor și pentru că ea putea să facă vizibile excesele, prima a fost vizată presa. La 12 februarie 1945 era publicată în „Monitorul Oficial" I Legea 1021, Decret-lege pentru epurarea presei, care lovea direct în publicațiile partidelor democratice.
+&emsp;&emsp;&emsp;Apoi apar liste interdicționale de cărți și publicații scoase din circulație prin Decretul din mai 1945. [...]
+&emsp;&emsp;&emsp;Dispar, astfel, din librării, din biblioteci publice și chiar din case, cărți semnate de Vasile Alecsandri, Grigore Alexandrescu, Ion Agârbiceanu, Dimitrie Anghel, Nicolae Bălcescu, Lucian Blaga, Al. Brătescu-Voinești, Dimitrie Bolintineanu, Dimitrie Cantemir, Mihai Eminescu [...] și de mulți, mulți alții. [...] Din ianuarie 1948, numele lui Tudor Arghezi însuși este scos din literatură, iar volumul „Una sută poeme" - retras și confiscat. „Vânătoarea de cărți" este urmată de „vânătoarea de oameni", întrucât mulți dintre intelectuali, alături de opozanți din toate categoriile sociale, vor fi întemnițați, așa cum mulți încearcă să părăsească țara.
+&emsp;&emsp;&emsp;Cuvântul de ordine este un ghid intitulat „Pentru realismul socialist în cultură și artă", tipărit în 1951, conceput și tipărit la Kremlin.
+&emsp;&emsp;&emsp;În spiritul acestui program, sunt etichetate drept „snoabe", „mistice", „descompuse", „dezumanizate", „degenerate", „morbide", „iraționale", „retrograde", „putrede" și mai ales „decadente" creații ale marii literaturi românești interbelice, toate creațiile simboliste, ermetice, suprarealiste, naturaliste, expresioniste, dadaiste etc.
+&emsp;&emsp;&emsp;Această etapă este considerată definitorie pentru conturarea mentalității comuniste și a scopurilor atribuite literaturii și scriitorului, deoarece ea conține principalele locuri comune ale proletcultismului.
+&emsp;&emsp;&emsp;Ideea transformării literaturii în instrument propagandistic și manipulator de conștiințe îi aparține lui Lenin și descendenților săi, având ca scop fundamentarea unei dictaturi depline, imbatabile, ce va controla fiecare segment al existenței, pornind de la cel intim, familial și până la cel socio-cultural.
+&emsp;&emsp;&emsp;Această epocă literară a fost circumscrisă unei terminologii extrem de variate (literatură proletară, literatură militantă, realism socialist, umanism socialist, revoluție culturală proletară etc.) care desemnează, în fond, aceleași aspecte definitorii: uniformizare, conformism, promovare a non valorilor, cenzură, mimetism doctrinar, cultul conducătorului, tipologiile alb-negru, conflicte rezolvate în sensul dorit de partid, învingător fiind, întotdeauna, reprezentantul clasei muncitoare, descris în culori luminoase, învins și supus oprobriului exponentul clasei exploatatoare etc. Scopul era fabricarea „omului nou", lipsit de memorie culturală, despărțit în mod brutal de trecut, căruia să i se construiască o altă identitate, bazată pe ideologia de partid.</pre>
+
+<code><a style='font-weight:bold' href='#24' id='eugen_negriei_literatura_romana_sub_comunism'>Eugen Negriei, <i>Literatura română sub comunism</i></a></code>
+
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
+
+1. Indică sensul din text al structurii <i>ea putea să facă vizibile excesele</i>.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+2. Menționează patru curente literare blamate de regimul comunist.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+3. Precizează o modalitate prin care au fost pedepsiți opozanții regimului comunist.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+4. Explică scopul literaturii proletare, așa cum reiese din finalul textului.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+5. Prezintă, în 30-50 de cuvinte, semnificația secvenței: <i>Ideea transformării literaturii în instrument propagandistic și manipulator de conștiințe îi aparține lui Lenin și descendenților săi, având ca scop fundamentarea unei dictaturi depline, imbatabile, ce va controla fiecare segment al existenței, pornind de la cel intim, familial și până la cel socio-cultural.</i><span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă un regim totalitar poate sau nu influența segmentele existenței, de la cel familial, la cel socio-cultural, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
+
+În redactarea textului, vei avea în vedere următoarele repere:
+
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
+
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
+
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul al II-lea<span style = 'float:right'>(10 puncte)</span></p> 
+
+<b>Comentează, în minimum 50 de cuvinte, textul poetic citat, evidențiind două trăsături ale modernismului.</b>
+
+<div style='width: 700px;overflow:auto;margin-left:auto;margin-right:auto'><pre class='border'><div style='padding-left:70px;padding-right:70px;'><i>Aramă grea ca vinul - părul, sprâncenele ușor piezișe, o cută vertical pe frunte, vădind trecutul de restriște.
+Umeri mărunți, suflet de vară în bluza verde-albăstrie, ce sub solarele incendii a devenit stins-cenușie.
+Ținut e totul sub surdină, inelul doar clipește când frămânți atâtea-n încăperea unei simțiri și-a unui gând.
+Îți zboarâ-n mână porumbelul, ți se supune duh și-argilă.
+Culorile îți stau în slujbă, carmin și scrum de clorofilă. [...]
+Culori am pentru ce se vede și pentru ce mai e veșmânt.
+Culorile le iau din apă, din dulci otrăvuri și din vânt.
+Doar pentru cele ce-s adaos venind din sfânta ta planetă culori eu n-am în graiul lumii și nici uleiuri pe paletă.</i></pre></div> 
+
+<code><a style='font-weight:bold' href='#25' id='lucian_blaga_portret'>Lucian Blaga, <i>Portret</i></a></code>
+
+<b>Notă!</b>
+
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare - 1 punct; logica înlănțuirii ideilor - 1 punct; ortografia -1 punct; punctuația - 1 punct)
+
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
+
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul al III-lea<span style = 'float:right'>(30 de puncte)</span></p>
+
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți relația dintre incipit și final într-un text narativ studiat, la alegere.</b>
+
+În elaborarea eseului, vei avea în vedere următoarele repere:
+
+- prezentarea a două componente de structură și/ sau de compoziție a romanului pentru care ai optat (de exemplu: temă, viziune despre lume, construcția subiectului, particularități ale compoziției, perspectivă narativă, tehnici narative, secvență narativă, episod, relații temporale și spațiale, personaj, modalități de caracterizare a personajului etc.);
+- ilustrarea trăsăturilor incipitului, prin referire la textul narativ ales;
+- comentarea particularităților construcției finalului în textul narativ ales.
+
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere - 1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**în vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
-
-
-**Subiectul I(50 de puncte) Citește următorul fragment:**
-
-*Etapa stalinismului integral (1948-1953)*
-
-*în prima etapă se declanșează lupta împotriva „culturii în putrefacție" cum era numită moștenirea civilizației europene occidentale. Din cauza impactului mediatic asupra maselor și pentru că ea putea să facă vizibile excesele, prima a fost vizată presa. La 12 februarie 1945 era publicată în „Monitorul Oficial" I Legea 1021, Decret-lege pentru epurarea presei, care lovea direct în publicațiile partidelor democratice.*
-
-*Apoi apar liste interdicționale de cărți și publicații scoase din circulație prin Decretul din mai 1945. [...]*
-
-*Dispar, astfel, din librării, din biblioteci publice și chiar din case, cărți semnate de Vasile Alecsandri, Grigore Alexandrescu, Ion Agârbiceanu, Dimitrie Anghel, Nicolae Bălcescu, Lucian Blaga, Al. Brătescu-Voinești, Dimitrie Bolintineanu, Dimitrie Cantemir, Mihai Eminescu [...] și de mulți, mulți alții. [...] Din ianuarie 1948, numele lui Tudor Arghezi însuși este scos din literatură, iar volumul „Una sută poeme" - retras și confiscat. „Vânătoarea de cărți" este urmată de „vânătoarea de oameni", întrucât mulți dintre intelectuali, alături de opozanți din toate categoriile sociale, vor fi întemnițați, așa cum mulți încearcă să părăsească țara.*
-
-*Cuvântul de ordine este un ghid intitulat „Pentru realismul socialist în cultură și artă", tipărit în 1951, conceput și tipărit la Kremlin.*
-
-*în spiritul acestui program, sunt etichetate drept „snoabe", „mistice", „descompuse", „dezumanizate", „degenerate", „morbide", „iraționale", „retrograde", „putrede" și mai ales „decadente" creații ale marii literaturi românești interbelice, toate creațiile simboliste, ermetice, suprarealiste, naturaliste, expresioniste, dadaiste etc.*
-
-*Această etapă este considerată definitorie pentru conturarea mentalității comuniste și a scopurilor atribuite literaturii și scriitorului, deoarece ea conține principalele locuri comune ale proletcultismului.*
-
-*Ideea transformării literaturii în instrument propagandistic și manipulator de conștiințe îi aparține lui Lenin și descendenților săi, având ca scop fundamentarea unei dictaturi depline, imbatabile, ce va controla fiecare segment al existenței, pornind de la cel intim, familial și până la cel socio-cultural.*
-
-*Această epocă literară a fost circumscrisă unei terminologii extrem de variate (literatură proletară, literatură militantă, realism socialist, umanism socialist, revoluție culturală proletară etc.) care desemnează, în fond, aceleași aspecte definitorii: uniformizare, conformism, promovare a non valorilor, cenzură, mimetism doctrinar, cultul conducătorului, tipologiile alb-negru, conflicte rezolvate în sensul dorit de partid, învingător fiind, întotdeauna, reprezentantul clasei muncitoare, descris în culori luminoase, învins și supus oprobriului exponentul clasei exploatatoare etc. Scopul era fabricarea „omului nou", lipsit de memorie culturală, despărțit în mod brutal de trecut, căruia să i se construiască o altă identitate, bazată pe ideologia de partid.*
-
-Eugen Negriei, *Literatura română sub comunism*
-
-1. **Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
-1. Indică sensul din text al structurii *ea putea să facă vizibile excesele.*	**6 puncte**
-1. Menționează patru curente literare blamate de regimul comunist.	**6 puncte**
-1. Precizează o modalitate prin care au fost pedepsiți opozanții regimului comunist.	**6 puncte**
-1. Explică scopul literaturii proletare, așa cum reiese din finalul textului.	**6 puncte**
-1. Prezintă, în 30-50 de cuvinte, semnificația secvenței: *Ideea transformării literaturii în instrument propagandistic și*
-
-*manipulator de conștiințe îi aparține lui Lenin și descendenților săi, având ca scop fundamentarea unei dictaturi depline, imbatabile, ce va controla fiecare segment al existenței, pornind de la cel intim, familial și până la cel socio-cultural.*	**6 puncte**
-
-1. **Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă un regim totalitar poate sau**
-
-**nu influența segmentele existenței, de la cel familial, la cel socio-cultural, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.	20 de puncte**
-
-în redactarea textului, vei avea în vedere următoarele repere:
-
-- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
-
-argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
-
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
-
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
-
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
 
-**Subiectul al ll-lea(10 puncte) Comentează, în minimum 50 de cuvinte, textul poetic citat, evidențiind două trăsături ale modernismului.**
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul I<span style = 'float:right'>(50 de puncte)</span></p>
 
-*Aramă grea ca vinul - părul, sprâncenele ușor piezișe, o cută vertical pe frunte, vădind trecutul de restriște.*
+<b>Citește următorul fragment:</b>
 
-*Umeri mărunți, suflet de vară în bluza verde-albăstrie, ce sub solarele incendii a devenit stins-cenușie.*
+<pre class='border'><i>&emsp;&emsp;&emsp;Este o plăcere să-l citești pe Livius Ciorcârlie în „Paradisul derizoriu“, „De la Sancho Panza /a Cavalerul Tristei Figuri", „...pe mine să nu contați", „Viața în paranteză", „Bătrânețe și moarte în mileniul trei sau mai nou", „La foc mărunt", publicat recent de Cartea Românească. [...]
+&emsp;&emsp;&emsp;Sceptic, dar fără pretenția de a deține adevărul, tentație căreia i-au cedat mulți dintre scriitorii noștri ajunși la „maturitate", Livius Ciocârlie povestește despre iluziile tinereții, cărora le-a cedat tocmai pentru a și le consuma, progresiv, după propriile mărturisiri: „La cincisprezece, șaisprezece ani, fiindcă reușeam să scriu versuri cu rimă si măsură, ca Eminescu și Coșbuc, m-am crezut poet. Ca atare, am scris versuri cât timp a durat această iluzie naivă '.. După aceea, înțelegând ce-i cu poezia, am renunțat. Au început să-mi vină idei. Am construit un sistem. M-am crezut filosof... Acum, dacă mai scriu, este ca să-mi umplu timpul, să zic că fac și eu ceva".
+&emsp;&emsp;&emsp;Cu timpul iluziile se consumă, exaltarea dispare și lasă locul scepticismului. Nu este însă vorba de un scepticism natural, ci de unul câștigat prin devenire, prin pierderea treptată a iluziilor, proces în urma căruia ajungi să fii sincer cu tine însuți, adică să îi dai ocazia supraeului „să-l evalueze, necruțător, cum îi stă în fire, pe bietul eu". Așadar, cel care-ți dă avizul pentru iluziile necesare supraviețuirii, într-o lume în care sinceritatea nu contează prea mult, este supraeul. Și discuția despre iluzii și sinceritate continuă.
 
-*Ținut e totul sub surdină, inelul doar clipește când frămânți atâtea-n încăperea unei simțiri și-a unui gând.*
+&emsp;&emsp;&emsp;O lecție despre identitate
 
-*îți zboarâ-n mână porumbelul, ți se supune duh și-argilă.*
+&emsp;&emsp;&emsp;Problema sincerității este abordată și în planul jurnalului, una dintre preocupările permanente ale lui Livius Ciocârlie, care încearcă să afle câtă ficțiune și nonficțiune se află într-o astfel de scriere, până unde poate fi urmărit autorul în interiorul operei și în afara ei, care este acea zonă în care cititorul nu mai are acces. Un singur lucru pare a fi sigur în legătură cu jurnalul: dacă este publicat în timpul vieții, „problema sincerității nu se pune". „De ce nu e sincer până la capăt scriitorul de jurnal?", se întreabă Ciocârlie. Și tot el răspunde că e o chestiune de bun-simț, pentru că sinceritatea nu e deloc agreabilă atunci când este descrisă în afara operei. Jurnalele au însă puterea de a scoate la iveală ceea ce scriitorul nu ar fi spus niciodată în operă despre sine.
+&emsp;&emsp;&emsp;În ceea ce privește singurătatea: „Nu e destul să nu fie nimeni cu tine ca să fii singur. Mai trebuie să reduci la tăcere diversele voci care pălăvrăgesc în tine, deodată sau pe rând”, scrie Livius Ciorcârlie care filosofează pe marginea ideii Ludmilei Ulițkaia, potrivit căreia nu există niciun eu ca întreg, ci doar imagini culese pe drum, o grămadă de fragmente neomogenă. Și încheie cu umor această primă discuție despre identitate și despre lupta scriitorului cu eurile sale: „Când nu scriu și sunt singur, negociez cu mine însumi, ca Bulă în bancul în care zice, privindu-se în oglindă: Să mă ia dracu’, Bulă, dacă-ți mai spun eu ție vreodată ceva!".
+&emsp;&emsp;&emsp;Nu știu dacă cu acest volum Livius Ciocârlie a reușit să ordoneze fragmentele, să împace gâlceava interioară care-l arată cititorilor tânăr, spiritual și într-o formă intelectuală de invidiat. „La foc mărunt" este o lecție despre identitate și despre curajul de a rămâne sincer până la capăt.</i></pre>
 
-*Culorile îți stau în slujbă, carmin și scrum de clorofilă. [...]*
+<code><a style='font-weight:bold' href='#26' id='bogdan_romaniuc_livius_ciocarlie_la_foc_marunt'>Bogdan Romaniuc, <i>Livius Ciocârlie, La foc mărunt</i></a></code>
 
-*Culori am pentru ce se vede și pentru ce mai e veșmânt.*
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 
-*Culorile le iau din apă, din dulci otrăvuri și din vânt.*
+1. Indică sensul din text al expresiei <i>au început sa-mi vină idei</i>.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
+2. Menționează două preocupări ale lui lui Livius Ciocârlie în timpul tinereții.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+3. Precizează numele a două personalități culturale la care se face referire în text.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
+4. Explică, pe baza textului, care este opinia scriitorului despre singurătate.<span style='background-color:yellow;float:right;font-weight:bold'>6	puncte</span>
+5. Prezintă, în 30-50 de cuvinte, semnificația secvenței <i>„De ce nu e sincer până la capăt scriitorul de jurnal?", se
+întreabă Ciocârlie. Și tot el răspunde că e o chestiune de bun-simț, pentru că sinceritatea nu e deloc agreabilă atunci când este descrisă în afara operei. Jurnalele au însă puterea de a scoate la iveală ceea ce scriitorul nu ar fi spus niciodată în operă despre sine.</i><span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-*Doar pentru cele ce-s adaos venind din sfânta ta planetă culori eu n-am în graiul lumii și nici uleiuri pe paletă.*
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă sinceritatea este sau nu o condiție a scrierii unui jurnal, raportându-te atât la informațiile din textul citat, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-Lucian Blaga, *Portret*
+În redactarea textului, vei avea în vedere următoarele repere:
+
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
+
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
+
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul al II-lea<span style = 'float:right'>(10 puncte)</span></p>
+
+<b>Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind rolul stilistic al interogațiilor retorice:</b>
+
+<pre class='border'><i>&emsp;&emsp;&emsp;Cu toate că era după-amiază, în minte îmi veni acum că în ziua aceea parcă răsărise soarele. De fapt, era gata să apună. Ce se întâmplase? începea viața mea? în orice caz, era ca și când aș fi deschis pentru întâia oară ochii. Mă trezeam cântând. „Mă, Căline, zicea meșterul, mai taci din gură, că dacă îi dai înainte așa, o s-o faci pe fata aia care se uită la tine de trei zile să cadă jos de la fereastră!” „Care fată, meștere?” „Uite, aia de colo, de la mansardă.” Si ca să nu râdă de mine, mi-am spus că nu trebuie să ridic fruntea și să nu mă uit nicăieri și mai ales să nu mă opresc din cântat. [...]
+&emsp;&emsp;&emsp;Eram pe turla unei biserici de pe strada Armenească, nu știu dacă chiar biserica Armenească, după nume. [...]
+&emsp;&emsp;&emsp;„De trei zile stă acolo și-i mai arde și de cântat. Nici nu pot măcar să mă uit la el.” Asta era o voce de femeie printre puținele din viață pe care n-am să le uit niciodată, vreau să spun puținele laude care mi-au fost aduse când mi-am dat și eu seama că ceea ce pentru mine nu era nicio ispravă, să merg pe înălțimea aceea înclinată, pentru alții era până și greu de privit, în timp ce eu într-adevăr nu mai băgăm de seamă și îmi ardea de cântat. „Eu cred că alta e explicația, ăsta e felul lui de a-i face curte fetei de colea de la mansardă, stă la fereastră și se uită la el de când am venit eu.”Asta era o voce de bărbat, mai groasă, se adresa vocii de femeie...</i></pre>
+
+<code><a style='font-weight:bold' href='#27' id='marin_preda_intrusul'>Marin Preda, Intrusul</a></code>
 
 **Notă**
-
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
-
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
-
-**Subiectul al ill-lea(30 de puncte)**
-
-**Redactează un eseu de minimum 400 de cuvinte, în care să prezinți relația dintre incipit și final într-un text narativ studiat, la alegere.**
-
-în elaborarea eseului, vei avea în vedere următoarele repere:
-
-\- prezentarea a două componente de structură și/ sau de compoziție a romanului pentru care ai optat (de exemplu: temă, viziune despre lume, construcția subiectului, particularități ale compoziției, perspectivă narativă, tehnici narative, secvență narativă, episod, relații temporale și spațiale, personaj, modalități de caracterizare a personajului etc.);
-
-“ ilustrarea trăsăturilor incipitului, prin referire la textul narativ ales;
-
-~ comentarea particularităților construcției finalului în textul narativ ales.
-
-**Notă!**
-
-Ordinea integrării reperelor în cuprinsul eseului este la alegere.
-
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
-
-**In vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
-
-
-**Subiectul I(50 de puncte) Citește următorul fragment:**
-
-*Este o plăcere să-l citești pe Livius Ciorcârlie în „Paradisul derizoriu“, „De la Sancho Panza /a Cavalerul Tristei Figuri", „...pe mine să nu contați", „Viața în paranteză", „Bătrânețe și moarte în mileniul trei sau mai nou", „La foc mărunt", publicat recent de Cartea Românească. [...]*
-
-*Sceptic, dar fără pretenția de a deține adevărul, tentație căreia i-au cedat mulți dintre scriitorii noștri ajunși la „maturitate", Livius Ciocârlie povestește despre iluziile tinereții, cărora le-a cedat tocmai pentru a și le consuma, progresiv, după propriile mărturisiri: „La cincisprezece, șaisprezece ani, fiindcă reușeam să scriu versuri cu rimă si măsură, ca Eminescu și Coșbuc, m-am crezut poet. Ca atare, am scris versuri cât timp a durat această iluzie naivă '.. După aceea, înțelegând ce-i cu poezia, am renunțat. Au început să-mi vină idei. Am construit un sistem. M-am crezut filosof... Acum, dacă mai scriu, este ca să-mi umplu timpul, să zic că fac și eu ceva".*
-
-*Cu timpul iluziile se consumă, exaltarea dispare și lasă locul scepticismului. Nu este însă vorba de un scepticism natural, ci de unul câștigat prin devenire, prin pierderea treptată a iluziilor, proces în urma căruia ajungi să fii sincer cu tine însuți, adică să îi dai ocazia supraeului „să-l evalueze, necruțător, cum îi stă în fire, pe bietul eu". Așadar, cel care-ți dă avizul pentru iluziile necesare supraviețuirii, într-o lume în care sinceritatea nu contează prea mult, este supraeul. Și discuția despre iluzii și sinceritate continuă.*
-
-*O lecție despre identitate*
-
-*Problema sincerității este abordată și în planul jurnalului, una dintre preocupările permanente ale lui Livius Ciocârlie, care încearcă să afle câtă ficțiune și nonficțiune se află într-o astfel de scriere, până unde poate fi urmărit autorul în interiorul operei și în afara ei, care este acea zonă în care cititorul nu mai are acces. Un singur lucru pare a fi sigur în legătură cu jurnalul: dacă este publicat în timpul vieții, „problema sincerității nu se pune". „De ce nu e sincer până la capăt scriitorul de jurnal?", se întreabă Ciocârlie. Și tot el răspunde că e o chestiune de bun-simț, pentru că sinceritatea nu e deloc agreabilă atunci când este descrisă în afara operei. Jurnalele au însă puterea de a scoate la iveală ceea ce scriitorul nu ar fi spus niciodată în operă despre sine.*
-
-*în ceea ce privește singurătatea: „Nu e destul să nu fie nimeni cu tine ca să fii singur. Mai trebuie să reduci la tăcere diversele voci care pălăvrăgesc în tine, deodată sau pe rând”, scrie Livius Ciorcârlie care filosofează pe marginea ideii Ludmilei Ulițkaia, potrivit căreia nu există niciun eu ca întreg, ci doar imagini culese pe drum, o grămadă de fragmente neomogenă. Și încheie cu umor această primă discuție despre identitate și despre lupta scriitorului cu eurile sale: „Când nu scriu și sunt singur, negociez cu mine însumi, ca Bulă în bancul în care zice, privindu-se în oglindă: Să mă ia dracu’, Bulă, dacă-ți mai spun eu ție vreodată ceva!".*
-
-*Nu știu dacă cu acest volum Livius Ciocârlie a reușit să ordoneze fragmentele, să împace gâlceava interioară care-l arată cititorilor tânăr, spiritual și într-o formă intelectuală de invidiat. „La foc mărunt" este o lecție despre identitate și despre curajul de a rămâne sincer până la capăt.*
-
-Bogdan Romaniuc, *Livius Ciocârlie, La foc mărunt*
-
-**A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
-
-1. Indică sensul din text al expresiei *au început sa-mi vină idei.*	**6	puncte**
-1. Menționează două preocupări ale lui lui Livius Ciocârlie în timpul tinereții.	**6	puncte**
-1. Precizează numele a două personalități culturale la care se face referire în text.	**6	puncte**
-1. Explică, pe baza textului, care este opinia scriitorului despre singurătate.	**6	puncte**
-1. Prezintă, în 30-50 de cuvinte, semnificația secvenței *„De ce nu e sincer până la capăt scriitorul de jurnal?", se*
-
-*întreabă Ciocârlie. Și tot el răspunde că e o chestiune de bun-simț, pentru că sinceritatea nu e deloc agreabilă atunci când este descrisă în afara operei. Jurnalele au însă puterea de a scoate la iveală ceea ce scriitorul nu ar fi spus niciodată în operă despre sine.*	**6 puncte**
-
-
-**g, Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă sinceritatea este sau nu o condiție a scrierii unui jurnal, raportându-te atât la informațiile din textul citat, cât și la experiența personală sau culturală.	20 de puncte**
-
-în redactarea textului, vei avea în vedere următoarele repere:
-
-\_ formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
-
-\_ utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
-
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
-
-**Subiectul al ll-lea(10 puncte)**
-
-**Comentează, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind rolul stilistic al interogațiilor retorice:**
-
-*Cu toate că era după-amiază, în minte îmi veni acum că în ziua aceea parcă răsărise soarele. De fapt, era gata să apună. Ce se întâmplase? începea viața mea? în orice caz, era ca și când aș fi deschis pentru întâia oară ochii. Mă trezeam cântând. „Mă, Căline, zicea meșterul, mai taci din gură, că dacă îi dai înainte așa, o s-o faci pe fata aia care se uită la tine de trei zile să cadă jos de la fereastră!” „Care fată, meștere?” „Uite, aia de colo, de la mansardă.” Si ca să nu râdă de mine, mi-am spus că nu trebuie să ridic fruntea și să nu mă uit nicăieri și mai ales să nu mă opresc din cântat. [...]*
-
-*Eram pe turla unei biserici de pe strada Armenească, nu știu dacă chiar biserica Armenească, după nume. [...]*
-
-*„De trei zile stă acolo și-i mai arde și de cântat. Nici nu pot măcar să mă uit la el.” Asta era o voce de femeie printre puținele din viață pe care n-am să le uit niciodată, vreau să spun puținele laude care mi-au fost aduse când mi-am dat și eu seama că ceea ce pentru mine nu era nicio ispravă, să merg pe înălțimea aceea înclinată, pentru alții era până și greu de privit, în timp ce eu într-adevăr nu mai băgăm de seamă și îmi ardea de cântat. „Eu cred că alta e explicația, ăsta e felul lui de a-i face curte fetei de colea de la mansardă, stă la fereastră și se uită la el de când am venit eu.”Asta era o voce de bărbat, mai groasă, se adresa vocii de femeie...*
-
-Marin Preda, *Intrusul* **Notă**
 
 Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
