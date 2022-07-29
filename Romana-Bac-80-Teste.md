@@ -5302,9 +5302,9 @@ Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pe
 
 <code><a style='font-weight:bold' href='#27' id='marin_preda_intrusul'>Marin Preda, Intrusul</a></code>
 
-**Notă**
+<b>Notă</b>
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
 **în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
 
