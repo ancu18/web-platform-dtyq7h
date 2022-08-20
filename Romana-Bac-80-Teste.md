@@ -5308,43 +5308,35 @@ Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei pr
 
 <b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-Subiectul al lll-lea (30 de puncte)
+Subiectul al III-lea (30 de puncte)
 
-**Redactează un eseu de minimum 400 de cuvinte despre ideologia promovată de revista *Dacia literară,* așa cum se reflectă aceasta într-o operă literară studiată.**
+<b>Redactează un eseu de minimum 400 de cuvinte despre ideologia promovată de revista <i>Dacia literară</i>, așa cum se reflectă aceasta într-o operă literară studiată.</b>
 
-In elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - descrierea contextului istoric în care a apărut revista Dacia literară;
-- prezentarea a două trăsături ale ideologiei literare promovate în studiul *Introducție;*
+- prezentarea a două trăsături ale ideologiei literare promovate în studiul <i>Introducție</i>;
 - stabilirea unei relații între ideile identificate în programul revistei și o operă literară studiată (text narativ sau text poetic).
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere - 1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**In vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul I**
+Subiectul I
 
-**Citește următorul fragment:**
+<b>Citește următorul fragment:</b>
 
 A patra iarnă (1986-1987)
 
-*[p.5] Nu înțeleg aceste ciclice valuri de crimă și absurditate ce se abat asupra societăților umane: cruzimile din circul roman, inchiziția, războaiele religioase, lagărele de exterminare, ale lui Hitler și Stalin: mai nou, revoluția culturală chineză, genocidul cambodgian, masacrele din Liban, atentatele teroriste de pretutindeni. Constat - nu fără oarecare rușine cărturărească - cum că majoritatea acestor stupide crime în masă își au sursa princeps în câțiva „gânditori" §/ politologi de sorginte quasi filozofică. Poporul, în momentele sale de nebunie (sau înnebunire), arde, ucide, dărâmă; dar nu poporul „organizează", științific sau teologic aceste holocausturi pentru care, numai după zece douăzeci de ani, nu găsim nicio scuză sau explicație. (Dar pe care le repetăm totuși, dovedind mereu și mereu că din Istorie, în afară de istorici, nimeni nu vrea și nu poate să învețe nimic.) Se pare (trebuie să admitem) că în fiecare om există un călău care doarme, [...] există un quantum de crime și monstruozități ce trebuie trăite, consumate și plătite [...] Până și cuvântul „dragoste" este mânjit de sânge - iar cuvintele „dreptate" și „libertate" sunt înarmate pană în dinți. [...] [p.6] îmi dau seama, tot mai des și mai dureros, că rezultatele experienței acestor caiete de „arpegii și solfegii" (le-aș fi dorit de „adagii și solilocvii”) în afară de exercițiul continuu de gândire, sinteze și autoanalize la care mă obligă, ca texte în sine, nu prezintă nicio valoare obiectivă de comunicare, nu sunt nici literatură (deși am citit că ar exista și o „literatură reflexivă”) și nici filozofie. Nici critică și nici meditație sau jurnal interior. Nici sociologie și nici măcar politică gazetărească. Dacă continui a mai scrie (scoțând din imaculatoarele de zi, acele sugestii sau idei* ce *mă îndeamnă să le rotunjesc și să le fixez în „insectarul” meu), se datorează gândului -jalnic, dar și reconfortant- că niciodată, într-un viitor previzibil, aceste nevinovate mărgele pe ață nu vor putea vedea lumina tiparului. Dacă vor avea șansa de a cădea sub ochiul avizat al unui cititor din viitorul mileniu, sper că acesta să fie suficient de înțelept și de informat spre a mă înțelege și ierta. [...]*
+<i>[p.5] Nu înțeleg aceste ciclice valuri de crimă și absurditate ce se abat asupra societăților umane: cruzimile din circul roman, inchiziția, războaiele religioase, lagărele de exterminare, ale lui Hitler și Stalin: mai nou, revoluția culturală chineză, genocidul cambodgian, masacrele din Liban, atentatele teroriste de pretutindeni. Constat - nu fără oarecare rușine cărturărească - cum că majoritatea acestor stupide crime în masă își au sursa princeps în câțiva „gânditori" §/ politologi de sorginte quasi filozofică. Poporul, în momentele sale de nebunie (sau înnebunire), arde, ucide, dărâmă; dar nu poporul „organizează", științific sau teologic aceste holocausturi pentru care, numai după zece douăzeci de ani, nu găsim nicio scuză sau explicație. (Dar pe care le repetăm totuși, dovedind mereu și mereu că din Istorie, în afară de istorici, nimeni nu vrea și nu poate să învețe nimic.) Se pare (trebuie să admitem) că în fiecare om există un călău care doarme, [...] există un quantum de crime și monstruozități ce trebuie trăite, consumate și plătite [...] Până și cuvântul „dragoste" este mânjit de sânge - iar cuvintele „dreptate" și „libertate" sunt înarmate pană în dinți. [...] [p.6] îmi dau seama, tot mai des și mai dureros, că rezultatele experienței acestor caiete de „arpegii și solfegii" (le-aș fi dorit de „adagii și solilocvii”) în afară de exercițiul continuu de gândire, sinteze și autoanalize la care mă obligă, ca texte în sine, nu prezintă nicio valoare obiectivă de comunicare, nu sunt nici literatură (deși am citit că ar exista și o „literatură reflexivă”) și nici filozofie. Nici critică și nici meditație sau jurnal interior. Nici sociologie și nici măcar politică gazetărească. Dacă continui a mai scrie (scoțând din imaculatoarele de zi, acele sugestii sau idei* ce *mă îndeamnă să le rotunjesc și să le fixez în „insectarul” meu), se datorează gândului -jalnic, dar și reconfortant- că niciodată, într-un viitor previzibil, aceste nevinovate mărgele pe ață nu vor putea vedea lumina tiparului. Dacă vor avea șansa de a cădea sub ochiul avizat al unui cititor din viitorul mileniu, sper că acesta să fie suficient de înțelept și de informat spre a mă înțelege și ierta. [...]
 
-*[p.8] Orice atac împotriva Culturii- indiferent cum și de unde vine - de-acum trebuie considerat un atac împotriva granițelor țării. [...]*
+[p.8] Orice atac împotriva Culturii- indiferent cum și de unde vine - de-acum trebuie considerat un atac împotriva granițelor țării. [...]
 
-*Dar am avut un Eminescu, Brâncuși, Blaga, Arghezi, Călinescu, Lovinescu, lorga, lonesco, Eliade...etc. Ei ne apără acum hotarele spirituale, ultimele noastre hotare. Ei ne apără și de dușmani, punându-și opera între neputința noastră, de acum, și acei barbari partizani ai pieirii noastre, pe banii noștri, cu forțele noastre, ducând, de câteva decenii cumplite, un război calculat și necruțător împotriva tuturor valorilor și instituțiilor noastre de spirit, valoare și cultură. [...] Sunt soldat, stau în tranșee, comandanții mei au murit sau au dezertat, eu stau și privesc dincolo de sârmele ghimpate, dincolo de ceața după care se ascunde dușmanul meu de moarte. Pe aici se mai poate trece, peste mine însă, nu!*
-
-**6 puncte**
-
-**6 puncte**
-
-**6 puncte**
-
-**6 puncte**
+Dar am avut un Eminescu, Brâncuși, Blaga, Arghezi, Călinescu, Lovinescu, lorga, lonesco, Eliade...etc. Ei ne apără acum hotarele spirituale, ultimele noastre hotare. Ei ne apără și de dușmani, punându-și opera între neputința noastră, de acum, și acei barbari partizani ai pieirii noastre, pe banii noștri, cu forțele noastre, ducând, de câteva decenii cumplite, un război calculat și necruțător împotriva tuturor valorilor și instituțiilor noastre de spirit, valoare și cultură. [...] Sunt soldat, stau în tranșee, comandanții mei au murit sau au dezertat, eu stau și privesc dincolo de sârmele ghimpate, dincolo de ceața după care se ascunde dușmanul meu de moarte. Pe aici se mai poate trece, peste mine însă, nu!</i>
 
 5. Prezintă, în 30-50 de cuvinte, semnificația secvenței *Ei ne apără acum hotarele spirituale, ultimele noastre hotare.*
 
