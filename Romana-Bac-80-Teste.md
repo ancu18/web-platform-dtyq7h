@@ -5338,133 +5338,119 @@ A patra iarnă (1986-1987)
 
 Dar am avut un Eminescu, Brâncuși, Blaga, Arghezi, Călinescu, Lovinescu, lorga, lonesco, Eliade...etc. Ei ne apără acum hotarele spirituale, ultimele noastre hotare. Ei ne apără și de dușmani, punându-și opera între neputința noastră, de acum, și acei barbari partizani ai pieirii noastre, pe banii noștri, cu forțele noastre, ducând, de câteva decenii cumplite, un război calculat și necruțător împotriva tuturor valorilor și instituțiilor noastre de spirit, valoare și cultură. [...] Sunt soldat, stau în tranșee, comandanții mei au murit sau au dezertat, eu stau și privesc dincolo de sârmele ghimpate, dincolo de ceața după care se ascunde dușmanul meu de moarte. Pe aici se mai poate trece, peste mine însă, nu!</i>
 
-5. Prezintă, în 30-50 de cuvinte, semnificația secvenței *Ei ne apără acum hotarele spirituale, ultimele noastre hotare.*
+5. Prezintă, în 30-50 de cuvinte, semnificația secvenței <i>Ei ne apără acum hotarele spirituale, ultimele noastre hotare.
+Ei ne apără și de dușmani, punându-și opera între neputința noastră, de acum, și acei barbari partizani ai pieirii noastre, pe banii noștri, cu forțele noastre, ducând, de câteva decenii cumplite, un război calculat și necruțător împotriva tuturor valorilor și instituțiilor noastre de spirit, valoare și cultură. [...]</i><span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-*Ei ne apără și de dușmani, punându-și opera între neputința noastră, de acum, și acei barbari partizani ai pieirii noastre, pe banii noștri, cu forțele noastre, ducând, de câteva decenii cumplite, un război calculat și necruțător împotriva tuturor valorilor și instituțiilor noastre de spirit, valoare și cultură. [...]*	**6 puncte**
+B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă artiștii unei țări îi pot oferi acesteia o individualitate culturală care să o ajute să-și păstreze identitatea națională în momente tulburi ale istoriei, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.<span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-2. **Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă artiștii unei țări îi pot oferi**
+În redactarea textului, vei avea în vedere următoarele repere:
 
-**acesteia o individualitate culturală care să o ajute să-și păstreze identitatea națională în momente tulburi ale istoriei, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.	20 de puncte**
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;	<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-în redactarea textului, vei avea în vedere următoarele repere:
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul al II-lea<span style = 'float:right'>(10 puncte)</span>
 
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
+<b>Comentează, în minimum 50 de cuvinte, semnificațiile fragmentului dat, evidențiind rolul stilistic al verbelor la imperativ în relație cu cele la indicativ prezent:</b>
 
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
+<i>Miroase iar a toamnă-n orașul nostru. Vino!
 
-**țn vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+Te-aștept în prag cu brațul împovărat de flori.
 
-**subiectul al ll-lea(10 puncte)**
+Sunt altul azi, mai simplu și mai tăcut. De mine S-au rupt acum toate mâhnirile ușor.
 
-**Comentează, în minimum 50 de cuvinte, semnificațiile fragmentului dat, evidențiind rolul stilistic al verbelor la imperativ în relație cu cele la indicativ prezent:**
+Și-n urma mea las astăzi stradelele senine
 
-*Miroase iar a toamnă-n orașul nostru. Vino!*
+Și gangurile calde, fără păreri de rău. întors aici, trecutul ivit din nou, nici bine
 
-*Te-aștept în prag cu brațul împovărat de flori.*
+De-acum n-o să-mi mai facă vreodată și nici rău.
 
-*Sunt altul azi, mai simplu și mai tăcut. De mine S-au rupt acum toate mâhnirile ușor.*
+Ci-n toată lumea asta străină și pustie Visez ca mai-nainte doar fața ta-n cerdac, îți caut cu jind<a id='a16' href='#f16'><sup>16</sup></a> în mintea-mi privirea-ți fumurie
 
-*Și-n urma mea las astăzi stradelele senine*
+Și parcă-n toamnă nu mă mai simt golit, sărac.
 
-*Și gangurile calde, fără păreri de rău. întors aici, trecutul ivit din nou, nici bine*
+Departe peste case fug nourii tovarăși Și-n zări se văd cocorii învăluiți de fum. Tristețea mă răsfață ca altădată iarăși, Ca altădată iarăși mă bucură acum.
 
-*De-acum n-o să-mi mai facă vreodată și nici rău.*
+Deci, fiindcă iar e toamnă-n orașul nostru, vino, Să vezi și tu cum pleacă triunghiul de cocori, Un altul azi, mai simplu și mai tăcut ca mine, Te-așteaptă-n prag cu brațul împovărat de flori.</i>
 
-*Ci-n toată lumea asta străină și pustie Visez ca mai-nainte doar fața ta-n cerdac, îți caut cu jind\* în mintea-mi privirea-ți fumurie*
+Radu Stanca, <i>Preludiu de toamnă</i>
 
-*Și parcă-n toamnă nu mă mai simt golit, sărac.*
+<a id='f16' href='#a16'>16.</a> jind - dorință
 
-*Departe peste case fug nourii tovarăși Și-n zări se văd cocorii învăluiți de fum. Tristețea mă răsfață ca altădată iarăși, Ca altădată iarăși mă bucură acum.*
+<b>Notă</b>
 
-*Deci, fiindcă iar e toamnă-n orașul nostru, vino, Să vezi și tu cum pleacă triunghiul de cocori, Un altul azi, mai simplu și mai tăcut ca mine, Te-așteaptă-n prag cu brațul împovărat de flori.*
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare - 1 punct; logica înlănțuirii ideilor - 1 punct; ortografia - 1 punct; punctuația - 1 punct)
 
-Radu Stanca, *Preludiu de toamnă*
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-*\*jind - dorință*
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul al III-lea<span style = 'float:right'>(30 de puncte)</span>
 
-**Notă**
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți relația dintre două personaje, așa cum apare într-un roman de Marin Preda.</b>
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
-
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
-
-**Subiectul al lll-lea(30 de puncte)**
-
-**Redactează un eseu de minimum 400 de cuvinte, în care să prezinți relația dintre două personaje, așa cum apare într-un roman de Marin Preda.**
-
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - prezentarea a două elemente ale textului narativ, semnificative pentru construcția personajelor alese (de exemplu: tema, perspectiva narativă, acțiune, conflict, relații temporale și spațiale, construcția subiectului, modalități de caracterizare, limbaj etc.);
 - evidențierea situației inițiale a celor două personaje, din perspectiva tipologiei în care se încadrează, a statutului lor psihologic, moral, social etc.;
 - relevarea trăsăturilor celor două personaje, semnificative pentru ilustrarea relațiilor, prin raportare la două episoade/ secvențe narative ale textului narativ ales.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru  <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere - 1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**In vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul I	(50 de punctg**
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul I<span style = 'float:right'>(50 de puncte)</span>
 
-**Citește următorul fragment:**
+<b>Citește următorul fragment:</b>
 
-*Am tradus până acum 112 cărți, deci pot spune că am creat 112 intimități. Nu pot traduce un scriitor până nu mi-/ însușesc. O fac printr-o lectură foarte atentă și prin încercarea mea de a gândi cu gândurile lui, de a simți cu sensibilitatea lui. Citesc în special noaptea - sunt noctambulă. E obligatoriu să-l înțelegi pe cel pe care îl traduci. Să-i pătrunzi nu numai textul, ci și subtextul. Scriitorul poate să îți placă sau nu. [...]*
+<i>Am tradus până acum 112 cărți, deci pot spune că am creat 112 intimități. Nu pot traduce un scriitor până nu mi-/ însușesc. O fac printr-o lectură foarte atentă și prin încercarea mea de a gândi cu gândurile lui, de a simți cu sensibilitatea lui. Citesc în special noaptea - sunt noctambulă. E obligatoriu să-l înțelegi pe cel pe care îl traduci. Să-i pătrunzi nu numai textul, ci și subtextul. Scriitorul poate să îți placă sau nu. [...]
 
-*Traduc mereu pe un fundal muzical. îmi creează o stare de bine, de tihnă. E o undă de frumos și am impresia* că *ceva din muzica pe care o ascult pătrunde în cuvintele pe care le scriu. Ascult și muzică hip-hop, Paraziții. Nu vreau să mă ancorez în trecut, să mă anchilozez.*
+Traduc mereu pe un fundal muzical. îmi creează o stare de bine, de tihnă. E o undă de frumos și am impresia că ceva din muzica pe care o ascult pătrunde în cuvintele pe care le scriu. Ascult și muzică hip-hop, Paraziții. Nu vreau să mă ancorez în trecut, să mă anchilozez.
 
-*Traduc de 56 de ani și scriu doar de mână.*
+Traduc de 56 de ani și scriu doar de mână.
 
-O *spun cu rușine în fața generației tinere. S-a creat un fel de intimitate între mine și hârtie, un fel de relație senzuală între cuvintele pe care le scriu sau cele pe care le tai. Am un computer, dar care stă și se uită la mine și, uneori, am impresia că râde în hohote când mă vede cum scriu de mână.*
+O spun cu rușine în fața generației tinere. S-a creat un fel de intimitate între mine și hârtie, un fel de relație senzuală între cuvintele pe care le scriu sau cele pe care le tai. Am un computer, dar care stă și se uită la mine și, uneori, am impresia că râde în hohote când mă vede cum scriu de mână.
 
-*Noaptea mi se întâmplă să mă gândesc la cuvinte sau să îmi vină o idee și să mă ridic din pat să o notez ca* să *n-o uit. Dar nu pot să spun că sunt o obsedată.*
+Noaptea mi se întâmplă să mă gândesc la cuvinte sau să îmi vină o idee și să mă ridic din pat să o notez ca să n-o uit. Dar nu pot să spun că sunt o obsedată.
 
-*După ce îmi apare o traducere, mi-e frică să o recitesc ca să nu am o reacție de tipul: „Vai de mine ce stupidă am fost, cum am putut să scriu asta!’’ Dintr-un instinct de apărare nu le recitesc.*
+După ce îmi apare o traducere, mi-e frică să o recitesc ca să nu am o reacție de tipul: „Vai de mine ce stupidă am fost, cum am putut să scriu asta!’’ Dintr-un instinct de apărare nu le recitesc.
 
-*A traduce, pentru mine, este o pasiune. Sunt și rebusistă, îmi place să dezleg și cuvinte încrucișate, și asta îmi ascute mintea, cred.*
+A traduce, pentru mine, este o pasiune. Sunt și rebusistă, îmi place să dezleg și cuvinte încrucișate, și asta îmi ascute mintea, cred.
 
-*O traducere e o enigmă pe care o dezlegi.*
+O traducere e o enigmă pe care o dezlegi.
 
-*Când reușești să transpui ce a vrut scriitorul, dar cu cuvintele tale, care să-i meargă la inimă cititorului, ai o satisfacție colosală. De pildă, când am tradus „Spre far" de Virginia Woolf, am plecat într-o vacanță la Mangalia și în fiecare zi făceam drumul până la far, pur și simplu ca să ascult muzica valurilor, să pot să o redau în ce scriam.*
+Când reușești să transpui ce a vrut scriitorul, dar cu cuvintele tale, care să-i meargă la inimă cititorului, ai o satisfacție colosală. De pildă, când am tradus „Spre far" de Virginia Woolf, am plecat într-o vacanță la Mangalia și în fiecare zi făceam drumul până la far, pur și simplu ca să ascult muzica valurilor, să pot să o redau în ce scriam.
 
-*într-o traducere, totul este autorul. Dar pe autor îl filtrez, îl transpun prin puterea mea de înțelegere și de exprimare. Eu sunt vioara a doua. De multe ori mă socotesc un fel de alter ego al scriitorului, cu care încerc totuși să fiu în relații bune, chiar dacă e mort, dacă e fantomă.*
+Într-o traducere, totul este autorul. Dar pe autor îl filtrez, îl transpun prin puterea mea de înțelegere și de exprimare. Eu sunt vioara a doua. De multe ori mă socotesc un fel de alter ego al scriitorului, cu care încerc totuși să fiu în relații bune, chiar dacă e mort, dacă e fantomă.
 
-*Am fost prietenă timp de 25 de ani cu scriitoarea britanică Iris Murdoch. Iar „Marea, marea" mi se pare una dintre cele mai reușite traduceri ale mele pentru că am făcut-o din dragoste pentru Iris Murdoch și pentru cărțile ei. Dar niciodată nu am vorbit cu ea despre traducere. Murdoch emana în momentul când am cunoscut-o, într-o cârciumioară englezească, o simplitate fantastică și căldură umană. Odată, într-un pub, a început să-i pună întrebări unui tânăr străin care stătea lângă masa noastră. A început cu întrebări domoale și, până la urmă, l-a făcut să-și povestească întreaga viață. M-a făcut să mă gândesc că, de fapt, așa se scriu cărțile, cu frânturi din viața adevărată.*
+Am fost prietenă timp de 25 de ani cu scriitoarea britanică Iris Murdoch. Iar „Marea, marea" mi se pare una dintre cele mai reușite traduceri ale mele pentru că am făcut-o din dragoste pentru Iris Murdoch și pentru cărțile ei. Dar niciodată nu am vorbit cu ea despre traducere. Murdoch emana în momentul când am cunoscut-o, într-o cârciumioară englezească, o simplitate fantastică și căldură umană. Odată, într-un pub, a început să-i pună întrebări unui tânăr străin care stătea lângă masa noastră. A început cu întrebări domoale și, până la urmă, l-a făcut să-și povestească întreaga viață. M-a făcut să mă gândesc că, de fapt, așa se scriu cărțile, cu frânturi din viața adevărată.</i>
 
-Text apărut în *Adevărul literar și artistic,* iunie 2010, sub formă de interviu-colaj realizat de Ana-Maria Onisei cu Antoaneta Ralian
+Text apărut în <i>Adevărul literar și artistic</i>, iunie 2010, sub formă de interviu-colaj realizat de Ana-Maria Onisei cu Antoaneta Ralian
 
-1. **Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
-1. Indică sensul structurii *să-i meargă la inimă,* raportându-te la text.	**6 puncte**
-1. Menționează, pe baza textului, două acțiuni întreprinse de autoare pentru a realiza o traducere cât mai fidelă.
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
+1. Indică sensul structurii <i>să-i meargă la inimă</i>, raportându-te la text.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+2. Menționează, pe baza textului, două acțiuni întreprinse de autoare pentru a realiza o traducere cât mai fidelă.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+3. Precizează motivul pentru care îi este teamă Antoanetei Ralian să recitească o traducere.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+4. Explică ce efect are muzica asupra traducătoarei.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+5. Prezintă, în 30-50 de cuvinte, semnificația secvenței: <i>Eu sunt vioara a doua. De multe ori mă socotesc un fel de alter ego al scriitorului, cu care încerc totuși să fiu în relații bune, chiar dacă e mort, dacă e fantomă.</i><span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-**6 puncte**
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă munca de traducere a unei cărți duce la crearea unei relații speciale între autor și traducător, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-1. Precizează motivul pentru care îi este teamă Antoanetei Ralian să recitească o traducere.	**6 puncte**
-1. Explică ce efect are muzica asupra traducătoarei.	**6 puncte**
-1. Prezintă, în 30-50 de cuvinte, semnificația secvenței: *Eu sunt vioara a doua. De multe ori mă socotesc un fel de alter ego al scriitorului, cu care încerc totuși să fiu în relații bune, chiar dacă e mort, dacă e fantomă.* **6 puncte**
-1. **Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă munca de traducere a unei**
+În redactarea textului, vei avea în vedere următoarele repere:
 
-**cărți duce la crearea unei relații speciale între autor și traducător, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.	20 de puncte**
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-în redactarea textului, vei avea în vedere următoarele repere:
+- utilizata corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul al II-lea<span style = 'float:right'>(10 puncte)</span>
 
-- utilizata corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
-
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
-
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
-
-
-**Subiectul al ll-lea(10 puncte) prezintă, în minimum 50 de cuvinte, trăsăturile personajului principal din text, precizând două mijloace de caracterizare folosite.**
+<b>Prezintă, în minimum 50 de cuvinte, trăsăturile personajului principal din text, precizând două mijloace de caracterizare folosite.</b>
 
 Actul II
 
@@ -5472,45 +5458,47 @@ La curtea domnească
 
 Scena I
 
-(Sala tronului, Țepeș pe tron, îmbrăcat de gală. în cap căciuliță încinsă cu pietre scumpe și surgiuc\*.)
+(Sala tronului, Țepeș pe tron, îmbrăcat de gală. în cap căciuliță încinsă cu pietre scumpe și surgiuc<a id='a17' href='#f17'><sup>17</sup></a>.)
 
-PICTORUL (după ce și-a amestecat niște culori pe șevalet): *încă puțin... Oleacă mai la dreapta... Uitați-vă aici.* (Arată cu degetul undeva în spate. Pictând) *Aveți o fire foarte neliniștită, alteță. Un cap greu de prins...*
+PICTORUL (după ce și-a amestecat niște culori pe șevalet): <i>Încă puțin... Oleacă mai la dreapta... Uitați-vă aici.</i> (Arată cu degetul undeva în spate. Pictând) <i>Aveți o fire foarte neliniștită, alteță. Un cap greu de prins...</i>
 
-TEPEȘ (mustăcind): *Așa se plâng mai mulți...*
+TEPEȘ (mustăcind): <i>Așa se plâng mai mulți...</i>
 
-PICTORUL: *Să nu clipiți, expresia ochilor Măriei-tale are ceva de groază... Pot să vorbesc deschis? Mi-e cam frică să vă cat în ochi... Prea mari...*
+PICTORUL: <i>Să nu clipiți, expresia ochilor Măriei-tale are ceva de groază... Pot să vorbesc deschis? Mi-e cam frică să vă cat în ochi... Prea mari...</i>
 
-TEPEȘ: *Se măresc la acru și la vorba dulce...*
+TEPEȘ: <i>Se măresc la acru și la vorba dulce...</i>
 
-PICTORUL: *Nuanța asta măslinie a pielii n-am putut s-o redau decât cu o culoare de pământ de prin părțile astea... Poate de aici vine și porecla stirpei\* Măriei voastre? „II diavolo”.*
+PICTORUL: <i>Nuanța asta măslinie a pielii n-am putut s-o redau decât cu o culoare de pământ de prin părțile astea... Poate de aici vine și porecla stirpei<a id='a18' href='#f18'><sup>18</sup></a> Măriei voastre? „II diavolo”.</i>
 
-TEPEȘ (gonește cu mâna o gâză): *Am voie să prind licurici? Eu dacă stau un moment fără... să-nhaț o lighioană, înseamnă c-am lâncezit\*... Să nu mă pui rânced\* pe pânză...*
+TEPEȘ (gonește cu mâna o gâză): <i>Am voie să prind licurici? Eu dacă stau un moment fără... să-nhaț o lighioană, înseamnă c-am lâncezit<a id='a19' href='#f19'><sup>19</sup></a>... Să nu mă pui rânced<a id='a20' href='#f20'><sup>20</sup></a> pe pânză...</i>
 
-PICTORUL (râde): *Vă place vorba cu două tăișuri. Tot așa și prea luminatul Mahomed, cel mai mare cuceritor al lumii... în paranteză fie spus, pe mine nu m-a cucerit, l-am executat un portret care se află acum agățat în cabinetul său la Constantinopole... Poate o să aveți prilej să-l vedeți...*
+PICTORUL (râde): <i>Vă place vorba cu două tăișuri. Tot așa și prea luminatul Mahomed, cel mai mare cuceritor al lumii... în paranteză fie spus, pe mine nu m-a cucerit, l-am executat un portret care se află acum agățat în cabinetul său la Constantinopole... Poate o să aveți prilej să-l vedeți...</i>
 
-ȚEPEȘ: *îmi pare rău că n-am să pot face un drum până acolo...*
+ȚEPEȘ: <i>Îmi pare rău că n-am să pot face un drum până acolo...</i>
 
-PICTORUL (taină): *Mă tem c-o să vină el să-l vadă pe-al Măriei-tale.*
+PICTORUL (taină): <i>Mă tem c-o să vină el să-l vadă pe-al Măriei-tale.</i>
 
-ȚEPEȘ: *Merită osteneala?*
+ȚEPEȘ: <i>Merită osteneala?</i>
 
-PICTORUL (râzând): *E tare curios... și mare amator de capete... în ulei.*
+PICTORUL (râzând): <i>E tare curios... și mare amator de capete... în ulei.</i>
 
-Marin Sorescu, *A treia țeapă ★surgiuc - panaș din pene (de struț) împodobit cu pene scumpe, purtat la turban sau la ișlic de sultani, de înalți ★demnitari turci sau de unii domni români*
+Marin Sorescu, <i>A treia țeapă</i> 
 
-*★stirpe - neam, familie, origine*
+<a id='f17' href='#a17'>17.</a> surgiuc - panaș din pene (de struț) împodobit cu pene scumpe, purtat la turban sau la ișlic de sultani, de înalți demnitari turci sau de unii domni români
 
-*★lâncezi - a fi cuprins de moleșeală*
+<a id='f18' href='#a18'>18.</a> stirpe - neam, familie, origine
 
-*★rânced - stricat, alterat, fără putere (aici)*
+<a id='f19' href='#a19'>19.</a> lâncezi - a fi cuprins de moleșeală*
 
-**Notă**
+<a id='f20' href='#a20'>20.</a> rânced - stricat, alterat, fără putere (aici)
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+<b>Notă</b>
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-**Subiectul al lll-lea(30 de puncte)**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
+
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul al III-lea (30 de puncte)**
 
 **Redactează un eseu de minimum 400 de cuvinte, în care să prezinți particularitățile de construcție a unui personaj într-un roman al experienței.**
 
