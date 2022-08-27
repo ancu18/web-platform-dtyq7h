@@ -5330,13 +5330,13 @@ Subiectul I
 
 <b>Citește următorul fragment:</b>
 
-A patra iarnă (1986-1987)
+<pre class='border'><i>A patra iarnă (1986-1987)
 
-<i>[p.5] Nu înțeleg aceste ciclice valuri de crimă și absurditate ce se abat asupra societăților umane: cruzimile din circul roman, inchiziția, războaiele religioase, lagărele de exterminare, ale lui Hitler și Stalin: mai nou, revoluția culturală chineză, genocidul cambodgian, masacrele din Liban, atentatele teroriste de pretutindeni. Constat - nu fără oarecare rușine cărturărească - cum că majoritatea acestor stupide crime în masă își au sursa princeps în câțiva „gânditori" §/ politologi de sorginte quasi filozofică. Poporul, în momentele sale de nebunie (sau înnebunire), arde, ucide, dărâmă; dar nu poporul „organizează", științific sau teologic aceste holocausturi pentru care, numai după zece douăzeci de ani, nu găsim nicio scuză sau explicație. (Dar pe care le repetăm totuși, dovedind mereu și mereu că din Istorie, în afară de istorici, nimeni nu vrea și nu poate să învețe nimic.) Se pare (trebuie să admitem) că în fiecare om există un călău care doarme, [...] există un quantum de crime și monstruozități ce trebuie trăite, consumate și plătite [...] Până și cuvântul „dragoste" este mânjit de sânge - iar cuvintele „dreptate" și „libertate" sunt înarmate pană în dinți. [...] [p.6] îmi dau seama, tot mai des și mai dureros, că rezultatele experienței acestor caiete de „arpegii și solfegii" (le-aș fi dorit de „adagii și solilocvii”) în afară de exercițiul continuu de gândire, sinteze și autoanalize la care mă obligă, ca texte în sine, nu prezintă nicio valoare obiectivă de comunicare, nu sunt nici literatură (deși am citit că ar exista și o „literatură reflexivă”) și nici filozofie. Nici critică și nici meditație sau jurnal interior. Nici sociologie și nici măcar politică gazetărească. Dacă continui a mai scrie (scoțând din imaculatoarele de zi, acele sugestii sau idei* ce *mă îndeamnă să le rotunjesc și să le fixez în „insectarul” meu), se datorează gândului -jalnic, dar și reconfortant- că niciodată, într-un viitor previzibil, aceste nevinovate mărgele pe ață nu vor putea vedea lumina tiparului. Dacă vor avea șansa de a cădea sub ochiul avizat al unui cititor din viitorul mileniu, sper că acesta să fie suficient de înțelept și de informat spre a mă înțelege și ierta. [...]
+[p.5] Nu înțeleg aceste ciclice valuri de crimă și absurditate ce se abat asupra societăților umane: cruzimile din circul roman, inchiziția, războaiele religioase, lagărele de exterminare, ale lui Hitler și Stalin: mai nou, revoluția culturală chineză, genocidul cambodgian, masacrele din Liban, atentatele teroriste de pretutindeni. Constat - nu fără oarecare rușine cărturărească - cum că majoritatea acestor stupide crime în masă își au sursa princeps în câțiva „gânditori" §/ politologi de sorginte quasi filozofică. Poporul, în momentele sale de nebunie (sau înnebunire), arde, ucide, dărâmă; dar nu poporul „organizează", științific sau teologic aceste holocausturi pentru care, numai după zece douăzeci de ani, nu găsim nicio scuză sau explicație. (Dar pe care le repetăm totuși, dovedind mereu și mereu că din Istorie, în afară de istorici, nimeni nu vrea și nu poate să învețe nimic.) Se pare (trebuie să admitem) că în fiecare om există un călău care doarme, [...] există un quantum de crime și monstruozități ce trebuie trăite, consumate și plătite [...] Până și cuvântul „dragoste" este mânjit de sânge - iar cuvintele „dreptate" și „libertate" sunt înarmate pană în dinți. [...] [p.6] îmi dau seama, tot mai des și mai dureros, că rezultatele experienței acestor caiete de „arpegii și solfegii" (le-aș fi dorit de „adagii și solilocvii”) în afară de exercițiul continuu de gândire, sinteze și autoanalize la care mă obligă, ca texte în sine, nu prezintă nicio valoare obiectivă de comunicare, nu sunt nici literatură (deși am citit că ar exista și o „literatură reflexivă”) și nici filozofie. Nici critică și nici meditație sau jurnal interior. Nici sociologie și nici măcar politică gazetărească. Dacă continui a mai scrie (scoțând din imaculatoarele de zi, acele sugestii sau idei* ce *mă îndeamnă să le rotunjesc și să le fixez în „insectarul” meu), se datorează gândului -jalnic, dar și reconfortant- că niciodată, într-un viitor previzibil, aceste nevinovate mărgele pe ață nu vor putea vedea lumina tiparului. Dacă vor avea șansa de a cădea sub ochiul avizat al unui cititor din viitorul mileniu, sper că acesta să fie suficient de înțelept și de informat spre a mă înțelege și ierta. [...]
 
 [p.8] Orice atac împotriva Culturii- indiferent cum și de unde vine - de-acum trebuie considerat un atac împotriva granițelor țării. [...]
 
-Dar am avut un Eminescu, Brâncuși, Blaga, Arghezi, Călinescu, Lovinescu, lorga, lonesco, Eliade...etc. Ei ne apără acum hotarele spirituale, ultimele noastre hotare. Ei ne apără și de dușmani, punându-și opera între neputința noastră, de acum, și acei barbari partizani ai pieirii noastre, pe banii noștri, cu forțele noastre, ducând, de câteva decenii cumplite, un război calculat și necruțător împotriva tuturor valorilor și instituțiilor noastre de spirit, valoare și cultură. [...] Sunt soldat, stau în tranșee, comandanții mei au murit sau au dezertat, eu stau și privesc dincolo de sârmele ghimpate, dincolo de ceața după care se ascunde dușmanul meu de moarte. Pe aici se mai poate trece, peste mine însă, nu!</i>
+Dar am avut un Eminescu, Brâncuși, Blaga, Arghezi, Călinescu, Lovinescu, lorga, lonesco, Eliade...etc. Ei ne apără acum hotarele spirituale, ultimele noastre hotare. Ei ne apără și de dușmani, punându-și opera între neputința noastră, de acum, și acei barbari partizani ai pieirii noastre, pe banii noștri, cu forțele noastre, ducând, de câteva decenii cumplite, un război calculat și necruțător împotriva tuturor valorilor și instituțiilor noastre de spirit, valoare și cultură. [...] Sunt soldat, stau în tranșee, comandanții mei au murit sau au dezertat, eu stau și privesc dincolo de sârmele ghimpate, dincolo de ceața după care se ascunde dușmanul meu de moarte. Pe aici se mai poate trece, peste mine însă, nu!</i></pre>
 
 5. Prezintă, în 30-50 de cuvinte, semnificația secvenței <i>Ei ne apără acum hotarele spirituale, ultimele noastre hotare.
 Ei ne apără și de dușmani, punându-și opera între neputința noastră, de acum, și acei barbari partizani ai pieirii noastre, pe banii noștri, cu forțele noastre, ducând, de câteva decenii cumplite, un război calculat și necruțător împotriva tuturor valorilor și instituțiilor noastre de spirit, valoare și cultură. [...]</i><span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
@@ -5355,7 +5355,7 @@ B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă
 
 <b>Comentează, în minimum 50 de cuvinte, semnificațiile fragmentului dat, evidențiind rolul stilistic al verbelor la imperativ în relație cu cele la indicativ prezent:</b>
 
-<i>Miroase iar a toamnă-n orașul nostru. Vino!
+<pre class='border'><i>Miroase iar a toamnă-n orașul nostru. Vino!
 
 Te-aștept în prag cu brațul împovărat de flori.
 
@@ -5373,7 +5373,7 @@ Ci-n toată lumea asta străină și pustie Visez ca mai-nainte doar fața ta-n 
 
 Departe peste case fug nourii tovarăși Și-n zări se văd cocorii învăluiți de fum. Tristețea mă răsfață ca altădată iarăși, Ca altădată iarăși mă bucură acum.
 
-Deci, fiindcă iar e toamnă-n orașul nostru, vino, Să vezi și tu cum pleacă triunghiul de cocori, Un altul azi, mai simplu și mai tăcut ca mine, Te-așteaptă-n prag cu brațul împovărat de flori.</i>
+Deci, fiindcă iar e toamnă-n orașul nostru, vino, Să vezi și tu cum pleacă triunghiul de cocori, Un altul azi, mai simplu și mai tăcut ca mine, Te-așteaptă-n prag cu brațul împovărat de flori.</i></pre>
 
 Radu Stanca, <i>Preludiu de toamnă</i>
 
@@ -5407,7 +5407,7 @@ Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pe
 
 <b>Citește următorul fragment:</b>
 
-<i>Am tradus până acum 112 cărți, deci pot spune că am creat 112 intimități. Nu pot traduce un scriitor până nu mi-/ însușesc. O fac printr-o lectură foarte atentă și prin încercarea mea de a gândi cu gândurile lui, de a simți cu sensibilitatea lui. Citesc în special noaptea - sunt noctambulă. E obligatoriu să-l înțelegi pe cel pe care îl traduci. Să-i pătrunzi nu numai textul, ci și subtextul. Scriitorul poate să îți placă sau nu. [...]
+<pre class='border'><i>Am tradus până acum 112 cărți, deci pot spune că am creat 112 intimități. Nu pot traduce un scriitor până nu mi-/ însușesc. O fac printr-o lectură foarte atentă și prin încercarea mea de a gândi cu gândurile lui, de a simți cu sensibilitatea lui. Citesc în special noaptea - sunt noctambulă. E obligatoriu să-l înțelegi pe cel pe care îl traduci. Să-i pătrunzi nu numai textul, ci și subtextul. Scriitorul poate să îți placă sau nu. [...]
 
 Traduc mereu pe un fundal muzical. îmi creează o stare de bine, de tihnă. E o undă de frumos și am impresia că ceva din muzica pe care o ascult pătrunde în cuvintele pe care le scriu. Ascult și muzică hip-hop, Paraziții. Nu vreau să mă ancorez în trecut, să mă anchilozez.
 
@@ -5427,7 +5427,7 @@ Când reușești să transpui ce a vrut scriitorul, dar cu cuvintele tale, care 
 
 Într-o traducere, totul este autorul. Dar pe autor îl filtrez, îl transpun prin puterea mea de înțelegere și de exprimare. Eu sunt vioara a doua. De multe ori mă socotesc un fel de alter ego al scriitorului, cu care încerc totuși să fiu în relații bune, chiar dacă e mort, dacă e fantomă.
 
-Am fost prietenă timp de 25 de ani cu scriitoarea britanică Iris Murdoch. Iar „Marea, marea" mi se pare una dintre cele mai reușite traduceri ale mele pentru că am făcut-o din dragoste pentru Iris Murdoch și pentru cărțile ei. Dar niciodată nu am vorbit cu ea despre traducere. Murdoch emana în momentul când am cunoscut-o, într-o cârciumioară englezească, o simplitate fantastică și căldură umană. Odată, într-un pub, a început să-i pună întrebări unui tânăr străin care stătea lângă masa noastră. A început cu întrebări domoale și, până la urmă, l-a făcut să-și povestească întreaga viață. M-a făcut să mă gândesc că, de fapt, așa se scriu cărțile, cu frânturi din viața adevărată.</i>
+Am fost prietenă timp de 25 de ani cu scriitoarea britanică Iris Murdoch. Iar „Marea, marea" mi se pare una dintre cele mai reușite traduceri ale mele pentru că am făcut-o din dragoste pentru Iris Murdoch și pentru cărțile ei. Dar niciodată nu am vorbit cu ea despre traducere. Murdoch emana în momentul când am cunoscut-o, într-o cârciumioară englezească, o simplitate fantastică și căldură umană. Odată, într-un pub, a început să-i pună întrebări unui tânăr străin care stătea lângă masa noastră. A început cu întrebări domoale și, până la urmă, l-a făcut să-și povestească întreaga viață. M-a făcut să mă gândesc că, de fapt, așa se scriu cărțile, cu frânturi din viața adevărată.</i></pre>
 
 Text apărut în <i>Adevărul literar și artistic</i>, iunie 2010, sub formă de interviu-colaj realizat de Ana-Maria Onisei cu Antoaneta Ralian
 
@@ -5452,7 +5452,7 @@ Text apărut în <i>Adevărul literar și artistic</i>, iunie 2010, sub formă d
 
 <b>Prezintă, în minimum 50 de cuvinte, trăsăturile personajului principal din text, precizând două mijloace de caracterizare folosite.</b>
 
-Actul II
+<pre class='border'>Actul II
 
 La curtea domnească
 
@@ -5480,7 +5480,7 @@ PICTORUL (taină): <i>Mă tem c-o să vină el să-l vadă pe-al Măriei-tale.</
 
 ȚEPEȘ: <i>Merită osteneala?</i>
 
-PICTORUL (râzând): <i>E tare curios... și mare amator de capete... în ulei.</i>
+PICTORUL (râzând): <i>E tare curios... și mare amator de capete... în ulei.</i></pre>
 
 Marin Sorescu, <i>A treia țeapă</i> 
 
@@ -5498,23 +5498,23 @@ Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei pr
 
 <b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul al III-lea (30 de puncte)**
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul al III-lea <span style = 'float:right'>(30 de puncte)</span>
 
-**Redactează un eseu de minimum 400 de cuvinte, în care să prezinți particularitățile de construcție a unui personaj într-un roman al experienței.**
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți particularitățile de construcție a unui personaj într-un roman al experienței.</b>
 
-In elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - prezentarea statutului social, psihologic, moral al personajului ales;
 
--evidențierea a două trăsături ale personajului ales prin două scene/ secvențe comentate;
+- evidențierea a două trăsături ale personajului ales prin două scene/ secvențe comentate;
 
 - analiza, la alegere, a două elemente de structură: conflict, subiect, relații temporale și spațiale, construcția subiectului, perspectivă narativă, modalități de caracterizare, limbaj etc.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 Puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 Puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
 **In vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
 
