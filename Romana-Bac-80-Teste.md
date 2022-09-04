@@ -5520,59 +5520,55 @@ Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pe
 
 <p style='border-bottom:1px solid black;font-weight:bold'>Subiectul I<span style = 'float:right'>(50 de puncte)</span></p>
 
-**Citește următorul fragment:**
+<b>Citește următorul fragment:</b>
 
-*în fața unei mase școlare în care se întâlneau vlăstarele\* tuturor profesorilor din oraș, cu un număr de solizi^ de țerani din împrejurimi, vrâstele\* fiind și acuma destul de amestecate, până la frumosul, voinicul adolescent lacovache, pe care boala de piept era totuși să-l smulgă din mijlocul nostru, profesorii și-au făcut apariția. Una cu totul nepregătită, noi neștiind nimic despre dânșii, ei neștiind nimic despre noi, fără să aibă măcar o fișă de proveniență și de studii: profesorul, abstract, pe catedra lui, elevii, abstracți, pe băncile scrijelate de alte generații trecute cu un folos relativ prin aceleași vechi metode; îndeplinirea funcției plătite de o parte, sila impusă de cealaltă, cu urmări care, firește, nu sunt grele de gâcit. îi văd încă așa cum erau atunci.*
+<i>&emsp;&emsp;&emsp; În fața unei mase școlare în care se întâlneau vlăstarele<a id='a21' href='#f21'><sup>21</sup></a> tuturor profesorilor din oraș, cu un număr de solizi de țerani din împrejurimi, vrâstele<a id='a22' href='#f22'><sup>22</sup></a> fiind și acuma destul de amestecate, până la frumosul, voinicul adolescent lacovache, pe care boala de piept era totuși să-l smulgă din mijlocul nostru, profesorii și-au făcut apariția. Una cu totul nepregătită, noi neștiind nimic despre dânșii, ei neștiind nimic despre noi, fără să aibă măcar o fișă de proveniență și de studii: profesorul, abstract, pe catedra lui, elevii, abstracți, pe băncile scrijelate de alte generații trecute cu un folos relativ prin aceleași vechi metode; îndeplinirea funcției plătite de o parte, sila impusă de cealaltă, cu urmări care, firește, nu sunt grele de gâcit. îi văd încă așa cum erau atunci.
 
-*De la cei mai bătrâni la cei mai tineri, cuconul Costachi Seve rin, care abia ieri și-a încheiat ca foarte bătrân pensionar rostul pe pământ: un gospodar gras și gros, puțin bărbos, cu bunii ochi albaștri, aplecați spre somn când elevul știa prea bine lecția învățată pe de rost; profesor de latină până atunci, el luase acum istoria, și obrăzniciile capitulau înaintea acestei bunăvoinți somnoroase, incapabilă de a porunci și de a pedepsi, dar contra căreia, în dușmănia cumplită și jocul de-a pânda și de-a lovitura dintre stăpânitori și stăpâniți, nimenea nu se gândea la un atac, notele fiind pe lângă aceasta așa de părintește distribuite. Latina trecuse acum asupra profesorului Tokarski. Interesantă figură de revoluționar, de refugiat polon, care avea în urmă un întreg trecut insondabil\*, cu petreceri în Egipt, cu experiența multor ocupații, spirit enciclopedic, în stare a examina cu tot atâta competență la latina sa, la franceză, unde a funcționat în clasa a IV-a după dispariția profesorului francez, dar și la fizică și chimie, și o legendă de profesie medicală fiind legată de taina lui. Suflet adânc și foarte simțitor, de o bunătate fără margeni, de o dreptate care nu admitea favorizarea, de altfel puțin obișnuită, și prigonirea\*, mai deasă, el se ofilea tăcut, închizându-și misterul în mijlocul unei societăți în care, poloni, ca Merjvinskii, ca Trembicki, nu lipseau, dar care n-avea față de dânsul o înțelegere, lăsându-l să-și câștige pâinea cu lecții date până tîrziu noaptea, prin noroaie [...] soția lui,* o *nepoată a lui* \Z *A. Urechiă, rotundă ca o brânză de Olanda și roșie ca acoperișul ei, purtând pe capul, de o frumusețe de mult stinsă, o vizibilă perucă, întrebuința pe acest om de o mare valoare ca pe animalul care trebuie să tragă, până va rămânea jos, la carul îndestulărilor casnice.*
+&emsp;&emsp;&emsp; De la cei mai bătrâni la cei mai tineri, cuconul Costachi Seve rin, care abia ieri și-a încheiat ca foarte bătrân pensionar rostul pe pământ: un gospodar gras și gros, puțin bărbos, cu bunii ochi albaștri, aplecați spre somn când elevul știa prea bine lecția învățată pe de rost; profesor de latină până atunci, el luase acum istoria, și obrăzniciile capitulau înaintea acestei bunăvoinți somnoroase, incapabilă de a porunci și de a pedepsi, dar contra căreia, în dușmănia cumplită și jocul de-a pânda și de-a lovitura dintre stăpânitori și stăpâniți, nimenea nu se gândea la un atac, notele fiind pe lângă aceasta așa de părintește distribuite. Latina trecuse acum asupra profesorului Tokarski. Interesantă figură de revoluționar, de refugiat polon, care avea în urmă un întreg trecut insondabil<a id='a23' href='#f23'><sup>23</sup></a>, cu petreceri în Egipt, cu experiența multor ocupații, spirit enciclopedic, în stare a examina cu tot atâta competență la latina sa, la franceză, unde a funcționat în clasa a IV-a după dispariția profesorului francez, dar și la fizică și chimie, și o legendă de profesie medicală fiind legată de taina lui. Suflet adânc și foarte simțitor, de o bunătate fără margeni, de o dreptate care nu admitea favorizarea, de altfel puțin obișnuită, și prigonirea<a id='a24' href='#f24'><sup>24</sup></a>, mai deasă, el se ofilea tăcut, închizându-și misterul în mijlocul unei societăți în care, poloni, ca Merjvinskii, ca Trembicki, nu lipseau, dar care n-avea față de dânsul o înțelegere, lăsându-l să-și câștige pâinea cu lecții date până tîrziu noaptea, prin noroaie [...] soția lui, o nepoată a lui Z. A. Urechia, rotundă ca o brânză de Olanda și roșie ca acoperișul ei, purtând pe capul, de o frumusețe de mult stinsă, o vizibilă perucă, întrebuința pe acest om de o mare valoare ca pe animalul care trebuie să tragă, până va rămânea jos, la carul îndestulărilor casnice.</i>
 
-Nicolae lorga, O *viață de om. Așa cum a fost*
+Nicolae Iorga, <i>O viață de om. Așa cum a fost</i>
 
-*\*vlăstare= descendenți, urmași*
+<a id='f21' href='#a21'>21.</a> vlăstare= descendenți, urmași*
 
-*\*vrâstele (aici)= vârstele*
+<a id='f22' href='#a22'>22.</a> vrâstele (aici)= vârstele
 
-*\*insondabil= de nepătruns*
+<a id='f23' href='#a23'>23.</a> insondabil= de nepătruns
 
-*\*prigonirea= persecuție, asuprire*
+<a id='f24' href='#a24'>24.</a> prigonirea= persecuție, asuprire
 
-1. **Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
-1. ** Indică sensul structurii *era totuși să-l smulgă din mijlocul nostru,* raportându-te la text.	**6 puncte**
-1. Menționează două teme prezente în fragmentul citat.	**6 puncte**
-1. Precizează, pe baza textului, ce atitudine are soția lui Tokarski față de soțul ei, așa cum reiese din secvența:
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
+1. Indică sensul structurii <i>era totuși să-l smulgă din mijlocul nostru</i>, raportându-te la text.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+2. Menționează două teme prezente în fragmentul citat.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+3. Precizează, pe baza textului, ce atitudine are soția lui Tokarski față de soțul ei, așa cum reiese din secvența:
+<i>întrebuința pe acest om de o mare valoare ca pe animalul care trebuie să tragă, până va rămânea jos, la carul îndestulărilor casnice</i>.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+4. Explică în ce constă trecutul insondabil al profesorului Tokarski.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+5. Prezintă, în 30-50 de cuvinte, portretul personajului, evidențiind două mijloace de caracterizare: <i>cuconul Costachi Severin [...] un gospodar gras și gros, puțin bărbos, cu bunii ochi albaștri, aplecați spre somn când elevul știa prea bine lecția învățată pe de rost; profesor de latină până atunci, el luase acum istoria, și obrăzniciile capitulau înaintea acestei bunăvoinți somnoroase, incapabilă de a porunci și de a pedepsi</i>.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-*întrebuința pe acest om de o mare valoare ca pe animalul care trebuie să tragă, până va rămânea jos, la carul îndestulărilor casnice.*	**6 puncte**
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă personalitatea unui dascăl poate sau nu influența viitorul unui discipol/ elev, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-1. Explică în ce constă trecutul insondabil al profesorului Tokarski.	**6 puncte**
-1. Prezintă, în 30-50 de cuvinte, portretul personajului, evidențiind două mijloace de caracterizare: *cuconul Costachi*
+În redactarea textului, vei avea în vedere următoarele repere:
 
-*Severin [...] un gospodar gras și gros, puțin bărbos, cu bunii ochi albaștri, aplecați spre somn când elevul știa prea bine lecția învățată pe de rost; profesor de latină până atunci, el luase acum istoria, și obrăzniciile capitulau înaintea acestei bunăvoinți somnoroase, incapabilă de a porunci și de a pedepsi.*	**6 puncte**
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-1. **Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă personalitatea unui dascăl**
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-**poate sau nu influența viitorul unui discipol/ elev, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.	20 de puncte**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-în redactarea textului, vei avea în vedere următoarele repere:
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul al II-lea<span style = 'float:right'>(10 puncte)</span></p> 
 
--formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+<b>Prezintă, în minimum 50 de cuvinte, semnificația versurilor, evidențiind două trăsături ale modernismului.</b>
 
-\- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
+<i>Iubito-mbogățește-ți cântărețul, mută-mi cu mâna ta în suflet lacul, și ce mai vezi, văpaia și înghețul, dumbrava, cerbii, trestia și veacul. Cum stăm în fața toamnei, muți, sporește-mi inima cu-o ardere, cu-n gând. Solar e tâlcul ce tu știi oricând atâtor lucruri să-mprumuți.
 
-**fn vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+O, lumea, dacă nu-i o amăgire, ne este un senin veșmânt.
 
-**Subiectul al ll-lea(10 puncte) prezintă, în minimum 50 de cuvinte, semnificația versurilor, evidențiind două trăsături ale modernismului.**
+Că ești cuvânt, că ești pământ, nu te dezbraci de ea nicicând.
 
-*lubito-mbogățește-ți cântărețul, mută-mi cu mâna ta în suflet lacul, și ce mai vezi, văpaia și înghețul, dumbrava, cerbii, trestia și veacul. Cum stăm în fața toamnei, muți, sporește-mi inima cu-o ardere, cu-n gând. Solar e tâlcul ce tu știi oricând atâtor lucruri să-mprumuți.*
+O, lumea e albastră haină, în care ne cuprindem, strânși în taină, ca vara sângelui să nu se piardă, ca vraja basmului mereu să ardă.</i>
 
-O, *lumea, dacă nu-i o amăgire, ne este un senin veșmânt.*
+Lucian Blaga, <i>Vară de noiembrie</i>
 
-*Că ești cuvânt, că ești pământ, nu te dezbraci de ea nicicând.*
-
-*O, lumea e albastră haină, în care ne cuprindem, strânși în taină, ca vara sângelui să nu se piardă, ca vraja basmului mereu să ardă.*
-
-Lucian Blaga, *Vară de noiembrie*
-
-**Notă**
+<b>Notă</b>
 
 Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
