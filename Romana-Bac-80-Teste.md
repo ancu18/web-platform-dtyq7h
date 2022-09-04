@@ -5518,7 +5518,7 @@ Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pe
 
 <b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul I	(50 de puncte)**
+<p style='border-bottom:1px solid black;font-weight:bold'>Subiectul I<span style = 'float:right'>(50 de puncte)</span></p>
 
 **Citește următorul fragment:**
 
