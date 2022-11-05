@@ -5570,11 +5570,11 @@ Lucian Blaga, <i>Vară de noiembrie</i>
 
 <b>Notă</b>
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul al lll-lea(30 de puncte) Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un roman psihologic studiat**
+<b>Subiectul al III-lea (30 de puncte)</b> Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un roman psihologic studiat**
 
 în elaborarea eseului, vei avea în vedere următoarele repere:
 
