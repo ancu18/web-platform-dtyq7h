@@ -5574,43 +5574,45 @@ Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei pr
 
 <b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-<b>Subiectul al III-lea (30 de puncte)</b> Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un roman psihologic studiat**
+<b>Subiectul al III-lea (30 de puncte)</b> 
 
-în elaborarea eseului, vei avea în vedere următoarele repere:
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți tema și viziunea despre lume într-un roman psihologic studiat</b>
+
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - evidențierea a două trăsături care fac posibilă încadrarea romanului psihologic studiat în perioadă, într-un curent cultural/ literar sau într-o orientare tematică;
 - prezentarea a două scene/ secvențe relevante pentru tema și viziunea despre lume din romanul interbelic studiat;
-- ilustrarea a două elemente de structură, de compoziție și de limbaj ale romanului interbelic studiat, semnificative pentru tema și viziunea despre lume (de exemplu: acțiune, titlu, conflict, relații temporale și spațiale, incipit, final, perspectivă narativă, modalități de caracterizare a personajelor, registre stilistice, limbaj etc.j.
+- ilustrarea a două elemente de structură, de compoziție și de limbaj ale romanului interbelic studiat, semnificative pentru tema și viziunea despre lume (de exemplu: acțiune, titlu, conflict, relații temporale și spațiale, incipit, final, perspectivă narativă, modalități de caracterizare a personajelor, registre stilistice, limbaj etc.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere - 1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**In vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
-ă *e* e *e*
+<b>Subiectul I (50 de puncte) 
 
-**Subiectul I(50 de puncțg Citește următorul fragment:**
+Citește următorul fragment:</b>
 
-***Care sunt primele interdicții de care vă amintiți?***
+<b><i>Care sunt primele interdicții de care vă amintiți?</i></b>
 
-*M-am născut într-o familie mic-burgheză, înstărită și am avut guvernantă, pe Frâu Hermine. Din fericire, am avut-o doar vreo doi ani de zile. O și văd în fața ochilor - o fată bătrână, uscată, îmbrăcată întotdeauna în culori sobre, cenușii și care purta pe cap o bonetă albă, cu aripi, ca de călugăriță. De la această Frâu Hermine, de la* care *am învățat puțină germană, mi-a rămas înșurubat bine în minte acest „Das ist nicht erlaubt“ (Asta nu e voie). Asta îmi zicea tot timpul, la fiecare șotie sau poznă copilărească pe care o făceam. Pentru mine, „Das ist nicht erlaubt" al acestei Frâu Hermine fost prima interdicție de care îmi aduc aminte.*
+<i>M-am născut într-o familie mic-burgheză, înstărită și am avut guvernantă, pe Frâu Hermine. Din fericire, am avut-o doar vreo doi ani de zile. O și văd în fața ochilor - o fată bătrână, uscată, îmbrăcată întotdeauna în culori sobre, cenușii și care purta pe cap o bonetă albă, cu aripi, ca de călugăriță. De la această Frâu Hermine, de la care am învățat puțină germană, mi-a rămas înșurubat bine în minte acest „Das ist nicht erlaubt“ (Asta nu e voie). Asta îmi zicea tot timpul, la fiecare șotie sau poznă copilărească pe care o făceam. Pentru mine, „Das ist nicht erlaubt" al acestei Frau Hermine fost prima interdicție de care îmi aduc aminte.
 
-*Din fericire, perioada acestei guvernante n-a durat decât vreo doi ani și apoi am intrat sub aripile mamei, care era o femeie inteligentă și emancipată pentru vremea aia. Fuma, juca cărți, avea o viziune mult mai deschisă. Așa a început, pentru mine, educația mic-burgheză de acasă, făcută într-un spirit de bun-simț - niciodată să nu spui un lucru urât cuiva, să nu-l faci să se simtă prost - și oarecum în spiritul celor zece porunci, care sunt restricționiste: să nu furi, să nu minți etc. Nu era vorba neapărat de interdicții, ci de norme de educație, dar, într-un fel, restricționiste și astea.*
+Din fericire, perioada acestei guvernante n-a durat decât vreo doi ani și apoi am intrat sub aripile mamei, care era o femeie inteligentă și emancipată pentru vremea aia. Fuma, juca cărți, avea o viziune mult mai deschisă. Așa a început, pentru mine, educația mic-burgheză de acasă, făcută într-un spirit de bun-simț - niciodată să nu spui un lucru urât cuiva, să nu-l faci să se simtă prost - și oarecum în spiritul celor zece porunci, care sunt restricționiste: să nu furi, să nu minți etc. Nu era vorba neapărat de interdicții, ci de norme de educație, dar, într-un fel, restricționiste și astea.
 
-*Din fericire pentru mine însă, n-am avut restricțiile pe care le aveau fetele din provincie, pe vremea aia, în relațiile cu băieții. Când am trăit o primă foarte mare dragoste, prietenul ăsta al meu venea la mine acasă în fiecare zi și citeam împreună Proust. La un moment dat, știu că a intervenit o ceartă între noi, iar mama, fără să-mi spună nimic, a fost cea care s-a dus la el, l-a împăcat și l-a rugat să vină la noi pentru că eu sufeream.*
+Din fericire pentru mine însă, n-am avut restricțiile pe care le aveau fetele din provincie, pe vremea aia, în relațiile cu băieții. Când am trăit o primă foarte mare dragoste, prietenul ăsta al meu venea la mine acasă în fiecare zi și citeam împreună Proust. La un moment dat, știu că a intervenit o ceartă între noi, iar mama, fără să-mi spună nimic, a fost cea care s-a dus la el, l-a împăcat și l-a rugat să vină la noi pentru că eu sufeream.</i>
 
-***Ce puteți spune despre a doua etapă de interdicții pe care le-ați trăit?***
+<b><i>Ce puteți spune despre a doua etapă de interdicții pe care le-ați trăit?</i></b>
 
-*Au venit la rând restricțiile din liceu. Am fost la un liceu de provincie, cel din Roman, cu profesori foarte buni, dar cu o directoare care era o interdicție ambulantă. Locuia în incinta liceului, iar soțul ei se îndrăgostise de o elevă de clasa a Vlll-a și fugise cu ea. Drept care, această profesoară de română ura, pur și simplu, toate fetele tinere. Așa că, în tot timpul liceului, pe lângă faptul că nu aveam voie să mergem să vedem nici un film și nici o piesă de teatru, căci ar fi fost decadent și indecent, toată vara eram obligate să mergem îmbrăcate în uniformă: o rochie gri, un șorț negru pe deasupra, ciorapi negri, pantofi negri, o pălărie neagră, trasă de la sprâncene până la ceafă. Doamne ferește să te fi prins fără pălărie pe stradă.*
+<i>Au venit la rând restricțiile din liceu. Am fost la un liceu de provincie, cel din Roman, cu profesori foarte buni, dar cu o directoare care era o interdicție ambulantă. Locuia în incinta liceului, iar soțul ei se îndrăgostise de o elevă de clasa a VIII-a și fugise cu ea. Drept care, această profesoară de română ura, pur și simplu, toate fetele tinere. Așa că, în tot timpul liceului, pe lângă faptul că nu aveam voie să mergem să vedem nici un film și nici o piesă de teatru, căci ar fi fost decadent și indecent, toată vara eram obligate să mergem îmbrăcate în uniformă: o rochie gri, un șorț negru pe deasupra, ciorapi negri, pantofi negri, o pălărie neagră, trasă de la sprâncene până la ceafă. Doamne ferește să te fi prins fără pălărie pe stradă.</i>
 
-***Așadar, ciclul al doilea de interdicții a fost al doamnei Mihail. Ce a venit la rând?***
+<b><i>Așadar, ciclul al doilea de interdicții a fost al doamnei Mihail. Ce a venit la rând?</i></b>
 
-*A venit războiul, cu mari interdicții și restricții. Fiind evreică, am fost dată afară din școală, eu, care eram premianta clasei. Tatăl meu era directorul băncii comerciale din Roman și și-a pierdut postul. Bunicul meu avea o mică făbricuțâ de îmbuteliat răcoritoare, care i s-a luat. Am fost scoși din casa noastră bătrânească și trimiși la marginea orașului, la periferie, într-o locuință mizeră. [...]*
+<i>A venit războiul, cu mari interdicții și restricții. Fiind evreică, am fost dată afară din școală, eu, care eram premianta clasei. Tatăl meu era directorul băncii comerciale din Roman și și-a pierdut postul. Bunicul meu avea o mică făbricuțâ de îmbuteliat răcoritoare, care i s-a luat. Am fost scoși din casa noastră bătrânească și trimiși la marginea orașului, la periferie, într-o locuință mizeră. [...]</i>
 
-*Interdicțiile m-au făcut să sufăr,* în „Dilema veche", sub formă de interviu realizat de Ana Maria Sandu cu Antoaneta Ralian
+<h4 id='interdictiile_m_au_facut_sa_sufar'>Interdicțiile m-au făcut să sufăr</h4>, în „Dilema veche", sub formă de interviu realizat de Ana Maria Sandu cu Antoaneta Ralian
 
 **A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
 
