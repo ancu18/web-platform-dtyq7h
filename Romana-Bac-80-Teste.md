@@ -5614,60 +5614,75 @@ Din fericire pentru mine însă, n-am avut restricțiile pe care le aveau fetele
 
 <h4 id='interdictiile_m_au_facut_sa_sufar'>Interdicțiile m-au făcut să sufăr</h4>, în „Dilema veche", sub formă de interviu realizat de Ana Maria Sandu cu Antoaneta Ralian
 
-**A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 
-1. Indică sensul structurii *am intrat sub aripile mamei,* raportându-te la text.	**6 puncte**
-1. Menționează două etape din viața autoarei în care s-au manifestat anumite interdicții.	**6 puncte**
-1. Precizează, pe baza textului, ce atitudine are Antoaneta Ralian față de Frâu Hermine.	**6 puncte**
-1. Explică motivul pentru care directoarea liceului le ura pe fetele tinere.	**6 puncte**
-1. Prezintă, în 30-50 de cuvinte, semnificația secvenței: *Așa a început, pentru mine, educația mic-burgheză de acasă,*
+1. Indică sensul structurii <i>am intrat sub aripile mamei</i>, raportându-te la text.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+2. Menționează două etape din viața autoarei în care s-au manifestat anumite interdicții.	<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+3. Precizează, pe baza textului, ce atitudine are Antoaneta Ralian față de Frâu Hermine.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+4. Explică motivul pentru care directoarea liceului le ura pe fetele tinere.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+5. Prezintă, în 30-50 de cuvinte, semnificația secvenței: <i>Așa a început, pentru mine, educația mic-burgheză de acasă,
+făcută într-un spirit de bun-simț - niciodată să nu spui un lucru urât cuiva, să nu-l faci să se simtă prost-și oarecum în spiritul celor zece porunci, care sunt restricționiste: să nu furi, să nu minți etc. Nu era vorba neapărat de interdicții, ci de norme de educație, dar, într-un fel, restricționiste și astea.</i><span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-*făcută într-un spirit de bun-simț - niciodată să nu spui un lucru urât cuiva, să nu-l faci să se simtă prost-și oarecum în spiritul celor zece porunci, care sunt restricționiste: să nu furi, să nu minți etc. Nu era vorba neapărat de interdicții, ci de norme de educație, dar, într-un fel, restricționiste și astea.*	**6 puncte**
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă interdicțiile își pun amprenta sau nu asupra vieții unei persoane, raportându-te atât ia informațiile din fragmentul citat, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-**B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă interdicțiile își pun amprenta sau nu asupra vieții unei persoane, raportându-te atât ia informațiile din fragmentul citat, cât și la experiența personală sau culturală.	20 de puncte**
+În redactarea textului, vei avea în vedere următoarele repere:
 
-în redactarea textului, vei avea în vedere următoarele repere:
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
--formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-\- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
-
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
 
-**șubiectul al ll-lea(10 puncte) prezintă, în minimum 50 de cuvinte, semnificația versurilor, evidențiind două trăsături ale neomodernismului.**
+<b>Subiectul al II-lea (10 puncte) 
 
-*Trandafir în rouă dimineții*
+Prezintă, în minimum 50 de cuvinte, semnificația versurilor, evidențiind două trăsături ale neomodernismului.</b>
 
-*Ce diamant ascunzi între petale,*
+<i>Trandafir în rouă dimineții
 
-*Dă-mi stropi de foc și de-nceput a vieții Dă-mi un pământ și-acoperă-l cu dale.*
+Ce diamant ascunzi între petale,
 
-*Dă-mi o petea, de dulce amăgire Și-o clipă de-nceput de dimineață, Un spine blând și-o rază de iubire Si-o mică stea din lumea ta măreață, f	»*
+Dă-mi stropi de foc și de-nceput a vieții 
 
-*Căci am să vin mereu ca să te ud*
+Dă-mi un pământ și-acoperă-l cu dale.
 
-*Și-am să mă-nvârt în juru-ți cu-ntristare*
+Dă-mi o petea, de dulce amăgire 
 
-*C-ai să te duci, frumos și crud, Și vreau să-mi iau adio la plecare.*
+Și-o clipă de-nceput de dimineață, 
 
-*Dă-mi o speranță cât încă mai exiști C-ai să te-ntorci din nou la primăvară,*
+Un spine blând și-o rază de iubire 
 
-*Și-o să visez mereu cu ochii triști*
+Si-o mică stea din lumea ta măreață,
 
-*La diminețile când lumina-i de primă oară.*
+Căci am să vin mereu ca să te ud
 
-*Oh, e prea târziu să-ți cer iertare*
+Și-am să mă-nvârt în juru-ți cu-ntristare
 
-*Că ți-am pretins ce nu-mi poți oferi, Rămâi oricum lumina dimineților murdare!*
+C-ai să te duci, frumos și crud, 
 
-*Că-n visul meu tu nu poți ofili!*
+Și vreau să-mi iau adio la plecare.
 
-Nichita Stănescu, *Trandafir al dimineții mele*
+Dă-mi o speranță cât încă mai exiști 
 
-**Notă**
+C-ai să te-ntorci din nou la primăvară,
 
-Pentru **conținut,** vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+Și-o să visez mereu cu ochii triști
+
+La diminețile când lumina-i de primă oară.
+
+Oh, e prea târziu să-ți cer iertare
+
+Că ți-am pretins ce nu-mi poți oferi, 
+
+Rămâi oricum lumina dimineților murdare!
+
+Că-n visul meu tu nu poți ofili!</i>
+
+Nichita Stănescu, <i>Trandafir al dimineții mele</i>
+
+<i>Notă</i>
+
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru **redactare,** vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
 
 **în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
 
