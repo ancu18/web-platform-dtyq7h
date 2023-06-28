@@ -5682,69 +5682,69 @@ Nichita Stănescu, <i>Trandafir al dimineții mele</i>
 
 <i>Notă</i>
 
-Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare -1 punct; logica înlănțuirii ideilor -1 punct; ortografia -1 punct; punctuația -1 punct)
+Pentru <b>conținut</b>, vei primi 6 puncte, iar pentru <b>redactare</b>, vei primi 4 puncte (utilizarea limbii literare - 1 punct; logica înlănțuirii ideilor - 1 punct; ortografia - 1 punct; punctuația - 1 punct)
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 50 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul ai lll-lea(30 de puncte)**
+<b>Subiectul al III-lea (30 de puncte)</b>
 
-**Redactează un eseu de minimum 400 de cuvinte, în care să prezinți condiția femeii, așa cum apare ea într-un roman interbelic studiat.**
+<b>Redactează un eseu de minimum 400 de cuvinte, în care să prezinți condiția femeii, așa cum apare ea într-un roman interbelic studiat.</b>
 
-în elaborarea eseului, vei avea în vedere următoarele repere:
+În elaborarea eseului, vei avea în vedere următoarele repere:
 
 - sublinierea trăsăturilor textului narativ care fac posibilă încadrarea într-o tipologie, într-un curent cultural/ literar, într-o perioadă sau într-o orientare tematică;
 - prezentarea a două elemente ale textului narativ, semnificative pentru ilustrarea condiției femeii în romanul studiat (de exemplu: acțiune, conflict, relații temporale și spațiale, construcția subiectului, particularități ale compoziției, perspectivă narativă, modalități de caracterizare, limbaj etc.);
 - evidențierea condiției femeii, reflectată în textul narativ ales, prin referire la două scene/ secvențe/ situații semnificative pentru evoluția conflictului/ a conflictelor.
 
-**Notă!**
+<b>Notă!</b>
 
 Ordinea integrării reperelor în cuprinsul eseului este la alegere.
 
-Pentru **conținutul** eseului, vei primi **18 puncte** (câte 6 puncte pentru fiecare cerință/ reper). Pentru **redactarea** eseului, vei primi **12 puncte** (existența părților componente - introducere, cuprins, încheiere -1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 Puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
+Pentru <b>conținutul</b> eseului, vei primi <b>18 puncte</b> (câte 6 puncte pentru fiecare cerință/ reper). Pentru <b>redactarea</b> eseului, vei primi <b>12 puncte</b> (existența părților componente - introducere, cuprins, încheiere - 1 punct; logica înlănțuirii ideilor - 1 punct; abilități de analiză și de argumentare - 3 puncte; utilizarea limbii literare - 2 puncte; ortografia - 2 puncte; punctuația - 2 puncte; așezarea în pagină, lizibilitatea - 1 punct).
 
-**In vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.**
+<b>În vederea acordării punctajului pentru redactare, eseul trebuie să aibă minimum 400 de cuvinte și să dezvolte subiectul propus.</b>
 
-**Subiectul I(50 de punct^ Citește următorul fragment:**
+<b>Subiectul I (50 de puncte) 
 
-*în 1983, cel de-al doilea copil, Vali, ajunge în pragul intrării la liceu. Pentru a nu greși, mă sfătuisem cu cei doi profesori de excepție, loan Crăci unei și Vasile Teodorescu. în final însă, mi-am întrebat totuși fata: „Vali, tu ce vrei să faci în viață?” Și ea mi-a răspuns dezinvolt: „Vreau să citesc!“„Bine, așa să fie”, am zis și am înscris-o la cel mai bun liceu de științe umaniste din Capitală, Liceul de Filologie-lstorie Zoia Kosmodemianskaia, cândva Școala Centrală de Fete. M-am dus cu Vali, la invitația academicianului Rosetti, în strada Dionisie Lupu 56, ca* să *i-o prezint și să capăt din partea acestui om luminat „sfatul cel bun”. Când marele maestru o vede pe fetița mea, face stânga-împrejur și ia din bibliotecă o cărțulie de 30-40 de pagini, scrisă de G. Călinescu. Se intitula Maria Rosetti așa cum am cunoscut-o și fusese scoasă într-un tiraj de 100 de exemplare numerotate de la 1 la 100, pe o hârtie specială, în cinstea soției marelui său prieten. Era chiar exemplarul nr. 1 din acea mică serie. Pe prima pagină se afla o fotografie a Măriei Rosetti la vârsta de 13 ani. Semăna izbitor cu Vali, fiica mea. Revenindu-și din puternica emoție, marele om îmi spune: „Să îndrepți fata să învețe cât mai multe limbi străine și în special engleza, regina limbilor de pe acest pământ, dragă prietene. “ îi spune Valentinei: „Domnișoară, să mai treci pe la mine să-ți dau cărțile pe care trebuie neapărat să le citești; biblioteca mea îți va sta întotdeauna la dispoziție!”*
+Citește următorul fragment:</b>
 
-*La afișarea rezultatelor examenului de admitere, ducându-mă singur, căci Mariana trebuia să fie prezentă la magazin, privesc degajat listele afișate și constat un lucru care pe orice părinte l-ar fi tulburat profund: Vali se afla pe primul loc. Lângă mine, un colonel MAPN mă întreabă: „V-ați găsit copilul pe listă?” „Da, îi răspund, este pe primul loc.”„Felicitări, îmi spune, cred că trebuie să fiți un părinte foarte fericit.”„Sunt, într-adevăr”, îi răspund. Vali călcase cu dreptul; urma să învețe la o școală a elitelor societății românești din toate timpurile.*
+<i>În 1983, cel de-al doilea copil, Vali, ajunge în pragul intrării la liceu. Pentru a nu greși, mă sfătuisem cu cei doi profesori de excepție, Ioan Crăciunei și Vasile Teodorescu. În final însă, mi-am întrebat totuși fata: „Vali, tu ce vrei să faci în viață?” Și ea mi-a răspuns dezinvolt: „Vreau să citesc!“„Bine, așa să fie”, am zis și am înscris-o la cel mai bun liceu de științe umaniste din Capitală, Liceul de Filologie-Istorie Zoia Kosmodemianskaia, cândva Școala Centrală de Fete. M-am dus cu Vali, la invitația academicianului Rosetti, în strada Dionisie Lupu 56, ca să i-o prezint și să capăt din partea acestui om luminat „sfatul cel bun”. Când marele maestru o vede pe fetița mea, face stânga-împrejur și ia din bibliotecă o cărțulie de 30-40 de pagini, scrisă de G. Călinescu. Se intitula Maria Rosetti așa cum am cunoscut-o și fusese scoasă într-un tiraj de 100 de exemplare numerotate de la 1 la 100, pe o hârtie specială, în cinstea soției marelui său prieten. Era chiar exemplarul nr. 1 din acea mică serie. Pe prima pagină se afla o fotografie a Măriei Rosetti la vârsta de 13 ani. Semăna izbitor cu Vali, fiica mea. Revenindu-și din puternica emoție, marele om îmi spune: „Să îndrepți fata să învețe cât mai multe limbi străine și în special engleza, regina limbilor de pe acest pământ, dragă prietene. “ îi spune Valentinei: „Domnișoară, să mai treci pe la mine să-ți dau cărțile pe care trebuie neapărat să le citești; biblioteca mea îți va sta întotdeauna la dispoziție!”
 
-Gheorghe Florescu, *Confesiunile unui cafegiu*
+La afișarea rezultatelor examenului de admitere, ducându-mă singur, căci Mariana trebuia să fie prezentă la magazin, privesc degajat listele afișate și constat un lucru care pe orice părinte l-ar fi tulburat profund: Vali se afla pe primul loc. Lângă mine, un colonel MAPN mă întreabă: „V-ați găsit copilul pe listă?” „Da, îi răspund, este pe primul loc.”„Felicitări, îmi spune, cred că trebuie să fiți un părinte foarte fericit.”„Sunt, într-adevăr”, îi răspund. Vali călcase cu dreptul; urma să învețe la o școală a elitelor societății românești din toate timpurile.</i>
 
-**A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:**
+Gheorghe Florescu, <i>Confesiunile unui cafegiu</i>
 
-1. Indică sensul structurii *ajunge în pragul intrării la liceu.*	**6 puncte**
-1. Menționează două teme prezente în text.	**6 puncte**
-1. Precizează două specialități studiate la Școala Centrală.	**6 puncte**
-1. Explică ce sentimente trăiește tatăl la aflarea rezultatului la examen a fiicei sale.	**6 puncte**
-1. Prezintă, în 30-50 de cuvinte, semnificația secvenței: *Pe prima pagină se afla o fotografie a Măriei Rosetti la vârsta de 13 ani. Semăna izbitor cu Vali, fiica mea. Revenindu-și din puternica emoție, marele om îmi spune: „Să îndrepți fata să învețe cât mai multe limbi străine și în special engleza, regina limbilor de pe acest pământ, dragă prietene.”*
+<b>A. Scrie, în enunțuri, răspunsul la fiecare dintre următoarele cerințe cu privire la text:</b>
 
-**6 puncte**
+1. Indică sensul structurii <i>ajunge în pragul intrării la liceu</i>.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+2. Menționează două teme prezente în text.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+3. Precizează două specialități studiate la Școala Centrală.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+4. Explică ce sentimente trăiește tatăl la aflarea rezultatului la examen a fiicei sale.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
+5. Prezintă, în 30-50 de cuvinte, semnificația secvenței: <i>Pe prima pagină se afla o fotografie a Măriei Rosetti la vârsta de 13 ani. Semăna izbitor cu Vali, fiica mea. Revenindu-și din puternica emoție, marele om îmi spune: „Să îndrepți fata să învețe cât mai multe limbi străine și în special engleza, regina limbilor de pe acest pământ, dragă prietene.”</i><span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-**B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă învățarea limbilor străine este sau nu importantă în dezvoltarea personală, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.	20 de puncte**
+<b>B. Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă învățarea limbilor străine este sau nu importantă în dezvoltarea personală, raportându-te atât la informațiile din fragmentul citat, cât și la experiența personală sau culturală.</b><span style='background-color:yellow;float:right;font-weight:bold'>20 de puncte</span>
 
-în redactarea textului, vei avea în vedere următoarele repere:
+În redactarea textului, vei avea în vedere următoarele repere:
 
-- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două
+- formularea unei opinii față de problematica pusă în discuție, enunțarea și dezvoltarea corespunzătoare a două argumente adecvate opiniei și formularea unei concluzii pertinente;	<span style='background-color:yellow;float:right;font-weight:bold'>14 puncte</span>
 
-argumente adecvate opiniei și formularea unei concluzii pertinente;	**14 puncte**
+- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de ortografie și de punctuație), așezarea în pagină, lizibilitatea.<span style='background-color:yellow;float:right;font-weight:bold'>6 puncte</span>
 
-- utilizarea corectă a conectorilor în argumentare, respectarea normelor limbii literare (norme de exprimare, de
+<b>În vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.</b>
 
-ortografie și de punctuație), așezarea în pagină, lizibilitatea.	**6 puncte**
+<b>Subiectul al II-lea (10 puncte) 
 
-**în vederea acordării punctajului pentru redactare, textul trebuie să aibă minimum 150 de cuvinte și să dezvolte subiectul propus.**
-
-**Subiectul al ll-lea(10 puncte) prezintă, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind rolul stilistic al interogațiilor retorice.**
+Prezintă, în minimum 50 de cuvinte, semnificațiile textului următor, evidențiind rolul stilistic al interogațiilor retorice.</b>
 
 Scena 19
 
-lANKE.TAKE, IONEL și ANA
+IANKE.TAKE, IONEL și ANA
 
-AN A: *Nu, te rog să nu mai glumești deloc. Vorbesc foarte liniștit, dar numai eu știu cum vorbesc... Am crescut laolaltă \_ am învățat laolaltă. V-a plăcut să ne vedeți totdeauna laolaltă. Lângă dânsul mă simțeam ocrotită și el știa să mă ocrotească. Pot spune că am crescut în umbra lui Ionel, papa. Nu se poate ca înțelegerea dintre noi să nu ne lege cum ne-a legat. Ce vină avem că am ajuns aici? Când dumneata și nenea Take sunteți așa de buni prieteni, că v-ați zidit și casele alături și le-ați făcut la fel, poate să ne mai despartă pe noi faptul că eu sunt ovreică și el creștin?* IANKE: *Dar ce, eu fac copii cu Take? [...]*
+ANA: <i>Nu, te rog să nu mai glumești deloc. Vorbesc foarte liniștit, dar numai eu știu cum vorbesc... Am crescut laolaltă, am învățat laolaltă. V-a plăcut să ne vedeți totdeauna laolaltă. Lângă dânsul mă simțeam ocrotită și el știa să mă ocrotească. Pot spune că am crescut în umbra lui Ionel, papa. Nu se poate ca înțelegerea dintre noi să nu ne lege cum ne-a legat. Ce vină avem că am ajuns aici? Când dumneata și nenea Take sunteți așa de buni prieteni, că v-ați zidit și casele alături și le-ați făcut la fel, poate să ne mai despartă pe noi faptul că eu sunt ovreică și el creștin?</i>
 
-ANA (zâmbind și în lacrimi): *Dar lasă odată glumele astea, pentru numele lui Dumnezeu. E viața copilului dumitale în joc. Dar cu ce ți-am greșit? Așa te ții de făgăduiala pe care i-ai făcut-o mamei că ai să mă faci fericită în viață? Asta e fericirea pe care mi-o dai, să mă desparți de singurul om pe care-l pot iubi ca să m-arunci într-o bună zi în brațele unui om din toată lumea care n-o să aibă alt merit decât că-i ovrei?! Asta e dragostea? Așa de măruntă, așa de idioată e dragostea la dumneavoastră?... Dar pricepi că nu există pe lume un lucru care să mă împiedice să-l iubesc pe omul ăsta, care a știut să treacă peste toate și să mă ție apropiată de el?... Uită-te bine la ochii mei, papa, și dă-ți seama că nu mă joc cu vorbele. Fii bun, fii așa cum te știu eu că ești în adâncul inimii tale, acolo unde nu mai simți nici tu de ești creștin sau ovrei, acolo unde ești numai om, că eu pentru omul acela te iubesc, nu pentru ovreiul de deasupra.* (Take iese.) *Fii bun și înțelegător și iubitor... nu-ți aduce fata să-și piardă mintea... Ai plânge mult, mult papa, și tu știi că ai plânge mult... Hai spune o vorbă... nu mă face să... Sunt în stare, știi bine... E trenul la doi pași de noi...*
+IANKE: <i>Dar ce, eu fac copii cu Take? [...]</i>
+
+ANA (zâmbind și în lacrimi): Dar lasă odată glumele astea, pentru numele lui Dumnezeu. E viața copilului dumitale în joc. Dar cu ce ți-am greșit? Așa te ții de făgăduiala pe care i-ai făcut-o mamei că ai să mă faci fericită în viață? Asta e fericirea pe care mi-o dai, să mă desparți de singurul om pe care-l pot iubi ca să m-arunci într-o bună zi în brațele unui om din toată lumea care n-o să aibă alt merit decât că-i ovrei?! Asta e dragostea? Așa de măruntă, așa de idioată e dragostea la dumneavoastră?... Dar pricepi că nu există pe lume un lucru care să mă împiedice să-l iubesc pe omul ăsta, care a știut să treacă peste toate și să mă ție apropiată de el?... Uită-te bine la ochii mei, papa, și dă-ți seama că nu mă joc cu vorbele. Fii bun, fii așa cum te știu eu că ești în adâncul inimii tale, acolo unde nu mai simți nici tu de ești creștin sau ovrei, acolo unde ești numai om, că eu pentru omul acela te iubesc, nu pentru ovreiul de deasupra.* (Take iese.) *Fii bun și înțelegător și iubitor... nu-ți aduce fata să-și piardă mintea... Ai plânge mult, mult papa, și tu știi că ai plânge mult... Hai spune o vorbă... nu mă face să... Sunt în stare, știi bine... E trenul la doi pași de noi...*
 
 (Take emoționat, stăpânindu-și lacrimile intră în prăvălie.)
 
