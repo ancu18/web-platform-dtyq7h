@@ -1,4 +1,4 @@
-﻿<link rel="stylesheet" href="styles.css" />
+<link rel="stylesheet" href="styles.css" />
 <div class="bf_toc_container">
   <div class="bf_toc_title">
     <center>Cuprins</center>
